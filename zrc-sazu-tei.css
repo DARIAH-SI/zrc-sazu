@@ -864,6 +864,7 @@ table.table,
 table.table tr,
 table.table td{
     border:solid black 1pt;
+    border-collapse: collapse;
 }
 table.table td{
     padding:1ex 1ex 1ex 1ex;
@@ -1083,3 +1084,9 @@ table.border{
 .orange{
     color:orange;
 }
+
+/* Dodal oblikovanje za blockquote */
+blockquote {
+    font-size:90%;
+}
+

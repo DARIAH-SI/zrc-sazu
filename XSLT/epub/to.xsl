@@ -78,10 +78,46 @@ of this software, even if advised of the possibility of such damage.
   <xsl:param name="footnoteBackLink">true</xsl:param>
   
   <!-- css datoteke daj v direktorij, ki je relativno na XSLT in ne na XML -->
-  <xsl:param name="cssFile">../../zrc-sazu-tei.css</xsl:param>
-  <xsl:param name="cssPrintFile">../../zrc-sazu-epub-print.css</xsl:param>
+  <xsl:param name="cssFile">../../../zrc-sazu/zrc-sazu-tei.css</xsl:param>
+  <xsl:param name="cssPrintFile">../../../zrc-sazu/zrc-sazu-epub-print.css</xsl:param>
   
   <xsl:param name="STDOUT">false</xsl:param>
+  
+  <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+    <desc>Spremembe v prikazovanju glavne naslovne strani</desc>
+  </doc>
+  <xsl:template match="tei:p[@rend='CIP']">
+    <p>
+      <xsl:value-of select="." disable-output-escaping="yes"/>
+    </p>
+  </xsl:template>
+  <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+    <desc></desc>
+  </doc>
+  <xsl:template match="tei:publisher[parent::tei:docImprint]">
+    <span class="publisher">
+      <xsl:apply-templates/>
+    </span>
+    <br/>
+  </xsl:template>
+  <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+    <desc></desc>
+  </doc>
+  <xsl:template match="tei:placeName[parent::tei:docImprint]">
+    <span class="placeName">
+      <xsl:apply-templates/>
+    </span>
+    <br/>
+  </xsl:template>
+  <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+    <desc></desc>
+  </doc>
+  <xsl:template match="tei:date[parent::tei:docImprint]">
+    <span class="date">
+      <xsl:apply-templates/>
+    </span>
+    <br/>
+  </xsl:template>
   
   <!-- če hočemo, da div nimajo naslovov, potem jih moramo skonstrurirati (prazne) naslove,
     saj drugače toc.ncx ne more prikazati teh delov vsebine -->
@@ -365,6 +401,36 @@ of this software, even if advised of the possibility of such damage.
         <xsl:apply-templates mode="printnotes" select="descendant::tei:app"/>
       </div>
     </xsl:if>
+  </xsl:template>
+  
+  <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+    <desc>Process display-style note: Odstranil sem notelbel</desc>
+  </doc>
+  <xsl:template name="displayNote">
+    <xsl:variable name="identifier">
+      <xsl:call-template name="noteID"/>
+    </xsl:variable>
+    <xsl:element name="{if (tei:isInline(.)) then 'span' else 'div'}">
+      <xsl:attribute name="class">note</xsl:attribute>
+      <xsl:call-template name="makeRendition">
+        <xsl:with-param name="auto">note</xsl:with-param>
+      </xsl:call-template>
+      <xsl:call-template name="makeAnchor">
+        <xsl:with-param name="name" select="$identifier"/>
+      </xsl:call-template>
+      <!--<span class="noteLabel">
+        <xsl:choose>
+          <xsl:when test="@n">
+            <xsl:value-of select="@n"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:sequence select="tei:i18n('Note')"/>
+            <xsl:text>: </xsl:text>
+          </xsl:otherwise>
+        </xsl:choose>
+      </span>-->
+      <xsl:apply-templates/>
+    </xsl:element>
   </xsl:template>
   
   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">

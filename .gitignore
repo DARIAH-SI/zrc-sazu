@@ -1,0 +1,13 @@
+~*.*
+*.pdf
+*.epub
+*.bak
+*.jpg
+*.jpeg
+*.png
+*.docx
+*.doc
+
+media/
+archive/
+sources/
