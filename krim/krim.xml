@@ -343,21 +343,20 @@
             <docAuthor><name><persName><forename>Ferdo</forename>
                      <surname>Gestrin</surname></persName></name></docAuthor>
             <docEdition>
-               <note><p>_________________________________________________________________________</p>
+               <note>
                   <p>E-knjiga v vseh pogledih reproducira drugo tiskano izdajo (2016), dodano pa ji
                      je slikovno gradivo prve izdaje (1994). Pretvorbo je omogočila Javna agencija
                      za knjigo, s sredstvi iz leta 2017.</p>
                   <p rend="CIP"><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br/>
 <a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID=<a href="http://cobiss6.izum.si/scripts/cobiss?command=DISPLAY&amp;base=99999&amp;rid=288343040&amp;fmt=13&amp;lani=si" target="_blank">288343040</a><br/>
 ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
-                  <p>_________________________________________________________________________</p>
                </note></docEdition>
             <docImprint><publisher>Založba ZRC, ZRC
                   SAZU</publisher><placeName>Ljubljana</placeName><date>2018</date>
             </docImprint>
          </titlePage>
          <div type="halftitle">
-            <pb n="[1]" xml:id="pb.1"/>
+            <pb n="(1)" xml:id="pb.1"/>
             <p>Ferdo Gestrin</p>
             <p>SVET POD KRIMOM</p>
             <figure>
@@ -365,7 +364,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
             </figure>
          </div>
          <titlePage>
-            <pb n="[5]" xml:id="pb.5"/>
+            <pb n="(5)" xml:id="pb.5"/>
             <docTitle>
                <titlePart>SVET POD KRIMOM</titlePart>
             </docTitle>
@@ -387,7 +386,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
          </titlePage>
          
          <div type="colophon">
-            <pb n="[6]" xml:id="pb.6"/>
+            <pb n="(6)" xml:id="pb.6"/>
             <p>Ferdo Gestrin</p>
             <p><hi rend="bold">Svet pod Krimom</hi></p>
             <p><hi rend="italic">Druga, prenovljena izdaja</hi></p>
@@ -431,7 +430,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
             </div>
          </div>
          <div type="contents">
-            <pb n="[7]" xml:id="pb.7"/>
+            <pb n="(7)" xml:id="pb.7"/>
             <head rend="alignright">KAZALO</head>
             <table>
                <row rend="bold">
@@ -539,7 +538,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
          </div>
          <div type="preface">
             <head>UVOD</head>
-            <pb n="[8]" xml:id="pb.8"/>
+            <pb n="(8)" xml:id="pb.8"/>
             <pb n="9" xml:id="pb.9"/>
             <p>V študiji z naslovom Svet pod Krimom, ki zajema območje treh krajevnih skupnosti, tj.
                Ig, Iška vas in Tomišelj, je prvič podan zgodovinski pregled tega majhnega območja
@@ -574,10 +573,10 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
       </front>
       <body>
          <div type="ss1">
-            <pb n="[10-11]" xml:id="pb.11"/>
+            <pb n="(10-11)" xml:id="pb.11"/>
             <head>Zgodovinski razvoj podkrimskih vasi</head>
             <div type="ss2">
-               <pb n="[12]" xml:id="pb.12"/>
+               <pb n="(12)" xml:id="pb.12"/>
                <pb n="13" xml:id="pb.13"/>
                <head>Najstarejša poselitev <lb/>in rimsko gospostvo</head>
                <p>Ljubljansko barje je bilo poseljeno že zgodaj v prazgodovinskem obdobju in bilo,
@@ -791,7 +790,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                   »barbari« umaknili v varnejše hribovite kraje.</p>
             </div>
             <div type="ss2">
-               <pb n="[19]" xml:id="pb.19"/>
+               <pb n="(19)" xml:id="pb.19"/>
                <head>Pod valpetovim bičem</head>
                <div type="ss3">
                   <head>Utrditev fevdalne družbe</head>
@@ -2245,7 +2244,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[47]" xml:id="pb.47"/>
+               <pb n="(47)" xml:id="pb.47"/>
                <head>Stoletje kapitalizma (1848–1941)</head>
                <div type="ss3">
                   <head>Pod habsburškim žezlom</head>
@@ -2553,8 +2552,8 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                            <cell>673 hiš </cell>
                            <cell>3513 preb.</cell>
                         </row>
-                        <note>* Tu niso vštete hiše in prebivalci Lip</note>
                      </table>
+                     <note>* Tu niso vštete hiše in prebivalci Lip</note>
                      <p>V naslednjem desetletju je zaradi izseljevanja število prebivalstva padlo za
                         197 ljudi ali za 5,3 %. V celoti je v treh desetletjih (1869–1900)
                         prebivalstvo poraslo le za 362 ljudi ali za 10,3 %, kar je zelo malo in še
@@ -2846,7 +2845,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                   </div>
                </div>
                <div type="ss3">
-                  <pb n="[59]" xml:id="pb.59"/>
+                  <pb n="(59)" xml:id="pb.59"/>
                   <head>V stari Jugoslaviji</head>
                   <div type="ss4">
                      <head>Politične razmere</head>
@@ -3787,10 +3786,10 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
             </div>
          </div>
          <div type="ss1">
-            <pb n="[81]" xml:id="pb.81"/>
+            <pb n="(81)" xml:id="pb.81"/>
             <head>Narodnoosvobodilni boj <lb/>in vasi pod Krimom</head>
             <div type="ss2">
-               <pb n="[82-83]" xml:id="pb.83"/>
+               <pb n="(82-83)" xml:id="pb.83"/>
                <head>Italijanska okupacija <lb/>in začetki narodnoosvobodilnega boja</head>
                <div type="ss3">
                   <head>Propad kraljevine Jugoslavije in razkosanje Slovenije</head>
@@ -4495,7 +4494,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[100]" xml:id="pb.100"/>
+               <pb n="(100)" xml:id="pb.100"/>
                <head>Vključevanje podkrimskih vasi v OF in NOB</head>
                <div type="ss3">
                   <head>Pomen krimsko-mokrškega območja za OF </head>
@@ -5288,7 +5287,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[119]" xml:id="pb.119"/>
+               <pb n="(119)" xml:id="pb.119"/>
                <head>Polet narodnoosvobodilnega boja v prvi polovici leta 1942</head>
                <div type="ss3">
                   <head>Porast partizanstva na območju podkrimskih vasi </head>
@@ -6472,7 +6471,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[144]" xml:id="pb.144"/>
+               <pb n="(144)" xml:id="pb.144"/>
                <head>Leto grozot, omahovanja in vztrajanja <lb/>(od julijske ofenzive do
                   kapitulacije Italije)</head>
                <div type="ss3">
@@ -8890,6 +8889,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                      </row>
                      <row>
                         <cell/>
+                        <cell/>
                         <cell>15. junij 43</cell>
                         <cell>(Ig – 108, Tom. – 68) 176</cell>
                      </row>
@@ -9645,7 +9645,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[214]" xml:id="pb.214"/>
+               <pb n="(214)" xml:id="pb.214"/>
                <head>Pod nemško okupacijo in domobransko prevlado</head>
                <div type="ss3">
                   <head>Kapitulacija Italije, zlom vaških straž in plave garde, nacistična oblast </head>
@@ -13149,7 +13149,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[291]" xml:id="pb.291"/>
+               <pb n="(291)" xml:id="pb.291"/>
                <head>Osvoboditev</head>
                <p>Domobranska prevlada v podkrimskih vaseh, podobno kakor na območju krajevne
                   skupnosti Podpeč - Preserje,<ref target="#ftn.1005">
@@ -13290,7 +13290,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                   novo obdobje slovenske zgodovine.</p>
             </div>
             <div type="ss2">
-               <pb n="[295]" xml:id="pb.295"/>
+               <pb n="(295)" xml:id="pb.295"/>
                <head>Zaključna beseda</head>
                <p>V narodnoosvobodilni boj vpete podkrimske vasi so bile ob koncu vojne zelo
                   prizadete, posamezne pa tudi povsem uničene. Popolnoma požgane, deloma
@@ -13469,9 +13469,9 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
             </div>
          </div>
          <div type="ss1">
-            <pb n="[299]" xml:id="pb.299"/>
+            <pb n="(299)" xml:id="pb.299"/>
             <head>Priloge</head>
-            <p><pb n="[300]" xml:id="pb.300"/>Brez prilog, ki vsebujejo sezname ljudi, ki so se tako
+            <p><pb n="(300)" xml:id="pb.300"/>Brez prilog, ki vsebujejo sezname ljudi, ki so se tako
                ali drugače vključevali v štiriletno dogajanje narodnoosvobodilnega boja v
                podkrimskih vaseh, podoba, prikazana v knjigi, ne bi bila popolna. Seznami po
                zaporedju navajajo aktiviste in terence Osvobodilne fronte, borce narodnoosvobodilne
@@ -13493,7 +13493,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                o svojih ugotovitvah obvestijo ali avtorja ali organizacijo ZB v Iški vasi in na
                Igu.</p>
             <div type="ss2">
-               <pb n="[301]" xml:id="pb.301"/>
+               <pb n="(301)" xml:id="pb.301"/>
                <head>Seznam pripadnikov, aktivistov in terencev OF</head>
                <div type="ss3">
                   <head>Krajevna skupnost Ig</head>
@@ -14770,7 +14770,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[330]" xml:id="pb.330"/>
+               <pb n="(330)" xml:id="pb.330"/>
                <head>Seznam borcev NOV</head>
                <div type="ss3">
                   <head>Krajevna skupnost Ig</head>
@@ -15932,7 +15932,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[355]" xml:id="pb.355"/>
+               <pb n="(355)" xml:id="pb.355"/>
                <head>Seznam internirancev</head>
                <div type="ss3">
                   <head>Krajevna skupnost Ig</head>
@@ -17786,7 +17786,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[395]" xml:id="pb.395"/>
+               <pb n="(395)" xml:id="pb.395"/>
                <head>Seznam vaških stražarjev in domobrancev</head>
                <div type="ss3">
                   <head>Krajevna skupnost Ig</head>
@@ -18740,7 +18740,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[417]" xml:id="pb.417"/>
+               <pb n="(417)" xml:id="pb.417"/>
                <head>Žrtve okupatorja</head>
                <div type="ss3">
                   <head>Krajevna skupnost Ig</head>
@@ -18904,7 +18904,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[421]" xml:id="pb.421"/>
+               <pb n="(421)" xml:id="pb.421"/>
                <head>Domobranske žrtve</head>
                <div type="ss3">
                   <head>Krajevna skupnost Ig</head>
@@ -19083,7 +19083,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss2">
-               <pb n="[425]" xml:id="pb.425"/>
+               <pb n="(425)" xml:id="pb.425"/>
                <head>Partizanske žrtve</head>
                <div type="ss3">
                   <head>Krajevna skupnost Ig</head>
@@ -19724,7 +19724,8 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
             </div>
             <div xml:id="foto">
                <head>Slikovno gradivo</head>
-               <pb n="[3-4]" xml:id="pb.3"/>
+               <p>Slikovno gradivo vsebuje le prva izdaja (1993), razen
+                  prvih dveh slik, ki sta na straneh 3-4 oziroma 446-447 druge izdaje.</p>
                <figure>
                   <graphic n="100A" url="media/image3.png" height="400px"/>
                   <head>Partizani <hi rend="italic">(<seg rend="italic">Arhiv Muzeja novejše
@@ -19866,8 +19867,6 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                      vrsti pa so: Alojz Janželj, Anton Šuštaršič-Tavčar iz Tomišlja, Janez Mazi-Tisa
                      iz Iške, Jože Rupert in Ivan Žagar iz Iške vasi.</head>
                </figure>
-               <note>Slikovno gradivo vsebuje le prva izdaja (1993), razen
-                  prvih dveh slik, ki sta na straneh 3-4 oziroma 446-447 druge izdaje.</note>
             </div>
             <div xml:id="viri">
                <head>VIRI IN LITERATURA</head>
@@ -20201,7 +20200,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
             <byline>Darja Mihelič</byline>
          </div>
          <div type="afterword">
-            <pb n="[433]" xml:id="pb.433"/>
+            <pb n="(433)" xml:id="pb.433"/>
             <head>Mikrozgodovina smrti in upanja<lb/><hi rend="italic">Ferdo Gestrin in njegova
                   razprava o »državljanski vojni« pod Krimom</hi></head>
             <p>V svojem racionalnem, če ne že kar skopem »Uvodu« v prvo izdajo knjige <hi
@@ -20541,7 +20540,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
             <docDate>V Ljubljani, septembra 2016</docDate>
          </div>
          <div type="contents">
-            <pb n="[443]" xml:id="pb.443"/>
+            <pb n="(443)" xml:id="pb.443"/>
             <head>RAZČLENJENO KAZALO</head>
             <table>
                <row>

@@ -1089,4 +1089,14 @@ table.border{
 blockquote {
     font-size:90%;
 }
+/* Oblikovanje za CIP */
+.CIP { 
+  margin-top:30px;
+  margin-bottom:30px;
+  margin-right:0px;
+  margin-left:0px;
+  border-style:solid;
+  border-width:0.2px;
+  padding:10px; }
+
 

@@ -245,20 +245,18 @@
                   stoletja</titlePart>
             </docTitle>
             <docEdition>
-               <note><p>_________________________________________________________________________</p>
-                  <p>E-knjiga v vseh pogledih
+               <note><p>E-knjiga v vseh pogledih
                      reproducira prvi natis prve tiskane izdaje (2017). Pretvorbo je omogočila Javna agencija za knjigo, s sredstvi iz leta 2017.</p>
                   <p rend="CIP"><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br/>
 <a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID=<a href="http://cobiss6.izum.si/scripts/cobiss?command=DISPLAY&amp;base=99999&amp;rid=288343040&amp;fmt=13&amp;lani=si" target="_blank">288343040</a><br/>
 ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
-                  <p>_________________________________________________________________________</p>
                </note></docEdition>
             <docImprint><publisher>Založba ZRC, ZRC
                SAZU</publisher><placeName>Ljubljana</placeName><date>2018</date>
             </docImprint>
          </titlePage>
          <div type="halftitle" rend="align:center">
-            <pb n="[1]" xml:id="pb.1"/>
+            <pb n="(1)" xml:id="pb.1"/>
             <p><hi rend="allcaps">Dušan Kos</hi></p>
             <p>LJUBEZEN, GREH IN KAZEN</p>
             <p>Podobe in razvoj ljubezenske morale na Slovenskem do 19. stoletja</p>
@@ -267,7 +265,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
             </figure>
          </div>
           <div type="colophon">
-           <pb n="[2]" xml:id="pb.2"/>
+           <pb n="(2)" xml:id="pb.2"/>
             <p><hi rend="allcaps">Dušan Kos</hi></p>
             <p><hi rend="bold">LJUBEZEN, GREH IN KAZEN</hi></p>
             <p><hi rend="italic">Podobe in razvoj ljubezenske morale na Slovenskem do 19.
@@ -317,7 +315,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
             </docImprint>
          </titlePage>
          <div type="contents">
-            <pb n="[4]" xml:id="pb.4"/>
+            <pb n="(4)" xml:id="pb.4"/>
             <pb n="5" xml:id="pb.5"/>
             <head> Kazalo</head>
             <table>
@@ -1391,7 +1389,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
       </front>
       <body>
             <div type="ss1">
-               <pb n="[14-15]" xml:id="pb.15"/>
+               <pb n="(14-15)" xml:id="pb.15"/>
                <head>Trdota je vrednota</head>
                <div type="ss2">
                   <pb n="16" xml:id="pb.16"/>
@@ -3138,7 +3136,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss1">
-               <pb n="[51]" xml:id="pb.51"/>
+               <pb n="(51)" xml:id="pb.51"/>
                <head><hi rend="smallcaps">L</hi>jubezen, zakonska zveza in ovire do sreče</head>
                <div type="ss2">
                   <pb n="52" xml:id="pb.52"/>
@@ -13182,7 +13180,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss1">
-               <pb n="[241]" xml:id="pb.241"/>
+               <pb n="(241)" xml:id="pb.241"/>
                <head>Rojstvo moderne ljubezenske morale na Slovenskem</head>
                <div type="ss2">
                   <pb n="242" xml:id="pb.242"/>
@@ -16157,7 +16155,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss1">
-               <pb n="[298-299]" xml:id="pb.299"/>
+               <pb n="(298-299)" xml:id="pb.299"/>
                <head>Virtualnost in resničnost zakonske ljubezni</head>
                <div type="ss2">
                   <pb n="300" xml:id="pb.300"/>
@@ -21984,7 +21982,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss1">
-               <head><hi rend="italic"><pb n="[412-413]" xml:id="pb.413"/></hi> Nasilna morala:
+               <head><hi rend="italic"><pb n="(412-413)" xml:id="pb.413"/></hi> Nasilna morala:
                   razpadanje zakonske zveze, ljubezenske deviacije in njihovo uravnavanje</head>
                <div type="ss2">
                   <head><hi rend="italic"><pb n="414" xml:id="pb.414"/></hi>Institucionaliziranje
@@ -32415,7 +32413,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                </div>
             </div>
             <div type="ss1">
-               <head><hi rend="italic"><pb n="[606-608]" xml:id="pb.607"/></hi>Epilog: morala na
+               <head><hi rend="italic"><pb n="(606-608)" xml:id="pb.607"/></hi>Epilog: morala na
                   poti v moderno dobo</head>
                <p><pb n="609" xml:id="pb.609"/>Diskurzi o kulturnih, pravnih in medicinskih
                   okoliščinah vzorcev ljubezni in spolnosti so rašomonsko razkrili podobe slovenske
@@ -33017,17 +33015,16 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                   ugled in negotov status ločenca. To mišljenje je obdržalo (in še drži) v skupnem
                   življenju mnogo čustveno in spolno nezadovoljnih parov. </p>
             </div>
-         
       </body>
       <back>
          <div type="endnotes">
-            <pb n="[621-695]" xml:id="pb.621"/>
+            <pb n="(621-695)" xml:id="pb.621"/>
             <head>Opombe</head>
             <note>Končne opombe v knjigi (strani 621–695) je v tej elektronski izdaji spremenjen v
                sprotne opombe.</note>
          </div>
          <div>
-            <pb n="[696-697]" xml:id="pb.697"/>
+            <pb n="(696-697)" xml:id="pb.697"/>
             <head>Dodatki</head>
             <div type="bibliography">
                <pb n="698" xml:id="pb.698"/>

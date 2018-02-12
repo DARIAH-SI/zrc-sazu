@@ -324,7 +324,7 @@
                             </hi></persName></name>
                 </docAuthor>
                 <docEdition>
-                    <note><p>_________________________________________________________________________</p>
+                    <note>
                         <p>E-knjiga v vseh pogledih reproducira prvi natis prve tiskane izdaje
                             (2014). Pretvorbo je omogočila Javna agencija za knjigo, s sredstvi iz
                             leta 2017.</p>
@@ -332,20 +332,19 @@
                             knjižnici v Ljubljani.</p>
                         <p>COBISS.SI-ID=<ref target="https://plus.si.cobiss.net/opac7/bib/293149952"
                                 >293149952</ref></p>
-                        <p>_________________________________________________________________________</p>
                     </note></docEdition>
                 <docImprint><publisher>Založba ZRC, ZRC
                         SAZU</publisher><placeName>Ljubljana</placeName><date>2018</date>
                 </docImprint>
             </titlePage>
             <div type="halftitle">
-                <pb n="[1]" xml:id="pb.1"/>
+                <pb n="(1)" xml:id="pb.1"/>
                 <figure>
                     <graphic n="1001" url="media/imageZRC.jpeg"/>
                 </figure>
             </div>
             <titlePage>
-                <pb n="[2-3]" xml:id="pb.2"/>
+                <pb n="(2-3)" xml:id="pb.2"/>
                 <docAuthor>
                     <lb/><name><hi rend="color(B01116)">Olga Abram</hi></name>
                     <lb/><name><hi rend="color(B01116)">Ban Tina</hi></name>
@@ -411,7 +410,7 @@
                 </docImprint>
             </titlePage>
             <div type="contents">
-                <pb n="[4]" xml:id="pb.4"/>
+                <pb n="(4)" xml:id="pb.4"/>
                 <head><hi rend="color(B01116)">KAZALO</hi></head>
                 <p><hi rend="color(B01116)">KRAS IN BRKINI</hi></p>
                 <p><hi rend="color(E5AE9A)">za radovedneže in ljubitelje</hi></p>
@@ -900,7 +899,7 @@
 
             </div>
             <div type="preface">
-                <pb n="[10]" xml:id="pb.10"/>
+                <pb n="(10)" xml:id="pb.10"/>
                 <head><hi rend="color(B01116)">Kraška planota in Brkini, Brkini in kraška
                         planota:</hi>
                     <hi rend="color(927C78)">Razlike in podobnosti, znano in neznano</hi></head>
@@ -911,7 +910,7 @@
                     <hi rend="color(927C78)">in </hi>
                     <hi rend="color(B01116)">Jasna Fakin Bajec</hi>
                 </p>
-                <pb n="[11]" xml:id="pb.11"/>
+                <pb n="(11)" xml:id="pb.11"/>
                 <p><hi rend="color(B01116)">Pred vami je drugi zvezek zbirke kratkih predstavitev
                         naravne in kulturne dediščine slovenskih pokrajin. Zamisel za zbirko je
                         stara že skoraj deset let, štiri leta pa nas ločijo od izida prvega zvezka,
@@ -935,7 +934,7 @@
                         zanimanja za sodelovanje pri tem projektu. Ob dejstvu, da sta oba neločljivi
                         del Primorske in klasičnega krasa, ju družijo skupni spomini, izkušnje in
                         svojstven način življenja. Ta se od tistega v drugih delih Slovenije
-                        razlikuje tudi zaradi značilne kraške po<pb n="[12]" xml:id="pb.12"/>krajine
+                        razlikuje tudi zaradi značilne kraške po<pb n="(12)" xml:id="pb.12"/>krajine
                         in z njo povezanih podnebnih in naravnih značilnosti. Mejo med krajinama
                         označuje reka Reka, ki na neki način deluje kot simbol sožitja. Svoj izvir
                         ima v brkinskem svetu, z mnogimi pritoki pa še danes močno zaznamuje
@@ -959,7 +958,7 @@
                         razlikuje močno od drugih slovenskih pokrajin – tudi Kraševci in Brkinci
                         namreč uporabljajo novodobne tehnološke in informacijske pridobitve, moderne
                         stavbne enote, industrijska in nakupovalna središča itd. – se prebivalci
-                        obeh regij velikokrat srečujejo z izrazito romantično pred<pb n="[13]"
+                        obeh regij velikokrat srečujejo z izrazito romantično pred<pb n="(13)"
                             xml:id="pb.13"/>stavo o svoji pokrajini in kulturni dediščini. Njihovi
                         gostje, pa naj gre za domače obiskovalce ali tuje turiste, kraško planoto in
                         Brkine pogostokrat označujejo za očarljivo, avtentično, zanimivo, celo
@@ -987,10 +986,10 @@
         </front>
         <body>
             <div type="ss1">
-                <pb n="[14-15]" xml:id="pb.14"/>
+                <pb n="(14-15)" xml:id="pb.14"/>
                 <head><hi rend="color(B01116)">NARAVNA DEDIŠČINA</hi></head>
                 <div type="ss2">
-                    <pb n="[16-17]" xml:id="pb.16"/>
+                    <pb n="(16-17)" xml:id="pb.16"/>
                     <head>GEOGRAFIJA IN GEOMORFOLOGIJA</head>
                     <div type="ss3">
                         <pb n="18-19" xml:id="pb.19"/>
@@ -1439,7 +1438,7 @@
                     </div>
                 </div>
                 <div type="ss2">
-                    <pb n="[40-41]" xml:id="pb.40"/>
+                    <pb n="(40-41)" xml:id="pb.40"/>
                     <head>VODA</head>
                     <div type="ss3">
                         <pb n="42" xml:id="pb.42"/>
@@ -1615,7 +1614,7 @@
                     </div>
                 </div>
                 <div type="ss2">
-                    <pb n="[50-51]" xml:id="pb.50"/>
+                    <pb n="(50-51)" xml:id="pb.50"/>
                     <head>JAME</head>
                     <div type="ss3">
                         <pb n="52" xml:id="pb.52"/>
@@ -1915,10 +1914,10 @@
                     </div>
                 </div>
                 <div type="ss2">
-                    <pb n="[68-69]" xml:id="pb.68"/>
+                    <pb n="(68-69)" xml:id="pb.68"/>
                     <head>RASTLINE Z ŽIVALMI</head>
                     <div type="ss3">
-                        <pb n="[70-71]" xml:id="pb.70"/>
+                        <pb n="(70-71)" xml:id="pb.70"/>
                         <head><hi rend="color(B01116)">Podzemno živalstvo Krasa</hi></head>
                         <p>»<hi rend="color(B01116)">»</hi>»<hi rend="color(B01116)">»</hi>»<hi
                                 rend="color(B01116)">»</hi>»</p>
@@ -2263,10 +2262,10 @@
                 </div>
             </div>
             <div type="ss1">
-                <pb n="[88-89]" xml:id="pb.88"/>
+                <pb n="(88-89)" xml:id="pb.88"/>
                 <head><hi rend="color(B01116)">KULTURNA DEDIŠČINA</hi></head>
                 <div type="ss2">
-                    <pb n="[90-91]" xml:id="pb.90"/>
+                    <pb n="(90-91)" xml:id="pb.90"/>
                     <head>PRETEKLOST</head>
                     <div type="ss3">
                         <pb n="92-93" xml:id="pb.92"/>
@@ -2992,7 +2991,7 @@
                     </div>
                 </div>
                 <div type="ss2">
-                    <pb n="[130-131]" xml:id="pb.130"/>
+                    <pb n="(130-131)" xml:id="pb.130"/>
                     <head>KULTURNA KRAJINA</head>
                     <div type="ss3">
                         <pb n="132-133" xml:id="pb.132"/>
@@ -3838,7 +3837,7 @@
                     </div>
                 </div>
                 <div type="ss2">
-                    <pb n="[172-173]" xml:id="pb.172"/>
+                    <pb n="(172-173)" xml:id="pb.172"/>
                     <head>KRAŠKA NASELJA</head>
                     <div type="ss3">
                         <pb n="174" xml:id="pb.174"/>
@@ -4178,7 +4177,7 @@
                     </div>
                 </div>
                 <div type="ss2">
-                    <pb n="[192-193]" xml:id="pb.192"/>
+                    <pb n="(192-193)" xml:id="pb.192"/>
                     <head>OBRTI IN VEŠČINE</head>
                     <div type="ss3">
                         <pb n="194-195" xml:id="pb.194"/>
@@ -4757,10 +4756,10 @@
                 </div>
             </div>
             <div type="ss1">
-                <pb n="[224-225]" xml:id="pb.224"/>
+                <pb n="(224-225)" xml:id="pb.224"/>
                 <head><hi rend="color(B01116)">ŽIVA DEDIŠČINA</hi></head>
                 <div type="ss2">
-                    <pb n="[226-227]" xml:id="pb.226"/>
+                    <pb n="(226-227)" xml:id="pb.226"/>
                     <head>MITI IN RAZVADE</head>
                     <div type="ss3">
                         <pb n="228" xml:id="pb.228"/>
@@ -5458,7 +5457,7 @@
                     </div>
                 </div>
                 <div type="ss2">
-                    <pb n="[258-259]" xml:id="pb.258"/>
+                    <pb n="(258-259)" xml:id="pb.258"/>
                     <head>ZNANA KRAŠEVKA S KRAŠEVCI</head>
                     <div type="ss3">
                         <pb n="260" xml:id="pb.260"/>
@@ -6056,12 +6055,10 @@
                     </div>
                 </div>
             </div>
-
         </body>
         <back>
             <div type="colophone">
-                <pb n="[290]" xml:id="pb.290"/>
-
+                <pb n="(290)" xml:id="pb.290"/>
                 <p>KRAS IN BRKINI</p>
                 <p><hi rend="color(B01116)">za radovedneže in ljubitelje</hi></p>
                 <p>»<hi rend="color(B01116)">»</hi>»<hi rend="color(B01116)">»</hi>»<hi
@@ -6093,7 +6090,7 @@
                     <p>ISBN 978-961-254-737-0</p>
                     <p>1. Abram, Olga 2. Fakin Bajec, Jasna 276114944</p>
                 </div>
-                <pb n="[291-292]" xml:id="pb.291"/>
+                <pb n="(291-292)" xml:id="pb.291"/>
             </div>
             <div corresp="back_in" type="copyright">
                 <p>© 2014, Založba ZRC, ZRC SAZU</p>

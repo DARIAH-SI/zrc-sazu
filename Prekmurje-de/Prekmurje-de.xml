@@ -339,15 +339,15 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                 </docImprint>
             </titlePage>
             <div type="halftitle">
-                <pb n="[1]" xml:id="pb.1"/>
+                <pb n="(1)" xml:id="pb.1"/>
                 <figure>
                     <graphic n="1001" width="1.6cm" height="2.3cm" url="media/imageZRC.jpeg"
                     />
                 </figure>
-                <pb n="[2]" xml:id="pb.2"/>
+                <pb n="(2)" xml:id="pb.2"/>
             </div>
             <titlePage facs="#front_out" type="halftitle">
-             <pb n="[3]" xml:id="pb.3"/>
+             <pb n="(3)" xml:id="pb.3"/>
                 <docAuthor>
                     <lb/><name><hi rend="color(704214)">Valerija Babij</hi></name>
                     <lb/><name><hi rend="color(704214)">Janez Balažic</hi></name>
@@ -390,7 +390,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
             <div type="contents">
                 <table>
                     <row>
-                        <cell><pb n="[4]" xml:id="pb.4"/><hi rend="bold color(704214)">INHALT
+                        <cell><pb n="(4)" xml:id="pb.4"/><hi rend="bold color(704214)">INHALT
                                 </hi><hi rend="color(808285)">"" PREKMURJE</hi></cell>
                         <cell/>
                         <cell/>
@@ -542,7 +542,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                         <cell><hi rend="color(704214)"><ref target="#pb.93">93</ref></hi></cell>
                     </row>
                     <row>
-                        <cell><pb n="[5]" xml:id="pb.5"/><hi rend="color(808285)">ZWISCHEN FLÜSSEN
+                        <cell><pb n="(5)" xml:id="pb.5"/><hi rend="color(808285)">ZWISCHEN FLÜSSEN
                                 UND BÄCHEN</hi></cell>
                         <cell/>
                         <cell/>
@@ -697,7 +697,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                 </table>
             </div>
             <div type="preface">
-                <pb n="[6-7]" xml:id="pb.7"/>
+                <pb n="(6-7)" xml:id="pb.7"/>
                 <head><hi rend="color(704214)">Statt eines Vorworts: </hi><hi rend="color(704214)"
                         >Die Angst vor der Nostalgie</hi></head>
                 <p><hi rend="color(704214)">»</hi><hi rend="color(704214)">»</hi><hi
@@ -785,7 +785,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
         </front>
         <body>
                    <div type="ss1">
-                    <pb n="[10-11]" xml:id="pb.10"/>
+                    <pb n="(10-11)" xml:id="pb.10"/>
                     <head>FÜR JEDERMANN</head>
                     <figure>
                         <graphic n="10010" url="media/PN10.jpg"/>
@@ -1841,7 +1841,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                       </div>
                   </div>
                   <div type="ss1">
-                    <pb n="[52-53]" xml:id="pb.52"/>
+                    <pb n="(52-53)" xml:id="pb.52"/>
                     <head>SZENEN AUS DER VERGANGENHEIT</head>
                     <figure>
                         <graphic n="1052" url="media/PN52.jpg"/>
@@ -2072,8 +2072,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                                 xml:id="pb.64"/><hi rend="color(231F20)">pelle gebaut wurde, stieß
                                 man beim Ausheben der Fundamente tatsächlich auf einen Sarg mit
                                 einem präparierten Leichnam, der mit der Aufschrift versehen war: S.
-                                AC. G. D. MIHAEL HADIK</hi></p>
-                        <p><hi rend="color(231F20)">S. C. R. CAPITANUS MDCIII.</hi></p>
+                                AC. G. D. MIHAEL HADIK S. C. R. CAPITANUS MDCIII.</hi></p>
                         <p><hi rend="color(231F20)">Es gibt auch eine romantische Affirmation der
                                 Geschichte, die besagt, dass Mihael Hadik ein verarmter böhmischer
                                 Adeliger war. Nach seiner Ankunft in Lendava habe ihn der damalige
@@ -2321,7 +2320,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                       </div>
                   </div>
                   <div type="ss1">
-                    <pb n="[74-75]" xml:id="pb.75"/>
+                    <pb n="(74-75)" xml:id="pb.75"/>
                     <head>LEBENDIGES ERBE</head>
                     <figure>
                         <graphic n="1074" url="media/PN74.jpg"/>
@@ -2837,7 +2836,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                       </div>
                   </div>
                   <div type="ss1">
-                    <pb n="[94-95]" xml:id="pb.94"/>
+                    <pb n="(94-95)" xml:id="pb.94"/>
                     <head>ZWISCHEN FLÜSSEN UND BÄCHEN</head>
                     <figure>
                         <graphic n="1094" url="media/PN94.jpg"/>
@@ -3465,7 +3464,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                       </div>
                   </div>
                   <div type="ss1">
-                    <pb n="[122-123]" xml:id="pb.122"/>
+                    <pb n="(122-123)" xml:id="pb.122"/>
                     <head>KULTURELLE LANDSCHAFT</head>
                     <figure>
                         <graphic n="1122" url="media/PN122.jpg"/>
@@ -4387,7 +4386,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
                       </div>
                   </div>
                   <div type="ss1">
-                    <pb n="[162-163]" xml:id="pb.162"/>
+                    <pb n="(162-163)" xml:id="pb.162"/>
                     <head>FÜR LECKERMÄULER</head>
                     <figure>
                         <graphic n="1162" url="media/PN162.jpg"/>
@@ -4916,11 +4915,11 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
         </body>
         <back>
             <div type="frontispiece">
-                <pb n="[183]" xml:id="pb.183"/>
+                <pb n="(183)" xml:id="pb.183"/>
                 <figure>
                     <graphic n="1183" url="media/PN183.jpg"/>
                 </figure>
-                <pb n="[184]" xml:id="pb.184"/>
+                <pb n="(184)" xml:id="pb.184"/>
 
             </div>
             <div type="biblography">
@@ -5058,7 +5057,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
             </div>
             <div type="frontispiece">
                 <head><hi rend="color(704214)">~</hi></head>
-                <pb n="[188]" xml:id="pb.188"/>
+                <pb n="(188)" xml:id="pb.188"/>
                 <figure>
                     <graphic n="1183" url="media/PN183.jpg"/>
                 </figure>
@@ -5107,7 +5106,7 @@ ISBN 978-961-05-0059-9 (epub)<br/>]]></p>
             </div>
             <div type="copyright">
                 <pb n="190" xml:id="pb.190"/>
-                <pb n="[191]" xml:id="pb.191"/>
+                <pb n="(191)" xml:id="pb.191"/>
                 <p><hi rend="color(231F20)">CIP -Kataložni zapis o publikaciji</hi></p>
                 <p><hi rend="color(231F20)">Narodna in univerzitetna knjižnica, Ljubljana
                         908(497.411)(082)</hi></p>

@@ -299,21 +299,20 @@
                         1866</titlePart>
                 </docTitle>
                 <docEdition>
-                    <note><p>_________________________________________________________________________</p>
+                    <note>
                         <p>E-knjiga v vseh pogledih reproducira prvi natis prve tiskane izdaje
                             (2016). Pretvorbo je omogočila Javna agencija za knjigo, s sredstvi iz
                             leta 2017.</p>
                         <p rend="CIP"><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br/>
 <a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID=<a href="http://cobiss6.izum.si/scripts/cobiss?command=DISPLAY&amp;base=99999&amp;rid=288343040&amp;fmt=13&amp;lani=si" target="_blank">288343040</a><br/>
 ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
-                        <p>_________________________________________________________________________</p>
                     </note></docEdition>
                 <docImprint><publisher>Založba ZRC, ZRC
                         SAZU</publisher><placeName>Ljubljana</placeName><date>2018</date>
                 </docImprint>
             </titlePage>
             <div type="halftitle">
-                <pb n="[1]" xml:id="pb.1"/>
+                <pb n="(1)" xml:id="pb.1"/>
                 <bibl><title type="main">Thesaurus memoriae</title><title type="sub"
                         >Opuscula</title><biblScope unit="volume">4</biblScope></bibl>
                 <figure corresp="logotip založba">
@@ -321,7 +320,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                 </figure>
             </div>
             <div type="colophon">
-                <pb n="[2]" xml:id="pb.2"/>
+                <pb n="(2)" xml:id="pb.2"/>
                 <p><hi rend="bold">Thesaurus memoriae</hi></p>
                 <p>
                     <hi rend="italic">Series</hi> Opuscula 4</p>
@@ -383,7 +382,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                 </div>
             </div>
             <titlePage>
-                <pb n="[3]" xml:id="pb.3"/>
+                <pb n="(3)" xml:id="pb.3"/>
                 <docAuthor>
                     <name><persName><forename>Karl</forename> <surname>Kastl</surname></persName></name>
                 </docAuthor>
@@ -398,7 +397,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                 </docImprint>
             </titlePage>
             <div type="contents">
-                <pb n="[4]" xml:id="pb.4"/>
+                <pb n="(4)" xml:id="pb.4"/>
                 <pb n="5" xml:id="pb.5"/>
                 <head><hi rend="bold">KAZALO</hi></head>
                 <table>
@@ -466,7 +465,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                         <cell></cell>
                     </row>
                 </table>
-                <pb n="[6]" xml:id="pb.6"/>
+                <pb n="(6)" xml:id="pb.6"/>
             </div>
             <div type="preface" corresp="Preinfalk">
                 <pb n="7" xml:id="pb.7"/>
@@ -566,7 +565,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     hkrati ohranjajo spomin na človeka, ki je tako v uniformi kot v civilu deloval v
                     dobrobit te domovine.</p>
                 <p><hi rend="italic">Miha Preinfalk</hi></p>
-                <pb n="[10]" xml:id="pb.10"/>
+                <pb n="(10)" xml:id="pb.10"/>
             </div>
         </front>
         <body>
@@ -6004,7 +6003,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                                 (zapis z dne 14. 1. 2016).</bibl>
                         </listBibl>
                     </div>
-                    <pb n="[136]" xml:id="pb.136"/>
+                    <pb n="(136)" xml:id="pb.136"/>
                 </div>
             </div>
             <div type="chapter">
@@ -7174,8 +7173,8 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     Ersten sogar schrifilich einen Eid ablegen, obwohl er als Oberstleutnant im
                     Ruhestand war. Dies stand gewiss im Widerspruch zu seiner tiefen Zuneigung zu
                     der herrschafilichen Dynastie der Habsburger und betrübte ihn so sehr, dass er
-                    erkrankte und dann am 29. August 1920 verstarb.<pb n="[171]" xml:id="pb.171"
-                        /><pb n="[172]" xml:id="pb.172"/></p>
+                    erkrankte und dann am 29. August 1920 verstarb.<pb n="(171)" xml:id="pb.171"
+                        /><pb n="(172)" xml:id="pb.172"/></p>
                 <p/>
                 <pb/>
             </div>

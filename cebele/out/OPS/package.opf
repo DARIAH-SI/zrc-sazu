@@ -39,7 +39,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-07-07</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-01-30T15:20:29Z</meta>
+      <meta property="dcterms:modified">2018-02-12T12:57:59Z</meta>
    </metadata>
    <manifest>
       <item href="media/CB_front.jpg"
@@ -56,9 +56,6 @@
             media-type="application/xhtml+xml"/>
       <item href="titlepage2.html"
             id="titlepage2"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepageback.html"
-            id="titlepageback"
             media-type="application/xhtml+xml"/>
       <item id="toc"
             properties="nav"
@@ -293,7 +290,6 @@
       <itemref idref="section20" linear="yes"/>
       <itemref idref="section80" linear="yes"/>
       <itemref idref="section81" linear="yes"/>
-      <itemref idref="titlepageback" linear="no"/>
    </spine>
    <guide>
       <reference type="text" href="titlepage.html" title="Cover"/>
@@ -334,6 +330,5 @@
                  title="Družine in rodovi čebel"/>
       <reference type="text" href="index-back.1_div.1.html" title=""/>
       <reference type="text" href="index-back.1_div.2.html" title=""/>
-      <reference href="titlepageback.html" type="text" title="About this book"/>
    </guide>
 </package>

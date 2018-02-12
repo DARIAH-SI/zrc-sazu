@@ -285,15 +285,15 @@ ISBN 978-961-05-0058-2 (epub)<br/>]]></p>
                 </docImprint>
             </titlePage>
             <div type="halftitle">
-                <pb n="[1]" xml:id="pb.1"/>
+                <pb n="(1)" xml:id="pb.1"/>
                 <figure>
                     <graphic n="1001" width="1.6cm" height="2.3cm" url="media/imageZRC.jpeg"
                         rend="block"/>
                 </figure>
-                <pb n="[2]" xml:id="pb.2"/>
+                <pb n="(2)" xml:id="pb.2"/>
             </div>
             <titlePage facs="#front_out">
-               <pb n="[3]" xml:id="pb.3"/>
+               <pb n="(3)" xml:id="pb.3"/>
                 <docAuthor>
                     <lb/><name><hi rend="color(704214)">Valerija Babij</hi></name>
                     <lb/><name><hi rend="color(704214)">Janez Balažic</hi></name>
@@ -331,7 +331,7 @@ ISBN 978-961-05-0058-2 (epub)<br/>]]></p>
                 <table>
                     <row>
                         <cell>
-                            <pb n="[4]" xml:id="pb.4"/><hi rend="bold color(704214)">KAZALO </hi><hi
+                            <pb n="(4)" xml:id="pb.4"/><hi rend="bold color(704214)">KAZALO </hi><hi
                                 rend="color(808285)">"" PREKMURJE</hi></cell>
                         <cell/>
                     </row>
@@ -495,7 +495,7 @@ ISBN 978-961-05-0058-2 (epub)<br/>]]></p>
                     </row>
                     <row>
                         <cell>
-                            <pb n="[5]" xml:id="pb.5"/><hi rend="color(808285)">MED REKAMI IN
+                            <pb n="(5)" xml:id="pb.5"/><hi rend="color(808285)">MED REKAMI IN
                                 POTOKI</hi></cell>
                         <cell/>
                         <cell/>
@@ -667,7 +667,7 @@ ISBN 978-961-05-0058-2 (epub)<br/>]]></p>
                 </table>
             </div>
             <div type="preface">
-                <pb n="[6-7]" xml:id="pb.7"/>
+                <pb n="(6-7)" xml:id="pb.7"/>
                 <head><hi rend="color(704214)">Namesto uvoda: <lb/>strah pred nostalgijo</hi></head>
                 <p><hi rend="color(704214)">»</hi><hi rend="color(704214)">»</hi><hi
                         rend="color(704214)">»</hi><hi rend="color(704214)">»</hi><hi
@@ -742,7 +742,7 @@ ISBN 978-961-05-0058-2 (epub)<br/>]]></p>
         </front>
         <body>
                  <div>
-                    <pb n="[10-11]" xml:id="pb.11"/>
+                    <pb n="(10-11)" xml:id="pb.11"/>
                     <head><hi rend="color(704214)">ZA VSAKOGAR</hi></head>
 
                     <figure>
@@ -2446,7 +2446,7 @@ ISBN 978-961-05-0058-2 (epub)<br/>]]></p>
                     </div>
                 </div>
                 <div>
-                    <pb n="[86-87]" xml:id="pb.87"/>
+                    <pb n="(86-87)" xml:id="pb.87"/>
                     <head><hi rend="color(704214)">MED REKAMI IN POTOKI</hi></head>
 
                     <figure>
@@ -4181,9 +4181,9 @@ ISBN 978-961-05-0058-2 (epub)<br/>]]></p>
         <back>
             <div type="frontispiece">
 
-                <pb n="[169]" xml:id="pb.169"/>
+                <pb n="(169)" xml:id="pb.169"/>
 
-                <pb n="[170]" xml:id="pb.170"/>
+                <pb n="(170)" xml:id="pb.170"/>
 
                 <p>.............................................</p>
 
@@ -4325,15 +4325,15 @@ ISBN 978-961-05-0058-2 (epub)<br/>]]></p>
                 </listBibl>
             </div>
             <div type="frontispiece">
-                <pb n="[174]" xml:id="pb.174"/>
+                <pb n="(174)" xml:id="pb.174"/>
                 <figure>
                     <graphic n="1174" url="media/PS174.jpg" rend="inline"/>
                 </figure>
-                <pb n="[184]" xml:id="pb.184"/>
+                <pb n="(184)" xml:id="pb.184"/>
             </div>
             
             <div type="colophon">
-                                <pb n="[175]" xml:id="pb.175"/>
+                                <pb n="(175)" xml:id="pb.175"/>
                 <p rend="heading 3">
                     <hi rend="color(704214)">PREKMURJE</hi></p>
                 <p><hi rend="color(704214)">za radovedneže in ljubitelje</hi></p>
@@ -4370,7 +4370,7 @@ ISBN 978-961-05-0058-2 (epub)<br/>]]></p>
                         zgodovine v učnem načrtu osnovnih in srednjih šol.</hi></p>
             </div>
             <div type="copyright">
-                <pb n="[176]" xml:id="pb.176"/>
+                <pb n="(176)" xml:id="pb.176"/>
                 <p><hi rend="color(231F20)">CIP – Kataložni zapis o publikaciji</hi></p>
                 <p><hi rend="color(231F20)">Narodna in univerzitetna knjižnica, Ljubljana
                         908(497.411)(082)</hi></p>

@@ -291,14 +291,13 @@
                     <titlePart>Čebele Slovenije</titlePart>
                 </docTitle>
                 <docEdition>
-                    <note><p>_________________________________________________________________________</p>
+                    <note>
                         <p>E-knjiga v vseh pogledih reproducira prvi natis prve tiskane izdaje
                             (2014). Pretvorbo je omogočila Javna agencija za knjigo, s sredstvi iz
                             leta 2017.</p>
                         <p rend="CIP"><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br/>
                             <a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID=<a href="http://cobiss6.izum.si/scripts/cobiss?command=DISPLAY&amp;base=99999&amp;rid=288343040&amp;fmt=13&amp;lani=si" target="_blank">288343040</a><br/>
                                 ISBN 978-961-05-0057-5 (epub)<br/>]]></p>
-                        <p>_________________________________________________________________________</p>
                     </note>
                 </docEdition>
                 <docImprint>
@@ -332,7 +331,7 @@
                 <p>Janez Gregori, prof. biologije in čebelar</p>
             </div>
             <div type="halftitle">
-                <pb n="[1]" xml:id="pb.1"/>
+                <pb n="(1)" xml:id="pb.1"/>
                 <p>Čebele Slovenije</p>
                 <p>Andrej Gogala</p>
                 <figure>
@@ -340,7 +339,7 @@
                 </figure>
             </div>
             <div type="colophone">
-                <pb n="[2]" xml:id="pb.2"/>
+                <pb n="(2)" xml:id="pb.2"/>
                 <p>
                     <hi rend="bold">Čebele Slovenije</hi>
                 </p>
@@ -396,7 +395,7 @@
                 </div>
             </div>
             <titlePage>
-                <pb n="[3]" xml:id="pb.3"/>
+                <pb n="(3)" xml:id="pb.3"/>
                 <figure>
                     <graphic n="1003" url="media/image3.png"/>
                 </figure>
@@ -409,10 +408,10 @@
                     <pubPlace>Ljubljana</pubPlace>
                     <docDate>2014</docDate>
                 </docImprint>
-                <pb n="[4]" xml:id="pb.4"/>
+                <pb n="(4)" xml:id="pb.4"/>
             </titlePage>
             <div type="contents">
-                <pb n="[5]" xml:id="pb.5"/>
+                <pb n="(5)" xml:id="pb.5"/>
                 <head>Vsebina</head>
                 <table>
                     <row>
@@ -473,7 +472,7 @@
                         <cell><ref target="#pb.118">118</ref></cell>
                     </row>
                 </table>
-                <pb n="[6]" xml:id="pb.6"/>
+                <pb n="(6)" xml:id="pb.6"/>
             </div>
         </front>
         <body>
@@ -4006,7 +4005,7 @@
                             <bibl>Michener, C. D. 2000: The Bees of the World. The Johns Hopkins
                                 University Press, Baltimore and London, 913 str.</bibl>
                         </listBibl>
-                        <pb n="[180]" xml:id="pb.180"/>
+                        <pb n="(180)" xml:id="pb.180"/>
                     </div>
                 </div>
             </div>
