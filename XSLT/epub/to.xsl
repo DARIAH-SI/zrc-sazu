@@ -817,17 +817,48 @@ height: </xsl:text>
                 </header>
                 <nav xmlns:epub="http://www.idpf.org/2007/ops" epub:type="toc" id="toc">
                   <ol>
+                    <!-- dodam:
+                           - gre še dve dodatni stopnji v globino
+                           - če je samo poglavje brez head (oziroma enim znakom), ki nima podpoglavij s head, potem ne prikažem
+                    -->
                     <xsl:for-each select="$TOC/html:TOC/html:ul/html:li">
                       <xsl:choose>
                         <xsl:when test="not(html:a)"/>
                         <xsl:when test="starts-with(html:a/@href, '#')"/>
                         <xsl:when test="contains(@class, 'headless')"/>
+                        <!-- dodal spodnji when -->
+                        <xsl:when test="string-length(html:a) = 1 and (not(html:ul/html:li) or string-length(html:ul/html:li/html:a) = 1)"/>
                         <xsl:otherwise>
                           <li>
                             <a href="{html:a/@href}">
                               <xsl:value-of select="html:span[@class = 'headingNumber']"/>
                               <xsl:value-of select="normalize-space(html:a[1])"/>
                             </a>
+                            <!-- dodam nadaljno procesiranje (še dve stopnji) -->
+                            <xsl:for-each select="html:ul">
+                              <ol>
+                                <xsl:for-each select="html:li">
+                                  <li>
+                                    <a href="{html:a/@href}">
+                                      <xsl:value-of select="html:span[@class = 'headingNumber']"/>
+                                      <xsl:value-of select="normalize-space(html:a[1])"/>
+                                    </a>
+                                    <xsl:for-each select="html:ul">
+                                      <ol>
+                                        <xsl:for-each select="html:li">
+                                          <li>
+                                            <a href="{html:a/@href}">
+                                              <xsl:value-of select="html:span[@class = 'headingNumber']"/>
+                                              <xsl:value-of select="normalize-space(html:a[1])"/>
+                                            </a>
+                                          </li>
+                                        </xsl:for-each>
+                                      </ol>
+                                    </xsl:for-each>
+                                  </li>
+                                </xsl:for-each>
+                              </ol>
+                            </xsl:for-each>
                           </li>
                         </xsl:otherwise>
                       </xsl:choose>
