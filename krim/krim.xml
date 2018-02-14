@@ -4,7 +4,6 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Svet pod Krimom</title>
-            <title type="sub">Elektronska tretja izdaja</title>
             <title type="short">Svet pod Krimom</title>
             <author role="edt">
                <persName>
@@ -19,17 +18,7 @@
                </persName>
             </author>
          </titleStmt>
-         <editionStmt>
-            <edition>Izdaja 1.0</edition>
-            <editor role="TEI_izdaja">
-               <name>
-                  <persName>
-                     <forename>Aleš</forename>
-                     <surname>Pogačnik</surname>
-                  </persName>
-               </name>
-            </editor>
-         </editionStmt>
+         
          <extent>???636 kB XML; 220 kB JPG; ????411.616 znakov besedila</extent>
          <publicationStmt>
             <publisher>Založba ZRC<figure corresp="naslovnica">
@@ -56,30 +45,8 @@
 
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <title type="main">eZRC</title>
-            <title type="sub">???</title>
-            <respStmt>
-               <resp>Urednik zbirke</resp>
-               <persName>
-                  <forename>Aleš</forename>
-                  <surname>Pogačnik</surname>
-               </persName>
-            </respStmt>
-            <idno type="ISSN">????</idno>
-         </seriesStmt>
-         <notesStmt corresp="CIP_e-izdaja">
-            <note>
-               <p>CIP -Kataložni zapis o publikaciji</p>
-               <p>Narodna in univerzitetna knjižnica, Ljubljana 908(497.411)(082)</p>
-               <p>PREKMURJE : für Neugierige und Liebhaber / Valerija Babij ... [et al.] ; aus dem
-                  Slowenischen von Erwin Köstler ; [Redaktion Oto Luthar ; Illustrationen Srečko
-                  Bajda]. -Ljubljana : Založba ZRC, ZRC SAZU, 2012</p>
-               <p>ISBN 978-961-254-????</p>
-               <p>1. Babij, Valerija 2. Luthar, Oto</p>
-               <p>????260378880</p>
-            </note>
-         </notesStmt>
+         
+         
          <sourceDesc corresp="vir">
             <biblFull corresp="kolofon knjige">
                <titleStmt corresp="naslov in avtorstva">
@@ -139,7 +106,7 @@
                   <date when="2016-12-01">2016</date>
                   <idno type="ISBN" n="€.24|19">978-961-254-965-7</idno>
                   <availability status="restricted">
-                     <p>(c) 2012 Založba ZRC, ZRC SAZU</p>
+                     <p>© 2016, 2018 Založba ZRC, ZRC SAZU</p>
                      <licence xml:lang="slv">Vse pravice pridržane. Noben del te izdaje ne sme biti
                         reproduciran, shranjen ali prepisan v katerikoli obliki oz. na katerikoli
                         način, bodisi elektronsko, mehansko, s fotokopiranjem ali kako drugače, brez
@@ -203,7 +170,7 @@
                            <imprint>
                               <pubPlace>Ljubljana</pubPlace>
                               <publisher>Znanstvenoraziskovalni center SAZU</publisher>
-                              <publisher>Škus - Studia Humanitatis</publisher>
+                              <publisher>Škuc - Studia Humanitatis</publisher>
                               <date>1993</date>
                            </imprint>
                            <extent corresp="fizični izgled knjige">
@@ -343,49 +310,35 @@
             <docAuthor><name><persName><forename>Ferdo</forename>
                      <surname>Gestrin</surname></persName></name></docAuthor>
             <docEdition>
-               <note>
-                  <p>E-knjiga v vseh pogledih reproducira drugo tiskano izdajo (2016), dodano pa ji
-                     je slikovno gradivo prve izdaje (1994). Pretvorbo je omogočila Javna agencija
-                     za knjigo, s sredstvi iz leta 2017.</p>
-                  <p rend="CIP"><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br/>
-<a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID=<a href="http://cobiss6.izum.si/scripts/cobiss?command=DISPLAY&amp;base=99999&amp;rid=288343040&amp;fmt=13&amp;lani=si" target="_blank">288343040</a><br/>
-ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
+               <note><p>E-knjiga v vseh pogledih reproducira drugo tiskano izdajo (2016), dodano pa ji je
+                  slikovno gradivo prve izdaje (1994).<lb/>Pretvorbo je omogočila Javna agencija za
+                  knjigo iz naslova razpisa za leto 2017.</p>
+                  <p rend="CIP">Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni
+                     knjižnici v Ljubljani<lb />
+                     <ref target="http://COBISS.SI">COBISS.SI</ref>-ID=<ref
+                        target="https://plus.si.cobiss.net/opac7/bib/293628416">293628416</ref><lb />
+                     ISBN 978-961-05-0060-5 (epub)</p>
                </note></docEdition>
             <docImprint><publisher>Založba ZRC, ZRC
                   SAZU</publisher><placeName>Ljubljana</placeName><date>2018</date>
             </docImprint>
          </titlePage>
-         <div type="halftitle">
+         <div type="halftitle" rend="align:center">
             <pb n="(1)" xml:id="pb.1"/>
             <p>Ferdo Gestrin</p>
-            <p>SVET POD KRIMOM</p>
+               <p>SVET POD KRIMOM</p>
             <figure>
                <graphic n="1002" url="media/image2.png"/>
             </figure>
          </div>
-         <titlePage>
+         <div type="title" rend="align:center">
             <pb n="(5)" xml:id="pb.5"/>
-            <docTitle>
-               <titlePart>SVET POD KRIMOM</titlePart>
-            </docTitle>
-            <docAuthor><name><persName><forename>Ferdo</forename>
-                     <surname>Gestrin</surname></persName></name></docAuthor>
-            <docAuthor>
-               <respons locus="name">
-                  <desc><hi rend="italic">Uredil</hi></desc>
-               </respons>
-               <name><persName><hi rend="italic">
-                        <forename>Oto</forename>
-                        <surname>Luthar</surname>
-                     </hi></persName></name>
-            </docAuthor>
-            <docImprint>
-               <pubPlace>Ljubljana</pubPlace>
-               <date>2016</date>
-            </docImprint>
-         </titlePage>
-         
-         <div type="colophon">
+            <p rend="smallcaps"><hi rend="bold">Ferdo Gestrin</hi></p>
+            <p><hi rend="bold">SVET POD KRIMOM</hi></p>
+            <p>Uredil in spremno besedo napisal<lb/><hi rend="bold">Oto Luthar</hi></p>
+            <p rend="smallcaps">Ljubljana 2016</p>
+            </div>
+          <div type="colophon">
             <pb n="(6)" xml:id="pb.6"/>
             <p>Ferdo Gestrin</p>
             <p><hi rend="bold">Svet pod Krimom</hi></p>
@@ -411,7 +364,7 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
             <p> Fotografija na naslovnici: Idila pod Krimom, spomladi 2012, avtor Rok Godec;
                objavljeno z avtorjevim dovoljenjem.</p>
             <p/>
-            <div rend="boxed" type="CIP">
+            <div rend="CIP" type="CIP">
                <p>CIP - Kataložni zapis o publikaciji</p>
                <p>Narodna in univerzitetna knjižnica, Ljubljana</p>
                <p>94(497.4Ig)</p>

@@ -4,7 +4,6 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Kras in Brkini za radovedneže in ljubitelje</title>
-                <title type="sub">E-knjiga</title>
                 <title type="short">Kras in Brkini</title>
                 <author>
                     <persName>
@@ -17,17 +16,7 @@
                     </persName>
                 </author>
             </titleStmt>
-            <editionStmt>
-                <edition>Izdaja 1.0</edition>
-                <editor role="TEI_izdaja">
-                    <name>
-                        <persName>
-                            <forename>Aleš</forename>
-                            <surname>Pogačnik</surname>
-                        </persName>
-                    </name>
-                </editor>
-            </editionStmt>
+
             <extent>???636 kB XML; 220 kB JPG; ????411.616 znakov besedila</extent>
             <publicationStmt>
                 <publisher>Založba ZRC<figure>
@@ -45,9 +34,9 @@
                         <desc>Glavni urednik založbe</desc>
                     </respons><persName><forename>Aleš</forename><surname>Pogačnik</surname></persName></authority>
                 <date when="2017-07-07">jesen 2017</date>
-                <idno type="ISBN" n="€.9">ISBN 978-961-05-????-?</idno>
+                <idno type="ISBN" n="€.9" corresp="epub">978-961-05-0045-2</idno>
                 <availability status="restricted">
-                    <p>© 2014, 2017 Založba ZRC, ZRC SAZU</p>
+                    <p>© 2014, 2018 Založba ZRC, ZRC SAZU</p>
                     <licence xml:lang="slv">Vse pravice pridržane. Noben del te izdaje ne sme biti
                         reproduciran, shranjen ali prepisan v katerikoli obliki oz. na katerikoli
                         način, bodisi elektronsko, mehansko, s fotokopiranjem ali kako drugače, brez
@@ -58,29 +47,8 @@
                         without the prior permission of the publisher.</licence>
                 </availability>
             </publicationStmt>
-            <seriesStmt>
-                <title type="main">eZRC</title>
-                <title type="sub">???</title>
-                <respStmt>
-                    <resp>Urednik zbirke</resp>
-                    <persName>
-                        <forename>Aleš</forename>
-                        <surname>Pogačnik</surname>
-                    </persName>
-                </respStmt>
-                <idno type="ISSN">????</idno>
-            </seriesStmt>
-            <notesStmt corresp="CIP_e-izdaja">
-                <note>
-                    <p>CIP - Kataložni zapis o publikaciji</p>
-                    <p>Narodna in univerzitetna knjižnica, Ljubljana 908(497.47)(082)</p>
-                    <p>KRAS in Brkini za radovedneže in ljubitelje / Olga Abram ... [et al.] ;
-                        uredila Jasna Fakin Bajec in Oto Luthar ; [ilustracije Srečko Bajda]. -
-                        Ljubljana : Založba ZRC, ZRC SAZU, 2014</p>
-                    <p>ISBN 978-961-254-737-0</p>
-                    <p>1. Abram, Olga 2. Fakin Bajec, Jasna 276114944</p>
-                </note>
-            </notesStmt>
+
+
             <sourceDesc corresp="vir">
                 <biblFull corresp="kolofon knjige">
                     <titleStmt corresp="naslov in avtorstva">
@@ -193,7 +161,7 @@
                         <date when="2014-11-17">2014</date>
                         <idno type="ISBN" n="n=€.15|12">978-961-254-737-0</idno>
                         <availability status="restricted">
-                            <p>(c) 2014 Založba ZRC, ZRC SAZU</p>
+                            <p>© 2014, 2018 Založba ZRC, ZRC SAZU</p>
                             <licence xml:lang="slv">Vse pravice pridržane. Noben del te izdaje ne
                                 sme biti reproduciran, shranjen ali prepisan v katerikoli obliki oz.
                                 na katerikoli način, bodisi elektronsko, mehansko, s fotokopiranjem
@@ -328,10 +296,10 @@
                         <p>E-knjiga v vseh pogledih reproducira prvi natis prve tiskane izdaje
                             (2014). Pretvorbo je omogočila Javna agencija za knjigo, s sredstvi iz
                             leta 2017.</p>
-                        <p>Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni
-                            knjižnici v Ljubljani.</p>
-                        <p>COBISS.SI-ID=<ref target="https://plus.si.cobiss.net/opac7/bib/293149952"
-                                >293149952</ref></p>
+                        <p rend="CIP">Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni
+                            knjižnici v Ljubljani.<lb/><ref target="http://COBISS.SI">COBISS.SI</ref>-ID=<ref
+                                target="https://plus.si.cobiss.net/opac7/bib/293149952"
+                            >293149952</ref><lb/> ISBN 978-961-05-0045-2 (epub)</p>
                     </note></docEdition>
                 <docImprint><publisher>Založba ZRC, ZRC
                         SAZU</publisher><placeName>Ljubljana</placeName><date>2018</date>
@@ -343,10 +311,10 @@
                     <graphic n="1001" url="media/imageZRC.jpeg"/>
                 </figure>
             </div>
-            <titlePage>
+            <div type="title">
                 <pb n="(2-3)" xml:id="pb.2"/>
-                <docAuthor>
-                    <lb/><name><hi rend="color(B01116)">Olga Abram</hi></name>
+                <p>
+                    <name><hi rend="color(B01116)">Olga Abram</hi></name>
                     <lb/><name><hi rend="color(B01116)">Ban Tina</hi></name>
                     <lb/><name><hi rend="color(B01116)">Eda Belingar</hi></name>
                     <lb/><name><hi rend="color(B01116)">Majda Brdnik</hi></name>
@@ -384,31 +352,16 @@
                     <lb/><name><hi rend="color(B01116)">Marcel Štefančič, jr.</hi></name>
                     <lb/><name><hi rend="color(B01116)">Sitka Tepeh</hi></name>
                     <lb/><name><hi rend="color(B01116)">Vera Tuta Ban</hi></name>
-                </docAuthor>
-                <docTitle>
-                    <titlePart type="main">KRAS IN BRKINI</titlePart>
-                    <titlePart type="sub"><hi rend="color(B01116)">za radovedneže in
-                        ljubitelje</hi></titlePart>
-                </docTitle>
-                <docAuthor>
-                    <respons locus="name">
-                        <desc><hi rend="color(808285)">Uredila</hi></desc>
-                    </respons>
-                    <name><persName><hi rend="bold">
-                                <forename>Jasna</forename>
-                                <surname>Fakin Bajec</surname></hi></persName>
-                        <hi rend="color(808285)">in</hi>
-                        <persName><hi rend="bold">
-                                <forename>Oto</forename>
-                                <surname>Luthar</surname>
-                            </hi></persName></name>
-                </docAuthor>
-                <docImprint>
-                    <publisher>ZNANSTVENORAZISKOVALNI CENTER SAZU</publisher>
-                    <pubPlace>Ljubljana – Nova Gorica</pubPlace>
-                    <docDate>2014, 2018</docDate>
-                </docImprint>
-            </titlePage>
+                </p>
+                <p rend="bold">KRAS IN BRKINI<lb/><hi rend="color(B01116)">za radovedneže in
+                        ljubitelje</hi>
+                </p>
+                <p><hi rend="color(808285)">Uredila</hi><lb/><hi rend="bold">Jasna Fakin Bajec
+                        </hi><hi rend="color(808285)">in</hi><hi rend="bold">Oto Luthar</hi></p>
+                <p>ZNANSTVENORAZISKOVALNI CENTER SAZU</p>
+                <p>Ljubljana – Nova Gorica</p>
+                <p>2014, 2018</p>
+            </div>
             <div type="contents">
                 <pb n="(4)" xml:id="pb.4"/>
                 <head><hi rend="color(B01116)">KAZALO</hi></head>
@@ -5629,17 +5582,19 @@
                             <graphic n="10054" url="media/KB268.jpeg"/>
                         </figure>
                         <p><hi rend="bold color(B01116)">JUTRO NA KRASU</hi></p>
-                        <lg><l><hi rend="italic color(808285)">Sam grem po dolini kraški, kadar vanjo
-                                jutro sije</hi></l>
-                        <l><hi rend="italic color(808285)">in se morje zdrave sile</hi></l>
-                        <l><hi rend="italic color(808285)">v mlado dušo mi razlije.</hi></l>
-                        <l><hi rend="italic color(808285)">Sklonil bi se in pokleknil pred ognjenim
-                                veličanstvom, kakor kralj bi šel po Krasu</hi></l>
-                        <l><hi rend="italic color(808285)">v duši s silo in bogastvom.</hi></l>
-                        <l><hi rend="italic color(808285)">In pod silo mlade duše bi se zemlja
-                                premaknila,</hi></l>
-                        <l><hi rend="italic color(808285)">naša zemlja, bratje moji, k soncu bi se
-                                primaknila.</hi></l></lg>
+                        <lg>
+                            <l><hi rend="italic color(808285)">Sam grem po dolini kraški, kadar
+                                    vanjo jutro sije</hi></l>
+                            <l><hi rend="italic color(808285)">in se morje zdrave sile</hi></l>
+                            <l><hi rend="italic color(808285)">v mlado dušo mi razlije.</hi></l>
+                            <l><hi rend="italic color(808285)">Sklonil bi se in pokleknil pred
+                                    ognjenim veličanstvom, kakor kralj bi šel po Krasu</hi></l>
+                            <l><hi rend="italic color(808285)">v duši s silo in bogastvom.</hi></l>
+                            <l><hi rend="italic color(808285)">In pod silo mlade duše bi se zemlja
+                                    premaknila,</hi></l>
+                            <l><hi rend="italic color(808285)">naša zemlja, bratje moji, k soncu bi
+                                    se primaknila.</hi></l>
+                        </lg>
                         <p>Rojen je bil v Sežani leta 1904. Umrl je v Tomaju, star komaj 22 let.
                             Prezgodnja smrt je nasilno pretrgala njegovo umetniško pot, toda kljub
                             temu je njegova zapuščina nadvse bogata – poleg pesmi obsega tudi

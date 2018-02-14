@@ -5,18 +5,13 @@
             <titleStmt>
                 <title type="main">Moja doživetja z bojnega pohoda proti Prusiji leta 1866 / Meine
                     Erlebnisse aus dem Feldzug gegen Preussen 1866</title>
-                <title type="sub">E-knjiga / E-Buch</title>
                 <title type="short">Moja doživetja z bojnega pohoda proti Prusiji leta 1866</title>
                 <title type="alt">Meine Erlebnisse aus dem Feldzug gegen Preussen 1866</title>
                 <author>
                     <persName><forename>Karl</forename><surname>Kastl</surname></persName>
                 </author>
             </titleStmt>
-            <editionStmt>
-                <edition>Izdaja 1.0</edition>
-                <editor role="TEI_izdaja"
-                            ><persName><forename>Aleš</forename><surname>Pogačnik</surname></persName></editor>
-            </editionStmt>
+
             <extent>???446 kB XML; ???419.769 znakov besedila</extent>
             <publicationStmt>
                 <distributor><orgName role="Izdajatelj">Zgodovinski inštitut Milka Kosa ZRC
@@ -38,7 +33,7 @@
                         <desc>Glavni urednik založbe</desc>
                     </respons><persName><forename>Aleš</forename><surname>Pogačnik</surname></persName></authority>
                 <date when="2016-08-29">poletje 2016</date>
-                <idno type="ISBN" n="€.9">ISBN 978-961-05-????-?</idno>
+                <idno type="ISBN" n="€.14" corresp="epub">978-961-05-0061-2</idno>
                 <availability status="restricted">
                     <p>© 2016 Založba ZRC, ZRC SAZU</p>
                     <licence xml:lang="slv">Vse pravice pridržane. Noben del te izdaje ne sme biti
@@ -51,34 +46,8 @@
                         without the prior permission of the publisher.</licence>
                 </availability>
             </publicationStmt>
-            <seriesStmt>
-                <title type="main">eZMono</title>
-                <title type="sub">???</title>
-                <respStmt>
-                    <resp>Urednik zbirke</resp>
-                    <persName>
-                        <forename>Matija</forename>
-                        <surname>Ogrin</surname>
-                    </persName>
-                </respStmt>
-                <idno type="ISSN">????</idno>
-            </seriesStmt>
-            <notesStmt corresp="CIP elektronska knjiga">
-                <note>
-                    <p>CIP Kataložni zapis o publikaciji</p>
-                    <p>Narodna in univerzitetna knjižnica, Ljubljana</p>
-                    <p>355.48(436-89:431)«1866«(092)</p>
-                    <p>94(436-89)«1866«(092)</p>
-                    <p>KASTL, Karl</p>
-                    <p>Moja doživetja z bojnega pohoda proti Rusiji leta 1866 = Meine Erlebnisse aus
-                        dem Feldzug gegen Preussen 1866 / Karl Kastl ; [izdajatelj] Zgodovinski
-                        inštitut Milka Kosa ZRC SAZU ; [prevod izvirnika in povzetka Angelika
-                        Hribar]. 1. izd., 1. natis. Ljubljana : Založba ZRC, ZRC SAZU, 2016.
-                        (Thesaurus memoriae. Opuscula, ISSN 2232-3430 ; 4)</p>
-                    <p>????ISBN 978-961-254-908-4</p>
-                    <p>????284780544</p>
-                </note>
-            </notesStmt>
+
+
             <sourceDesc corresp="vir">
                 <biblFull corresp="kolofon knjige">
                     <titleStmt corresp="naslov in avtorstva">
@@ -291,7 +260,8 @@
         <front>
             <titlePage facs="#front_out" type="ebook">
                 <docAuthor>
-                    <name><persName><forename>Karl</forename> <surname>Kastl</surname></persName></name>
+                    <name><persName><forename>Karl</forename>
+                            <surname>Kastl</surname></persName></name>
                 </docAuthor>
                 <docTitle>
                     <titlePart>Moja doživetja z bojnega pohoda proti Rusiji leta 1866</titlePart>
@@ -301,17 +271,19 @@
                 <docEdition>
                     <note>
                         <p>E-knjiga v vseh pogledih reproducira prvi natis prve tiskane izdaje
-                            (2016). Pretvorbo je omogočila Javna agencija za knjigo, s sredstvi iz
-                            leta 2017.</p>
-                        <p rend="CIP"><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br/>
-<a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID=<a href="http://cobiss6.izum.si/scripts/cobiss?command=DISPLAY&amp;base=99999&amp;rid=288343040&amp;fmt=13&amp;lani=si" target="_blank">288343040</a><br/>
-ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
+                            (2016).<lb/>Pretvorbo je omogočila Javna agencija za knjigo, s sredstvi
+                            iz leta 2017.</p>
+                        <p rend="CIP">Kataložni zapis o publikaciji (CIP) pripravili v Narodni in
+                            univerzitetni knjižnici v Ljubljani.<lb/><ref target="http://COBISS.SI"
+                                >COBISS.SI</ref>-ID=<ref
+                                target="https://plus.si.cobiss.net/opac7/bib/293629440"
+                                >293629440</ref><lb/> ISBN 978-961-05-0061-2 (epub)</p>
                     </note></docEdition>
                 <docImprint><publisher>Založba ZRC, ZRC
                         SAZU</publisher><placeName>Ljubljana</placeName><date>2018</date>
                 </docImprint>
             </titlePage>
-            <div type="halftitle">
+            <div rend="align:center" type="halftitle">
                 <pb n="(1)" xml:id="pb.1"/>
                 <bibl><title type="main">Thesaurus memoriae</title><title type="sub"
                         >Opuscula</title><biblScope unit="volume">4</biblScope></bibl>
@@ -329,7 +301,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     Kosi</p>
                 <p>
                     <hi rend="italic">Karl Kastl</hi>
-                    <hi rend="bold">Moja doživetja z bojnega pohoda proti Prusiji leta 1866 / Meine
+                    <hi rend="bold"> Moja doživetja z bojnega pohoda proti Prusiji leta 1866 / Meine
                         Erlebnisse aus dem Feldzug gegen Preussen 1866</hi>
                 </p>
                 <p>© 2016, Založba ZRC, Zgodovinski inštitut Milka Kosa</p>
@@ -366,7 +338,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     <hi rend="italic">Zadaj</hi> Václav Sochor: Baterija mrtvih (bitka pri Kraljevem
                     Gradcu) / Die Batterie der Toten (Schlacht bei Königgrätz) (hrani:
                     Heeresgeschichtliches Museum, Wien; 1937/15/BI18799).</p>
-                <div type="CIP" rend="boxed">
+                <div type="CIP" rend="CIP">
                     <p>CIP Kataložni zapis o publikaciji</p>
                     <p>Narodna in univerzitetna knjižnica, Ljubljana</p>
                     <p>355.48(436-89:431)«1866«(092)</p>
@@ -381,21 +353,14 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     <p>284780544</p>
                 </div>
             </div>
-            <titlePage>
+            <div rend="align:center" type="title">
                 <pb n="(3)" xml:id="pb.3"/>
-                <docAuthor>
-                    <name><persName><forename>Karl</forename> <surname>Kastl</surname></persName></name>
-                </docAuthor>
-                <docTitle>
-                    <titlePart>Moja doživetja <lb/>z bojnega pohoda <lb/>proti Rusiji leta
-                        1866</titlePart>
-                    <titlePart type="subtitle">Meine Erlebnisse aus dem Feldzug <lb/>gegen Preussen
-                        1866</titlePart>
-                </docTitle>
-                <docImprint><publisher>Zgodovinski inštitut Milka Kosa ZRC SAZU</publisher>
-                    <placeName>Ljubljana</placeName><date>2016</date>
-                </docImprint>
-            </titlePage>
+                <p rend="bold">Karl Kastl</p>
+                <p rend="bold">Moja doživetja <lb/>z bojnega pohoda <lb/>proti Rusiji leta 1866</p>
+                <p>Meine Erlebnisse aus dem Feldzug <lb/>gegen Preussen 1866</p>
+                <p>Zgodovinski inštitut Milka Kosa ZRC SAZU</p>
+                <p>Ljubljana 2016</p>
+            </div>
             <div type="contents">
                 <pb n="(4)" xml:id="pb.4"/>
                 <pb n="5" xml:id="pb.5"/>
@@ -403,7 +368,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                 <table>
                     <row>
                         <cell>Miha Preinfalk</cell>
-                        <cell></cell>
+                        <cell/>
                     </row>
                     <row>
                         <cell><hi rend="bold">Bitka, ki je spremenila (tudi slovensko)
@@ -412,7 +377,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     </row>
                     <row>
                         <cell>Karl Kastl</cell>
-                        <cell></cell>
+                        <cell/>
                     </row>
                     <row>
                         <cell><hi rend="bold">Moja doživetja z bojnega pohoda proti Prusiji leta
@@ -421,7 +386,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     </row>
                     <row>
                         <cell>Karl Kastl</cell>
-                        <cell></cell>
+                        <cell/>
                     </row>
                     <row>
                         <cell><hi rend="bold">Meine Erlebnisse aus dem Feldzug gegen Preussen
@@ -430,7 +395,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     </row>
                     <row>
                         <cell>Rok Stergar</cell>
-                        <cell></cell>
+                        <cell/>
                     </row>
                     <row>
                         <cell><hi rend="bold">Spopad za Nemčijo. Zunanjepolitične in vojaške
@@ -439,7 +404,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     </row>
                     <row>
                         <cell>Miha Šimac</cell>
-                        <cell></cell>
+                        <cell/>
                     </row>
                     <row>
                         <cell><hi rend="bold">Od Kraljevega Gradca do Ljubljane: vojaška pot
@@ -448,7 +413,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     </row>
                     <row>
                         <cell>Angelika Hribar</cell>
-                        <cell></cell>
+                        <cell/>
                     </row>
                     <row>
                         <cell><hi rend="bold">Karl Kastl (1848–1920), njegova družina in javno
@@ -462,7 +427,7 @@ ISBN 978-961-05-0061-2 (epub)<br/>]]></p>
                     <row>
                         <cell><hi rend="bold"><ref target="TOC_250000">Barvne
                             priloge</ref></hi></cell>
-                        <cell></cell>
+                        <cell/>
                     </row>
                 </table>
                 <pb n="(6)" xml:id="pb.6"/>

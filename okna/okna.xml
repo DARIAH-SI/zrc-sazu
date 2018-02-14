@@ -5,7 +5,6 @@
                   <titleStmt>
                         <title type="main">Okna brez monad. Estetika od Heideggerja do
                               Rancièra</title>
-                        <title type="sub">e-knjiga</title>
                         <title type="short">Okna brez monad</title>
                         <author>
                               <name>
@@ -14,17 +13,7 @@
                               </name>
                         </author>
                   </titleStmt>
-                  <editionStmt>
-                        <edition>Izdaja 1.0</edition>
-                        <editor role="TEI_izdaja">
-                              <name>
-                                    <persName>
-                                          <forename>Aleš</forename>
-                                          <surname>Pogačnik</surname>
-                                    </persName>
-                              </name>
-                        </editor>
-                  </editionStmt>
+                  
                   <extent>???541 kB XML; 419.769 znakov besedila</extent>
                   <publicationStmt>
                         <publisher>Založba ZRC<figure corresp="naslovnica">
@@ -38,7 +27,7 @@
                                     <desc>Glavni urednik založbe</desc>
                               </respons><persName><forename>Aleš</forename><surname>Pogačnik</surname></persName></authority>
                         <date when="2017-08-29">jesen 2017</date>
-                        <idno type="ISBN" n="€.9">ISBN 978-961-05-????-?</idno>
+                        <idno type="ISBN" n="€.9" corresp="epub">978-961-05-0063-6</idno>
                         <availability status="restricted">
                               <p>© 2015, 2017 Založba ZRC, ZRC SAZU</p>
                               <licence xml:lang="slv">Vse pravice pridržane. Noben del te izdaje ne
@@ -53,32 +42,8 @@
                                     prior permission of the publisher.</licence>
                         </availability>
                   </publicationStmt>
-                  <seriesStmt>
-                        <title type="main">eZRC</title>
-                        <title type="sub">???</title>
-                        <respStmt>
-                              <resp>Urednik zbirke</resp>
-                              <persName>
-                                    <forename>Aleš</forename>
-                                    <surname>Pogačnik</surname>
-                              </persName>
-                        </respStmt>
-                        <idno type="ISSN">????</idno>
-                  </seriesStmt>
-                  <notesStmt corresp="CIP_e-izdaja">
-                        <note>
-                              <p>CIP - Kataložni zapis o publikaciji</p>
-                              <p>Narodna in univerzitetna knjižnica, Ljubljana</p>
-                              <p>???5"17"</p>
-                              <p>???BENČIN, Rok</p>
-                              <p>Okna brez monad : estetika od Heideggerja do Rancièra / Rok Benčin.
-                                    - 1. e-izd. - Ljubljana : Založba ZRC, ZRC SAZU, 2016. - (Zbirka
-                                    Philosophica. Series Prizma / Filozofski inštitut ZRC SAZU, ISSN
-                                    232-3015)</p>
-                              <p>???ISBN 978-961-254-473-7</p>
-                              <p>???268498944</p>
-                        </note>
-                  </notesStmt>
+                  
+                  
                   <sourceDesc>
                         <biblFull corresp="kolofon knjige">
                               <titleStmt corresp="naslov in avtorstva">
@@ -132,7 +97,7 @@
                                     <date when="2015-04-08">2015</date>
                                     <idno type="ISBN" n="€.19|15">978-961-254-783-7</idno>
                                     <availability status="restricted">
-                                          <p>(c) 2015 Založba ZRC, ZRC SAZU</p>
+                                          <p>© 2015 Založba ZRC, ZRC SAZU</p>
                                           <licence xml:lang="slv">Vse pravice pridržane. Noben del
                                                 te izdaje ne sme biti reproduciran, shranjen ali
                                                 prepisan v katerikoli obliki oz. na katerikoli
@@ -290,12 +255,12 @@
                                     Rancièra</titlePart>
                         </docTitle>
                         <docEdition>
-                              <note><p>E-knjiga v vseh pogledih reproducira tiskano izdajo (2015).
-                                          Pretvorbo je omogočila Javna agencija za knjigo, s
-                                          sredstvi iz leta 2017.</p>
-                                    <p rend="CIP"><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br/>
-<a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID=<a href="http://cobiss6.izum.si/scripts/cobiss?command=DISPLAY&amp;base=99999&amp;rid=288343040&amp;fmt=13&amp;lani=si" target="_blank">288343040</a><br/>
-ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
+                              <note><p>E-knjiga v vseh pogledih reproducira tiskano izdajo (2015).<lb/>Pretvorbo je omogočila Javna agencija za
+                                    knjigo iz naslova razpisa za leto 2017.</p>
+                                    <p rend="CIP">Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni
+                                          knjižnici v Ljubljani<lb />
+                                          <ref target="http://COBISS.SI">COBISS.SI</ref>-ID=<ref
+                                                target="https://plus.si.cobiss.net/opac7/bib/293628928">293628928</ref><lb /> ISBN 978-961-05-0063-6 (epub)</p>
                               </note></docEdition>
                         <docImprint><publisher>Založba ZRC, ZRC
                                     SAZU</publisher><placeName>Ljubljana</placeName><date>2018</date>
@@ -325,18 +290,12 @@ ISBN 978-961-05-0060-5 (epub)<br/>]]></p>
                         <p>ISBN 978-961-254-783-7</p>
                         <p>278706688</p>
                   </div>
-                  <titlePage>
-                        <docAuthor>
-                              <name><persName>Rok</persName><surname>Benčin</surname></name>
-                        </docAuthor>
-                        <docTitle>
-                              <titlePart>Okna brez monad</titlePart>
-                              <titlePart type="subtitle">Estetika od Heideggerja do
-                                    Rancièra</titlePart>
-                        </docTitle>
-                        <docImprint><placeName>Ljubljana</placeName><date>2015</date>
-                        </docImprint>
-                  </titlePage>
+                  <div rend="align:right" type="title">
+                        <pb n="(3)" xml:id="pb.3"/>
+                        <p>Rok Benčin</p>
+                        <p><hi rend="bold">OKNA BREZ MONAD</hi><lb/><hi rend="smallcaps">Estetika od Heideggerja do Rancièra</hi></p>
+                        <p><hi rend="smallcaps">Ljubljana 2015</hi></p>
+                  </div>
                   <div type="colophon">
                         <pb n="(4)" xml:id="pb.4"/>
                         <p><hi rend="bold">PHILOSOPHICA</hi> SERIES PRIZMA</p>

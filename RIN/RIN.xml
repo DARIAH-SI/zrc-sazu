@@ -4,7 +4,6 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Razsvetljenske interpretacije narave (1749–1756)</title>
-                <title type="sub">E-knjiga</title>
                 <title type="short">Razsvetljenske interpretacije narave</title>
                 <author>
                     <name>
@@ -49,23 +48,10 @@
                         <persName><forename>Miha</forename><surname>Marek</surname></persName></name>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>Izdaja 1.0</edition>
-                <editor role="TEI_izdaja">
-                    <name>
-                        <persName>
-                            <forename>Aleš</forename>
-                            <surname>Pogačnik</surname>
-                        </persName>
-                    </name>
-                </editor>
-            </editionStmt>
             <extent>???636 kB XML; 220 kB JPG; 411.616 znakov besedila</extent>
             <publicationStmt>
                 <publisher>Založba ZRC<figure corresp="naslovnica">
-                        <graphic n="1001" url="media/RIN_1.jpg">
-                            <desc>???Slika na naslovnici???</desc>
-                        </graphic>
+                        <graphic n="1001" url="media/RIN_1.jpg"> </graphic>
                     </figure>
                 </publisher>
                 <authority><respons locus="name">
@@ -75,9 +61,9 @@
                         <desc>Glavni urednik založbe</desc>
                     </respons><persName><forename>Aleš</forename><surname>Pogačnik</surname></persName></authority>
                 <date when="2016-08-29">jesen 2017</date>
-                <idno type="ISBN" n="€.9">ISBN 978-961-05-????-?</idno>
+                <idno type="ISBN" n="€.17" corresp="epub">978-961-05-0064-3</idno>
                 <availability status="restricted">
-                    <p>© 2013, 2017 Založba ZRC, ZRC SAZU</p>
+                    <p>© 2013, 2018 Založba ZRC, ZRC SAZU</p>
                     <licence xml:lang="slv">Vse pravice pridržane. Noben del te izdaje ne sme biti
                         reproduciran, shranjen ali prepisan v katerikoli obliki oz. na katerikoli
                         način, bodisi elektronsko, mehansko, s fotokopiranjem ali kako drugače, brez
@@ -88,33 +74,7 @@
                         without the prior permission of the publisher.</licence>
                 </availability>
             </publicationStmt>
-            <seriesStmt>
-                <title type="main">eZRC</title>
-                <title type="sub">???</title>
-                <respStmt>
-                    <resp>Urednik zbirke</resp>
-                    <persName>
-                        <forename>Aleš</forename>
-                        <surname>Pogačnik</surname>
-                    </persName>
-                </respStmt>
-                <idno type="ISSN">????</idno>
-            </seriesStmt>
-            <notesStmt corresp="CIP_e-izdaja">
-                <note>
-                    <p>CIP - Kataložni zapis o publikaciji</p>
-                    <p>Narodna in univerzitetna knjižnica, Ljubljana</p>
-                    <p>???5"17"</p>
-                    <p>???BUFFON, Georges-Louis Leclerc, 1707-1788</p>
-                    <p>Razsvetljenske interpretacije narave (1749-1756) / Georges-Louis Leclerc de
-                        Buffon, Pierre-Louis Moreau de Maupertuis, Denis Diderot ; [prevod Miha
-                        Marek ; spremna študija Miran Božovič in Miha Marek]. - 1. izd., 1. natis. -
-                        Ljubljana : Založba ZRC, ZRC SAZU, 2013. - (Zbirka Historia scientiae)</p>
-                    <p>???ISBN 978-961-254-473-7</p>
-                    <p>???1. Maupertuis, Pierre-Louis Moreau de, 1698-1759 2. Diderot, Denis</p>
-                    <p>???268498944</p>
-                </note>
-            </notesStmt>
+
             <sourceDesc corresp="vir">
                 <biblFull corresp="kolofon knjige">
                     <titleStmt corresp="naslov in avtorstva">
@@ -157,22 +117,22 @@
                         <sponsor>Izid knjige je podprla<orgName>Javna agencija za knjigo Republike
                                 Slovenije</orgName>.</sponsor>
                     </editionStmt>
-                     <extent corresp="fizični izgled knjige">
+                    <extent corresp="fizični izgled knjige">
                         <measure unit="pages" quantity="175">175 str.</measure>
                         <dimensions corresp="cm" type="binding" style="trda vezava">
                             <height>23</height>
                             <width>15</width>
                         </dimensions>
-                         <figure type="covers">
-                             <graphic n="1001" width="15cm" height="23cm" url="media/RIN_1.jpg"/>
-                             <graphic n="1002" width="15cm" height="23cm" url="media/RIN_2.jpg"/>
-                         </figure>
-                     </extent>
+                        <figure type="covers">
+                            <graphic n="1001" height="5cm" url="media/RIN_1.jpg"/>
+                            <graphic n="1002" height="5cm" url="media/RIN_2.jpg"/>
+                        </figure>
+                    </extent>
                     <publicationStmt>
                         <publisher>Založba ZRC<figure corresp="naslovnica">
-                            <figure>
-                                <graphic url="media/imageZRC.jpeg"/>
-                            </figure>
+                                <figure>
+                                    <graphic url="media/imageZRC.jpeg"/>
+                                </figure>
                             </figure>
                         </publisher>
                         <authority><respons locus="name">
@@ -185,7 +145,7 @@
                         <date when="2013-08-22">2013</date>
                         <idno type="ISBN" n="n=€.24|20">978-961-254-473-7</idno>
                         <availability status="restricted">
-                            <p>(c) 2013 Založba ZRC, ZRC SAZU</p>
+                            <p>© 2013 Založba ZRC, ZRC SAZU</p>
                             <licence xml:lang="slv">Vse pravice pridržane. Noben del te izdaje ne
                                 sme biti reproduciran, shranjen ali prepisan v katerikoli obliki oz.
                                 na katerikoli način, bodisi elektronsko, mehansko, s fotokopiranjem
@@ -392,7 +352,7 @@
                         <surname>Pogačnik</surname>
                     </persName>
                 </name> TEI struktura. </change>
-             </revisionDesc>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <surface xml:id="front_out">
@@ -402,107 +362,6 @@
     <text>
         <front>
             <titlePage facs="#front_out" type="ebook">
-                <docAuthor>
-                    <name><persName>Georges-Louis
-                        Leclerc</persName><nameLink>de</nameLink><surname>Buffon</surname></name><lb/>
-                    <name><persName>Pierre-Louis
-                        Moreau</persName><nameLink>de</nameLink><surname>Maupertuis</surname></name><lb/>
-                    <name><persName>Denis</persName><surname>Diderot</surname></name>
-                </docAuthor>
-                <docTitle>
-                    <titlePart type="main">Razsvetljenske interpretacije narave</titlePart>
-                    <titlePart type="sub">(1749–1756)</titlePart>
-                </docTitle>
-                <docAuthor>
-                    <respons locus="name">
-                        <desc><hi rend="italic">Prevod in opombe</hi></desc>
-                    </respons>
-                    <name><persName><forename>Miha</forename>
-                        <surname>Marek</surname></persName></name></docAuthor>
-                <docAuthor>
-                    <respons locus="name">
-                        <desc><hi rend="italic">Spremna beseda</hi></desc>
-                    </respons>
-                    <name><persName><forename>Miha</forename>
-                        <surname>Marek</surname></persName>
-                        <hi rend="italic">in</hi>
-                        <persName>
-                            <forename>Miran</forename>
-                            <surname>Božovič</surname>
-                        </persName></name>
-                </docAuthor>
-                <docEdition>
-                    <note><p>_________________________________________________________________________</p>
-                        <p>E-knjiga v vseh pogledih reproducira tiskano izdajo (2013). Pretvorbo je omogočila Javna agencija za knjigo, s sredstvi iz leta 2017.</p>
-                        <p rend="CIP"><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br/>
-<a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID=<a href="http://cobiss6.izum.si/scripts/cobiss?command=DISPLAY&amp;base=99999&amp;rid=288343040&amp;fmt=13&amp;lani=si" target="_blank">288343040</a><br/>
-ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
-                        <p>_________________________________________________________________________</p>
-                    </note></docEdition>
-                <docImprint><publisher>Založba ZRC, ZRC
-                    SAZU</publisher><placeName>Ljubljana</placeName><date>2018</date>
-                </docImprint>
-            </titlePage>
-            <pb n="(1)" xml:id="pb.1"/>
-            <div type="halftitle">
-                <ab style="transform:rotateZ(-90deg)"><figure>
-                    <graphic corresp="logotip zbirke HS" url="media/HS_logo.jpg"/>
-                </figure></ab>
-                <p>Georges-Louis Leclerc de Buffon</p>
-                <p>Pierre-Louis Moreau de Maupertuis</p>
-                <p>Denis Didderot</p>
-                <p><hi rend="bold">Razsvetljenske interpretacije narave</hi></p>
-                <figure>
-                    <graphic corresp="logotip Založba ZRC" url="media/imageZRC.jpeg"/>
-                </figure>
-            </div>                                
-            <div type="colpohone">
-                    <pb n="(2)" xml:id="pb.2"/>
-                        <p>                <hi rend="italic">Zbirka</hi> HISTORIA SCIENTIAE</p>
-            <p>                <hi rend="italic">Urednik zbirke</hi> Matjaž Vesel</p>
-            <lb/>
-            <p>Georges-Louis Leclerc de Buffon, Pierre-Louis Moreau de Maupertuis, Denis Diderot</p>
-            <p><hi rend="bold">Razsvetljenske interpretacije narave (1749–1756)</hi></p>
-            <p><hi rend="italic">Naslovi izvirnikov</hi></p>
-            <p><hi rend="bold">Georges-Louis Leclerc de Buffon</hi></p>
-            <p><hi rend="italic">Histoire naturelle, générale et particulière, avec la description du Cabinet du Roi</hi> (»Premier discours. De la manière d'étudier et de traiter l'histoire naturelle«; »L'âne«)</p>
-            <p><hi rend="bold">Pierre-Louis Moreau de Maupertuis</hi></p>
-            <p><hi rend="italic">Essai sur la formation des corps organisés Réponse aux objections de M. Diderot</hi> (odlomki)</p>
-            <p><hi rend="bold">Denis Diderot</hi></p>
-            <p><hi rend="italic">Pensées sur l'interprétation de la nature</hi></p>
-            <lb/>
-            <p><hi rend="italic">Prevod in opombe</hi> Miha Marek</p>
-            <p><hi rend="italic">Spremna študija</hi> Miran Božovič in Miha Marek</p>
-            <p><hi rend="italic">Uredil</hi> Matjaž Vesel</p>
-            <lb/>
-            <p><hi rend="italic">Oblikovalski koncept</hi> Mateja Goršič</p>
-            <p><hi rend="italic">Prelom</hi> Brane Vidmar</p>
-            <lb/>
-            <p><hi rend="italic">Založnik</hi> Založba ZRC, ZRC SAZU</p>
-            <p><hi rend="italic">Za založnika</hi> Oto Luthar</p>
-            <p><hi rend="italic">Glavni urednik založbe</hi> Aleš Pogačnik</p>
-             <lb/>
-                <p><hi rend="italic">Tisk</hi> SINET d.o.o.</p>
-                    <p><hi rend="italic">Naklada</hi> 300 izvodov</p>
-                    <p>Prva naklada, prvi natis.</p>
-                    <lb/>
-                <p><hi rend="italic">Izid je podprla Javna agencija za knjigo Republike Slovenije.</hi></p>
-                <div  rend="boxed" type="CIP_knjiga">
-                    <p>CIP - Kataložni zapis o publikaciji</p>
-                    <p>Narodna in univerzitetna knjižnica, Ljubljana</p>
-                    <p>5"17"</p>
-                    <p>BUFFON, Georges-Louis Leclerc, 1707-1788</p>
-                    <p>Razsvetljenske interpretacije narave (1749-1756) / Georges-Louis Leclerc de Buffon, Pierre-Louis Moreau de Maupertuis, Denis Diderot ; [prevod Miha Marek ; spremna študija Miran Božovič in Miha Marek]. - 1. izd., 1. natis. - Ljubljana : Založba ZRC, ZRC SAZU, 2013. - (Zbirka Historia scientiae)</p>
-                    <p>ISBN 978-961-254-473-7</p>
-                    <p>1. Maupertuis, Pierre-Louis Moreau de, 1698-1759 2. Diderot, Denis</p>
-                    <p>268498944</p>
-                </div>
-                <div type="copyright">
-                    <p>© 2013 Založba ZRC, ZRC SAZU</p>
-                    <p>Vse pravice pridržane. Noben del te izdaje ne sme biti reproduciran, shranjen ali prepisan v kateri koli obliki oz. na kateri koli način, bodisi elektronsko, mehansko, s fotokopiranjem, snemanjem ali kako drugače, brez predhodnega pisnega dovoljenja lastnikov avtorskih pravic (copyrighta).</p></div>
-                            </div>
-            <titlePage>
-                <pb n="(3)" xml:id="pb.3"/>
                 <docAuthor>
                     <name><persName>Georges-Louis
                             Leclerc</persName><nameLink>de</nameLink><surname>Buffon</surname></name><lb/>
@@ -532,11 +391,105 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                             <surname>Božovič</surname>
                         </persName></name>
                 </docAuthor>
-                <docImprint><pubPlace>Ljubljana</pubPlace><docDate>2013</docDate></docImprint>
+                <docEdition>
+                    <note>
+                        <p>E-knjiga v vseh pogledih reproducira tiskano izdajo (2013).<lb/>Pretvorbo
+                            je omogočila Javna agencija za knjigo iz naslova razpisa za leto
+                            2017.</p>
+                        <p rend="CIP">Kataložni zapis o publikaciji (CIP) pripravili v Narodni in
+                            univerzitetni knjižnici v Ljubljani<lb/>
+                            <ref target="http://COBISS.SI">COBISS.SI</ref>-ID=<ref
+                                target="https://plus.si.cobiss.net/opac7/bib/293629184"
+                                >293629184</ref><lb/> ISBN 978-961-05-0064-3 (epub)</p>
+                    </note></docEdition>
+                <docImprint><publisher>Založba ZRC, ZRC
+                        SAZU</publisher><placeName>Ljubljana</placeName><date>2018</date>
+                </docImprint>
             </titlePage>
-            <pb n="(4)" xml:id="pb.4"/>
-            <div type="fmsec">
-                <p>Izbor besedil je narejen na podlagi izdaje Denis Diderot, <hi rend="italic"
+            <div type="halftitle">
+                <pb n="(1)" xml:id="pb.1"/>
+                <ab style="transform:rotateZ(-90deg)"><figure>
+                        <graphic corresp="logotip zbirke HS" url="media/HS_logo.jpg"/>
+                    </figure></ab>
+                <p>Georges-Louis Leclerc de Buffon</p>
+                <p>Pierre-Louis Moreau de Maupertuis</p>
+                <p>Denis Didderot</p>
+                <p><hi rend="bold">Razsvetljenske interpretacije narave</hi></p>
+                <figure>
+                    <graphic corresp="logotip Založba ZRC" url="media/imageZRC.jpeg"/>
+                </figure>
+            </div>
+            <div type="colpohone">
+                <pb n="(2)" xml:id="pb.2"/>
+                <p>
+                    <hi rend="italic">Zbirka</hi> HISTORIA SCIENTIAE</p>
+                <p>
+                    <hi rend="italic">Urednik zbirke</hi> Matjaž Vesel</p>
+                <lb/>
+                <p>Georges-Louis Leclerc de Buffon, Pierre-Louis Moreau de Maupertuis, Denis
+                    Diderot</p>
+                <p><hi rend="bold">Razsvetljenske interpretacije narave (1749–1756)</hi></p>
+                <p><hi rend="italic">Naslovi izvirnikov</hi></p>
+                <p><hi rend="bold">Georges-Louis Leclerc de Buffon</hi></p>
+                <p><hi rend="italic">Histoire naturelle, générale et particulière, avec la
+                        description du Cabinet du Roi</hi> (»Premier discours. De la manière
+                    d'étudier et de traiter l'histoire naturelle«; »L'âne«)</p>
+                <p><hi rend="bold">Pierre-Louis Moreau de Maupertuis</hi></p>
+                <p><hi rend="italic">Essai sur la formation des corps organisés Réponse aux
+                        objections de M. Diderot</hi> (odlomki)</p>
+                <p><hi rend="bold">Denis Diderot</hi></p>
+                <p><hi rend="italic">Pensées sur l'interprétation de la nature</hi></p>
+                <lb/>
+                <p><hi rend="italic">Prevod in opombe</hi> Miha Marek</p>
+                <p><hi rend="italic">Spremna študija</hi> Miran Božovič in Miha Marek</p>
+                <p><hi rend="italic">Uredil</hi> Matjaž Vesel</p>
+                <lb/>
+                <p><hi rend="italic">Oblikovalski koncept</hi> Mateja Goršič</p>
+                <p><hi rend="italic">Prelom</hi> Brane Vidmar</p>
+                <lb/>
+                <p><hi rend="italic">Založnik</hi> Založba ZRC, ZRC SAZU</p>
+                <p><hi rend="italic">Za založnika</hi> Oto Luthar</p>
+                <p><hi rend="italic">Glavni urednik založbe</hi> Aleš Pogačnik</p>
+                <lb/>
+                <p><hi rend="italic">Tisk</hi> SINET d.o.o.</p>
+                <p><hi rend="italic">Naklada</hi> 300 izvodov</p>
+                <p>Prva naklada, prvi natis.</p>
+                <lb/>
+                <p><hi rend="italic">Izid je podprla Javna agencija za knjigo Republike
+                        Slovenije.</hi></p>
+                <div rend="boxed" type="CIP_knjiga">
+                    <p>CIP - Kataložni zapis o publikaciji</p>
+                    <p>Narodna in univerzitetna knjižnica, Ljubljana</p>
+                    <p>5"17"</p>
+                    <p>BUFFON, Georges-Louis Leclerc, 1707-1788</p>
+                    <p>Razsvetljenske interpretacije narave (1749-1756) / Georges-Louis Leclerc de
+                        Buffon, Pierre-Louis Moreau de Maupertuis, Denis Diderot ; [prevod Miha
+                        Marek ; spremna študija Miran Božovič in Miha Marek]. - 1. izd., 1. natis. -
+                        Ljubljana : Založba ZRC, ZRC SAZU, 2013. - (Zbirka Historia scientiae)</p>
+                    <p>ISBN 978-961-254-473-7</p>
+                    <p>1. Maupertuis, Pierre-Louis Moreau de, 1698-1759 2. Diderot, Denis</p>
+                    <p>268498944</p>
+                </div>
+                <div type="copyright">
+                    <p>© 2013 Založba ZRC, ZRC SAZU</p>
+                    <p>Vse pravice pridržane. Noben del te izdaje ne sme biti reproduciran, shranjen
+                        ali prepisan v kateri koli obliki oz. na kateri koli način, bodisi
+                        elektronsko, mehansko, s fotokopiranjem, snemanjem ali kako drugače, brez
+                        predhodnega pisnega dovoljenja lastnikov avtorskih pravic (copyrighta).</p>
+                </div>
+            </div>
+            <div type="title">
+                <pb n="(3)" xml:id="pb.3"/>
+                <p> Georges-Louis Leclerc de Buffon<lb/> Pierre-Louis Moreau de Maupertuis<lb/> Denis
+                    Didderot</p>
+                <p><hi rend="bold">Razsvetljenske interpretacije narave<lb/>(1749–1756)</hi></p>
+                <p><hi rend="italic">Prevod in opombe</hi><lb/>Miha Marek</p>
+                <p><hi rend="italic">Spremna beseda</hi><lb/>Miran Božovič in Miha Marek</p>
+                <p>Ljubljana 2013</p>
+            </div>
+             <div type="fmsec">
+                 <pb n="(4)" xml:id="pb.4"/>
+                 <p>Izbor besedil je narejen na podlagi izdaje Denis Diderot, <hi rend="italic"
                         >Pensées sur l'interprétation de la nature,</hi> ur. Colas Duflo,
                     Flammarion, Pariz 2004. Besedila Buffona in Maupertuisa so prevedena po natisu v
                     dodatku omenjene izdaje. Dva odlomka iz Buffonove uvodne razprave, ki sta iz te
@@ -548,14 +501,10 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                     Pariz 1981. Maupertuisov odgovor Diderotu je preveden po izdaji <hi
                         rend="italic">Œuvres de Maupertuis,</hi> 2. zv., Lyon 1768.</p>
             </div>
-            <pb n="(5)" xml:id="pb.5"/>
             <div type="contents">
+                <pb n="(5)" xml:id="pb.5"/>
                 <head><hi rend="bold">Kazalo</hi></head>
-                <!-- tabela je napaćno kodirana: posamezna vrstica ima dve ali pa samo eno celico. Dve možnosti:
-                     - dodamo prazno celico (popravil v prvi vrstici) ali
-                     - celica se razsteza čez oba stolpca (popravil v drugi vrstici z @cols='2').
-                -->
-                <table>
+                 <table>
                     <row>
                         <cell><hi rend="italic">Georges-Louis Leclerc de Buffon</hi></cell>
                         <cell/>
@@ -635,11 +584,10 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                     </row>
                 </table>
             </div>
-            <pb n="(6)" xml:id="pb.6"/>
-        </front>
+           </front>
         <body>
             <div type="chapter">
-                <pb n="(7)" xml:id="pb.7"/>
+                <pb n="(6-7)" xml:id="pb.7"/>
                 <byline><docAuthor>Georges-Louis Leclerc de Buffon</docAuthor></byline>
                 <head>Prirodopis v splošnem in posebnem oziru, z opisom Kraljeve zbirke</head>
                 <byline>prvi zvezek</byline>
@@ -870,14 +818,14 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                             place="bottom" xml:id="ftn7" n="7"> Fr. <hi rend="italic">arts:</hi> med
                             veščine v širšem smislu sodijo tako uporabne, gospodarske, "mehanične"
                             veščine kakor "lepe" veščine ali "lepe umetnosti" (<hi rend="italic"
-                                >beaux arts</hi>).</note> Ko bo nato postopoma in urejeno
-                        preiskoval različne predmete, ki tvorijo univerzum, in se postavil na čelo
-                        vseh ustvarjenih bitnosti, bo z začudenjem uvidel, da se te po skoraj
-                        nezaznavnih stopnjah spuščajo od najpopolnejšega bitja do najbolj
-                        brezoblične materije, od najbolj organizirane živali do najbolj grobega
-                        minerala. Spoznal bo, da so ti nezaznavni odtenki véliko delo Narave. Te
-                        odtenke bo najdeval ne le v velikostih in oblikah, ampak tudi v gibanju, v
-                        razmnoževanju, v vsakovrstnih zaporedjih.</p>
+                                >beaux arts</hi>).</note> Ko bo nato postopoma in urejeno preiskoval
+                        različne predmete, ki tvorijo univerzum, in se postavil na čelo vseh
+                        ustvarjenih bitnosti, bo z začudenjem uvidel, da se te po skoraj nezaznavnih
+                        stopnjah spuščajo od najpopolnejšega bitja do najbolj brezoblične materije,
+                        od najbolj organizirane živali do najbolj grobega minerala. Spoznal bo, da
+                        so ti nezaznavni odtenki véliko delo Narave. Te odtenke bo najdeval ne le v
+                        velikostih in oblikah, ampak tudi v gibanju, v razmnoževanju, v vsakovrstnih
+                        zaporedjih.</p>
                     <p>Če to idejo poglobimo, jasno vidimo, da je nemogoče podati neki splošen
                         sistem, neko popolno metodo, ne samo za prirodopis kot celoto, ampak tudi za
                         katerokoli od njegovih vej. Kajti če bi hoteli narediti neki sistem, neko
@@ -1548,26 +1496,25 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                             xml:id="pb.29"/>področju, in lahko si samo želimo, da bi nam zapustil
                         enako popolno delo o rastlinah in mineralih, vendar se dve knjigi o
                         rastlinah, ki mu ju pripisujejo nekateri avtorji, razlikujeta od drugih
-                        njegovih del in dejansko nista njegovi.<note place="end" n="*">Gl. Scaligerjev <hi
-                                    rend="italic">Komentar.</hi> [Opombe, označene z zvezdico, so
-                                avtorjeve. – Julius Caesar Scaliger (1484–1558), italijanski
-                                filolog, zdravnik in naravoslovec, ki je od leta 1525 živel v Agenu
-                                v Franciji. Izdal je komentar psevdoaristotelskega spisa <hi
-                                    rend="italic">De plantis</hi> (1556). Napisal je tudi posthumno
-                                objavljene komentarje Teofrastovega dela <hi rend="italic">De causis
-                                    plantarum</hi> (1566).]</note> Dejstvo je, da v njegovem
-                        času botanika ni bila pretirano v časteh. Grki in celo Rimljani je niso
-                        imeli za znanost, ki bi lahko stala sama zase in imela svoje lastno
-                        področje, ampak so jo obravnavali le v povezavi s poljedelstvom,
-                        vrtnarstvom, medicino in veščinami, in četudi je Aristotelov učenec Teofrast
-                        poznal več kot petsto rastlinskih rodov, Plinij pa jih navaja več kot tisoč,
-                        o teh rastlinah govorita samo zato, da nas poučita o načinih njihovega
-                        gojenja ali nam povesta, da se nekatere uporabljajo za pripravo drog,<note
-                            place="foot" xml:id="ftn22" n="22"> Droga: surovina za izdelavo ali
-                            pripravo zdravil.</note> da so druge uporabne v veščinah, da spet druge
-                        služijo za okras vrtov itn., z eno besedo, obravnavata jih le glede na
-                        korist, ki jo ima od njih človek, in si ne prizadevata, da bi jih natančno
-                        opisala.</p>
+                        njegovih del in dejansko nista njegovi.<note place="end" n="*" xml:id="etn1"
+                            >Gl. Scaligerjev <hi rend="italic">Komentar.</hi> [Opombe, označene z
+                            zvezdico, so avtorjeve. – Julius Caesar Scaliger (1484–1558),
+                            italijanski filolog, zdravnik in naravoslovec, ki je od leta 1525 živel
+                            v Agenu v Franciji. Izdal je komentar psevdoaristotelskega spisa <hi
+                                rend="italic">De plantis</hi> (1556). Napisal je tudi posthumno
+                            objavljene komentarje Teofrastovega dela <hi rend="italic">De causis
+                                plantarum</hi> (1566).]</note> Dejstvo je, da v njegovem času
+                        botanika ni bila pretirano v časteh. Grki in celo Rimljani je niso imeli za
+                        znanost, ki bi lahko stala sama zase in imela svoje lastno področje, ampak
+                        so jo obravnavali le v povezavi s poljedelstvom, vrtnarstvom, medicino in
+                        veščinami, in četudi je Aristotelov učenec Teofrast poznal več kot petsto
+                        rastlinskih rodov, Plinij pa jih navaja več kot tisoč, o teh rastlinah
+                        govorita samo zato, da nas poučita o načinih njihovega gojenja ali nam
+                        povesta, da se nekatere uporabljajo za pripravo drog,<note place="foot"
+                            xml:id="ftn22" n="22"> Droga: surovina za izdelavo ali pripravo
+                            zdravil.</note> da so druge uporabne v veščinah, da spet druge služijo
+                        za okras vrtov itn., z eno besedo, obravnavata jih le glede na korist, ki jo
+                        ima od njih človek, in si ne prizadevata, da bi jih natančno opisala.</p>
                     <p>Živalski prirodopis jim je bil bolje poznan od rastlinskega. Aleksander sam
                         je ukazal zbirati živali iz vseh dežel in si s tem delal velike stroške,
                         Aristotelu pa je omogočil njihovo natančno opazovanje. Aristotelovo delo
@@ -1994,15 +1941,12 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                             lahko dobesedno razumemo kot "služiti kot izvor [novih
                             generacij]".</note> Ali sta, kakor pravijo imenodajalci, pripadnika iste
                             <hi rend="italic">družine?</hi>
-                        <hi rend="endnote_reference">
-                            <seg rend="italic">
-                                <note place="end">
-                                    <hi rend="endnote_reference">*</hi>
-                                    <hi rend="italic">Equus cauda undique setosa,</hi> konj. <hi
-                                        rend="italic">Equus cauda extremo setosa,</hi> osel. Linné,
-                                        <hi rend="italic">Systema naturae.</hi> Class. I, ord.
-                                    4.</note>*</seg>
-                        </hi> Ali pa sta in sta vselej bila dve različni živali?</p>
+                        <seg rend="italic">
+                            <note place="end" xml:id="etn2" n="*">
+                                <hi rend="italic">Equus cauda undique setosa,</hi> konj. <hi
+                                    rend="italic">Equus cauda extremo setosa,</hi> osel. Linné, <hi
+                                    rend="italic">Systema naturae.</hi> Class. I, ord.
+                            4.</note>*</seg> Ali pa sta in sta vselej bila dve različni živali?</p>
                     <p>To vprašanje, katerega splošnosti, težavnosti in pomembnosti se bodo
                         naravoslovci dobro zavedali, in za katero menimo, da je prav, če ga
                         obravnavamo v tem geslu, ker se nam tu postavlja prvič, je tesneje od
@@ -2178,42 +2122,36 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                         tvori vrsto. Poleg teh splošnih variacij obstajajo še druge, ki so bolj
                         posebne in se kljub temu ohranjajo, na primer velikanske noge ljudstva, ki
                         ga imenujejo <hi rend="italic">rod svetega Tomaža</hi>
-                        <hi rend="endnote_reference">
-                            <seg rend="italic">
-                                <note place="end">
-                                    <hi rend="endnote_reference">*</hi> Glej tretji zvezek tega <hi
-                                        rend="italic">Prirodopisa;</hi> geslo <hi rend="italic"
-                                        >Variacije znotraj človeške vrste.</hi> [Gl. <hi
-                                        rend="italic">Histoire naturelle, générale et
-                                        particulière,</hi> 3. zv., 1749, str.
-                                371–530.].</note>*</seg>
-                        </hi>
+                        <seg rend="italic">
+                            <note place="end" n="*" xml:id="etn3"> Glej tretji zvezek tega <hi
+                                    rend="italic">Prirodopisa;</hi> geslo <hi rend="italic"
+                                    >Variacije znotraj človeške vrste.</hi> [Gl. <hi rend="italic"
+                                    >Histoire naturelle, générale et particulière,</hi> 3. zv.,
+                                1749, str. 371–530.].</note></seg>
                         <hi rend="italic"> z otoka Cejlona,</hi> rdeče oči in beli lasje Darijcev in
-                        Šakralcev, v nekaterih družinah šest<hi rend="endnote_reference">
-                            <note place="end">
-                                <hi rend="endnote_reference">**</hi> Za to nenavadno opažanje gl.
-                                pisma g. de Maupertuisa, kjer poleg tega najdemo več vzvišenih
-                                filozofskih idej o razmnoževanju in različnih drugih predmetih. [Gl.
-                                Maupertuis, <hi rend="italic">Lettres</hi>.]</note>**</hi> prstov na
-                        rokah in nogah itn. Te nenavadne variacije sodijo med naključne
-                        pomanjkljivosti ali čezmernosti, ki so se najprej pojavile pri določenih
-                        individuih in se nato širile iz roda v rod enako kot druge dedne hibe in
-                        bolezni. Toda te razlike, četudi stalne, je treba imeti zgolj za
-                        individualne variacije, ki individuov ne ločujejo od njihove vrste, saj se
-                        ti nenavadni rodovi ljudi z velikimi nogami ali s šestimi prsti lahko mešajo
-                        z običajnim rodom in dajo individue, ki se tudi sami razmnožujejo. Isto je
-                        treba reči za vse druge deformacije ali spačenosti, ki se prenašajo z očetov
-                        in mater na otroke. Tako daleč torej segajo zmote narave, tako široke so
-                        meje njenih variacij pri človeku. In če se pojavijo še bolj izrojeni
-                        individui, se ti ne razmnožujejo in tako ne spremenijo niti stalnosti niti
-                        enotnosti vrste. Tako je človek ena sama in ista vrsta in četudi je ta vrsta
-                        nemara najštevilnejša in najbogatejša v individuih in hkrati najbolj
-                        nedosledna in najbolj nepravilna v vsem svojem delovanju, ni videti, da bi
-                        vsa ta neizmerna raznolikost v gibanju, prehrani, podnebju in toliko drugih
-                        okoliščinah, ki si jih lahko zamislimo, kadarkoli proizvedla bitja, dovolj
-                        drugačna od drugih, da bi služila kot izvor novih rodov, in <pb n="45"
-                            xml:id="pb.45"/>hkrati dovolj podobna nam samim, da ne bi mogli zanikati
-                        njihove nekdanje pripadnosti.</p>
+                        Šakralcev, v nekaterih družinah šest <note place="end" n="**" xml:id="etn4">
+                            Za to nenavadno opažanje gl. pisma g. de Maupertuisa, kjer poleg tega
+                            najdemo več vzvišenih filozofskih idej o razmnoževanju in različnih
+                            drugih predmetih. [Gl. Maupertuis, <hi rend="italic"
+                            >Lettres</hi>.]</note>prstov na rokah in nogah itn. Te nenavadne
+                        variacije sodijo med naključne pomanjkljivosti ali čezmernosti, ki so se
+                        najprej pojavile pri določenih individuih in se nato širile iz roda v rod
+                        enako kot druge dedne hibe in bolezni. Toda te razlike, četudi stalne, je
+                        treba imeti zgolj za individualne variacije, ki individuov ne ločujejo od
+                        njihove vrste, saj se ti nenavadni rodovi ljudi z velikimi nogami ali s
+                        šestimi prsti lahko mešajo z običajnim rodom in dajo individue, ki se tudi
+                        sami razmnožujejo. Isto je treba reči za vse druge deformacije ali
+                        spačenosti, ki se prenašajo z očetov in mater na otroke. Tako daleč torej
+                        segajo zmote narave, tako široke so meje njenih variacij pri človeku. In če
+                        se pojavijo še bolj izrojeni individui, se ti ne razmnožujejo in tako ne
+                        spremenijo niti stalnosti niti enotnosti vrste. Tako je človek ena sama in
+                        ista vrsta in četudi je ta vrsta nemara najštevilnejša in najbogatejša v
+                        individuih in hkrati najbolj nedosledna in najbolj nepravilna v vsem svojem
+                        delovanju, ni videti, da bi vsa ta neizmerna raznolikost v gibanju,
+                        prehrani, podnebju in toliko drugih okoliščinah, ki si jih lahko zamislimo,
+                        kadarkoli proizvedla bitja, dovolj drugačna od drugih, da bi služila kot
+                        izvor novih rodov, in <pb n="45" xml:id="pb.45"/>hkrati dovolj podobna nam
+                        samim, da ne bi mogli zanikati njihove nekdanje pripadnosti.</p>
                     <p>Če črnec in belec skupaj ne bi mogla imeti potomcev ali če bi njuni potomci
                         ostali neplodni, če bi bil mulat pravi križanec, bi jasno imeli opravka z
                         dvema različnima vrstama. Črnec bi bil za človeka to, kar je osel za konja,
@@ -2648,25 +2586,22 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                 </div>
                 <div type="ss2">
                     <head>XXXI</head>
-                    <p>Toda če je Bog vsak najmanjši delec materije, vsak element,<hi
-                            rend="endnote_reference">
-                            <note place="end">
-                                <hi rend="endnote_reference">*</hi>
-                                <hi rend="italic">Elementi</hi> tukaj imenujem najmanjše delce, do
-                                katerih je mogoče deliti materijo, ne da bi se spuščal v vprašanje,
-                                ali je materija deljiva v neskončnost ali ne. [Diderot tak osnovni
-                                delec imenuje molekula. Gl. spodaj, <hi rend="italic">Misli o
-                                    interpretaciji narave,</hi> § L–LI, str. 102–106. Maupertuisovi
-                                    <hi rend="italic">elementi</hi> in Diderotove <hi rend="italic"
-                                    >molekule</hi> torej pomenijo isto. <hi rend="italic"
-                                    >Elementi</hi> je Diderotovo ime za heterogene zvrsti materije,
-                                kar je bližje današnji rabi.]</note>*</hi> obdaril z lastnostjo,
-                        podobno temu, kar v nas samih imenujemo želja, odpor, spomin, potem kljub
-                        temu, da so prvi individui nastali čudežno, velja, da so vsi drugi, ki so
-                        jim sledili, zgolj učinki teh lastnosti. Če se elementi, primerni za
-                        določeno telo, znajdejo skupaj v zadostni količini in na razdaljah, ki jim
-                        omogočajo medsebojno delovanje, se bodo združevali drug z drugim in tako
-                        nenehno nadomeščali telesa, ki jih univerzum izgublja.</p>
+                    <p>Toda če je Bog vsak najmanjši delec materije, vsak element, <note
+                            xml:id="etn5" n="*" place="end">
+                            <hi rend="italic">Elementi</hi> tukaj imenujem najmanjše delce, do
+                            katerih je mogoče deliti materijo, ne da bi se spuščal v vprašanje, ali
+                            je materija deljiva v neskončnost ali ne. [Diderot tak osnovni delec
+                            imenuje molekula. Gl. spodaj, <hi rend="italic">Misli o interpretaciji
+                                narave,</hi> § L–LI, str. 102–106. Maupertuisovi <hi rend="italic"
+                                >elementi</hi> in Diderotove <hi rend="italic">molekule</hi> torej
+                            pomenijo isto. <hi rend="italic">Elementi</hi> je Diderotovo ime za
+                            heterogene zvrsti materije, kar je bližje današnji rabi.]</note>obdaril
+                        z lastnostjo, podobno temu, kar v nas samih imenujemo želja, odpor, spomin,
+                        potem kljub temu, da so prvi individui nastali čudežno, velja, da so vsi
+                        drugi, ki so jim sledili, zgolj učinki teh lastnosti. Če se elementi,
+                        primerni za določeno telo, znajdejo skupaj v zadostni količini in na
+                        razdaljah, ki jim omogočajo medsebojno delovanje, se bodo združevali drug z
+                        drugim in tako nenehno nadomeščali telesa, ki jih univerzum izgublja.</p>
                 </div>
                 <div type="ss2">
                     <head>XXXII</head>
@@ -2913,15 +2848,13 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                         kar so za druge živali vse tiste živali, ki nastajajo zunaj običajnega
                         porajanja, na primer polipi, trakulje, gliste, jeguljice iz razmočene moke,
                         če je res, da so to zgolj sestavi delov, ki ne izhajajo iz nobene živali
-                        iste vrste.<hi rend="endnote_reference">
-                            <note place="end">
-                                <hi rend="endnote_reference">*</hi>
-                                <hi rend="italic">Prirodopis</hi> g. de Buffona, 2. zv., 8. in 9.
-                                pogl., str. 303 in 322, louvrska izdaja. [Gl. <hi rend="italic"
-                                    >Histoire naturelle, générale et particulière,</hi> 2. zv.,
-                                1749, str. 255–324. "Louvrska" izdaja je prva izdaja <hi
-                                    rend="italic">Prirodopisa</hi> iz Kraljeve tiskarne, Imprimerie
-                                royale.]</note>*</hi>]</p>
+                        iste vrste. <note place="end" n="*" xml:id="etn6">
+                            <hi rend="italic">Prirodopis</hi> g. de Buffona, 2. zv., 8. in 9. pogl.,
+                            str. 303 in 322, louvrska izdaja. [Gl. <hi rend="italic">Histoire
+                                naturelle, générale et particulière,</hi> 2. zv., 1749, str.
+                            255–324. "Louvrska" izdaja je prva izdaja <hi rend="italic"
+                                >Prirodopisa</hi> iz Kraljeve tiskarne, Imprimerie
+                        royale.]</note></p>
                 </div>
                 <div type="ss2">
                     <head>XLVII</head>
@@ -3295,31 +3228,28 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                 </div>
                 <div type="ss2">
                     <head>II</head>
-                    <p>Ena od resnic, ki jih v naših dneh razglašajo z največjo vnemo in
-                            odločnostjo<hi rend="endnote_reference">
-                            <note place="end">
-                                <hi rend="endnote_reference">*</hi> Glej <hi rend="italic"
-                                    >Prirodopis v splošnem in posebnem oziru,</hi> 1. zv., 1.
-                                razprava. [Gl. zgoraj, Buffon, "Prva razprava," str.
-                            7–38.]</note>*</hi> in bi jo moral vsak dober naravoslovec vselej imeti
-                        pred očmi, njene posledice pa bodo nedvomno kar najbolj koristne, se glasi,
-                        da je področje matematike svet uma in da resnice, ki imajo v tem svetu
-                        strogo veljavnost, to prednost popolnoma izgubijo, takoj ko jih privedemo na
-                        zemljo. Iz tega so <pb n="69" xml:id="pb.69"/>sklepali, da je naloga
-                        eksperimentalne filozofije, da korigira račune matematike, in to zdaj
-                        dopuščajo celo sami matematiki. Toda čemu matematični račun korigirati z
-                        izkustvom? Ali ne bi šlo hitreje, če bi se že od začetka držali rezultatov
-                        izkustva? Iz tega vidimo, da matematika, zlasti tista transcendentne
-                            vrste,<note place="bottom" xml:id="ftn61" n="8"> "<hi rend="italic"
-                                >Transcendentna matematika</hi> je ime za področje matematike, ki
-                            obravnava lastnosti krivulj vseh redov in za odkrivanje teh lastnosti
-                            uporablja najzapletenejšo analizo, to je diferencialni in integralski
-                            račun." (d'Alembert, TRANSCENDANT, ENC, 16. zv., 1765)</note> ne vodi do
-                        ničesar določnega, če je ne spremlja izkustvo; da je to zgolj neke vrste
-                        splošna metafizika, ki telesom odtegne njihove individualne lastnosti, in
-                        da, če drugega ne, potrebujemo debelo knjigo z naslovom <hi rend="italic"
-                            >Aplikacija izkustva na matematiko</hi> ali <hi rend="italic">Razprava o
-                            merskih odklonih</hi>.</p>
+                    <p>Ena od resnic, ki jih v naših dneh razglašajo z največjo vnemo in odločnostjo
+                            <note place="end" n="*" xml:id="etn7">Glej <hi rend="italic">Prirodopis
+                                v splošnem in posebnem oziru,</hi> 1. zv., 1. razprava. [Gl. zgoraj,
+                            Buffon, "Prva razprava," str. 7–38.]</note> in bi jo moral vsak dober
+                        naravoslovec vselej imeti pred očmi, njene posledice pa bodo nedvomno kar
+                        najbolj koristne, se glasi, da je področje matematike svet uma in da
+                        resnice, ki imajo v tem svetu strogo veljavnost, to prednost popolnoma
+                        izgubijo, takoj ko jih privedemo na zemljo. Iz tega so <pb n="69"
+                            xml:id="pb.69"/>sklepali, da je naloga eksperimentalne filozofije, da
+                        korigira račune matematike, in to zdaj dopuščajo celo sami matematiki. Toda
+                        čemu matematični račun korigirati z izkustvom? Ali ne bi šlo hitreje, če bi
+                        se že od začetka držali rezultatov izkustva? Iz tega vidimo, da matematika,
+                        zlasti tista transcendentne vrste,<note place="bottom" xml:id="ftn61" n="8">
+                                "<hi rend="italic">Transcendentna matematika</hi> je ime za področje
+                            matematike, ki obravnava lastnosti krivulj vseh redov in za odkrivanje
+                            teh lastnosti uporablja najzapletenejšo analizo, to je diferencialni in
+                            integralski račun." (d'Alembert, TRANSCENDANT, ENC, 16. zv.,
+                            1765)</note> ne vodi do ničesar določnega, če je ne spremlja izkustvo;
+                        da je to zgolj neke vrste splošna metafizika, ki telesom odtegne njihove
+                        individualne lastnosti, in da, če drugega ne, potrebujemo debelo knjigo z
+                        naslovom <hi rend="italic">Aplikacija izkustva na matematiko</hi> ali <hi
+                            rend="italic">Razprava o merskih odklonih</hi>.</p>
                 </div>
                 <div type="ss2">
                     <head>III</head>
@@ -3602,37 +3532,32 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                 <div type="ss2">
                     <head>XII</head>
                     <p>Videti je, da narava rada variira en in isti mehanizem na nešteto različnih
-                            načinov.<hi rend="endnote_reference">
-                            <note place="end">
-                                <hi rend="endnote_reference">*</hi> Glej <hi rend="italic"
-                                    >Prirodopis</hi>, 4. zv., "Poročilo o oslu", ter latinsko delce
-                                z naslovom <hi rend="italic">Dissertatio inauguralis metaphysica, de
-                                    universali Naturae systemate, pro gradu Doctoris habita</hi>,
-                                natisnjeno v Erlangnu leta 1751, ki ga je v Francijo leta 1753
-                                prinesel g. de M****. [Buffonovo poglavje "Osel" in Maupertuisov <hi
-                                    rend="italic">Esej o nastajanju organiziranih teles,</hi> gl.
-                                zgoraj. Diderot navaja latinsko verzijo Maupertuisovega spisa, ki je
-                                izšla pod imenom namišljenega doktorja Baumanna. V francoskem
-                                "prevodu" (1754) anonimni pisec predgovora omenja Maupertuisa, ki
-                                naj bi latinski spis prinesel v Francijo.]</note>*</hi> Neki rod
-                        svojih stvaritev opusti šele takrat, ko je njegove individue namnožila v
-                        vseh možnih oblikah. Ko preučujemo živalsko kraljestvo in opažamo, da med
-                        štirinožci ni enega samega, ki ne bi imel funkcij in delov, zlasti
-                        notranjih, popolnoma podobnih drugim štirinožcem, zlahka pridemo na misel,
-                        da je nekoč obstajala ena sama izvorna žival, pravzor vseh živali, ki ji je
-                        narava zgolj podaljšala, skrajšala, preoblikovala, namnožila ali zabrisala
-                        določene organe. Zamislimo si, da prste na človeški roki združimo in da je
-                        snovi, ki tvori nohte, tako veliko, da s tem, ko se razširi in nabrekne,
-                        obda in prekrije celoto dlani. Iz človeške roke bomo napravili konjsko
-                            kopito.<hi rend="endnote_reference">
-                            <note place="end">
-                                <hi rend="endnote_reference">**</hi> Glej <hi rend="italic"
-                                    >Prirodopis</hi>, 4. zv., "Opis konja" g. Daubentona. [<hi
-                                    rend="italic">Histoire naturelle, générale et particulière,</hi>
-                                4. zv., 1753, str. 258–367.]</note>**</hi> Ko vidimo bitja, nastala
-                        s postopnim preobražanjem ovoja tega pravzora, kakršenkoli je že bil, kako
-                        se po nezaznavnih stopnjah gibljejo od enega kraljestva do drugega in
-                        naseljujejo meje kraljestev (če sploh lahko uporabimo besedo <hi
+                        načinov. <note place="end" xml:id="etn8" n="*"> Glej <hi rend="italic"
+                                >Prirodopis</hi>, 4. zv., "Poročilo o oslu", ter latinsko delce z
+                            naslovom <hi rend="italic">Dissertatio inauguralis metaphysica, de
+                                universali Naturae systemate, pro gradu Doctoris habita</hi>,
+                            natisnjeno v Erlangnu leta 1751, ki ga je v Francijo leta 1753 prinesel
+                            g. de M****. [Buffonovo poglavje "Osel" in Maupertuisov <hi
+                                rend="italic">Esej o nastajanju organiziranih teles,</hi> gl.
+                            zgoraj. Diderot navaja latinsko verzijo Maupertuisovega spisa, ki je
+                            izšla pod imenom namišljenega doktorja Baumanna. V francoskem "prevodu"
+                            (1754) anonimni pisec predgovora omenja Maupertuisa, ki naj bi latinski
+                            spis prinesel v Francijo.]</note> Neki rod svojih stvaritev opusti šele
+                        takrat, ko je njegove individue namnožila v vseh možnih oblikah. Ko
+                        preučujemo živalsko kraljestvo in opažamo, da med štirinožci ni enega
+                        samega, ki ne bi imel funkcij in delov, zlasti notranjih, popolnoma podobnih
+                        drugim štirinožcem, zlahka pridemo na misel, da je nekoč obstajala ena sama
+                        izvorna žival, pravzor vseh živali, ki ji je narava zgolj podaljšala,
+                        skrajšala, preoblikovala, namnožila ali zabrisala določene organe. Zamislimo
+                        si, da prste na človeški roki združimo in da je snovi, ki tvori nohte, tako
+                        veliko, da s tem, ko se razširi in nabrekne, obda in prekrije celoto dlani.
+                        Iz človeške roke bomo napravili konjsko kopito. <note place="end" n="**"
+                            xml:id="etn9">Glej <hi rend="italic">Prirodopis</hi>, 4. zv., "Opis
+                            konja" g. Daubentona. [<hi rend="italic">Histoire naturelle, générale et
+                                particulière,</hi> 4. zv., 1753, str. 258–367.]</note> Ko vidimo
+                        bitja, nastala s postopnim preobražanjem ovoja tega pravzora, kakršenkoli je
+                        že bil, kako se po nezaznavnih stopnjah gibljejo od enega kraljestva do
+                        drugega in naseljujejo meje kraljestev (če sploh lahko uporabimo besedo <hi
                             rend="italic">meje</hi>, kjer ni nobene realne delitve), če torej te
                         meje kraljestev naseljujejo nedoločljiva, neulovljiva bitja, ki so že skoraj
                         popolnoma izgubila obliko, lastnosti in funkcije enega kraljestva in
@@ -3670,15 +3595,13 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                                 siècle.</hi>
                         </note> Tudi deli telesa, ki vsebujejo to tekočino, nam niso več neznani.
                         Opazili so nenavadne spremembe, do katerih pride v določenih organih samice,
-                        kadar jo sla poganja k samcu.<hi rend="endnote_reference">
-                            <note place="end">
-                                <hi rend="endnote_reference">*</hi> Gl. <hi rend="italic">Prirodopis
-                                    v splošnem in posebnem oziru,</hi> Razprava o razmnoževanju.
-                                    [<hi rend="italic">Histoire naturelle, générale et
-                                    particulière,</hi> 2. zv., 1749, str. 1–426.]</note>*</hi> Ko v
-                        spolnem odnosu primerjamo znake ugodja enega spola z znaki ugodja drugega in
-                        se prepričamo, da se naslada pri obeh dopolni z enako značilnimi, razločnimi
-                        in krčevitimi gibi, ne moremo dvomiti, da je pri obeh prisoten tudi podoben
+                        kadar jo sla poganja k samcu. <note place="end" n="*" xml:id="etn10">Gl. <hi
+                                rend="italic">Prirodopis v splošnem in posebnem oziru,</hi> Razprava
+                            o razmnoževanju. [<hi rend="italic">Histoire naturelle, générale et
+                                particulière,</hi> 2. zv., 1749, str. 1–426.]</note> Ko v spolnem
+                        odnosu primerjamo znake ugodja enega spola z znaki ugodja drugega in se
+                        prepričamo, da se naslada pri obeh dopolni z enako značilnimi, razločnimi in
+                        krčevitimi gibi, ne moremo dvomiti, da je pri obeh prisoten tudi podoben
                         izliv semenske tekočine. Toda kje in kako se ta izliv zgodi pri ženski? Kaj
                         se zgodi s tekočino? Po kateri poti gre? Vse to bomo izvedeli takrat, ko se
                         nam bo narava, ki ni enako skrivnostna v vsem in povsod, razkrila pri kaki
@@ -4657,34 +4580,31 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                                 >izumetničenost velikih mojstrov.</hi> Ta je kot tančica, ki jo ti
                             radi razprostrejo med ljudstvom in naravo. Četudi slavnim imenom
                             dolgujemo vse spoštovanje, bi rekel, da taka nejasnost vlada v nekaterih
-                                Stahlovih<hi rend="endnote_reference">
-                                <note place="end">
-                                    <hi rend="endnote_reference">*</hi>
-                                    <hi rend="italic">Specimen Becherianum; Zymotechnia;
-                                        Trecenta</hi>. Gl. geslo KEMIJA v 4. zv. <hi rend="italic"
-                                        >Enciklopedije</hi>. [Georg-Ernst Stahl (1660–1734),
-                                    zdravnik, kemik, profesor v Halleju in Berlinu, utemeljitelj
-                                    flogistonske teorije. Njegovo delo <hi rend="italic">Zymotechnia
-                                        fundamentalis sive fermentationis theoria generalis</hi>
-                                    (1697) obravnava teorijo fermentacije ali "cimotehniko", kvasno
-                                    tehnologijo. <hi rend="italic">Specimen Becherianum</hi> (1702)
-                                    je "kemijski kodeks," v katerem Stahl predstavi ideje svojega
-                                    učitelja Johanna Joachima Becherja (1635–1682). <hi
-                                        rend="italic">Trecenta:</hi> delo <hi rend="italic"
-                                        >Experimenta, Observationes, Animadversiones Trecenta numero
-                                        chymicae et physicae</hi> (1731). V geslu CHYMIE, ENC, 3.
-                                    zv. [sic], 1753, kemik Venel piše o Stahlu kot o geniju kemije
-                                    in deloma odobrava njegovo nejasnost.]</note>*</hi> delih in v
-                            Newtonovih <hi rend="italic">Matematičnih principih.</hi> Te knjige bi
-                            morale biti le razumljene, da bi bile ustrezno cenjene, in njihovima
-                            avtorjema ne bi vzelo več kot mesec dni časa, da bi jih napravila
-                            jasnejše. Ta mesec dni bi prihranil tri leta dela in izčrpavanja tisoč
-                            dobrim umom. Tako pa je šlo v nič kakih tri tisoč let, ki bi jih lahko
-                            porabili za kaj drugega. Filozofija se mora čim prej popularizirati. Če
-                            hočemo, da filozofi hodijo na čelu ljudstva, pripeljimo ljudstvo do
-                            točke, na kateri so filozofi. Če pa kdo trdi, da nekaterih del ni mogoče
-                            spraviti na doseg povprečnih duhov, samo kaže, da ne ve, kaj vse se da
-                            doseči z dobro metodo in vztrajno vajo.</p>
+                            Stahlovih <note place="end" n="*" xml:id="etn11">
+                                <hi rend="italic">Specimen Becherianum; Zymotechnia; Trecenta</hi>.
+                                Gl. geslo KEMIJA v 4. zv. <hi rend="italic">Enciklopedije</hi>.
+                                [Georg-Ernst Stahl (1660–1734), zdravnik, kemik, profesor v Halleju
+                                in Berlinu, utemeljitelj flogistonske teorije. Njegovo delo <hi
+                                    rend="italic">Zymotechnia fundamentalis sive fermentationis
+                                    theoria generalis</hi> (1697) obravnava teorijo fermentacije ali
+                                "cimotehniko", kvasno tehnologijo. <hi rend="italic">Specimen
+                                    Becherianum</hi> (1702) je "kemijski kodeks," v katerem Stahl
+                                predstavi ideje svojega učitelja Johanna Joachima Becherja
+                                (1635–1682). <hi rend="italic">Trecenta:</hi> delo <hi rend="italic"
+                                    >Experimenta, Observationes, Animadversiones Trecenta numero
+                                    chymicae et physicae</hi> (1731). V geslu CHYMIE, ENC, 3. zv.
+                                [sic], 1753, kemik Venel piše o Stahlu kot o geniju kemije in deloma
+                                odobrava njegovo nejasnost.]</note> delih in v Newtonovih <hi
+                                rend="italic">Matematičnih principih.</hi> Te knjige bi morale biti
+                            le razumljene, da bi bile ustrezno cenjene, in njihovima avtorjema ne bi
+                            vzelo več kot mesec dni časa, da bi jih napravila jasnejše. Ta mesec dni
+                            bi prihranil tri leta dela in izčrpavanja tisoč dobrim umom. Tako pa je
+                            šlo v nič kakih tri tisoč let, ki bi jih lahko porabili za kaj drugega.
+                            Filozofija se mora čim prej popularizirati. Če hočemo, da filozofi
+                            hodijo na čelu ljudstva, pripeljimo ljudstvo do točke, na kateri so
+                            filozofi. Če pa kdo trdi, da nekaterih del ni mogoče spraviti na doseg
+                            povprečnih duhov, samo kaže, da ne ve, kaj vse se da doseči z dobro
+                            metodo in vztrajno vajo.</p>
                         <p>Če naj bo nekaterim avtorjem dovoljena nejasnost, bi si drznil reči,
                             čeprav me bodo obtožili opravičevanja samega sebe, da to velja zgolj za
                             metafizike v pravem pomenu besede. Velike abstrakcije nosijo le šibko
@@ -5058,16 +4978,12 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                                 illarum perceptionibus confudit, et SUI CONSCIENTIAM perdidit, primi
                                 elementorum status memoria nulla superest, et nostra nobis origo
                                 omnino abdita manet.</hi>
-                            <hi rend="endnote_reference">
-                                <seg rend="italic">
-                                    <note place="end">
-                                        <hi rend="endnote_reference">*</hi> Za ta odlomek gl. § LII,
-                                        str. 78, ter prejšnje in naslednje strani za nadvse
-                                        pretanjeno in prepričljivo aplikacijo teh načel na druge
-                                        pojave. [Gl. zgoraj, Maupertuis, <hi rend="italic">Esej o
-                                            nastajanju organiziranih teles,</hi> § LII, str.
-                                        62.]</note>*</seg>
-                            </hi>
+                            <seg rend="italic">
+                                <note place="end" n="*" xml:id="etn12"> Za ta odlomek gl. § LII,
+                                    str. 78, ter prejšnje in naslednje strani za nadvse pretanjeno
+                                    in prepričljivo aplikacijo teh načel na druge pojave. [Gl.
+                                    zgoraj, Maupertuis, <hi rend="italic">Esej o nastajanju
+                                        organiziranih teles,</hi> § LII, str. 62.]</note></seg>
                         </p>
                         <p>Tu nas preseneča, da avtor ni opazil strašnih posledic svoje hipoteze,
                             ali če je te posledice opazil, da hipoteze ni opustil. Na tem mestu
@@ -5333,24 +5249,21 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                             domnevnem namenu te tekočine in o drugih sorodnih fizioloških idejah,
                                 <pb n="110" xml:id="pb.110"/>ko pa vem, da obstajajo moški, ki iz
                             svojih prsi iztiskajo mleko; ko anastomoza epigastričnih in mamarnih
-                                arterij<hi rend="endnote_reference">
-                                <note place="end">
-                                    <hi rend="endnote_reference">*</hi> To anatomsko odkritje, eno
-                                    najlepših našega časa, dolgujemo g. Bertinu. [Zdravnik
-                                    Éxupère-Joseph Bertin (1712–1781) je slovel po raziskavah
-                                    vaskularnega in limfnega sistema. Leta 1737 je Akademiji
-                                    znanosti poročal o svojih raziskavah omenjene anastomoze.
-                                    Odkritje je popisal v delu <hi rend="italic">Lettres sur le
-                                        nouveau système de la voix et sur les arthères
-                                        lymphatiques</hi> (1748).]</note>*</hi> dokazuje, da je prav
-                            mleko vzrok za otekanje grla, ki včasih ob približevanju menstruacije
-                            prizadene tudi mlada dekleta; ko je znano, da bi skoraj vsako dekle
-                            lahko dojilo, če bi se dalo sesati; in ko iz svoje izkušnje vem za
-                            žensko, ki je bila tako majhne rasti, da ji ni ustrezal noben moški,
-                            tako da je ostala devica in ni bila nikoli noseča, vendar so njene dojke
-                            tako močno nabreknile od mleka, da se je bilo treba zateči k običajnemu
-                            načinu, da so jo olajšali. Ali ni smešno poslušati anatome, ki
-                            poraščenost nekega določenega dela telesa z vso resnostjo pripisujejo
+                            arterij <note place="end" n="*" xml:id="etn13"> To anatomsko odkritje,
+                                eno najlepših našega časa, dolgujemo g. Bertinu. [Zdravnik
+                                Éxupère-Joseph Bertin (1712–1781) je slovel po raziskavah
+                                vaskularnega in limfnega sistema. Leta 1737 je Akademiji znanosti
+                                poročal o svojih raziskavah omenjene anastomoze. Odkritje je popisal
+                                v delu <hi rend="italic">Lettres sur le nouveau système de la voix
+                                    et sur les arthères lymphatiques</hi> (1748).]</note> dokazuje,
+                            da je prav mleko vzrok za otekanje grla, ki včasih ob približevanju
+                            menstruacije prizadene tudi mlada dekleta; ko je znano, da bi skoraj
+                            vsako dekle lahko dojilo, če bi se dalo sesati; in ko iz svoje izkušnje
+                            vem za žensko, ki je bila tako majhne rasti, da ji ni ustrezal noben
+                            moški, tako da je ostala devica in ni bila nikoli noseča, vendar so
+                            njene dojke tako močno nabreknile od mleka, da se je bilo treba zateči k
+                            običajnemu načinu, da so jo olajšali. Ali ni smešno poslušati anatome,
+                            ki poraščenost nekega določenega dela telesa z vso resnostjo pripisujejo
                             sramežljivosti narave, ko pa je ta na isti način pokrila tudi druge
                             predele, na katerih ni ničesar nespodobnega? Uporabnost, ki jo temu
                             pojavu pripisujejo drugi anatomi, je nekoliko manj v čast sramežljivosti
@@ -5802,17 +5715,15 @@ ISBN 978-961-05-0064-3 (epub)<br/>]]></p>
                             lahko doktor Baumann, ko ga g. Diderot sprašuje, ali je univerzum
                             celota, odgovori z da ali z ne, kakor pričakuje g. Diderot. Če odgovori
                             z ne, nič bolj ne tvega in ga nič bolj ni strah, da bo omajal obstoj
-                            Boga, kakor je to veljalo za nekatere najbolj pobožne avtorje,<hi
-                                rend="endnote_reference">
-                                <note place="end">
-                                    <hi rend="endnote_reference">*</hi> Malebranche
-                                idr.</note>*</hi> ki univerzuma še zdaleč niso imeli za pravilno
-                            celoto, ampak za kup ruševin, kjer na vsakem koraku srečamo vsakovrsten
-                            nered: fizikalni nered, metafizični nered, moralni nered. Če pa doktor
-                            odgovori, da univerzum tvori celoto, iz tega še ne sledi, da zato, ker v
-                            nekaterih posebnih telesih, kot so telesa živali, elementarne zaznave
-                            sodelujejo in oblikujejo eno samo zaznavo, to združevanje zaznav nujno
-                            velja za celotni univerzum. Ta način sklepanja, ki ga g. Diderot imenuje
+                            Boga, kakor je to veljalo za nekatere najbolj pobožne avtorje, <note
+                                xml:id="etn14" n="*" place="end"> Malebranche idr.</note> ki
+                            univerzuma še zdaleč niso imeli za pravilno celoto, ampak za kup
+                            ruševin, kjer na vsakem koraku srečamo vsakovrsten nered: fizikalni
+                            nered, metafizični nered, moralni nered. Če pa doktor odgovori, da
+                            univerzum tvori celoto, iz tega še ne sledi, da zato, ker v nekaterih
+                            posebnih telesih, kot so telesa živali, elementarne zaznave sodelujejo
+                            in oblikujejo eno samo zaznavo, to združevanje zaznav nujno velja za
+                            celotni univerzum. Ta način sklepanja, ki ga g. Diderot imenuje
                             posplošenje in ga ima za preskusni kamen vsakega sistema, je zgolj vrsta
                             analogije, ki jo lahko upravičeno ustavimo, kadarkoli hočemo, in ki ne
                             more dokazati ne zmotnosti ne resničnosti nekega sistema.</p>
