@@ -1,0 +1,190 @@
+
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="pub-id"
+         version="3.0"
+         prefix="rendition: http://www.idpf.org/vocab/rendition#">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Kras in Brkini za radovedneže in ljubitelje</dc:title>
+      <meta property="rendition:layout">reflowable</meta>
+      <meta property="rendition:spread">auto</meta>
+      <meta refines="#title" property="title-type">main</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Jasna Fakin Bajec &amp;
+         Oto Luthar</dc:creator>
+      <meta refines="#creator" property="file-as"> Fakin Bajec, Jasna &amp; Luthar, Oto</meta>
+      <meta refines="#creator" property="role" scheme="marc:relators">edt</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">slv</dc:language>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Kras</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Brkini</dc:subject>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id"
+         >9789610500452</dc:identifier>
+      <meta refines="#pub-id"
+            property="identifier-type"
+            scheme="onix:codelist5">15</meta>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">&lt;p>Knjiga o
+         Krasu in Brkinih je (2014) nastala v zbirki kratkih predstavitev naravne in kulturne
+         dediščine slovenskih pokrajin in se tako pridružila knjigi o &lt;a
+         href="http://zalozba.zrc-sazu.si/p/536">Prekmurju&lt;/a>. Predstavljena gesla razgrinjajo
+         poleg naravnih in kulturnih zanimivosti tudi drobne detajle življenja ljudi, ki se
+         navadno v obsežnejših monografijah izgubijo, pa vendar odstirajo bistveno bolj
+         zanimive zgodbe in velikokrat kažejo zmotne ali celo izmišljene predstave o tamkajšnjem
+         življenju. Čeprav sta Kras in Brkini mnogokrat v očeh gostov, pa naj gre za domače
+         obiskovalce ali tuje turiste, označeni kot očarljivi, avtentični, zanimivi, celo
+         skrivnostni pokrajini, pogled od blizu razkriva nekoliko drugačno podobo. Kot del
+         Primorske sta bili od nekdaj tesno upravno, kulturno in naravno povezani, kar simbolizira
+         že reka Reka, pa vendar tudi zelo edinstveni, kar se kaže v prvinah stavbarstva, narečja in
+         načina obdelovanja zemlje. Namen knjige je bralce in popotnike opozoriti na morda preveč
+         romantizirano podobo o pokrajinah ter jih privabiti na nekoliko nepoznane predele, ki
+         kažejo bogato kulturno in naravno pestrost slovenskih pokrajin.&lt;/p></dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">&lt;p style="color:
+         grey">The book (‘Karst and Brkini for the Curious and the Keen') was written (originaly
+         published in 2014) as part of a collection of short presentations of natural and cultural
+         heritage of Slovenian regions and as such joined the book about&lt;a
+         href="http://zalozba.zrc-sazu.si/p/536">Prekmurje&lt;/a>. Book entries unveil natural and
+         cultural curiosities as well as small details of people's lives which are usually lost in
+         extensive monographs although they reveal significantly more interesting stories and often
+         disclose wrong ideas or even made-up images of the life in the regions. In the eyes of
+         visitors, both local or foreign, the Karst and the Brkini are often considered charming,
+         authentic, interesting and even mysterious; however, upon a closer look, the two regions
+         reveal a slightly different idea. As part of the Primorska region, they have always been
+         closely connected in terms of administration, culture and nature (also by the river Reka),
+         but at the same time very unique in terms of architecture, dialect and land cultivation.
+         The aim of the book is to make readers and travellers aware that the image of the regions
+         might be too romanticized and invite them to rather unknown places which show a rich
+         cultural and natural variety of Slovenian regions.&lt;/p></dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="publisher">Založba ZRC, ZRC
+         SAZU</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2014-11-17</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2014, 2018 Založba ZRC, ZRC
+         SAZU</dc:rights>
+       <meta name="cover" content="cover-image"/>
+      <meta property="dcterms:modified">2018-01-30T15:24:33Z</meta>
+   </metadata>
+   <manifest>
+      <item href="media/Kras in Brkini_naslovna.jpg"
+            id="cover-image"
+            properties="cover-image"
+            media-type="image/jpeg"/>
+      <item id="css" href="stylesheet.css" media-type="text/css"/>
+      <item id="print.css" href="print.css" media-type="text/css"/>
+      <item href="titlepage.html"
+            id="titlepage"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage1.html"
+            id="titlepage1"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage2.html"
+            id="titlepage2"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepageback.html"
+            id="titlepageback"
+            media-type="application/xhtml+xml"/>
+      <item id="toc"
+            properties="nav"
+            href="toc.html"
+            media-type="application/xhtml+xml"/>
+      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.html"
+            media-type="application/xhtml+xml"
+            id="section1"/>
+      <item href="index-front.1_div.2.html"
+            media-type="application/xhtml+xml"
+            id="section2"/>
+      <item href="index-front.1_div.3.html"
+            media-type="application/xhtml+xml"
+            id="section3"/>
+      <item href="index-body.1_div.1.html"
+            media-type="application/xhtml+xml"
+            id="section4"/>
+      <item href="index-body.1_div.2.html"
+            media-type="application/xhtml+xml"
+            id="section27"/>
+      <item href="index-body.1_div.3.html"
+            media-type="application/xhtml+xml"
+            id="section62"/>
+      <item href="index-back.1_div.1.html"
+            media-type="application/xhtml+xml"
+            id="section83"/>
+      <item href="index-back.1_div.2.html"
+            media-type="application/xhtml+xml"
+            id="section85"/>
+      <item href="index-back.1_div.3.html"
+            media-type="application/xhtml+xml"
+            id="section86"/>
+      <item href="media/imageZRC.jpeg" id="image-1" media-type="image/jpeg"/>
+      <item href="media/Kras in Brkini_zadnja.jpg"
+            id="image-4"
+            media-type="image/jpeg"/>
+      <item href="media/imageZRC.jpeg" id="image-5" media-type="image/jpeg"/>
+      <item href="media/imageZRC.jpeg" id="image-7" media-type="image/jpeg"/>
+      <item href="media/KB18.jpeg" id="image-8" media-type="image/jpeg"/>
+      <item href="media/KB44.jpeg" id="image-9" media-type="image/jpeg"/>
+      <item href="media/KB56.jpeg" id="image-10" media-type="image/jpeg"/>
+      <item href="media/KB64.jpeg" id="image-11" media-type="image/jpeg"/>
+      <item href="media/KB70.jpeg" id="image-12" media-type="image/jpeg"/>
+      <item href="media/KB74.jpeg" id="image-13" media-type="image/jpeg"/>
+      <item href="media/KB78.jpg" id="image-14" media-type="image/jpeg"/>
+      <item href="media/KB85.jpeg" id="image-15" media-type="image/jpeg"/>
+      <item href="media/KB92.png" id="image-16" media-type="image/png"/>
+      <item href="media/KB104.jpeg" id="image-17" media-type="image/jpeg"/>
+      <item href="media/KB114.jpeg" id="image-18" media-type="image/jpeg"/>
+      <item href="media/KB132.jpeg" id="image-19" media-type="image/jpeg"/>
+      <item href="media/KB140.jpeg" id="image-20" media-type="image/jpeg"/>
+      <item href="media/KB144.jpeg" id="image-21" media-type="image/jpeg"/>
+      <item href="media/KB150.jpeg" id="image-22" media-type="image/jpeg"/>
+      <item href="media/KB160.jpeg" id="image-23" media-type="image/jpeg"/>
+      <item href="media/KB166.jpeg" id="image-24" media-type="image/jpeg"/>
+      <item href="media/KB182.jpeg" id="image-25" media-type="image/jpeg"/>
+      <item href="media/KB188.jpeg" id="image-26" media-type="image/jpeg"/>
+      <item href="media/KB194.jpeg" id="image-27" media-type="image/jpeg"/>
+      <item href="media/KB200.jpeg" id="image-28" media-type="image/jpeg"/>
+      <item href="media/KB205.jpeg" id="image-29" media-type="image/jpeg"/>
+      <item href="media/KB208.jpeg" id="image-30" media-type="image/jpeg"/>
+      <item href="media/KB212.jpeg" id="image-31" media-type="image/jpeg"/>
+      <item href="media/KB231.jpeg" id="image-32" media-type="image/jpeg"/>
+      <item href="media/KB236.jpeg" id="image-33" media-type="image/jpeg"/>
+      <item href="media/KB264.jpeg" id="image-34" media-type="image/jpeg"/>
+      <item href="media/KB268.jpeg" id="image-35" media-type="image/jpeg"/>
+      <item href="media/KB272.jpeg" id="image-36" media-type="image/jpeg"/>
+      <item href="media/KB280.jpeg" id="image-37" media-type="image/jpeg"/>
+      <item href="media/KB286.jpeg" id="image-38" media-type="image/jpeg"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="titlepage1" linear="yes"/>
+      <itemref idref="titlepage2" linear="yes"/>
+      <itemref idref="start" linear="yes"/>
+      <itemref idref="section1" linear="yes"/>
+      <itemref idref="section2" linear="yes"/>
+      <itemref idref="section3" linear="yes"/>
+      <itemref idref="section4" linear="yes"/>
+      <itemref idref="section27" linear="yes"/>
+      <itemref idref="section62" linear="yes"/>
+      <itemref idref="section83" linear="yes"/>
+      <itemref idref="section85" linear="yes"/>
+      <itemref idref="section86" linear="yes"/>
+      <itemref idref="titlepageback" linear="no"/>
+   </spine>
+   <guide>
+      <reference type="text" href="titlepage.html" title="Cover"/>
+      <reference type="text" title="Start" href="index.html"/>
+      <reference type="text" href="index-front.1_div.1.html" title=""/>
+      <reference type="text" href="index-front.1_div.2.html" title="KAZALO"/>
+      <reference type="text"
+                 href="index-front.1_div.3.html"
+                 title="Kraška planota in Brkini, Brkini in kraška planota: Razlike in podobnosti, znano in neznano"/>
+      <reference type="text"
+                 href="index-body.1_div.1.html"
+                 title="NARAVNA DEDIŠČINA"/>
+      <reference type="text"
+                 href="index-body.1_div.2.html"
+                 title="KULTURNA DEDIŠČINA"/>
+      <reference type="text" href="index-body.1_div.3.html" title="ŽIVA DEDIŠČINA"/>
+      <reference type="text" href="index-back.1_div.1.html" title=""/>
+      <reference type="text" href="index-back.1_div.2.html" title=""/>
+      <reference type="text" href="index-back.1_div.3.html" title=""/>
+      <reference href="titlepageback.html" type="text" title="About this book"/>
+   </guide>
+</package>
