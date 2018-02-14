@@ -14,7 +14,6 @@
                     </persName>
                 </author>
             </titleStmt>
-            
             <extent>???636 kB XML; 220 kB JPG; ????411.616 znakov besedila</extent>
             <publicationStmt>
                 <publisher>Založba ZRC<figure corresp="naslovnica">
@@ -43,8 +42,6 @@
                         without the prior permission of the publisher.</licence>
                 </availability>
             </publicationStmt>
-            
-            
             <sourceDesc corresp="vir">
                 <biblFull corresp="kolofon knjige">
                     <titleStmt corresp="naslov in avtorstva">

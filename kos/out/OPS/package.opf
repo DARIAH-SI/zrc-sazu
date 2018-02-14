@@ -10,10 +10,8 @@
       <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:spread">auto</meta>
       <meta refines="#title" property="title-type">main</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">DušanKosDušanKos</dc:creator>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">DušanKos</dc:creator>
       <meta refines="#creator" property="file-as">
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName">Dušan</span>Kos</span>
          <span xmlns="http://www.w3.org/1999/xhtml" class="name">
             <span class="persName">Dušan</span>Kos</span>
       </meta>
@@ -27,17 +25,17 @@
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">vrednote</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ljubezen</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">kulturna zgodovina</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">ISBN 978-961-05-????-?</dc:identifier>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">ISBN 978-961-05-0062-9</dc:identifier>
       <meta refines="#pub-id"
             property="identifier-type"
             scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Ljubezen, greh in kazen / DušanKosDušanKos</dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Ljubezen, greh in kazen / DušanKos</dc:description>
       <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC, Za založnikaOtoLuthar, Glavni urednik založbeAlešPogačnik</dc:publisher>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2017-09-18</dc:date>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-10-24</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-01-30T15:23:31Z</meta>
+      <meta property="dcterms:modified">2018-02-14T17:40:41Z</meta>
    </metadata>
    <manifest>
       <item href="media/kos1.jpg"
@@ -51,9 +49,6 @@
             media-type="application/xhtml+xml"/>
       <item href="titlepage1.html"
             id="titlepage1"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage2.html"
-            id="titlepage2"
             media-type="application/xhtml+xml"/>
       <item href="titlepageback.html"
             id="titlepageback"
@@ -75,36 +70,39 @@
       <item href="index-front.1_div.4.html"
             media-type="application/xhtml+xml"
             id="section5"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-front.1_div.5.html"
             media-type="application/xhtml+xml"
             id="section6"/>
+      <item href="index-body.1_div.1.html"
+            media-type="application/xhtml+xml"
+            id="section7"/>
       <item href="index-body.1_div.2.html"
             media-type="application/xhtml+xml"
-            id="section15"/>
+            id="section16"/>
       <item href="index-body.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section51"/>
+            id="section52"/>
       <item href="index-body.1_div.4.html"
             media-type="application/xhtml+xml"
-            id="section59"/>
+            id="section60"/>
       <item href="index-body.1_div.5.html"
             media-type="application/xhtml+xml"
-            id="section80"/>
+            id="section81"/>
       <item href="index-body.1_div.6.html"
             media-type="application/xhtml+xml"
-            id="section116"/>
+            id="section117"/>
       <item href="index-back.1_div.1.html"
             media-type="application/xhtml+xml"
-            id="section117"/>
+            id="section118"/>
       <item href="index-back.1_div.2.html"
             media-type="application/xhtml+xml"
-            id="section118"/>
+            id="section119"/>
       <item href="index-back.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section123"/>
+            id="section124"/>
       <item href="index-back.1_div.4.html"
             media-type="application/xhtml+xml"
-            id="section124"/>
+            id="section125"/>
       <item href="media/kos2.jpg" id="image-3" media-type="image/jpeg"/>
       <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
       <item href="media/imageZRC.jpeg" id="image-6" media-type="image/jpeg"/>
@@ -113,32 +111,33 @@
    <spine toc="ncx">
       <itemref idref="titlepage" linear="yes"/>
       <itemref idref="titlepage1" linear="yes"/>
-      <itemref idref="titlepage2" linear="yes"/>
       <itemref idref="start" linear="yes"/>
       <itemref idref="section1" linear="yes"/>
       <itemref idref="section2" linear="yes"/>
       <itemref idref="section4" linear="yes"/>
       <itemref idref="section5" linear="yes"/>
       <itemref idref="section6" linear="yes"/>
-      <itemref idref="section15" linear="yes"/>
-      <itemref idref="section51" linear="yes"/>
-      <itemref idref="section59" linear="yes"/>
-      <itemref idref="section80" linear="yes"/>
-      <itemref idref="section116" linear="yes"/>
+      <itemref idref="section7" linear="yes"/>
+      <itemref idref="section16" linear="yes"/>
+      <itemref idref="section52" linear="yes"/>
+      <itemref idref="section60" linear="yes"/>
+      <itemref idref="section81" linear="yes"/>
       <itemref idref="section117" linear="yes"/>
       <itemref idref="section118" linear="yes"/>
-      <itemref idref="section123" linear="yes"/>
+      <itemref idref="section119" linear="yes"/>
       <itemref idref="section124" linear="yes"/>
-      <itemref idref="titlepageback" linear="no"/>
+      <itemref idref="section125" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
       <reference type="text" href="titlepage.html" title="Cover"/>
       <reference type="text" title="Start" href="index.html"/>
       <reference type="text" href="index-front.1_div.1.html" title=""/>
       <reference type="text" href="index-front.1_div.2.html" title=""/>
-      <reference type="text" href="index-front.1_div.3.html" title="Kazalo"/>
+      <reference type="text" href="index-front.1_div.3.html" title=""/>
+      <reference type="text" href="index-front.1_div.4.html" title="Kazalo"/>
       <reference type="text"
-                 href="index-front.1_div.4.html"
+                 href="index-front.1_div.5.html"
                  title="Uvod: zakonska zveza, kriminal in morala"/>
       <reference type="text"
                  href="index-body.1_div.1.html"

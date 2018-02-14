@@ -10,10 +10,8 @@
       <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:spread">auto</meta>
       <meta refines="#title" property="title-type">main</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">RokBenčinRokBenčin</dc:creator>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">RokBenčin</dc:creator>
       <meta refines="#creator" property="file-as">
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName">Rok</span>Benčin</span>
          <span xmlns="http://www.w3.org/1999/xhtml" class="name">
             <span class="persName">Rok</span>Benčin</span>
       </meta>
@@ -30,17 +28,17 @@
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">fenomenologija</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">reprezentacija</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">fikcija</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">ISBN 978-961-05-????-?</dc:identifier>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">978-961-05-0063-6</dc:identifier>
       <meta refines="#pub-id"
             property="identifier-type"
             scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Okna brez monad. Estetika od Heideggerja do Rancièra / RokBenčinRokBenčin</dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Okna brez monad. Estetika od Heideggerja do Rancièra / RokBenčin</dc:description>
       <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC, Za založnikaOtoLuthar, Glavni urednik založbeAlešPogačnik</dc:publisher>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2015-04-08</dc:date>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-08-29</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-01-30T15:29:31Z</meta>
+      <meta property="dcterms:modified">2018-02-14T17:55:10Z</meta>
    </metadata>
    <manifest>
       <item href="media/okna1.jpg"
@@ -54,9 +52,6 @@
             media-type="application/xhtml+xml"/>
       <item href="titlepage1.html"
             id="titlepage1"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage2.html"
-            id="titlepage2"
             media-type="application/xhtml+xml"/>
       <item href="titlepageback.html"
             id="titlepageback"
@@ -78,30 +73,33 @@
       <item href="index-front.1_div.4.html"
             media-type="application/xhtml+xml"
             id="section4"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-front.1_div.5.html"
             media-type="application/xhtml+xml"
             id="section5"/>
-      <item href="index-body.1_div.2.html"
+      <item href="index-body.1_div.1.html"
             media-type="application/xhtml+xml"
             id="section6"/>
+      <item href="index-body.1_div.2.html"
+            media-type="application/xhtml+xml"
+            id="section7"/>
       <item href="index-body.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section13"/>
+            id="section14"/>
       <item href="index-body.1_div.4.html"
             media-type="application/xhtml+xml"
-            id="section18"/>
+            id="section19"/>
       <item href="index-back.1_div.1.html"
             media-type="application/xhtml+xml"
-            id="section22"/>
+            id="section23"/>
       <item href="index-back.1_div.2.html"
             media-type="application/xhtml+xml"
-            id="section23"/>
+            id="section24"/>
       <item href="index-back.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section24"/>
+            id="section25"/>
       <item href="index-back.1_div.4.html"
             media-type="application/xhtml+xml"
-            id="section25"/>
+            id="section26"/>
       <item href="media/okna2.jpg" id="image-3" media-type="image/jpeg"/>
       <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
       <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
@@ -109,7 +107,6 @@
    <spine toc="ncx">
       <itemref idref="titlepage" linear="yes"/>
       <itemref idref="titlepage1" linear="yes"/>
-      <itemref idref="titlepage2" linear="yes"/>
       <itemref idref="start" linear="yes"/>
       <itemref idref="section1" linear="yes"/>
       <itemref idref="section2" linear="yes"/>
@@ -117,13 +114,14 @@
       <itemref idref="section4" linear="yes"/>
       <itemref idref="section5" linear="yes"/>
       <itemref idref="section6" linear="yes"/>
-      <itemref idref="section13" linear="yes"/>
-      <itemref idref="section18" linear="yes"/>
-      <itemref idref="section22" linear="yes"/>
+      <itemref idref="section7" linear="yes"/>
+      <itemref idref="section14" linear="yes"/>
+      <itemref idref="section19" linear="yes"/>
       <itemref idref="section23" linear="yes"/>
       <itemref idref="section24" linear="yes"/>
       <itemref idref="section25" linear="yes"/>
-      <itemref idref="titlepageback" linear="no"/>
+      <itemref idref="section26" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
       <reference type="text" href="titlepage.html" title="Cover"/>
@@ -131,7 +129,8 @@
       <reference type="text" href="index-front.1_div.1.html" title=""/>
       <reference type="text" href="index-front.1_div.2.html" title=""/>
       <reference type="text" href="index-front.1_div.3.html" title=""/>
-      <reference type="text" href="index-front.1_div.4.html" title="VSEBINA"/>
+      <reference type="text" href="index-front.1_div.4.html" title=""/>
+      <reference type="text" href="index-front.1_div.5.html" title="VSEBINA"/>
       <reference type="text" href="index-body.1_div.1.html" title="Uvod"/>
       <reference type="text"
                  href="index-body.1_div.2.html"

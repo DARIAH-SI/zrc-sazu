@@ -10,11 +10,8 @@
       <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:spread">auto</meta>
       <meta refines="#title" property="title-type">main</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator"> Karl Kastl Karl Kastl</dc:creator>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator"> Karl Kastl</dc:creator>
       <meta refines="#creator" property="file-as">
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName"> Karl Kastl</span>
-         </span>
          <span xmlns="http://www.w3.org/1999/xhtml" class="name">
             <span class="persName"> Karl Kastl</span>
          </span>
@@ -31,17 +28,17 @@
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">bitka pri Kraljevem Gradcu 1866</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">vojaška zgodovina</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">19.st.</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">ISBN 978-961-05-????-?</dc:identifier>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">978-961-05-0061-2</dc:identifier>
       <meta refines="#pub-id"
             property="identifier-type"
             scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Moja doživetja z bojnega pohoda proti Prusiji leta 1866 / Meine Erlebnisse aus dem Feldzug gegen Preussen 1866 /  Karl Kastl Karl Kastl</dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Moja doživetja z bojnega pohoda proti Prusiji leta 1866 / Meine Erlebnisse aus dem Feldzug gegen Preussen 1866 /  Karl Kastl</dc:description>
       <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Zgodovinski inštitut Milka Kosa ZRC SAZU, Za izdajateljaPetraSvoljšak, Založba ZRC, Za založnikaOtoLuthar, Glavni urednik založbeAlešPogačnik</dc:publisher>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2016-06-09</dc:date>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2016-08-29</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-01-30T15:21:35Z</meta>
+      <meta property="dcterms:modified">2018-02-14T17:35:09Z</meta>
    </metadata>
    <manifest>
       <item href="media/image1.png"
@@ -55,9 +52,6 @@
             media-type="application/xhtml+xml"/>
       <item href="titlepage1.html"
             id="titlepage1"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage2.html"
-            id="titlepage2"
             media-type="application/xhtml+xml"/>
       <item href="titlepageback.html"
             id="titlepageback"
@@ -79,27 +73,30 @@
       <item href="index-front.1_div.4.html"
             media-type="application/xhtml+xml"
             id="section5"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-front.1_div.5.html"
             media-type="application/xhtml+xml"
             id="section6"/>
-      <item href="index-body.1_div.2.html"
+      <item href="index-body.1_div.1.html"
             media-type="application/xhtml+xml"
             id="section7"/>
-      <item href="index-body.1_div.3.html"
+      <item href="index-body.1_div.2.html"
             media-type="application/xhtml+xml"
             id="section8"/>
+      <item href="index-body.1_div.3.html"
+            media-type="application/xhtml+xml"
+            id="section9"/>
       <item href="index-body.1_div.4.html"
             media-type="application/xhtml+xml"
-            id="section19"/>
+            id="section20"/>
       <item href="index-body.1_div.5.html"
             media-type="application/xhtml+xml"
-            id="section49"/>
+            id="section50"/>
       <item href="index-body.1_div.6.html"
             media-type="application/xhtml+xml"
-            id="section64"/>
+            id="section65"/>
       <item href="index-body.1_div.7.html"
             media-type="application/xhtml+xml"
-            id="section65"/>
+            id="section66"/>
       <item href="media/image38.jpeg" id="image-3" media-type="image/jpeg"/>
       <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
       <item href="media/image2.jpeg" id="image-6" media-type="image/jpeg"/>
@@ -143,7 +140,6 @@
    <spine toc="ncx">
       <itemref idref="titlepage" linear="yes"/>
       <itemref idref="titlepage1" linear="yes"/>
-      <itemref idref="titlepage2" linear="yes"/>
       <itemref idref="start" linear="yes"/>
       <itemref idref="section1" linear="yes"/>
       <itemref idref="section2" linear="yes"/>
@@ -152,20 +148,22 @@
       <itemref idref="section6" linear="yes"/>
       <itemref idref="section7" linear="yes"/>
       <itemref idref="section8" linear="yes"/>
-      <itemref idref="section19" linear="yes"/>
-      <itemref idref="section49" linear="yes"/>
-      <itemref idref="section64" linear="yes"/>
+      <itemref idref="section9" linear="yes"/>
+      <itemref idref="section20" linear="yes"/>
+      <itemref idref="section50" linear="yes"/>
       <itemref idref="section65" linear="yes"/>
-      <itemref idref="titlepageback" linear="no"/>
+      <itemref idref="section66" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
       <reference type="text" href="titlepage.html" title="Cover"/>
       <reference type="text" title="Start" href="index.html"/>
       <reference type="text" href="index-front.1_div.1.html" title=""/>
       <reference type="text" href="index-front.1_div.2.html" title=""/>
-      <reference type="text" href="index-front.1_div.3.html" title="KAZALO"/>
+      <reference type="text" href="index-front.1_div.3.html" title=""/>
+      <reference type="text" href="index-front.1_div.4.html" title="KAZALO"/>
       <reference type="text"
-                 href="index-front.1_div.4.html"
+                 href="index-front.1_div.5.html"
                  title="BITKA, KI JE SPREMENILA (TUDI SLOVENSKO) ZGODOVINO"/>
       <reference type="text"
                  href="index-body.1_div.1.html"

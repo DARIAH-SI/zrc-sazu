@@ -11,7 +11,6 @@
                     <persName><forename>Karl</forename><surname>Kastl</surname></persName>
                 </author>
             </titleStmt>
-
             <extent>???446 kB XML; ???419.769 znakov besedila</extent>
             <publicationStmt>
                 <distributor><orgName role="Izdajatelj">Zgodovinski inštitut Milka Kosa ZRC
@@ -46,8 +45,6 @@
                         without the prior permission of the publisher.</licence>
                 </availability>
             </publicationStmt>
-
-
             <sourceDesc corresp="vir">
                 <biblFull corresp="kolofon knjige">
                     <titleStmt corresp="naslov in avtorstva">
@@ -102,8 +99,8 @@
                             <width>17</width>
                         </dimensions>
                         <figure corresp="NASLOVNICA IN ZADNJICA">
-                            <graphic n="1001" url="media/image1.png"> </graphic>
-                            <graphic n="10038" url="media/image38.jpeg"> </graphic>
+                            <graphic n="1001" url="media/image1.png"/> 
+                            <graphic n="10038" url="media/image38.jpeg"/> 
                         </figure></extent>
                     <publicationStmt>
                         <distributor><orgName role="Izdajatelj">Zgodovinski inštitut Milka Kosa ZRC
@@ -150,7 +147,6 @@
                         <idno type="ISSN">2232-3430</idno>
                     </seriesStmt>
                     <notesStmt corresp="CIP tiskana knjiga in vir">
-
                         <note>
                             <p>CIP Kataložni zapis o publikaciji</p>
                             <p>Narodna in univerzitetna knjižnica, Ljubljana</p>

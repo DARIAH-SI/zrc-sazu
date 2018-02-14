@@ -10,24 +10,8 @@
       <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:spread">auto</meta>
       <meta refines="#title" property="title-type">main</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Georges-Louis LeclercBuffon Pierre-Louis MoreauMaupertuis DenisDiderot, Prevod in opombe  Miha Marek in Spremna beseda  Miha Marek in  Miran BožovičGeorges-Louis LeclercBuffon Pierre-Louis MoreauMaupertuis DenisDiderot</dc:creator>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Georges-Louis LeclercBuffon Pierre-Louis MoreauMaupertuis DenisDiderot, Prevod in opombe  Miha Marek in Spremna beseda  Miha Marek in  Miran Božovič</dc:creator>
       <meta refines="#creator" property="file-as">
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName">Georges-Louis Leclerc</span>Buffon</span>
-         <br xmlns="http://www.w3.org/1999/xhtml"/> 
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName">Pierre-Louis Moreau</span>Maupertuis</span>
-         <br xmlns="http://www.w3.org/1999/xhtml"/> 
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName">Denis</span>Diderot</span>, <span xmlns="http://www.w3.org/1999/xhtml" style="font-style:italic">Prevod in opombe</span> 
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName"> Miha Marek</span>
-         </span> in <span xmlns="http://www.w3.org/1999/xhtml" style="font-style:italic">Spremna beseda</span> 
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName"> Miha Marek</span> 
-            <span style="font-style:italic">in</span> 
-            <span class="persName"> Miran Božovič</span>
-         </span>
          <span xmlns="http://www.w3.org/1999/xhtml" class="name">
             <span class="persName">Georges-Louis Leclerc</span>Buffon</span>
          <br xmlns="http://www.w3.org/1999/xhtml"/> 
@@ -55,17 +39,17 @@
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">razsvetljenska filozofija</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">biologija</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">naravoslovje</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">ISBN 978-961-05-????-?</dc:identifier>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">978-961-05-0064-3</dc:identifier>
       <meta refines="#pub-id"
             property="identifier-type"
             scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Razsvetljenske interpretacije narave (1749–1756) / Georges-Louis LeclercBuffon Pierre-Louis MoreauMaupertuis DenisDiderot, Prevod in opombe  Miha Marek in Spremna beseda  Miha Marek in  Miran BožovičGeorges-Louis LeclercBuffon Pierre-Louis MoreauMaupertuis DenisDiderot, Prevod in opombe  Miha Marek in Spremna beseda  Miha Marek in  Miran Božovič</dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Razsvetljenske interpretacije narave (1749–1756) / Georges-Louis LeclercBuffon Pierre-Louis MoreauMaupertuis DenisDiderot, Prevod in opombe  Miha Marek in Spremna beseda  Miha Marek in  Miran Božovič</dc:description>
       <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC, Za založnikaOtoLuthar, Glavni urednik založbeAlešPogačnik</dc:publisher>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2013-08-22</dc:date>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2016-08-29</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-02-12T12:19:54Z</meta>
+      <meta property="dcterms:modified">2018-02-14T18:17:58Z</meta>
    </metadata>
    <manifest>
       <item href="media/RIN_1.jpg"
@@ -80,8 +64,8 @@
       <item href="titlepage1.html"
             id="titlepage1"
             media-type="application/xhtml+xml"/>
-      <item href="titlepage2.html"
-            id="titlepage2"
+      <item href="titlepageback.html"
+            id="titlepageback"
             media-type="application/xhtml+xml"/>
       <item id="toc"
             properties="nav"
@@ -100,24 +84,27 @@
       <item href="index-front.1_div.4.html"
             media-type="application/xhtml+xml"
             id="section6"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-front.1_div.5.html"
             media-type="application/xhtml+xml"
             id="section7"/>
+      <item href="index-body.1_div.1.html"
+            media-type="application/xhtml+xml"
+            id="section8"/>
       <item href="index-body.1_div.2.html"
             media-type="application/xhtml+xml"
-            id="section10"/>
+            id="section11"/>
       <item href="index-body.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section78"/>
+            id="section79"/>
       <item href="index-body.1_div.4.html"
             media-type="application/xhtml+xml"
-            id="section160"/>
+            id="section161"/>
       <item href="index-body.1_div.5.html"
             media-type="application/xhtml+xml"
-            id="section161"/>
+            id="section162"/>
       <item href="index-back.1_div.1.html"
             media-type="application/xhtml+xml"
-            id="section172"/>
+            id="section173"/>
       <item href="media/RIN_2.jpg" id="image-3" media-type="image/jpeg"/>
       <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
       <item href="media/HS_logo.jpg" id="image-6" media-type="image/jpeg"/>
@@ -127,18 +114,19 @@
    <spine toc="ncx">
       <itemref idref="titlepage" linear="yes"/>
       <itemref idref="titlepage1" linear="yes"/>
-      <itemref idref="titlepage2" linear="yes"/>
       <itemref idref="start" linear="yes"/>
       <itemref idref="section1" linear="yes"/>
       <itemref idref="section2" linear="yes"/>
       <itemref idref="section5" linear="yes"/>
       <itemref idref="section6" linear="yes"/>
       <itemref idref="section7" linear="yes"/>
-      <itemref idref="section10" linear="yes"/>
-      <itemref idref="section78" linear="yes"/>
-      <itemref idref="section160" linear="yes"/>
+      <itemref idref="section8" linear="yes"/>
+      <itemref idref="section11" linear="yes"/>
+      <itemref idref="section79" linear="yes"/>
       <itemref idref="section161" linear="yes"/>
-      <itemref idref="section172" linear="yes"/>
+      <itemref idref="section162" linear="yes"/>
+      <itemref idref="section173" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
       <reference type="text" href="titlepage.html" title="Cover"/>
@@ -146,7 +134,8 @@
       <reference type="text" href="index-front.1_div.1.html" title=""/>
       <reference type="text" href="index-front.1_div.2.html" title=""/>
       <reference type="text" href="index-front.1_div.3.html" title=""/>
-      <reference type="text" href="index-front.1_div.4.html" title="Kazalo"/>
+      <reference type="text" href="index-front.1_div.4.html" title=""/>
+      <reference type="text" href="index-front.1_div.5.html" title="Kazalo"/>
       <reference type="text"
                  href="index-body.1_div.1.html"
                  title="Prirodopis v splošnem in posebnem oziru, z opisom Kraljeve zbirke"/>
@@ -161,5 +150,6 @@
                  href="index-body.1_div.5.html"
                  title="AVANTURE ZNANOSTI O ŽIVLJENJU Biološka misel v francoskem razsvetljenstvu"/>
       <reference type="text" href="index-back.1_div.1.html" title="Bibliografija"/>
+      <reference href="titlepageback.html" type="text" title="About this book"/>
    </guide>
 </package>

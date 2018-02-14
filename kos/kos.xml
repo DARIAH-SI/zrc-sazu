@@ -12,7 +12,6 @@
                </name>
             </author>
          </titleStmt>
-         
          <extent>???541 kB XML; 419.769 znakov besedila</extent>
          <publicationStmt>
             <publisher>Založba ZRC<figure corresp="naslovnica">
@@ -39,8 +38,6 @@
                   prior permission of the publisher.</licence>
             </availability>
          </publicationStmt>
-         
-         
          <sourceDesc>
             <biblFull corresp="kolofon knjige">
                <titleStmt corresp="naslov in avtorstva">
@@ -157,7 +154,6 @@
                <term xml:lang="slv">vrednote</term>
                <term xml:lang="slv">ljubezen</term>
                <term xml:lang="slv">kulturna zgodovina</term>
-
             </keywords>
          </textClass>
          <abstract xml:lang="slv">
@@ -180,7 +176,6 @@
                nasilja in s tem povezanih cerkvenih moralnih norm in posvetnih kriminalizacij spolne
                nemorale v slovenski družbi.</p>
          </abstract>
-
          <creation><date>2017-10-25</date></creation>
       </profileDesc>
       <revisionDesc>

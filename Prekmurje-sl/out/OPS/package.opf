@@ -10,93 +10,29 @@
       <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:spread">auto</meta>
       <meta refines="#title" property="title-type">main</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Herausgegeben von  Oto LutharValerija Babij Janez Balažic Milan Bidovec Helena Dobrovoljc Ivanka Huber Miha Jeršek Jasmina Litrop Oto Luthar Goran Miloševič Miha Pavšek Jelka Pšajd Mateja Ratej Klaudija Sedar Valentina Smej Novak Dušan Šarotar in Uredil  Oto Luthar</dc:creator>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Uredil  Oto Luthar</dc:creator>
       <meta refines="#creator" property="file-as">
          <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:808285">Herausgegeben von</span> 
+            <span style="color:808285">Uredil</span> 
             <span class="persName">
                <span style="font-weight:bold"> Oto Luthar</span>
-            </span>
-         </span>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Valerija Babij</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Janez Balažic</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Milan Bidovec</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Helena Dobrovoljc</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Ivanka Huber</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Miha Jeršek</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Jasmina Litrop</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Oto Luthar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Goran Miloševič</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Miha Pavšek</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Jelka Pšajd</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Mateja Ratej</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Klaudija Sedar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Valentina Smej Novak</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Dušan Šarotar</span>
-         </span> in <span xmlns="http://www.w3.org/1999/xhtml" style="color:808285">Uredil </span>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName">
-               <span style="color:231F20"> Oto Luthar</span>
             </span>
          </span>
       </meta>
       <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
       <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Prekmurje</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">ISBN 978-961-05-????-?</dc:identifier>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">978-961-05-0058-2</dc:identifier>
       <meta refines="#pub-id"
             property="identifier-type"
             scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Prekmurje za radovedneže in ljubitelje / Herausgegeben von  Oto LutharValerija Babij Janez Balažic Milan Bidovec Helena Dobrovoljc Ivanka Huber Miha Jeršek Jasmina Litrop Oto Luthar Goran Miloševič Miha Pavšek Jelka Pšajd Mateja Ratej Klaudija Sedar Valentina Smej Novak Dušan Šarotar in Uredil  Oto Luthar</dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Prekmurje za radovedneže in ljubitelje / Uredil  Oto Luthar</dc:description>
       <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC, Za založboOtoLuthar, Glavni urednikAlešPogačnik</dc:publisher>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2010-11-10</dc:date>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-07-07</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-01-30T15:32:10Z</meta>
+      <meta property="dcterms:modified">2018-02-14T18:15:11Z</meta>
    </metadata>
    <manifest>
       <item href="media/PREKMURJEcolor.jpg"
@@ -110,9 +46,6 @@
             media-type="application/xhtml+xml"/>
       <item href="titlepage1.html"
             id="titlepage1"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage2.html"
-            id="titlepage2"
             media-type="application/xhtml+xml"/>
       <item href="titlepageback.html"
             id="titlepageback"
@@ -131,42 +64,45 @@
       <item href="index-front.1_div.3.html"
             media-type="application/xhtml+xml"
             id="section3"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-front.1_div.4.html"
             media-type="application/xhtml+xml"
             id="section4"/>
+      <item href="index-body.1_div.1.html"
+            media-type="application/xhtml+xml"
+            id="section5"/>
       <item href="index-body.1_div.2.html"
             media-type="application/xhtml+xml"
-            id="section17"/>
+            id="section18"/>
       <item href="index-body.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section24"/>
+            id="section25"/>
       <item href="index-body.1_div.4.html"
             media-type="application/xhtml+xml"
-            id="section31"/>
+            id="section32"/>
       <item href="index-body.1_div.5.html"
             media-type="application/xhtml+xml"
-            id="section41"/>
+            id="section42"/>
       <item href="index-body.1_div.6.html"
             media-type="application/xhtml+xml"
-            id="section54"/>
+            id="section55"/>
       <item href="index-back.1_div.1.html"
             media-type="application/xhtml+xml"
-            id="section62"/>
+            id="section63"/>
       <item href="index-back.1_div.2.html"
             media-type="application/xhtml+xml"
-            id="section63"/>
+            id="section64"/>
       <item href="index-back.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section64"/>
+            id="section65"/>
       <item href="index-back.1_div.4.html"
             media-type="application/xhtml+xml"
-            id="section65"/>
+            id="section66"/>
       <item href="index-back.1_div.5.html"
             media-type="application/xhtml+xml"
-            id="section66"/>
+            id="section67"/>
       <item href="index-back.1_div.6.html"
             media-type="application/xhtml+xml"
-            id="section67"/>
+            id="section68"/>
       <item href="media/Prekmurje_slo_naslovna.jpg"
             id="image-1"
             media-type="image/jpeg"/>
@@ -233,32 +169,33 @@
    <spine toc="ncx">
       <itemref idref="titlepage" linear="yes"/>
       <itemref idref="titlepage1" linear="yes"/>
-      <itemref idref="titlepage2" linear="yes"/>
       <itemref idref="start" linear="yes"/>
       <itemref idref="section1" linear="yes"/>
       <itemref idref="section2" linear="yes"/>
       <itemref idref="section3" linear="yes"/>
       <itemref idref="section4" linear="yes"/>
-      <itemref idref="section17" linear="yes"/>
-      <itemref idref="section24" linear="yes"/>
-      <itemref idref="section31" linear="yes"/>
-      <itemref idref="section41" linear="yes"/>
-      <itemref idref="section54" linear="yes"/>
-      <itemref idref="section62" linear="yes"/>
+      <itemref idref="section5" linear="yes"/>
+      <itemref idref="section18" linear="yes"/>
+      <itemref idref="section25" linear="yes"/>
+      <itemref idref="section32" linear="yes"/>
+      <itemref idref="section42" linear="yes"/>
+      <itemref idref="section55" linear="yes"/>
       <itemref idref="section63" linear="yes"/>
       <itemref idref="section64" linear="yes"/>
       <itemref idref="section65" linear="yes"/>
       <itemref idref="section66" linear="yes"/>
       <itemref idref="section67" linear="yes"/>
-      <itemref idref="titlepageback" linear="no"/>
+      <itemref idref="section68" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
       <reference type="text" href="titlepage.html" title="Cover"/>
       <reference type="text" title="Start" href="index.html"/>
       <reference type="text" href="index-front.1_div.1.html" title=""/>
       <reference type="text" href="index-front.1_div.2.html" title=""/>
+      <reference type="text" href="index-front.1_div.3.html" title=""/>
       <reference type="text"
-                 href="index-front.1_div.3.html"
+                 href="index-front.1_div.4.html"
                  title="Namesto uvoda: strah pred nostalgijo"/>
       <reference type="text" href="index-body.1_div.1.html" title="ZA VSAKOGAR"/>
       <reference type="text"

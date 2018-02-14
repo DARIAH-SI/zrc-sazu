@@ -4,20 +4,18 @@
         <fileDesc>
             <titleStmt>
                 <title>Čebele Slovenije</title>
-                               <author>
+                <author>
                     <persName>
                         <forename>Andrej</forename>
                         <surname>Gogala</surname>
                     </persName>
                 </author>
             </titleStmt>
-            
-            <extent>???636 kB XML; 220 kB JPG; ????411.616 znakov besedila</extent>
             <publicationStmt>
                 <publisher>Založba ZRC<figure>
                         <graphic n="1001" url="media/imageZRC.jpeg"/>
                     </figure><figure corresp="naslovnica">
-                        <graphic n="1001" url="media/CB_front.jpg">
+                        <graphic n="1001" url="media/CS_front.jpg">
                             <desc>Samica kaspijske dolgorožke (<hi rend="italic">Eucera
                                 caspica</hi>). (Andrej Gogala)</desc>
                         </graphic>
@@ -44,8 +42,6 @@
                         without the prior permission of the publisher.</licence>
                 </availability>
             </publicationStmt>
-            
-            
             <sourceDesc corresp="vir">
                 <biblFull corresp="kolofon knjige">
                     <titleStmt corresp="naslov in avtorstva">
@@ -94,8 +90,8 @@
                             <height>19,7</height>
                             <width>12</width>
                         </dimensions><figure type="covers">
-                            <graphic n="1001" width="11cm" height="18cm" url="media/CB_front.jpg"/>
-                            <graphic n="1002" width="11cm" height="18cm" url="media/CB_back.jpg"/>
+                            <graphic n="1001" width="11cm" height="18cm" url="media/CS_front.jpg"/>
+                            <graphic n="1002" width="11cm" height="18cm" url="media/CS_back.jpg"/>
                         </figure></extent>
                     <publicationStmt>
                         <publisher>Založba ZRC<figure>
@@ -237,7 +233,7 @@
     </teiHeader>
     <facsimile>
         <surface xml:id="front_out" type="covers">
-            <graphic n="1001" url="media/CB_front.jpg"/>
+            <graphic n="1001" url="media/CS_front.jpg"/>
         </surface>
     </facsimile>
     <text>

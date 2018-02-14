@@ -10,169 +10,9 @@
       <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:spread">auto</meta>
       <meta refines="#title" property="title-type">main</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Uredila  Jasna Fakin Bajec in  Oto LutharOlga Abram Ban Tina Eda Belingar Majda Brdnik Boris Čok Jasna Fakin Bajec Petra Gostinčar Vesna Guštin Grilanc Jošt Hobič Katja Hrobat Virloget Iztok Ilich Barbara Ivančič Kutin Tina Jazbec Davor Kernel Janja Kogovšek Alja Kotar Andrej Kranjc Davor Krepfl Ljubo Lah Špela Ledinek Lozej Neva Makuc Marjeta Malešič Branko Marušič Andrej Mihevc Janez Mulec Bojan Otoničar Primož Pavlin Metka Petrič Tanja Pipan Mitja Prelovšek Nataša Ravbar Jasna Simoneta Pavel Skrinjar Aleš Smrekar Petra Svoljšak Marcel Štefančič, jr. Sitka Tepeh Vera Tuta Ban in Uredila  Jasna Fakin Bajec in  Oto Luthar</dc:creator>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Uredila  Jasna Fakin Bajec in  Oto Luthar</dc:creator>
       <meta refines="#creator" property="file-as">
          <span xmlns="http://www.w3.org/1999/xhtml" style="color:808285">Uredila</span> 
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName">
-               <span style="font-weight:bold"> Jasna Fakin Bajec</span>
-            </span> 
-            <span style="color:808285">in</span> 
-            <span class="persName">
-               <span style="font-weight:bold"> Oto Luthar</span>
-            </span>
-         </span>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Olga Abram</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Ban Tina</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Eda Belingar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Majda Brdnik</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Boris Čok</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Jasna Fakin Bajec</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Petra Gostinčar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Vesna Guštin Grilanc</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Jošt Hobič</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Katja Hrobat Virloget</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Iztok Ilich</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Barbara Ivančič Kutin</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Tina Jazbec</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Davor Kernel</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Janja Kogovšek</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Alja Kotar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Andrej Kranjc</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Davor Krepfl</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Ljubo Lah</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Špela Ledinek Lozej</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Neva Makuc</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Marjeta Malešič</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Branko Marušič</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Andrej Mihevc</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Janez Mulec</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Bojan Otoničar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Primož Pavlin</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Metka Petrič</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Tanja Pipan</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Mitja Prelovšek</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Nataša Ravbar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Jasna Simoneta</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Pavel Skrinjar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Aleš Smrekar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Petra Svoljšak</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Marcel Štefančič, jr.</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Sitka Tepeh</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:B01116">Vera Tuta Ban</span>
-         </span> in <span xmlns="http://www.w3.org/1999/xhtml" style="color:808285">Uredila</span> 
          <span xmlns="http://www.w3.org/1999/xhtml" class="name">
             <span class="persName">
                <span style="font-weight:bold"> Jasna Fakin Bajec</span>
@@ -187,17 +27,17 @@
       <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Kras</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Brkini</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">ISBN 978-961-05-????-?</dc:identifier>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">978-961-05-0045-2</dc:identifier>
       <meta refines="#pub-id"
             property="identifier-type"
             scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Kras in Brkini za radovedneže in ljubitelje / Uredila  Jasna Fakin Bajec in  Oto LutharOlga Abram Ban Tina Eda Belingar Majda Brdnik Boris Čok Jasna Fakin Bajec Petra Gostinčar Vesna Guštin Grilanc Jošt Hobič Katja Hrobat Virloget Iztok Ilich Barbara Ivančič Kutin Tina Jazbec Davor Kernel Janja Kogovšek Alja Kotar Andrej Kranjc Davor Krepfl Ljubo Lah Špela Ledinek Lozej Neva Makuc Marjeta Malešič Branko Marušič Andrej Mihevc Janez Mulec Bojan Otoničar Primož Pavlin Metka Petrič Tanja Pipan Mitja Prelovšek Nataša Ravbar Jasna Simoneta Pavel Skrinjar Aleš Smrekar Petra Svoljšak Marcel Štefančič, jr. Sitka Tepeh Vera Tuta Ban in Uredila  Jasna Fakin Bajec in  Oto Luthar</dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Kras in Brkini za radovedneže in ljubitelje / Uredila  Jasna Fakin Bajec in  Oto Luthar</dc:description>
       <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC, Za založnikaOtoLuthar, Glavni urednik založbeAlešPogačnik</dc:publisher>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2014-11-17</dc:date>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-07-07</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-01-30T15:24:33Z</meta>
+      <meta property="dcterms:modified">2018-02-14T17:45:05Z</meta>
    </metadata>
    <manifest>
       <item href="media/Kras in Brkini_naslovna.jpg"
@@ -211,9 +51,6 @@
             media-type="application/xhtml+xml"/>
       <item href="titlepage1.html"
             id="titlepage1"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage2.html"
-            id="titlepage2"
             media-type="application/xhtml+xml"/>
       <item href="titlepageback.html"
             id="titlepageback"
@@ -232,24 +69,27 @@
       <item href="index-front.1_div.3.html"
             media-type="application/xhtml+xml"
             id="section3"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-front.1_div.4.html"
             media-type="application/xhtml+xml"
             id="section4"/>
+      <item href="index-body.1_div.1.html"
+            media-type="application/xhtml+xml"
+            id="section5"/>
       <item href="index-body.1_div.2.html"
             media-type="application/xhtml+xml"
-            id="section27"/>
+            id="section28"/>
       <item href="index-body.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section62"/>
+            id="section63"/>
       <item href="index-back.1_div.1.html"
             media-type="application/xhtml+xml"
-            id="section83"/>
+            id="section84"/>
       <item href="index-back.1_div.2.html"
             media-type="application/xhtml+xml"
-            id="section85"/>
+            id="section86"/>
       <item href="index-back.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section86"/>
+            id="section87"/>
       <item href="media/imageZRC.jpeg" id="image-1" media-type="image/jpeg"/>
       <item href="media/Kras in Brkini_zadnja.jpg"
             id="image-4"
@@ -292,26 +132,27 @@
    <spine toc="ncx">
       <itemref idref="titlepage" linear="yes"/>
       <itemref idref="titlepage1" linear="yes"/>
-      <itemref idref="titlepage2" linear="yes"/>
       <itemref idref="start" linear="yes"/>
       <itemref idref="section1" linear="yes"/>
       <itemref idref="section2" linear="yes"/>
       <itemref idref="section3" linear="yes"/>
       <itemref idref="section4" linear="yes"/>
-      <itemref idref="section27" linear="yes"/>
-      <itemref idref="section62" linear="yes"/>
-      <itemref idref="section83" linear="yes"/>
-      <itemref idref="section85" linear="yes"/>
+      <itemref idref="section5" linear="yes"/>
+      <itemref idref="section28" linear="yes"/>
+      <itemref idref="section63" linear="yes"/>
+      <itemref idref="section84" linear="yes"/>
       <itemref idref="section86" linear="yes"/>
-      <itemref idref="titlepageback" linear="no"/>
+      <itemref idref="section87" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
       <reference type="text" href="titlepage.html" title="Cover"/>
       <reference type="text" title="Start" href="index.html"/>
       <reference type="text" href="index-front.1_div.1.html" title=""/>
-      <reference type="text" href="index-front.1_div.2.html" title="KAZALO"/>
+      <reference type="text" href="index-front.1_div.2.html" title=""/>
+      <reference type="text" href="index-front.1_div.3.html" title="KAZALO"/>
       <reference type="text"
-                 href="index-front.1_div.3.html"
+                 href="index-front.1_div.4.html"
                  title="Kraška planota in Brkini, Brkini in kraška planota: Razlike in podobnosti, znano in neznano"/>
       <reference type="text"
                  href="index-body.1_div.1.html"

@@ -12,7 +12,6 @@
                     </persName>
                 </author>
             </titleStmt>
-
             <extent>???636 kB XML; 220 kB JPG; ????411.616 znakov besedila</extent>
             <publicationStmt>
                 <publisher>Založba ZRC<figure corresp="naslovnica">
@@ -41,8 +40,6 @@
                         without the prior permission of the publisher.</licence>
                 </availability>
             </publicationStmt>
-
-
             <sourceDesc corresp="vir">
                 <biblFull corresp="kolofon knjige">
                     <titleStmt corresp="naslov in avtorstva">
@@ -201,7 +198,6 @@
                 </keywords>
             </textClass>
             <abstract xml:lang="slv">
-
                 <p>Knjiga petnajstih avtorjev v 51 jedrnatih in zgoščenih zapisih zaokroži predstave
                     in dejstva o pokrajini, ki segajo od opisov najbolj tipičnih kulturnih, naravnih
                     in zgodovinskih znamenitosti pa vse do fenomenov in slik iz vsakdanjega
@@ -232,7 +228,7 @@
             <titlePage facs="#front_out" type="ebook">
                 <docAuthor>
                     <name><respons locus="name">
-                            <desc><hi rend="color(808285)">Herausgegeben von</hi></desc>
+                            <desc><hi rend="color(808285)">Uredil</hi></desc>
                         </respons>
                         <persName><hi rend="bold">
                                 <forename>Oto</forename>
@@ -4146,7 +4142,6 @@
                 </figure>
                 <pb n="(184)" xml:id="pb.184"/>
             </div>
-
             <div type="colophon">
                 <pb n="(175)" xml:id="pb.175"/>
                 <p rend="heading 3">

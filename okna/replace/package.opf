@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition#">
    <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
       <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Okna brez monad</dc:title>
-<meta refines="#title1" property="title-type">main</meta>
+      <meta refines="#title1" property="title-type">main</meta>
                   <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title2">Estetika od Heideggerja do Rancièra</dc:title>
          <meta refines="#title2" property="title-type">subtitle</meta>
          <meta property="rendition:layout">reflowable</meta>

@@ -10,98 +10,34 @@
       <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:spread">auto</meta>
       <meta refines="#title" property="title-type">main</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Herausgegeben von  Oto LutharValerija Babij Janez Balažic Milan Bidovec Helena Dobrovoljc Ivanka Huber Miha Jeršek Jasmina Litrop Oto Luthar Goran Miloševič Miha Pavšek Jelka Pšajd Mateja Ratej Klaudija Sedar Valentina Smej Novak Dušan Šarotar, Herausgegeben von  Oto Luthar in Aus dem Slowenischen von  Erwin Köstler</dc:creator>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Herausgegeben von  Oto Luthar in Aus dem Slowenischen von  Erwin Köstler</dc:creator>
       <meta refines="#creator" property="file-as">
          <span xmlns="http://www.w3.org/1999/xhtml" class="name">
             <span style="color:808285">Herausgegeben von</span> 
             <span class="persName">
                <span style="font-weight:bold"> Oto Luthar</span>
             </span>
-         </span>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Valerija Babij</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Janez Balažic</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Milan Bidovec</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Helena Dobrovoljc</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Ivanka Huber</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Miha Jeršek</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Jasmina Litrop</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Oto Luthar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Goran Miloševič</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Miha Pavšek</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Jelka Pšajd</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Mateja Ratej</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Klaudija Sedar</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Valentina Smej Novak</span>
-         </span> 
-         <br xmlns="http://www.w3.org/1999/xhtml"/>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span style="color:704214">Dušan Šarotar</span>
-         </span>, <span xmlns="http://www.w3.org/1999/xhtml" style="color:808285">Herausgegeben von </span>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
+         </span> in <span xmlns="http://www.w3.org/1999/xhtml" class="name">
+            <span style="color:808285">Aus dem Slowenischen von</span> 
             <span class="persName">
-               <span style="color:231F20"> Oto Luthar</span>
-            </span>
-         </span> in <span xmlns="http://www.w3.org/1999/xhtml" style="color:808285">Aus dem Slowenischen von </span>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName">
-               <span style="color:231F20"> Erwin Köstler</span>
+               <span style="font-weight:bold"> Erwin Köstler</span>
             </span>
          </span>
       </meta>
       <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
       <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Prekmurje</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">ISBN 978-961-05-????-?</dc:identifier>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">978-961-05-0059-9</dc:identifier>
       <meta refines="#pub-id"
             property="identifier-type"
             scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Prekmurje für Neugierige und Liebhaber / Herausgegeben von  Oto LutharValerija Babij Janez Balažic Milan Bidovec Helena Dobrovoljc Ivanka Huber Miha Jeršek Jasmina Litrop Oto Luthar Goran Miloševič Miha Pavšek Jelka Pšajd Mateja Ratej Klaudija Sedar Valentina Smej Novak Dušan Šarotar, Herausgegeben von  Oto Luthar in Aus dem Slowenischen von  Erwin Köstler</dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Prekmurje für Neugierige und Liebhaber / Herausgegeben von  Oto Luthar in Aus dem Slowenischen von  Erwin Köstler</dc:description>
       <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC, Für den VerlagOtoLuthar, CheflektoratAlešPogačnik</dc:publisher>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2012-05-03</dc:date>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-07-07</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-01-30T15:30:30Z</meta>
+      <meta property="dcterms:modified">2018-02-14T18:02:09Z</meta>
    </metadata>
    <manifest>
       <item href="media/prekmurje.jpg"
@@ -115,9 +51,6 @@
             media-type="application/xhtml+xml"/>
       <item href="titlepage1.html"
             id="titlepage1"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage2.html"
-            id="titlepage2"
             media-type="application/xhtml+xml"/>
       <item href="titlepageback.html"
             id="titlepageback"
@@ -136,42 +69,45 @@
       <item href="index-front.1_div.3.html"
             media-type="application/xhtml+xml"
             id="section3"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-front.1_div.4.html"
             media-type="application/xhtml+xml"
             id="section4"/>
+      <item href="index-body.1_div.1.html"
+            media-type="application/xhtml+xml"
+            id="section5"/>
       <item href="index-body.1_div.2.html"
             media-type="application/xhtml+xml"
-            id="section17"/>
+            id="section18"/>
       <item href="index-body.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section24"/>
+            id="section25"/>
       <item href="index-body.1_div.4.html"
             media-type="application/xhtml+xml"
-            id="section31"/>
+            id="section32"/>
       <item href="index-body.1_div.5.html"
             media-type="application/xhtml+xml"
-            id="section41"/>
+            id="section42"/>
       <item href="index-body.1_div.6.html"
             media-type="application/xhtml+xml"
-            id="section53"/>
+            id="section54"/>
       <item href="index-back.1_div.1.html"
             media-type="application/xhtml+xml"
-            id="section61"/>
+            id="section62"/>
       <item href="index-back.1_div.2.html"
             media-type="application/xhtml+xml"
-            id="section62"/>
+            id="section63"/>
       <item href="index-back.1_div.3.html"
             media-type="application/xhtml+xml"
-            id="section63"/>
+            id="section64"/>
       <item href="index-back.1_div.4.html"
             media-type="application/xhtml+xml"
-            id="section64"/>
+            id="section65"/>
       <item href="index-back.1_div.5.html"
             media-type="application/xhtml+xml"
-            id="section65"/>
+            id="section66"/>
       <item href="index-back.1_div.6.html"
             media-type="application/xhtml+xml"
-            id="section66"/>
+            id="section67"/>
       <item href="media/Prekmurje_nem_naslovna.jpg"
             id="image-1"
             media-type="image/jpeg"/>
@@ -239,32 +175,33 @@
    <spine toc="ncx">
       <itemref idref="titlepage" linear="yes"/>
       <itemref idref="titlepage1" linear="yes"/>
-      <itemref idref="titlepage2" linear="yes"/>
       <itemref idref="start" linear="yes"/>
       <itemref idref="section1" linear="yes"/>
       <itemref idref="section2" linear="yes"/>
       <itemref idref="section3" linear="yes"/>
       <itemref idref="section4" linear="yes"/>
-      <itemref idref="section17" linear="yes"/>
-      <itemref idref="section24" linear="yes"/>
-      <itemref idref="section31" linear="yes"/>
-      <itemref idref="section41" linear="yes"/>
-      <itemref idref="section53" linear="yes"/>
-      <itemref idref="section61" linear="yes"/>
+      <itemref idref="section5" linear="yes"/>
+      <itemref idref="section18" linear="yes"/>
+      <itemref idref="section25" linear="yes"/>
+      <itemref idref="section32" linear="yes"/>
+      <itemref idref="section42" linear="yes"/>
+      <itemref idref="section54" linear="yes"/>
       <itemref idref="section62" linear="yes"/>
       <itemref idref="section63" linear="yes"/>
       <itemref idref="section64" linear="yes"/>
       <itemref idref="section65" linear="yes"/>
       <itemref idref="section66" linear="yes"/>
-      <itemref idref="titlepageback" linear="no"/>
+      <itemref idref="section67" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
       <reference type="text" href="titlepage.html" title="Cover"/>
       <reference type="text" title="Start" href="index.html"/>
       <reference type="text" href="index-front.1_div.1.html" title=""/>
       <reference type="text" href="index-front.1_div.2.html" title=""/>
+      <reference type="text" href="index-front.1_div.3.html" title=""/>
       <reference type="text"
-                 href="index-front.1_div.3.html"
+                 href="index-front.1_div.4.html"
                  title="Statt eines Vorworts: Die Angst vor der Nostalgie"/>
       <reference type="text" href="index-body.1_div.1.html" title="FÜR JEDERMANN"/>
       <reference type="text"

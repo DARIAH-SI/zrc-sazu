@@ -18,7 +18,6 @@
                </persName>
             </author>
          </titleStmt>
-         
          <extent>???636 kB XML; 220 kB JPG; ????411.616 znakov besedila</extent>
          <publicationStmt>
             <publisher>Založba ZRC<figure corresp="naslovnica">
@@ -42,11 +41,8 @@
                   reproduciran, shranjen ali prepisan v katerikoli obliki oz. na katerikoli način,
                   bodisi elektronsko, mehansko, s fotokopiranjem ali kako drugače, brez predhodnega
                   pisnega dovoljenja imetnikov avtorskih pravic.</licence>
-
             </availability>
          </publicationStmt>
-         
-         
          <sourceDesc corresp="vir">
             <biblFull corresp="kolofon knjige">
                <titleStmt corresp="naslov in avtorstva">
@@ -111,7 +107,6 @@
                         reproduciran, shranjen ali prepisan v katerikoli obliki oz. na katerikoli
                         način, bodisi elektronsko, mehansko, s fotokopiranjem ali kako drugače, brez
                         predhodnega pisnega dovoljenja imetnikov avtorskih pravic.</licence>
-
                   </availability>
                </publicationStmt>
                <notesStmt corresp="CIP tiskana knjiga in vir">
@@ -358,10 +353,10 @@
             <p>
                <hi rend="italic">Naklada</hi> 400 izvodov</p>
             <p/>
-            <p> Druga, prenovljena izdaja, prvi natis.</p>
+            <p>Druga, prenovljena izdaja, prvi natis.</p>
             <p>Ljubljana, 2016</p>
             <p/>
-            <p> Fotografija na naslovnici: Idila pod Krimom, spomladi 2012, avtor Rok Godec;
+            <p>Fotografija na naslovnici: Idila pod Krimom, spomladi 2012, avtor Rok Godec;
                objavljeno z avtorjevim dovoljenjem.</p>
             <p/>
             <div rend="CIP" type="CIP">

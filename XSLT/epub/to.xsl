@@ -64,14 +64,6 @@
   <xsl:param name="STDOUT">false</xsl:param>
 
   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
-    <desc>Spremembe v prikazovanju glavne naslovne strani</desc>
-  </doc>
-  <xsl:template match="tei:p[@rend = 'CIP']">
-    <p class="CIP">
-      <xsl:value-of select="." disable-output-escaping="yes"/>
-    </p>
-  </xsl:template>
-  <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
     <desc/>
   </doc>
   <xsl:template match="tei:publisher[parent::tei:docImprint]">
@@ -98,9 +90,9 @@
     </span>
     <br/>
   </xsl:template>
-
+  
   <!-- če hočemo, da div nimajo naslovov, potem jih moramo skonstrurirati (prazne) naslove,
-    saj drugače toc.ncx ne more prikazati teh delov vsebine -->
+    saj drugače toc.ncx in toc.html ne more prikazati teh delov vsebine -->
   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" class="headings" type="boolean">
     <desc>Whether to construct a heading for &lt;div&gt; elements with no &lt;head&gt; - by default,
       not.</desc>
@@ -826,8 +818,10 @@ height: </xsl:text>
                         <xsl:when test="not(html:a)"/>
                         <xsl:when test="starts-with(html:a/@href, '#')"/>
                         <xsl:when test="contains(@class, 'headless')"/>
-                        <!-- dodal spodnji when -->
-                        <xsl:when test="string-length(html:a) = 1 and (not(html:ul/html:li) or string-length(html:ul/html:li/html:a) = 1)"/>
+                        <!-- dodal spodnji when (ne prikaže podpoglavij s praznim naslovom (oziroma enim praznim znakom), 
+                             ki imajo tudi (prvo) podpoglavje s praznim naslovom
+                        -->
+                        <xsl:when test="string-length(html:a) = 1 and (not(html:ul/html:li) or string-length(html:ul/html:li[1]/html:a) = 1)"/>
                         <xsl:otherwise>
                           <li>
                             <a href="{html:a/@href}">
