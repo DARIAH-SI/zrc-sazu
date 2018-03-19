@@ -1132,3 +1132,10 @@ h2.CIP {
     text-align:right;
 }
 
+/* Pri listBibl seznam brez pik */
+ul.listBibl {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+

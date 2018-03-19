@@ -37,10 +37,12 @@
 
   <!-- Če določimo naslovnico v titlePage/@fasc, potem ni potrebno, da dodamo coverimage parameter.
        Če pa tega ne storimo, lahko tukaj dodamo samo ime datoteke naslovnice (ne pot) in 
-       moramo zato sliko shraniti v istem direktoriju kot titlepage.html
+       moramo zato sliko shraniti v istem direktoriju kot titlepage.xhtml
   -->
   <!--<xsl:param name="coverimage">PREKMURJEcolor.jpg</xsl:param>-->
-
+  
+  <xsl:param name="outputSuffix">.xhtml</xsl:param>
+  
   <xsl:param name="documentationLanguage">sl</xsl:param>
   <xsl:param name="directory">out</xsl:param>
 
@@ -92,7 +94,7 @@
   </xsl:template>
   
   <!-- če hočemo, da div nimajo naslovov, potem jih moramo skonstrurirati (prazne) naslove,
-    saj drugače toc.ncx in toc.html ne more prikazati teh delov vsebine -->
+    saj drugače toc.ncx in toc.xhtml ne more prikazati teh delov vsebine -->
   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" class="headings" type="boolean">
     <desc>Whether to construct a heading for &lt;div&gt; elements with no &lt;head&gt; - by default,
       not.</desc>
@@ -353,7 +355,7 @@ height: </xsl:text>
                               <xsl:for-each select="$TL">
                                 <xsl:for-each select="key('Object', $object)">
                                   <par id="{@xml:id}">
-                                    <text src="{$target}.html{@corresp}"/>
+                                    <text src="{$target}.xhtml{@corresp}"/>
                                     <audio src="{$audio}" clipBegin="{@from}{../@unit}"
                                       clipEnd="{@to}{../@unit}"/>
                                   </par>
@@ -377,19 +379,19 @@ height: </xsl:text>
               </xsl:for-each>
               <item id="css" href="stylesheet.css" media-type="text/css"/>
               <item id="print.css" href="print.css" media-type="text/css"/>
-              <item href="titlepage.html" id="titlepage" media-type="application/xhtml+xml"/>
+              <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
               <xsl:if test="$filePerPage = 'true'">
-                <item href="titlepageverso.html" id="titlepageverso"
+                <item href="titlepageverso.xhtml" id="titlepageverso"
                   media-type="application/xhtml+xml"/>
               </xsl:if>
               <xsl:for-each select="tei:text/tei:front/tei:titlePage">
                 <xsl:variable name="N" select="position()"/>
-                <item href="titlepage{$N}.html" id="titlepage{$N}"
+                <item href="titlepage{$N}.xhtml" id="titlepage{$N}"
                   media-type="application/xhtml+xml"/>
               </xsl:for-each>
-              <item href="titlepageback.html" id="titlepageback" media-type="application/xhtml+xml"/>
-              <item id="toc" properties="nav" href="toc.html" media-type="application/xhtml+xml"/>
-              <item id="start" href="index.html" media-type="application/xhtml+xml">
+              <item href="titlepageback.xhtml" id="titlepageback" media-type="application/xhtml+xml"/>
+              <item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml"/>
+              <item id="start" href="index.xhtml" media-type="application/xhtml+xml">
                 <xsl:call-template name="epub-start-properties"/>
               </item>
               <xsl:choose>
@@ -401,7 +403,7 @@ height: </xsl:text>
                     <xsl:if test="@facs">
                       <xsl:variable name="facstarget">
                         <xsl:apply-templates select="." mode="ident"/>
-                        <xsl:text>-facs.html</xsl:text>
+                        <xsl:text>-facs.xhtml</xsl:text>
                       </xsl:variable>
                       <item href="{$facstarget}" media-type="application/xhtml+xml">
                         <xsl:attribute name="id">
@@ -410,7 +412,7 @@ height: </xsl:text>
                         </xsl:attribute>
                       </item>
                     </xsl:if>
-                    <item href="{$target}.html" media-type="application/xhtml+xml">
+                    <item href="{$target}.xhtml" media-type="application/xhtml+xml">
                       <xsl:if test="$mediaoverlay = 'true' and key('Timeline', 1)">
                         <xsl:attribute name="media-overlay">
                           <xsl:value-of select="$target"/>
@@ -560,8 +562,8 @@ height: </xsl:text>
               <xsl:call-template name="epubSpineHook"/>
             </spine>
             <guide>
-              <reference type="text" href="titlepage.html" title="Cover"/>
-              <reference type="text" title="Start" href="index.html"/>
+              <reference type="text" href="titlepage.xhtml" title="Cover"/>
+              <reference type="text" title="Start" href="index.xhtml"/>
               <xsl:choose>
                 <xsl:when test="$filePerPage = 'true'"> </xsl:when>
                 <xsl:otherwise>
@@ -591,14 +593,14 @@ height: </xsl:text>
                   </xsl:for-each>
                 </xsl:otherwise>
               </xsl:choose>
-              <reference href="titlepageback.html" type="text" title="About this book"/>
+              <reference href="titlepageback.xhtml" type="text" title="About this book"/>
             </guide>
           </package>
         </xsl:result-document>
         <xsl:if test="$verbose = 'true'">
-          <xsl:message>write file OPS/titlepage.html</xsl:message>
+          <xsl:message>write file OPS/titlepage.xhtml</xsl:message>
         </xsl:if>
-        <xsl:result-document href="{concat($directory,'/OPS/titlepage.html')}" method="xml">
+        <xsl:result-document href="{concat($directory,'/OPS/titlepage.xhtml')}" method="xml">
           <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
             <head>
               <xsl:call-template name="metaHTML">
@@ -636,9 +638,9 @@ height: </xsl:text>
         <xsl:for-each select="tei:text/tei:front/tei:titlePage">
           <xsl:variable name="N" select="position()"/>
           <xsl:if test="$verbose = 'true'">
-            <xsl:message>write file OPS/titlepage<xsl:value-of select="$N"/>.html</xsl:message>
+            <xsl:message>write file OPS/titlepage<xsl:value-of select="$N"/>.xhtml</xsl:message>
           </xsl:if>
-          <xsl:result-document href="{concat($directory,'/OPS/titlepage',$N,'.html')}" method="xml">
+          <xsl:result-document href="{concat($directory,'/OPS/titlepage',$N,'.xhtml')}" method="xml">
             <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
               <head>
                 <xsl:call-template name="metaHTML">
@@ -659,9 +661,9 @@ height: </xsl:text>
         </xsl:for-each>
         <xsl:if test="$filePerPage = 'true'">
           <xsl:if test="$verbose = 'true'">
-            <xsl:message>write file OPS/titlepageverso.html</xsl:message>
+            <xsl:message>write file OPS/titlepageverso.xhtml</xsl:message>
           </xsl:if>
-          <xsl:result-document href="{concat($directory,'/OPS/titlepageverso.html')}" method="xml">
+          <xsl:result-document href="{concat($directory,'/OPS/titlepageverso.xhtml')}" method="xml">
             <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
               <head>
                 <xsl:call-template name="metaHTML">
@@ -676,9 +678,9 @@ height: </xsl:text>
           </xsl:result-document>
         </xsl:if>
         <xsl:if test="$verbose = 'true'">
-          <xsl:message>write file OPS/titlepageback.html</xsl:message>
+          <xsl:message>write file OPS/titlepageback.xhtml</xsl:message>
         </xsl:if>
-        <xsl:result-document href="{concat($directory,'/OPS/titlepageback.html')}" method="xml">
+        <xsl:result-document href="{concat($directory,'/OPS/titlepageback.xhtml')}" method="xml">
           <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
             <head>
               <xsl:call-template name="metaHTML">
@@ -724,7 +726,7 @@ height: </xsl:text>
                   <navLabel>
                     <text>[Cover]</text>
                   </navLabel>
-                  <content src="titlepage.html"/>
+                  <content src="titlepage.xhtml"/>
                 </navPoint>
                 <xsl:for-each select="tei:text/tei:front/tei:titlePage[1]">
                   <xsl:variable name="N" select="position()"/>
@@ -732,7 +734,7 @@ height: </xsl:text>
                     <navLabel>
                       <text>[Title page]</text>
                     </navLabel>
-                    <content src="titlepage{$N}.html"/>
+                    <content src="titlepage{$N}.xhtml"/>
                   </navPoint>
                 </xsl:for-each>
                 <xsl:choose>
@@ -744,7 +746,7 @@ height: </xsl:text>
                       <navLabel>
                         <text>[The book]</text>
                       </navLabel>
-                      <content src="index.html"/>
+                      <content src="index.xhtml"/>
                     </navPoint>
                     <xsl:for-each select="$TOC/html:TOC/html:ul[contains(@class, 'group')]">
                       <xsl:apply-templates select=".//html:li[not(contains(html:a/@href, '#'))]"/>
@@ -763,7 +765,7 @@ height: </xsl:text>
                   <navLabel>
                     <text>[About this book]</text>
                   </navLabel>
-                  <content src="titlepageback.html"/>
+                  <content src="titlepageback.xhtml"/>
                 </navPoint>
               </xsl:variable>
               <xsl:for-each select="$navPoints/ncx:navPoint">
@@ -789,9 +791,9 @@ height: </xsl:text>
           </xsl:result-document>
         </xsl:if>
         <xsl:if test="$debug = 'true'">
-          <xsl:message>write file OPS/toc.html</xsl:message>
+          <xsl:message>write file OPS/toc.xhtml</xsl:message>
         </xsl:if>
-        <xsl:result-document href="{concat($directory,'/OPS/toc.html')}" method="xml"
+        <xsl:result-document href="{concat($directory,'/OPS/toc.xhtml')}" method="xml"
           doctype-system="">
           <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
             <head>
@@ -858,7 +860,7 @@ height: </xsl:text>
                       </xsl:choose>
                     </xsl:for-each>
                     <li>
-                      <a href="titlepageback.html">[About this book]</a>
+                      <a href="titlepageback.xhtml">[About this book]</a>
                     </li>
                   </ol>
                 </nav>
@@ -866,13 +868,13 @@ height: </xsl:text>
                   <h2>Guide</h2>
                   <ol>
                     <li>
-                      <a epub:type="titlepage" href="titlepage.html">[Title page]</a>
+                      <a epub:type="titlepage" href="titlepage.xhtml">[Title page]</a>
                     </li>
                     <li>
-                      <a epub:type="bodymatter" href="index.html">[The book]</a>
+                      <a epub:type="bodymatter" href="index.xhtml">[The book]</a>
                     </li>
                     <li>
-                      <a epub:type="colophon" href="titlepageback.html">[About this book]</a>
+                      <a epub:type="colophon" href="titlepageback.xhtml">[About this book]</a>
                     </li>
                   </ol>
                 </nav>
@@ -1204,9 +1206,9 @@ height: </xsl:text>
       <xsl:apply-templates/>
     </span>
   </xsl:template>
-
+  
   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
-    <desc>Rodered list ol/li spremenim v samostojne odstavke</desc>
+    <desc>Process element listBibl</desc>
   </doc>
   <xsl:template match="tei:listBibl">
     <xsl:if test="tei:head">
@@ -1216,8 +1218,8 @@ height: </xsl:text>
       </xsl:element>
     </xsl:if>
     <xsl:choose>
-      <xsl:when test="tei:biblStruct and $biblioStyle = 'mla'">
-        <div type="listBibl" xmlns="http://www.w3.org/1999/xhtml">
+      <xsl:when test="tei:biblStruct and $biblioStyle='mla'">
+        <div type="listBibl" xmlns="http://www.w3.org/1999/xhtml">	  
           <xsl:for-each select="tei:biblStruct">
             <p class="hang" xmlns="http://www.w3.org/1999/xhtml">
               <xsl:apply-templates select="tei:analytic" mode="mla"/>
@@ -1229,19 +1231,17 @@ height: </xsl:text>
                 </xsl:when>
                 <xsl:when test="*//tei:ref/@target and not(contains(*//tei:ref/@target, '#'))">
                   <xsl:text>Web.&#10;</xsl:text>
-                  <xsl:if test="*//tei:imprint/tei:date/@type = 'access'">
-                    <xsl:value-of select="*//tei:imprint/tei:date[@type = 'access']"/>
+                  <xsl:if test="*//tei:imprint/tei:date/@type='access'">
+                    <xsl:value-of select="*//tei:imprint/tei:date[@type='access']"/>
                     <xsl:text>.</xsl:text>
                   </xsl:if>
                 </xsl:when>
-                <xsl:when
-                  test="tei:analytic/tei:title[@level = 'u'] or tei:monogr/tei:title[@level = 'u']"/>
+                <xsl:when test="tei:analytic/tei:title[@level='u'] or tei:monogr/tei:title[@level='u']"/>
                 <xsl:otherwise>Print.&#10;</xsl:otherwise>
               </xsl:choose>
-              <xsl:if test="tei:monogr/tei:imprint/tei:extent"><xsl:value-of
-                  select="tei:monogr/tei:imprint/tei:extent"/>. </xsl:if>
-              <xsl:if test="tei:series/tei:title[@level = 's']">
-                <xsl:apply-templates select="tei:series/tei:title[@level = 's']"/>
+              <xsl:if test="tei:monogr/tei:imprint/tei:extent"><xsl:value-of select="tei:monogr/tei:imprint/tei:extent"/>. </xsl:if>
+              <xsl:if test="tei:series/tei:title[@level='s']">
+                <xsl:apply-templates select="tei:series/tei:title[@level='s']"/>
                 <xsl:text>. </xsl:text>
               </xsl:if>
             </p>
@@ -1251,32 +1251,18 @@ height: </xsl:text>
       <xsl:when test="tei:biblStruct and not(tei:bibl)">
         <ol class="listBibl {$biblioStyle}">
           <xsl:for-each select="tei:biblStruct">
-            <xsl:sort
-              select="
-                lower-case(normalize-space((@sortKey,
-                tei:*[1]/tei:author/tei:surname
-                ,
-                tei:*[1]/tei:author/tei:orgName
-                ,
-                tei:*[1]/tei:author/tei:name
-                ,
-                tei:*[1]/tei:author
-                ,
-                tei:*[1]/tei:editor/tei:surname
-                ,
-                tei:*[1]/tei:editor/tei:name
-                ,
-                tei:*[1]/tei:editor
-                ,
-                tei:*[1]/tei:title[1])[1]))"/>
-            <xsl:sort
-              select="
-                lower-case(normalize-space((
-                tei:*[1]/tei:author/tei:forename
-                ,
-                tei:*[1]/tei:editor/tei:forename
-                ,
-                '')[1]))"/>
+            <xsl:sort select="lower-case(normalize-space((@sortKey,tei:*[1]/tei:author/tei:surname
+              ,tei:*[1]/tei:author/tei:orgName
+              ,tei:*[1]/tei:author/tei:name
+              ,tei:*[1]/tei:author
+              ,tei:*[1]/tei:editor/tei:surname
+              ,tei:*[1]/tei:editor/tei:name
+              ,tei:*[1]/tei:editor
+              ,tei:*[1]/tei:title[1])[1]))"/>
+            <xsl:sort select="lower-case(normalize-space((
+              tei:*[1]/tei:author/tei:forename
+              ,tei:*[1]/tei:editor/tei:forename
+              ,'')[1]))"/>
             <xsl:sort select="tei:monogr/tei:imprint/tei:date"/>
             <li>
               <xsl:call-template name="makeAnchor"/>
@@ -1293,22 +1279,25 @@ height: </xsl:text>
         </xsl:for-each>
       </xsl:when>
       <xsl:otherwise>
-        <!-- tukaj sprememba -->
-        <!--<ul class="listBibl">-->
-        <xsl:for-each select="*[not(self::tei:head)]">
-          <!-- namesto li je p -->
-          <p>
-            <xsl:call-template name="makeAnchor">
-              <xsl:with-param name="name">
-                <xsl:apply-templates mode="ident" select="."/>
-              </xsl:with-param>
-            </xsl:call-template>
-            <xsl:apply-templates select="."/>
-          </p>
-        </xsl:for-each>
-        <!--</ul>-->
+        <!-- ol spremenil v ul -->
+        <ul class="listBibl">
+          <xsl:for-each select="*[not(self::tei:head)]">
+            <li>
+              <!-- odstranil, ker se v primerih, da imajo child elementi @xml:id,
+                   podvoji id atribut -->
+              <!-- Bodi pozoren: s tem sem odstranil možnost avtomatičnega kreiranja id atributa, če le-tega ni bilo prej v TEI -->
+              <!--<xsl:call-template name="makeAnchor">
+                <xsl:with-param name="name">
+                  <xsl:apply-templates mode="ident" select="."/>
+                </xsl:with-param>
+              </xsl:call-template>-->
+              <xsl:apply-templates select="."/>
+            </li>
+          </xsl:for-each>
+        </ul>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+  
 
 </xsl:stylesheet>

@@ -37,7 +37,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-07-07</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-02-14T17:45:05Z</meta>
+      <meta property="dcterms:modified">2018-03-19T05:06:26Z</meta>
    </metadata>
    <manifest>
       <item href="media/Kras in Brkini_naslovna.jpg"
@@ -46,48 +46,48 @@
             media-type="image/jpeg"/>
       <item id="css" href="stylesheet.css" media-type="text/css"/>
       <item id="print.css" href="print.css" media-type="text/css"/>
-      <item href="titlepage.html"
+      <item href="titlepage.xhtml"
             id="titlepage"
             media-type="application/xhtml+xml"/>
-      <item href="titlepage1.html"
+      <item href="titlepage1.xhtml"
             id="titlepage1"
             media-type="application/xhtml+xml"/>
-      <item href="titlepageback.html"
+      <item href="titlepageback.xhtml"
             id="titlepageback"
             media-type="application/xhtml+xml"/>
       <item id="toc"
             properties="nav"
-            href="toc.html"
+            href="toc.xhtml"
             media-type="application/xhtml+xml"/>
-      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
-      <item href="index-front.1_div.1.html"
+      <item id="start" href="index.xhtml" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section1"/>
-      <item href="index-front.1_div.2.html"
+      <item href="index-front.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section2"/>
-      <item href="index-front.1_div.3.html"
+      <item href="index-front.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section3"/>
-      <item href="index-front.1_div.4.html"
+      <item href="index-front.1_div.4.xhtml"
             media-type="application/xhtml+xml"
             id="section4"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-body.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section5"/>
-      <item href="index-body.1_div.2.html"
+      <item href="index-body.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section28"/>
-      <item href="index-body.1_div.3.html"
+      <item href="index-body.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section63"/>
-      <item href="index-back.1_div.1.html"
+      <item href="index-back.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section84"/>
-      <item href="index-back.1_div.2.html"
+      <item href="index-back.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section86"/>
-      <item href="index-back.1_div.3.html"
+      <item href="index-back.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section87"/>
       <item href="media/imageZRC.jpeg" id="image-1" media-type="image/jpeg"/>
@@ -146,24 +146,24 @@
       <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
-      <reference type="text" href="titlepage.html" title="Cover"/>
-      <reference type="text" title="Start" href="index.html"/>
-      <reference type="text" href="index-front.1_div.1.html" title=""/>
-      <reference type="text" href="index-front.1_div.2.html" title=""/>
-      <reference type="text" href="index-front.1_div.3.html" title="KAZALO"/>
+      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" title="Start" href="index.xhtml"/>
+      <reference type="text" href="index-front.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.2.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.3.xhtml" title="KAZALO"/>
       <reference type="text"
-                 href="index-front.1_div.4.html"
+                 href="index-front.1_div.4.xhtml"
                  title="Kraška planota in Brkini, Brkini in kraška planota: Razlike in podobnosti, znano in neznano"/>
       <reference type="text"
-                 href="index-body.1_div.1.html"
+                 href="index-body.1_div.1.xhtml"
                  title="NARAVNA DEDIŠČINA"/>
       <reference type="text"
-                 href="index-body.1_div.2.html"
+                 href="index-body.1_div.2.xhtml"
                  title="KULTURNA DEDIŠČINA"/>
-      <reference type="text" href="index-body.1_div.3.html" title="ŽIVA DEDIŠČINA"/>
-      <reference type="text" href="index-back.1_div.1.html" title=""/>
-      <reference type="text" href="index-back.1_div.2.html" title=""/>
-      <reference type="text" href="index-back.1_div.3.html" title=""/>
-      <reference href="titlepageback.html" type="text" title="About this book"/>
+      <reference type="text" href="index-body.1_div.3.xhtml" title="ŽIVA DEDIŠČINA"/>
+      <reference type="text" href="index-back.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-back.1_div.2.xhtml" title=""/>
+      <reference type="text" href="index-back.1_div.3.xhtml" title=""/>
+      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
    </guide>
 </package>

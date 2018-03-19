@@ -35,7 +35,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-10-24</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-02-14T17:40:41Z</meta>
+      <meta property="dcterms:modified">2018-03-19T05:03:20Z</meta>
    </metadata>
    <manifest>
       <item href="media/kos1.jpg"
@@ -44,63 +44,63 @@
             media-type="image/jpeg"/>
       <item id="css" href="stylesheet.css" media-type="text/css"/>
       <item id="print.css" href="print.css" media-type="text/css"/>
-      <item href="titlepage.html"
+      <item href="titlepage.xhtml"
             id="titlepage"
             media-type="application/xhtml+xml"/>
-      <item href="titlepage1.html"
+      <item href="titlepage1.xhtml"
             id="titlepage1"
             media-type="application/xhtml+xml"/>
-      <item href="titlepageback.html"
+      <item href="titlepageback.xhtml"
             id="titlepageback"
             media-type="application/xhtml+xml"/>
       <item id="toc"
             properties="nav"
-            href="toc.html"
+            href="toc.xhtml"
             media-type="application/xhtml+xml"/>
-      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
-      <item href="index-front.1_div.1.html"
+      <item id="start" href="index.xhtml" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section1"/>
-      <item href="index-front.1_div.2.html"
+      <item href="index-front.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section2"/>
-      <item href="index-front.1_div.3.html"
+      <item href="index-front.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section4"/>
-      <item href="index-front.1_div.4.html"
+      <item href="index-front.1_div.4.xhtml"
             media-type="application/xhtml+xml"
             id="section5"/>
-      <item href="index-front.1_div.5.html"
+      <item href="index-front.1_div.5.xhtml"
             media-type="application/xhtml+xml"
             id="section6"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-body.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section7"/>
-      <item href="index-body.1_div.2.html"
+      <item href="index-body.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section16"/>
-      <item href="index-body.1_div.3.html"
+      <item href="index-body.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section52"/>
-      <item href="index-body.1_div.4.html"
+      <item href="index-body.1_div.4.xhtml"
             media-type="application/xhtml+xml"
             id="section60"/>
-      <item href="index-body.1_div.5.html"
+      <item href="index-body.1_div.5.xhtml"
             media-type="application/xhtml+xml"
             id="section81"/>
-      <item href="index-body.1_div.6.html"
+      <item href="index-body.1_div.6.xhtml"
             media-type="application/xhtml+xml"
             id="section117"/>
-      <item href="index-back.1_div.1.html"
+      <item href="index-back.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section118"/>
-      <item href="index-back.1_div.2.html"
+      <item href="index-back.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section119"/>
-      <item href="index-back.1_div.3.html"
+      <item href="index-back.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section124"/>
-      <item href="index-back.1_div.4.html"
+      <item href="index-back.1_div.4.xhtml"
             media-type="application/xhtml+xml"
             id="section125"/>
       <item href="media/kos2.jpg" id="image-3" media-type="image/jpeg"/>
@@ -130,39 +130,39 @@
       <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
-      <reference type="text" href="titlepage.html" title="Cover"/>
-      <reference type="text" title="Start" href="index.html"/>
-      <reference type="text" href="index-front.1_div.1.html" title=""/>
-      <reference type="text" href="index-front.1_div.2.html" title=""/>
-      <reference type="text" href="index-front.1_div.3.html" title=""/>
-      <reference type="text" href="index-front.1_div.4.html" title="Kazalo"/>
+      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" title="Start" href="index.xhtml"/>
+      <reference type="text" href="index-front.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.2.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.3.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.4.xhtml" title="Kazalo"/>
       <reference type="text"
-                 href="index-front.1_div.5.html"
+                 href="index-front.1_div.5.xhtml"
                  title="Uvod: zakonska zveza, kriminal in morala"/>
       <reference type="text"
-                 href="index-body.1_div.1.html"
+                 href="index-body.1_div.1.xhtml"
                  title="Trdota je vrednota"/>
       <reference type="text"
-                 href="index-body.1_div.2.html"
+                 href="index-body.1_div.2.xhtml"
                  title="Ljubezen, zakonska zveza in ovire do sreče"/>
       <reference type="text"
-                 href="index-body.1_div.3.html"
+                 href="index-body.1_div.3.xhtml"
                  title="Rojstvo moderne ljubezenske morale na Slovenskem"/>
       <reference type="text"
-                 href="index-body.1_div.4.html"
+                 href="index-body.1_div.4.xhtml"
                  title="Virtualnost in resničnost zakonske ljubezni"/>
       <reference type="text"
-                 href="index-body.1_div.5.html"
+                 href="index-body.1_div.5.xhtml"
                  title="Nasilna morala: razpadanje zakonske zveze, ljubezenske deviacije in njihovo uravnavanje"/>
       <reference type="text"
-                 href="index-body.1_div.6.html"
+                 href="index-body.1_div.6.xhtml"
                  title="Epilog: morala na poti v moderno dobo"/>
-      <reference type="text" href="index-back.1_div.1.html" title="Opombe"/>
-      <reference type="text" href="index-back.1_div.2.html" title="Dodatki"/>
+      <reference type="text" href="index-back.1_div.1.xhtml" title="Opombe"/>
+      <reference type="text" href="index-back.1_div.2.xhtml" title="Dodatki"/>
       <reference type="text"
-                 href="index-back.1_div.3.html"
+                 href="index-back.1_div.3.xhtml"
                  title="Indeks krajevnih in osebnih imen"/>
-      <reference type="text" href="index-back.1_div.4.html" title=""/>
-      <reference href="titlepageback.html" type="text" title="About this book"/>
+      <reference type="text" href="index-back.1_div.4.xhtml" title=""/>
+      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
    </guide>
 </package>

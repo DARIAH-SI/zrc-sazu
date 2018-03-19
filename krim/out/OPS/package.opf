@@ -33,7 +33,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-07-07</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-02-14T17:49:49Z</meta>
+      <meta property="dcterms:modified">2018-03-19T05:21:22Z</meta>
    </metadata>
    <manifest>
       <item href="media/image1.jpeg"
@@ -42,54 +42,54 @@
             media-type="image/jpeg"/>
       <item id="css" href="stylesheet.css" media-type="text/css"/>
       <item id="print.css" href="print.css" media-type="text/css"/>
-      <item href="titlepage.html"
+      <item href="titlepage.xhtml"
             id="titlepage"
             media-type="application/xhtml+xml"/>
-      <item href="titlepage1.html"
+      <item href="titlepage1.xhtml"
             id="titlepage1"
             media-type="application/xhtml+xml"/>
-      <item href="titlepageback.html"
+      <item href="titlepageback.xhtml"
             id="titlepageback"
             media-type="application/xhtml+xml"/>
       <item id="toc"
             properties="nav"
-            href="toc.html"
+            href="toc.xhtml"
             media-type="application/xhtml+xml"/>
-      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
-      <item href="index-front.1_div.1.html"
+      <item id="start" href="index.xhtml" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section1"/>
-      <item href="index-front.1_div.2.html"
+      <item href="index-front.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section2"/>
-      <item href="index-front.1_div.3.html"
+      <item href="index-front.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section3"/>
-      <item href="index-front.1_div.4.html"
+      <item href="index-front.1_div.4.xhtml"
             media-type="application/xhtml+xml"
             id="section6"/>
-      <item href="index-front.1_div.5.html"
+      <item href="index-front.1_div.5.xhtml"
             media-type="application/xhtml+xml"
             id="section7"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-body.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section8"/>
-      <item href="index-body.1_div.2.html"
+      <item href="index-body.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section30"/>
-      <item href="index-body.1_div.3.html"
+      <item href="index-body.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section64"/>
-      <item href="index-back.1_div.1.html"
+      <item href="index-back.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section242"/>
-      <item href="index-back.1_div.2.html"
+      <item href="index-back.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section243"/>
-      <item href="index-back.1_div.3.html"
+      <item href="index-back.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section244"/>
-      <item href="op.html" media-type="application/xhtml+xml" id="section245"/>
+      <item href="op.xhtml" media-type="application/xhtml+xml" id="section245"/>
       <item href="media/image1a.jpeg" id="image-3" media-type="image/jpeg"/>
       <item href="media/image2.png" id="image-4" media-type="image/png"/>
       <item href="media/img_001.jpg" id="image-5" media-type="image/jpeg"/>
@@ -143,30 +143,30 @@
       <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
-      <reference type="text" href="titlepage.html" title="Cover"/>
-      <reference type="text" title="Start" href="index.html"/>
-      <reference type="text" href="index-front.1_div.1.html" title=""/>
-      <reference type="text" href="index-front.1_div.2.html" title=""/>
-      <reference type="text" href="index-front.1_div.3.html" title=""/>
-      <reference type="text" href="index-front.1_div.4.html" title="KAZALO"/>
-      <reference type="text" href="index-front.1_div.5.html" title="UVOD"/>
+      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" title="Start" href="index.xhtml"/>
+      <reference type="text" href="index-front.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.2.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.3.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.4.xhtml" title="KAZALO"/>
+      <reference type="text" href="index-front.1_div.5.xhtml" title="UVOD"/>
       <reference type="text"
-                 href="index-body.1_div.1.html"
+                 href="index-body.1_div.1.xhtml"
                  title="Zgodovinski razvoj podkrimskih vasi"/>
       <reference type="text"
-                 href="index-body.1_div.2.html"
+                 href="index-body.1_div.2.xhtml"
                  title="Narodnoosvobodilni boj in vasi pod Krimom"/>
-      <reference type="text" href="index-body.1_div.3.html" title="Priloge"/>
+      <reference type="text" href="index-body.1_div.3.xhtml" title="Priloge"/>
       <reference type="text"
-                 href="index-back.1_div.1.html"
+                 href="index-back.1_div.1.xhtml"
                  title="Besedilo na zavihkih prve izdaje (1993)"/>
       <reference type="text"
-                 href="index-back.1_div.2.html"
+                 href="index-back.1_div.2.xhtml"
                  title="Mikrozgodovina smrti in upanja Ferdo Gestrin in njegova razprava o »državljanski vojni« pod Krimom"/>
       <reference type="text"
-                 href="index-back.1_div.3.html"
+                 href="index-back.1_div.3.xhtml"
                  title="RAZČLENJENO KAZALO"/>
-      <reference type="text" href="op.html" title="Opombe"/>
-      <reference href="titlepageback.html" type="text" title="About this book"/>
+      <reference type="text" href="op.xhtml" title="Opombe"/>
+      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
    </guide>
 </package>

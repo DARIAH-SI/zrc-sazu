@@ -38,7 +38,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-08-29</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-02-14T17:55:10Z</meta>
+      <meta property="dcterms:modified">2018-03-16T11:30:30Z</meta>
    </metadata>
    <manifest>
       <item href="media/okna1.jpg"
@@ -47,57 +47,57 @@
             media-type="image/jpeg"/>
       <item id="css" href="stylesheet.css" media-type="text/css"/>
       <item id="print.css" href="print.css" media-type="text/css"/>
-      <item href="titlepage.html"
+      <item href="titlepage.xhtml"
             id="titlepage"
             media-type="application/xhtml+xml"/>
-      <item href="titlepage1.html"
+      <item href="titlepage1.xhtml"
             id="titlepage1"
             media-type="application/xhtml+xml"/>
-      <item href="titlepageback.html"
+      <item href="titlepageback.xhtml"
             id="titlepageback"
             media-type="application/xhtml+xml"/>
       <item id="toc"
             properties="nav"
-            href="toc.html"
+            href="toc.xhtml"
             media-type="application/xhtml+xml"/>
-      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
-      <item href="index-front.1_div.1.html"
+      <item id="start" href="index.xhtml" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section1"/>
-      <item href="index-front.1_div.2.html"
+      <item href="index-front.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section2"/>
-      <item href="index-front.1_div.3.html"
+      <item href="index-front.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section3"/>
-      <item href="index-front.1_div.4.html"
+      <item href="index-front.1_div.4.xhtml"
             media-type="application/xhtml+xml"
             id="section4"/>
-      <item href="index-front.1_div.5.html"
+      <item href="index-front.1_div.5.xhtml"
             media-type="application/xhtml+xml"
             id="section5"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-body.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section6"/>
-      <item href="index-body.1_div.2.html"
+      <item href="index-body.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section7"/>
-      <item href="index-body.1_div.3.html"
+      <item href="index-body.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section14"/>
-      <item href="index-body.1_div.4.html"
+      <item href="index-body.1_div.4.xhtml"
             media-type="application/xhtml+xml"
             id="section19"/>
-      <item href="index-back.1_div.1.html"
+      <item href="index-back.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section23"/>
-      <item href="index-back.1_div.2.html"
+      <item href="index-back.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section24"/>
-      <item href="index-back.1_div.3.html"
+      <item href="index-back.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section25"/>
-      <item href="index-back.1_div.4.html"
+      <item href="index-back.1_div.4.xhtml"
             media-type="application/xhtml+xml"
             id="section26"/>
       <item href="media/okna2.jpg" id="image-3" media-type="image/jpeg"/>
@@ -124,27 +124,27 @@
       <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
-      <reference type="text" href="titlepage.html" title="Cover"/>
-      <reference type="text" title="Start" href="index.html"/>
-      <reference type="text" href="index-front.1_div.1.html" title=""/>
-      <reference type="text" href="index-front.1_div.2.html" title=""/>
-      <reference type="text" href="index-front.1_div.3.html" title=""/>
-      <reference type="text" href="index-front.1_div.4.html" title=""/>
-      <reference type="text" href="index-front.1_div.5.html" title="VSEBINA"/>
-      <reference type="text" href="index-body.1_div.1.html" title="Uvod"/>
+      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" title="Start" href="index.xhtml"/>
+      <reference type="text" href="index-front.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.2.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.3.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.4.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.5.xhtml" title="VSEBINA"/>
+      <reference type="text" href="index-body.1_div.1.xhtml" title="Uvod"/>
       <reference type="text"
-                 href="index-body.1_div.2.html"
+                 href="index-body.1_div.2.xhtml"
                  title="I. Preplet estetike in ontologije: problem reprezentacije"/>
       <reference type="text"
-                 href="index-body.1_div.3.html"
+                 href="index-body.1_div.3.xhtml"
                  title="II. Preplet estetike in fenomenologije: problem sveta"/>
       <reference type="text"
-                 href="index-body.1_div.4.html"
+                 href="index-body.1_div.4.xhtml"
                  title="III. Filozofsko branje: problem interpretacije"/>
-      <reference type="text" href="index-back.1_div.1.html" title="Bibliografija"/>
-      <reference type="text" href="index-back.1_div.2.html" title="Imensko kazalo"/>
-      <reference type="text" href="index-back.1_div.3.html" title="Stvarno kazalo"/>
-      <reference type="text" href="index-back.1_div.4.html" title=""/>
-      <reference href="titlepageback.html" type="text" title="About this book"/>
+      <reference type="text" href="index-back.1_div.1.xhtml" title="Bibliografija"/>
+      <reference type="text" href="index-back.1_div.2.xhtml" title="Imensko kazalo"/>
+      <reference type="text" href="index-back.1_div.3.xhtml" title="Stvarno kazalo"/>
+      <reference type="text" href="index-back.1_div.4.xhtml" title=""/>
+      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
    </guide>
 </package>

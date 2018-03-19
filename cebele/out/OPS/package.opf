@@ -36,7 +36,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-07-07</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-02-14T17:37:58Z</meta>
+      <meta property="dcterms:modified">2018-03-19T04:43:12Z</meta>
    </metadata>
    <manifest>
       <item href="media/CS_front.jpg"
@@ -45,81 +45,81 @@
             media-type="image/jpeg"/>
       <item id="css" href="stylesheet.css" media-type="text/css"/>
       <item id="print.css" href="print.css" media-type="text/css"/>
-      <item href="titlepage.html"
+      <item href="titlepage.xhtml"
             id="titlepage"
             media-type="application/xhtml+xml"/>
-      <item href="titlepage1.html"
+      <item href="titlepage1.xhtml"
             id="titlepage1"
             media-type="application/xhtml+xml"/>
-      <item href="titlepageback.html"
+      <item href="titlepageback.xhtml"
             id="titlepageback"
             media-type="application/xhtml+xml"/>
       <item id="toc"
             properties="nav"
-            href="toc.html"
+            href="toc.xhtml"
             media-type="application/xhtml+xml"/>
-      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
-      <item href="index-front.1_div.1.html"
+      <item id="start" href="index.xhtml" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section1"/>
-      <item href="index-front.1_div.2.html"
+      <item href="index-front.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section2"/>
-      <item href="index-front.1_div.3.html"
+      <item href="index-front.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section3"/>
-      <item href="index-front.1_div.4.html"
+      <item href="index-front.1_div.4.xhtml"
             media-type="application/xhtml+xml"
             id="section6"/>
-      <item href="index-front.1_div.5.html"
+      <item href="index-front.1_div.5.xhtml"
             media-type="application/xhtml+xml"
             id="section7"/>
-      <item href="index-body.1_div.1.html"
+      <item href="index-body.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section8"/>
-      <item href="index-body.1_div.2.html"
+      <item href="index-body.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section9"/>
-      <item href="index-body.1_div.3.html"
+      <item href="index-body.1_div.3.xhtml"
             media-type="application/xhtml+xml"
             id="section10"/>
-      <item href="index-body.1_div.4.html"
+      <item href="index-body.1_div.4.xhtml"
             media-type="application/xhtml+xml"
             id="section11"/>
-      <item href="index-body.1_div.5.html"
+      <item href="index-body.1_div.5.xhtml"
             media-type="application/xhtml+xml"
             id="section12"/>
-      <item href="index-body.1_div.6.html"
+      <item href="index-body.1_div.6.xhtml"
             media-type="application/xhtml+xml"
             id="section13"/>
-      <item href="index-body.1_div.7.html"
+      <item href="index-body.1_div.7.xhtml"
             media-type="application/xhtml+xml"
             id="section14"/>
-      <item href="index-body.1_div.8.html"
+      <item href="index-body.1_div.8.xhtml"
             media-type="application/xhtml+xml"
             id="section15"/>
-      <item href="index-body.1_div.9.html"
+      <item href="index-body.1_div.9.xhtml"
             media-type="application/xhtml+xml"
             id="section16"/>
-      <item href="index-body.1_div.10.html"
+      <item href="index-body.1_div.10.xhtml"
             media-type="application/xhtml+xml"
             id="section17"/>
-      <item href="index-body.1_div.11.html"
+      <item href="index-body.1_div.11.xhtml"
             media-type="application/xhtml+xml"
             id="section18"/>
-      <item href="index-body.1_div.12.html"
+      <item href="index-body.1_div.12.xhtml"
             media-type="application/xhtml+xml"
             id="section19"/>
-      <item href="index-body.1_div.13.html"
+      <item href="index-body.1_div.13.xhtml"
             media-type="application/xhtml+xml"
             id="section20"/>
-      <item href="index-body.1_div.14.html"
+      <item href="index-body.1_div.14.xhtml"
             media-type="application/xhtml+xml"
             id="section21"/>
-      <item href="index-back.1_div.1.html"
+      <item href="index-back.1_div.1.xhtml"
             media-type="application/xhtml+xml"
             id="section81"/>
-      <item href="index-back.1_div.2.html"
+      <item href="index-back.1_div.2.xhtml"
             media-type="application/xhtml+xml"
             id="section82"/>
       <item href="media/imageZRC.jpeg" id="image-1" media-type="image/jpeg"/>
@@ -293,45 +293,47 @@
       <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
-      <reference type="text" href="titlepage.html" title="Cover"/>
-      <reference type="text" title="Start" href="index.html"/>
-      <reference type="text" href="index-front.1_div.1.html" title=""/>
-      <reference type="text" href="index-front.1_div.2.html" title=""/>
-      <reference type="text" href="index-front.1_div.3.html" title=""/>
-      <reference type="text" href="index-front.1_div.4.html" title=""/>
-      <reference type="text" href="index-front.1_div.5.html" title="Vsebina"/>
-      <reference type="text" href="index-body.1_div.1.html" title="Uvod"/>
+      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" title="Start" href="index.xhtml"/>
+      <reference type="text" href="index-front.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.2.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.3.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.4.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.5.xhtml" title="Vsebina"/>
+      <reference type="text" href="index-body.1_div.1.xhtml" title="Uvod"/>
       <reference type="text"
-                 href="index-body.1_div.2.html"
+                 href="index-body.1_div.2.xhtml"
                  title="Taksonomija in sistematika čebel"/>
-      <reference type="text" href="index-body.1_div.3.html" title="Biologija čebel"/>
+      <reference type="text" href="index-body.1_div.3.xhtml" title="Biologija čebel"/>
       <reference type="text"
-                 href="index-body.1_div.4.html"
+                 href="index-body.1_div.4.xhtml"
                  title="Zbiranje in prenašanje hrane"/>
-      <reference type="text" href="index-body.1_div.5.html" title="Izbirčne čebele"/>
-      <reference type="text" href="index-body.1_div.6.html" title="Gnezdenje"/>
-      <reference type="text" href="index-body.1_div.7.html" title="Kukavičje čebele"/>
-      <reference type="text" href="index-body.1_div.8.html" title="Samci"/>
+      <reference type="text" href="index-body.1_div.5.xhtml" title="Izbirčne čebele"/>
+      <reference type="text" href="index-body.1_div.6.xhtml" title="Gnezdenje"/>
       <reference type="text"
-                 href="index-body.1_div.9.html"
+                 href="index-body.1_div.7.xhtml"
+                 title="Kukavičje čebele"/>
+      <reference type="text" href="index-body.1_div.8.xhtml" title="Samci"/>
+      <reference type="text"
+                 href="index-body.1_div.9.xhtml"
                  title="Raznovrstnost divjih čebel"/>
       <reference type="text"
-                 href="index-body.1_div.10.html"
+                 href="index-body.1_div.10.xhtml"
                  title="Kraški rob premore tudi endemično vrsto čebele"/>
       <reference type="text"
-                 href="index-body.1_div.11.html"
+                 href="index-body.1_div.11.xhtml"
                  title="Družbeno življenje vitkih čebel"/>
       <reference type="text"
-                 href="index-body.1_div.12.html"
+                 href="index-body.1_div.12.xhtml"
                  title="Poti in stranpoti evolucije"/>
       <reference type="text"
-                 href="index-body.1_div.13.html"
+                 href="index-body.1_div.13.xhtml"
                  title="Razvoj družbenosti pri žuželkah"/>
       <reference type="text"
-                 href="index-body.1_div.14.html"
+                 href="index-body.1_div.14.xhtml"
                  title="Družine in rodovi čebel"/>
-      <reference type="text" href="index-back.1_div.1.html" title=""/>
-      <reference type="text" href="index-back.1_div.2.html" title=""/>
-      <reference href="titlepageback.html" type="text" title="About this book"/>
+      <reference type="text" href="index-back.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-back.1_div.2.xhtml" title=""/>
+      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
    </guide>
 </package>
