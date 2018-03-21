@@ -99,8 +99,8 @@
                             <width>17</width>
                         </dimensions>
                         <figure corresp="NASLOVNICA IN ZADNJICA">
-                            <graphic n="1001" url="media/image1.png"/> 
-                            <graphic n="10038" url="media/image38.jpeg"/> 
+                            <graphic n="1001" url="media/image1.png"/>
+                            <graphic n="10038" url="media/image38.jpeg"/>
                         </figure></extent>
                     <publicationStmt>
                         <distributor><orgName role="Izdajatelj">Zgodovinski inštitut Milka Kosa ZRC
@@ -267,8 +267,8 @@
                 <docEdition>
                     <note>
                         <p>E-knjiga v vseh pogledih reproducira prvi natis prve tiskane izdaje
-                            (2016).<lb/>Pretvorbo je omogočila Javna agencija za knjigo, s sredstvi
-                            iz leta 2017.</p>
+                            (2016).<lb/>Pretvorbo je omogočila Javna agencija za knjigo iz naslova
+                            razpisa za leto 2017.</p>
                         <p rend="CIP">Kataložni zapis o publikaciji (CIP) pripravili v Narodni in
                             univerzitetni knjižnici v Ljubljani.<lb/><ref target="http://COBISS.SI"
                                 >COBISS.SI</ref>-ID=<ref
@@ -281,8 +281,8 @@
             </titlePage>
             <div rend="align:center" type="halftitle">
                 <pb n="(1)" xml:id="pb.1"/>
-                <bibl><title type="main">Thesaurus memoriae</title><title type="sub"
-                        >Opuscula</title><biblScope unit="volume">4</biblScope></bibl>
+                <p rend="bold">Thesaurus memoriae</p>
+                <p>Opuscula 4</p>
                 <figure corresp="logotip založba">
                     <graphic n="1002" url="media/image2.jpeg"/>
                 </figure>

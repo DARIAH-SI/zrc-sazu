@@ -37,10 +37,10 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-07-07</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-03-19T05:06:26Z</meta>
+      <meta property="dcterms:modified">2018-03-21T07:35:05Z</meta>
    </metadata>
    <manifest>
-      <item href="media/Kras in Brkini_naslovna.jpg"
+      <item href="media/Kras_in_Brkini_naslovna.jpg"
             id="cover-image"
             properties="cover-image"
             media-type="image/jpeg"/>
@@ -91,11 +91,9 @@
             media-type="application/xhtml+xml"
             id="section87"/>
       <item href="media/imageZRC.jpeg" id="image-1" media-type="image/jpeg"/>
-      <item href="media/Kras in Brkini_zadnja.jpg"
+      <item href="media/Kras_in_Brkini_zadnja.jpg"
             id="image-4"
             media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-5" media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-7" media-type="image/jpeg"/>
       <item href="media/KB18.jpeg" id="image-8" media-type="image/jpeg"/>
       <item href="media/KB44.jpeg" id="image-9" media-type="image/jpeg"/>
       <item href="media/KB56.jpeg" id="image-10" media-type="image/jpeg"/>

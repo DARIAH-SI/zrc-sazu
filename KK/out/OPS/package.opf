@@ -38,7 +38,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2016-08-29</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-03-19T04:49:34Z</meta>
+      <meta property="dcterms:modified">2018-03-21T07:23:06Z</meta>
    </metadata>
    <manifest>
       <item href="media/image1.png"

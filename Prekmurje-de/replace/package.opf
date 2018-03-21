@@ -1,233 +1,173 @@
 
-<package xmlns="http://www.idpf.org/2007/opf"
-         unique-identifier="pub-id"
-         version="3.0"
-         prefix="rendition: http://www.idpf.org/vocab/rendition#">
-   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf"
-      xml:lang="slv">
-      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Prekmurje für Neugierige und
-         Liebhaber</dc:title>
-      <meta property="rendition:layout">reflowable</meta>
-      <meta property="rendition:spread">auto</meta>
-      <meta refines="#title" property="title-type">main</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Oto Luthar</dc:creator>
-      <meta refines="#creator" property="role" scheme="marc:relators">edt</meta>
-      <meta refines="#creator" property="file-as">Luthar, Oto</meta>
-      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">ger</dc:language>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Prekmurje</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id"
-         >9789610500599</dc:identifier>
-      <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">&lt;p>Knjiga
-         petnajstih avtorjev v 51 jedrnatih in zgoščenih zapisih zaokroži predstave in dejstva o
-         pokrajini, ki segajo od opisov najbolj tipičnih kulturnih, naravnih in zgodovinskih
-         znamenitosti pa vse do fenomenov in slik iz vsakdanjega življenja. Knjiga v privlačni
-         opremi in z ilustracijami Srečka Bajde približa Prekmurje tako tistim, ki ga že poznajo
-         (ali vsaj menijo, da ga), kot onim, ki bi radi to slovenska pokrajino in njene lepote še
-         odkrili.&lt;/p></dc:description>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">&lt;p style="color:
-         grey"> The booklet Prekmurje za radovedneže in ljubitelje containing short articles on the
-         characteristics of the economically least developed Slovenian province, is the first in the
-         series of booklets that aim to provide a reader-friendly presentation of all Slovenian
-         provinces. Starting with the culturally most diverse province, we illustrate its
-         multicultural or rather intercultural character through the description of cultural
-         monuments, where special mention should be made of the castles in Murska Sobota, Lendava
-         and Grad, as well as through the presentation of individual personages, from Mihael Hadik a
-         warrior against the Ottomans to rector of Trnava University Gyoergy Dobronoki. The text is
-         an interesting palimpsest of natural, cultural and culinary fragments described by the
-         associates of ZRC SAZU and guest authors from Ljubljana, Maribor and various places of
-         Prekmurje.&lt;/p></dc:description>
-      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="publisher">Založba ZRC, ZRC
-         SAZU</dc:publisher>
-      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication"
-         >2012-05-03</dc:date>
-      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2012, 2018 Založba ZRC, ZRC
-         SAZU</dc:rights>
-      <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-01-30T15:32:10Z</meta>
-   </metadata> 
-   <manifest>
-      <item href="media/prekmurje.jpg"
-            id="cover-image"
-            properties="cover-image"
-            media-type="image/jpeg"/>
-      <item id="css" href="stylesheet.css" media-type="text/css"/>
-      <item id="print.css" href="print.css" media-type="text/css"/>
-      <item href="titlepage.html"
-            id="titlepage"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage1.html"
-            id="titlepage1"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage2.html"
-            id="titlepage2"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepageback.html"
-            id="titlepageback"
-            media-type="application/xhtml+xml"/>
-      <item id="toc"
-            properties="nav"
-            href="toc.html"
-            media-type="application/xhtml+xml"/>
-      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
-      <item href="index-front.1_div.1.html"
-            media-type="application/xhtml+xml"
-            id="section1"/>
-      <item href="index-front.1_div.2.html"
-            media-type="application/xhtml+xml"
-            id="section2"/>
-      <item href="index-front.1_div.3.html"
-            media-type="application/xhtml+xml"
-            id="section3"/>
-      <item href="index-body.1_div.1.html"
-            media-type="application/xhtml+xml"
-            id="section4"/>
-      <item href="index-body.1_div.2.html"
-            media-type="application/xhtml+xml"
-            id="section17"/>
-      <item href="index-body.1_div.3.html"
-            media-type="application/xhtml+xml"
-            id="section24"/>
-      <item href="index-body.1_div.4.html"
-            media-type="application/xhtml+xml"
-            id="section31"/>
-      <item href="index-body.1_div.5.html"
-            media-type="application/xhtml+xml"
-            id="section41"/>
-      <item href="index-body.1_div.6.html"
-            media-type="application/xhtml+xml"
-            id="section53"/>
-      <item href="index-back.1_div.1.html"
-            media-type="application/xhtml+xml"
-            id="section61"/>
-      <item href="index-back.1_div.2.html"
-            media-type="application/xhtml+xml"
-            id="section62"/>
-      <item href="index-back.1_div.3.html"
-            media-type="application/xhtml+xml"
-            id="section63"/>
-      <item href="index-back.1_div.4.html"
-            media-type="application/xhtml+xml"
-            id="section64"/>
-      <item href="index-back.1_div.5.html"
-            media-type="application/xhtml+xml"
-            id="section65"/>
-      <item href="index-back.1_div.6.html"
-            media-type="application/xhtml+xml"
-            id="section66"/>
-      <item href="media/Prekmurje_nem_naslovna.jpg"
-            id="image-1"
-            media-type="image/jpeg"/>
-      <item href="media/Prekmurje_nem_naslovna.jpg"
-            id="image-2"
-            media-type="image/jpeg"/>
-      <item href="media/Prekmurje_nem_zadnja.jpg"
-            id="image-3"
-            media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-6" media-type="image/jpeg"/>
-      <item href="media/PN6.jpg" id="image-7" media-type="image/jpeg"/>
-      <item href="media/PN10.jpg" id="image-8" media-type="image/jpeg"/>
-      <item href="media/PN12.jpg" id="image-9" media-type="image/jpeg"/>
-      <item href="media/PN17.jpg" id="image-10" media-type="image/jpeg"/>
-      <item href="media/PN19.jpg" id="image-11" media-type="image/jpeg"/>
-      <item href="media/PN28.jpg" id="image-12" media-type="image/jpeg"/>
-      <item href="media/PN31.jpg" id="image-13" media-type="image/jpeg"/>
-      <item href="media/PN36.jpg" id="image-14" media-type="image/jpeg"/>
-      <item href="media/PN48.jpg" id="image-15" media-type="image/jpeg"/>
-      <item href="media/PN52.jpg" id="image-16" media-type="image/jpeg"/>
-      <item href="media/PN54.jpg" id="image-17" media-type="image/jpeg"/>
-      <item href="media/PN59.jpg" id="image-18" media-type="image/jpeg"/>
-      <item href="media/PN62.jpg" id="image-19" media-type="image/jpeg"/>
-      <item href="media/PN65.jpg" id="image-20" media-type="image/jpeg"/>
-      <item href="media/PN68.jpg" id="image-21" media-type="image/jpeg"/>
-      <item href="media/PN71.jpg" id="image-22" media-type="image/jpeg"/>
-      <item href="media/PN74.jpg" id="image-23" media-type="image/jpeg"/>
-      <item href="media/PN79.jpg" id="image-24" media-type="image/jpeg"/>
-      <item href="media/PN83.jpg" id="image-25" media-type="image/jpeg"/>
-      <item href="media/PN86.jpg" id="image-26" media-type="image/jpeg"/>
-      <item href="media/PN89.jpg" id="image-27" media-type="image/jpeg"/>
-      <item href="media/PN92.jpg" id="image-28" media-type="image/jpeg"/>
-      <item href="media/PN94.jpg" id="image-29" media-type="image/jpeg"/>
-      <item href="media/PN96.jpg" id="image-30" media-type="image/jpeg"/>
-      <item href="media/PN99.jpg" id="image-31" media-type="image/jpeg"/>
-      <item href="media/PN102.jpg" id="image-32" media-type="image/jpeg"/>
-      <item href="media/PN106.jpg" id="image-33" media-type="image/jpeg"/>
-      <item href="media/PN108.jpg" id="image-34" media-type="image/jpeg"/>
-      <item href="media/PN110.jpg" id="image-35" media-type="image/jpeg"/>
-      <item href="media/PN114.jpg" id="image-36" media-type="image/jpeg"/>
-      <item href="media/PN117.jpg" id="image-37" media-type="image/jpeg"/>
-      <item href="media/PN120.jpg" id="image-38" media-type="image/jpeg"/>
-      <item href="media/PN122.jpg" id="image-39" media-type="image/jpeg"/>
-      <item href="media/PN124.jpg" id="image-40" media-type="image/jpeg"/>
-      <item href="media/PN129.jpg" id="image-41" media-type="image/jpeg"/>
-      <item href="media/PN132.jpg" id="image-42" media-type="image/jpeg"/>
-      <item href="media/PN135.jpg" id="image-43" media-type="image/jpeg"/>
-      <item href="media/PN138.jpg" id="image-44" media-type="image/jpeg"/>
-      <item href="media/PN141.jpg" id="image-45" media-type="image/jpeg"/>
-      <item href="media/PN144.jpg" id="image-46" media-type="image/jpeg"/>
-      <item href="media/PN152.jpg" id="image-47" media-type="image/jpeg"/>
-      <item href="media/PN154.jpg" id="image-48" media-type="image/jpeg"/>
-      <item href="media/PN161.jpg" id="image-49" media-type="image/jpeg"/>
-      <item href="media/PN162.jpg" id="image-50" media-type="image/jpeg"/>
-      <item href="media/PN164.jpg" id="image-51" media-type="image/jpeg"/>
-      <item href="media/PN168.jpg" id="image-52" media-type="image/jpeg"/>
-      <item href="media/PN170.jpg" id="image-53" media-type="image/jpeg"/>
-      <item href="media/PN176.jpg" id="image-54" media-type="image/jpeg"/>
-      <item href="media/PN179.jpg" id="image-55" media-type="image/jpeg"/>
-      <item href="media/PN183.jpg" id="image-56" media-type="image/jpeg"/>
-      <item href="media/PN183.jpg" id="image-57" media-type="image/jpeg"/>
-      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
-   </manifest>
-   <spine toc="ncx">
-      <itemref idref="titlepage" linear="yes"/>
-      <itemref idref="titlepage1" linear="yes"/>
-      <itemref idref="titlepage2" linear="yes"/>
-      <itemref idref="start" linear="yes"/>
-      <itemref idref="section1" linear="yes"/>
-      <itemref idref="section2" linear="yes"/>
-      <itemref idref="section3" linear="yes"/>
-      <itemref idref="section4" linear="yes"/>
-      <itemref idref="section17" linear="yes"/>
-      <itemref idref="section24" linear="yes"/>
-      <itemref idref="section31" linear="yes"/>
-      <itemref idref="section41" linear="yes"/>
-      <itemref idref="section53" linear="yes"/>
-      <itemref idref="section61" linear="yes"/>
-      <itemref idref="section62" linear="yes"/>
-      <itemref idref="section63" linear="yes"/>
-      <itemref idref="section64" linear="yes"/>
-      <itemref idref="section65" linear="yes"/>
-      <itemref idref="section66" linear="yes"/>
-      <itemref idref="titlepageback" linear="no"/>
-   </spine>
-   <guide>
-      <reference type="text" href="titlepage.html" title="Cover"/>
-      <reference type="text" title="Start" href="index.html"/>
-      <reference type="text" href="index-front.1_div.1.html" title=""/>
-      <reference type="text" href="index-front.1_div.2.html" title=""/>
-      <reference type="text"
-                 href="index-front.1_div.3.html"
-                 title="Statt eines Vorworts: Die Angst vor der Nostalgie"/>
-      <reference type="text" href="index-body.1_div.1.html" title="FÜR JEDERMANN"/>
-      <reference type="text"
-                 href="index-body.1_div.2.html"
-                 title="SZENEN AUS DER VERGANGENHEIT"/>
-      <reference type="text" href="index-body.1_div.3.html" title="LEBENDIGES ERBE"/>
-      <reference type="text"
-                 href="index-body.1_div.4.html"
-                 title="ZWISCHEN FLÜSSEN UND BÄCHEN"/>
-      <reference type="text"
-                 href="index-body.1_div.5.html"
-                 title="KULTURELLE LANDSCHAFT"/>
-      <reference type="text" href="index-body.1_div.6.html" title="FÜR LECKERMÄULER"/>
-      <reference type="text" href="index-back.1_div.1.html" title=""/>
-      <reference type="text" href="index-back.1_div.2.html" title="LITERATUR"/>
-      <reference type="text" href="index-back.1_div.3.html" title="~"/>
-      <reference type="text" href="index-back.1_div.4.html" title=""/>
-      <reference type="text" href="index-back.1_div.5.html" title=""/>
-      <reference type="text" href="index-back.1_div.6.html" title=""/>
-      <reference href="titlepageback.html" type="text" title="About this book"/>
-   </guide>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0"
+      prefix="rendition: http://www.idpf.org/vocab/rendition#">
+      <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns:opf="http://www.idpf.org/2007/opf" xml:lang="slv">
+            <dc:title id="title">Prekmurje für Neugierige und Liebhaber</dc:title>
+            <meta property="rendition:layout">reflowable</meta>
+            <meta property="rendition:spread">auto</meta>
+            <meta refines="#title" property="title-type">main</meta>
+            <dc:creator id="creator">Oto Luthar</dc:creator>
+            <meta refines="#creator" property="role" scheme="marc:relators">edt</meta>
+            <meta refines="#creator" property="file-as">Luthar, Oto</meta>
+            <dc:language>ger</dc:language>
+            <dc:subject>Prekmurje</dc:subject>
+            <dc:identifier id="pub-id">9789610500599</dc:identifier>
+            <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+            <dc:description xml:lang="slv">Knjiga petnajstih avtorjev v 51 jedrnatih in zgoščenih
+                  zapisih zaokroži predstave in dejstva o pokrajini, ki segajo od opisov najbolj
+                  tipičnih kulturnih, naravnih in zgodovinskih znamenitosti pa vse do fenomenov in
+                  slik iz vsakdanjega življenja. Knjiga v privlačni opremi in z ilustracijami Srečka
+                  Bajde približa Prekmurje tako tistim, ki ga že poznajo (ali vsaj menijo, da ga),
+                  kot onim, ki bi radi to slovenska pokrajino in njene lepote še
+                  odkrili.</dc:description>
+            <dc:description xml:lang="eng">The booklet Prekmurje za radovedneže in ljubitelje
+                  containing short articles on the characteristics of the economically least
+                  developed Slovenian province, is the first in the series of booklets that aim to
+                  provide a reader-friendly presentation of all Slovenian provinces. Starting with
+                  the culturally most diverse province, we illustrate its multicultural or rather
+                  intercultural character through the description of cultural monuments, where
+                  special mention should be made of the castles in Murska Sobota, Lendava and Grad,
+                  as well as through the presentation of individual personages, from Mihael Hadik a
+                  warrior against the Ottomans to rector of Trnava University Gyoergy Dobronoki. The
+                  text is an interesting palimpsest of natural, cultural and culinary fragments
+                  described by the associates of ZRC SAZU and guest authors from Ljubljana, Maribor
+                  and various places of Prekmurje.</dc:description>
+            <dc:publisher id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
+            <dc:date id="original-publication">2012-05-03</dc:date>
+            <dc:rights>© 2012, 2018 Založba ZRC, ZRC SAZU</dc:rights>
+            <meta name="cover" content="cover-image"/>
+            <meta property="dcterms:modified">2018-01-30T15:32:10Z</meta>
+      </metadata>
+      <manifest>
+            <item href="media/prekmurje.jpg" id="cover-image" properties="cover-image"
+                  media-type="image/jpeg"/>
+            <item id="css" href="stylesheet.css" media-type="text/css"/>
+            <item id="print.css" href="print.css" media-type="text/css"/>
+            <item href="titlepage.html" id="titlepage" media-type="application/xhtml+xml"/>
+            <item href="titlepage1.html" id="titlepage1" media-type="application/xhtml+xml"/>
+            <item href="titlepage2.html" id="titlepage2" media-type="application/xhtml+xml"/>
+            <item href="titlepageback.html" id="titlepageback" media-type="application/xhtml+xml"/>
+            <item id="toc" properties="nav" href="toc.html" media-type="application/xhtml+xml"/>
+            <item id="start" href="index.html" media-type="application/xhtml+xml"/>
+            <item href="index-front.1_div.1.html" media-type="application/xhtml+xml" id="section1"/>
+            <item href="index-front.1_div.2.html" media-type="application/xhtml+xml" id="section2"/>
+            <item href="index-front.1_div.3.html" media-type="application/xhtml+xml" id="section3"/>
+            <item href="index-body.1_div.1.html" media-type="application/xhtml+xml" id="section4"/>
+            <item href="index-body.1_div.2.html" media-type="application/xhtml+xml" id="section17"/>
+            <item href="index-body.1_div.3.html" media-type="application/xhtml+xml" id="section24"/>
+            <item href="index-body.1_div.4.html" media-type="application/xhtml+xml" id="section31"/>
+            <item href="index-body.1_div.5.html" media-type="application/xhtml+xml" id="section41"/>
+            <item href="index-body.1_div.6.html" media-type="application/xhtml+xml" id="section53"/>
+            <item href="index-back.1_div.1.html" media-type="application/xhtml+xml" id="section61"/>
+            <item href="index-back.1_div.2.html" media-type="application/xhtml+xml" id="section62"/>
+            <item href="index-back.1_div.3.html" media-type="application/xhtml+xml" id="section63"/>
+            <item href="index-back.1_div.4.html" media-type="application/xhtml+xml" id="section64"/>
+            <item href="index-back.1_div.5.html" media-type="application/xhtml+xml" id="section65"/>
+            <item href="index-back.1_div.6.html" media-type="application/xhtml+xml" id="section66"/>
+            <item href="media/Prekmurje_nem_naslovna.jpg" id="image-1" media-type="image/jpeg"/>
+            <item href="media/Prekmurje_nem_naslovna.jpg" id="image-2" media-type="image/jpeg"/>
+            <item href="media/Prekmurje_nem_zadnja.jpg" id="image-3" media-type="image/jpeg"/>
+            <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
+            <item href="media/imageZRC.jpeg" id="image-6" media-type="image/jpeg"/>
+            <item href="media/PN6.jpg" id="image-7" media-type="image/jpeg"/>
+            <item href="media/PN10.jpg" id="image-8" media-type="image/jpeg"/>
+            <item href="media/PN12.jpg" id="image-9" media-type="image/jpeg"/>
+            <item href="media/PN17.jpg" id="image-10" media-type="image/jpeg"/>
+            <item href="media/PN19.jpg" id="image-11" media-type="image/jpeg"/>
+            <item href="media/PN28.jpg" id="image-12" media-type="image/jpeg"/>
+            <item href="media/PN31.jpg" id="image-13" media-type="image/jpeg"/>
+            <item href="media/PN36.jpg" id="image-14" media-type="image/jpeg"/>
+            <item href="media/PN48.jpg" id="image-15" media-type="image/jpeg"/>
+            <item href="media/PN52.jpg" id="image-16" media-type="image/jpeg"/>
+            <item href="media/PN54.jpg" id="image-17" media-type="image/jpeg"/>
+            <item href="media/PN59.jpg" id="image-18" media-type="image/jpeg"/>
+            <item href="media/PN62.jpg" id="image-19" media-type="image/jpeg"/>
+            <item href="media/PN65.jpg" id="image-20" media-type="image/jpeg"/>
+            <item href="media/PN68.jpg" id="image-21" media-type="image/jpeg"/>
+            <item href="media/PN71.jpg" id="image-22" media-type="image/jpeg"/>
+            <item href="media/PN74.jpg" id="image-23" media-type="image/jpeg"/>
+            <item href="media/PN79.jpg" id="image-24" media-type="image/jpeg"/>
+            <item href="media/PN83.jpg" id="image-25" media-type="image/jpeg"/>
+            <item href="media/PN86.jpg" id="image-26" media-type="image/jpeg"/>
+            <item href="media/PN89.jpg" id="image-27" media-type="image/jpeg"/>
+            <item href="media/PN92.jpg" id="image-28" media-type="image/jpeg"/>
+            <item href="media/PN94.jpg" id="image-29" media-type="image/jpeg"/>
+            <item href="media/PN96.jpg" id="image-30" media-type="image/jpeg"/>
+            <item href="media/PN99.jpg" id="image-31" media-type="image/jpeg"/>
+            <item href="media/PN102.jpg" id="image-32" media-type="image/jpeg"/>
+            <item href="media/PN106.jpg" id="image-33" media-type="image/jpeg"/>
+            <item href="media/PN108.jpg" id="image-34" media-type="image/jpeg"/>
+            <item href="media/PN110.jpg" id="image-35" media-type="image/jpeg"/>
+            <item href="media/PN114.jpg" id="image-36" media-type="image/jpeg"/>
+            <item href="media/PN117.jpg" id="image-37" media-type="image/jpeg"/>
+            <item href="media/PN120.jpg" id="image-38" media-type="image/jpeg"/>
+            <item href="media/PN122.jpg" id="image-39" media-type="image/jpeg"/>
+            <item href="media/PN124.jpg" id="image-40" media-type="image/jpeg"/>
+            <item href="media/PN129.jpg" id="image-41" media-type="image/jpeg"/>
+            <item href="media/PN132.jpg" id="image-42" media-type="image/jpeg"/>
+            <item href="media/PN135.jpg" id="image-43" media-type="image/jpeg"/>
+            <item href="media/PN138.jpg" id="image-44" media-type="image/jpeg"/>
+            <item href="media/PN141.jpg" id="image-45" media-type="image/jpeg"/>
+            <item href="media/PN144.jpg" id="image-46" media-type="image/jpeg"/>
+            <item href="media/PN152.jpg" id="image-47" media-type="image/jpeg"/>
+            <item href="media/PN154.jpg" id="image-48" media-type="image/jpeg"/>
+            <item href="media/PN161.jpg" id="image-49" media-type="image/jpeg"/>
+            <item href="media/PN162.jpg" id="image-50" media-type="image/jpeg"/>
+            <item href="media/PN164.jpg" id="image-51" media-type="image/jpeg"/>
+            <item href="media/PN168.jpg" id="image-52" media-type="image/jpeg"/>
+            <item href="media/PN170.jpg" id="image-53" media-type="image/jpeg"/>
+            <item href="media/PN176.jpg" id="image-54" media-type="image/jpeg"/>
+            <item href="media/PN179.jpg" id="image-55" media-type="image/jpeg"/>
+            <item href="media/PN183.jpg" id="image-56" media-type="image/jpeg"/>
+            <item href="media/PN183.jpg" id="image-57" media-type="image/jpeg"/>
+            <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      </manifest>
+      <spine toc="ncx">
+            <itemref idref="titlepage" linear="yes"/>
+            <itemref idref="titlepage1" linear="yes"/>
+            <itemref idref="titlepage2" linear="yes"/>
+            <itemref idref="start" linear="yes"/>
+            <itemref idref="section1" linear="yes"/>
+            <itemref idref="section2" linear="yes"/>
+            <itemref idref="section3" linear="yes"/>
+            <itemref idref="section4" linear="yes"/>
+            <itemref idref="section17" linear="yes"/>
+            <itemref idref="section24" linear="yes"/>
+            <itemref idref="section31" linear="yes"/>
+            <itemref idref="section41" linear="yes"/>
+            <itemref idref="section53" linear="yes"/>
+            <itemref idref="section61" linear="yes"/>
+            <itemref idref="section62" linear="yes"/>
+            <itemref idref="section63" linear="yes"/>
+            <itemref idref="section64" linear="yes"/>
+            <itemref idref="section65" linear="yes"/>
+            <itemref idref="section66" linear="yes"/>
+            <itemref idref="titlepageback" linear="no"/>
+      </spine>
+      <guide>
+            <reference type="text" href="titlepage.html" title="Cover"/>
+            <reference type="text" title="Start" href="index.html"/>
+            <reference type="text" href="index-front.1_div.1.html" title=""/>
+            <reference type="text" href="index-front.1_div.2.html" title=""/>
+            <reference type="text" href="index-front.1_div.3.html"
+                  title="Statt eines Vorworts: Die Angst vor der Nostalgie"/>
+            <reference type="text" href="index-body.1_div.1.html" title="FÜR JEDERMANN"/>
+            <reference type="text" href="index-body.1_div.2.html"
+                  title="SZENEN AUS DER VERGANGENHEIT"/>
+            <reference type="text" href="index-body.1_div.3.html" title="LEBENDIGES ERBE"/>
+            <reference type="text" href="index-body.1_div.4.html"
+                  title="ZWISCHEN FLÜSSEN UND BÄCHEN"/>
+            <reference type="text" href="index-body.1_div.5.html" title="KULTURELLE LANDSCHAFT"/>
+            <reference type="text" href="index-body.1_div.6.html" title="FÜR LECKERMÄULER"/>
+            <reference type="text" href="index-back.1_div.1.html" title=""/>
+            <reference type="text" href="index-back.1_div.2.html" title="LITERATUR"/>
+            <reference type="text" href="index-back.1_div.3.html" title="~"/>
+            <reference type="text" href="index-back.1_div.4.html" title=""/>
+            <reference type="text" href="index-back.1_div.5.html" title=""/>
+            <reference type="text" href="index-back.1_div.6.html" title=""/>
+            <reference href="titlepageback.html" type="text" title="About this book"/>
+      </guide>
 </package>

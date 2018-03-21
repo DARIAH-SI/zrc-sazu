@@ -1,189 +1,134 @@
 
-<package xmlns="http://www.idpf.org/2007/opf"
-         unique-identifier="pub-id"
-         version="3.0"
-         prefix="rendition: http://www.idpf.org/vocab/rendition#">
-   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
-             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-             xmlns:opf="http://www.idpf.org/2007/opf">
-         <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Ljubezen, greh in
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0"
+      prefix="rendition: http://www.idpf.org/vocab/rendition#">
+      <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns:opf="http://www.idpf.org/2007/opf">
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Ljubezen, greh in
                   kazen</dc:title>
-         <meta refines="#title1" property="title-type" xml:lang="sl">main</meta>
-         <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title2" xml:lang="de">Podobe in
-                  razvoj ljubezenske morale na Slovenskem do 19. stoletja</dc:title>
-         <meta refines="#title2" property="title-type">subtitle</meta>
-      <meta property="rendition:layout">reflowable</meta>
-      <meta property="rendition:spread">auto</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Dušan Kos</dc:creator>
-      <meta refines="#creator" property="file-as">Kos, Dušan</meta>
-      <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
-      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">slv</dc:language>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">zakonska
-                  zveza</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Slovenija</dc:subject>
-         <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">odnosi med spoloma</dc:subject>
-         <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">zgodovina</dc:subject>
-         <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">morala</dc:subject>
-         <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">vrednote</dc:subject>
-         <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">ljubezen</dc:subject>
-         <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">kulturna zgodovina</dc:subject>
-         <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">9789610500599</dc:identifier>
-      <meta refines="#pub-id"
-            property="identifier-type"
-            scheme="onix:codelist5">15</meta>
-         <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">&lt;p>Obsežna
-                  znanstvena monografija obravnava zgodovino čustev, tj. ljubezni, morale in
-                  spolnosti. Gre za spremenjeno in združeno besedilo dveh knjig, ki jih je avtor
-                  izdal leta 2015 in 2016 pod skupnim imenom »Zgodovina morale«. Vsebina se
-                  osredotoča v obdobje med 8. in 19. stoletjem in s številnimi primeri iz arhivskih
-                  pisnih in materialnih virov posega v vse predele današnje Slovenije in v
-                  soseščino. Avtor uporablja zanimiv in inovativen znanstveni pristop: rdeča nit
-                  monografije so pripovedi, v katerih predstavlja primere iz ločitvene in kazenske
-                  sodne prakse, ki jih obravnava po analitični, primerjalni in narativni metodi,
-                  teoretske intrepretacije pa so vpete v širši evropski kontekst. Avtor problematiko
-                  ljubezni in zakonske zveze uvaja skozi reševanje spolnih disfunkcij, moralo in
-                  čast, poročne strategije in taktike ter spolno edukacijo pa skozi primere iz
-                  cerkvene sodne prakse in teorije. Posveča se tudi ljubezenski, zakonski in spolni
-                  morali v luči razpadanja zakonskih zvez, prepovedanih in kriminaliziranih in
-                  deviantnih spolnih zvez. Ob tem opozarja na slovensko plemiško galantno družbeno
-                  sceno in nakaže razvojne poti »meščanske morale« v 19. stoletju. Bralec tako dobi
-                  vpogled v dolgo genezo zaznav in praks spolnosti in ljubezni ter prepovedanih
-                  deviacij, zakonskega (družinskega) nasilja in s tem povezanih cerkvenih moralnih
-                  norm in posvetnih kriminalizacij spolne nemorale v slovenski
-                  družbi.&lt;/p></dc:description>
-         <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
-         <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="issuer">Zgodovinski inštitut Milka Kosa ZRC SAZU</dc:publisher>
-         <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2017, 2018 Založba ZRC,
-                  Zgodovinski inštitut Milka Kosa ZRC SAZU</dc:rights>         
-      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2017-09-18</dc:date>
-      <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-01-30T15:23:31Z</meta>
-   </metadata>
-   <manifest>
-      <item href="media/kos1.jpg"
-            id="cover-image"
-            properties="cover-image"
-            media-type="image/jpeg"/>
-      <item id="css" href="stylesheet.css" media-type="text/css"/>
-      <item id="print.css" href="print.css" media-type="text/css"/>
-      <item href="titlepage.html"
-            id="titlepage"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage1.html"
-            id="titlepage1"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage2.html"
-            id="titlepage2"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepageback.html"
-            id="titlepageback"
-            media-type="application/xhtml+xml"/>
-      <item id="toc"
-            properties="nav"
-            href="toc.html"
-            media-type="application/xhtml+xml"/>
-      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
-      <item href="index-front.1_div.1.html"
-            media-type="application/xhtml+xml"
-            id="section1"/>
-      <item href="index-front.1_div.2.html"
-            media-type="application/xhtml+xml"
-            id="section2"/>
-      <item href="index-front.1_div.3.html"
-            media-type="application/xhtml+xml"
-            id="section4"/>
-      <item href="index-front.1_div.4.html"
-            media-type="application/xhtml+xml"
-            id="section5"/>
-      <item href="index-body.1_div.1.html"
-            media-type="application/xhtml+xml"
-            id="section6"/>
-      <item href="index-body.1_div.2.html"
-            media-type="application/xhtml+xml"
-            id="section15"/>
-      <item href="index-body.1_div.3.html"
-            media-type="application/xhtml+xml"
-            id="section51"/>
-      <item href="index-body.1_div.4.html"
-            media-type="application/xhtml+xml"
-            id="section59"/>
-      <item href="index-body.1_div.5.html"
-            media-type="application/xhtml+xml"
-            id="section80"/>
-      <item href="index-body.1_div.6.html"
-            media-type="application/xhtml+xml"
-            id="section116"/>
-      <item href="index-back.1_div.1.html"
-            media-type="application/xhtml+xml"
-            id="section117"/>
-      <item href="index-back.1_div.2.html"
-            media-type="application/xhtml+xml"
-            id="section118"/>
-      <item href="index-back.1_div.3.html"
-            media-type="application/xhtml+xml"
-            id="section123"/>
-      <item href="index-back.1_div.4.html"
-            media-type="application/xhtml+xml"
-            id="section124"/>
-      <item href="media/kos2.jpg" id="image-3" media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-6" media-type="image/jpeg"/>
-      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
-   </manifest>
-   <spine toc="ncx">
-      <itemref idref="titlepage" linear="yes"/>
-      <itemref idref="titlepage1" linear="yes"/>
-      <itemref idref="titlepage2" linear="yes"/>
-      <itemref idref="start" linear="yes"/>
-      <itemref idref="section1" linear="yes"/>
-      <itemref idref="section2" linear="yes"/>
-      <itemref idref="section4" linear="yes"/>
-      <itemref idref="section5" linear="yes"/>
-      <itemref idref="section6" linear="yes"/>
-      <itemref idref="section15" linear="yes"/>
-      <itemref idref="section51" linear="yes"/>
-      <itemref idref="section59" linear="yes"/>
-      <itemref idref="section80" linear="yes"/>
-      <itemref idref="section116" linear="yes"/>
-      <itemref idref="section117" linear="yes"/>
-      <itemref idref="section118" linear="yes"/>
-      <itemref idref="section123" linear="yes"/>
-      <itemref idref="section124" linear="yes"/>
-      <itemref idref="titlepageback" linear="no"/>
-   </spine>
-   <guide>
-      <reference type="text" href="titlepage.html" title="Cover"/>
-      <reference type="text" title="Start" href="index.html"/>
-      <reference type="text" href="index-front.1_div.1.html" title=""/>
-      <reference type="text" href="index-front.1_div.2.html" title=""/>
-      <reference type="text" href="index-front.1_div.3.html" title="Kazalo"/>
-      <reference type="text"
-                 href="index-front.1_div.4.html"
-                 title="Uvod: zakonska zveza, kriminal in morala"/>
-      <reference type="text"
-                 href="index-body.1_div.1.html"
-                 title="Trdota je vrednota"/>
-      <reference type="text"
-                 href="index-body.1_div.2.html"
-                 title="Ljubezen, zakonska zveza in ovire do sreče"/>
-      <reference type="text"
-                 href="index-body.1_div.3.html"
-                 title="Rojstvo moderne ljubezenske morale na Slovenskem"/>
-      <reference type="text"
-                 href="index-body.1_div.4.html"
-                 title="Virtualnost in resničnost zakonske ljubezni"/>
-      <reference type="text"
-                 href="index-body.1_div.5.html"
-                 title="Nasilna morala: razpadanje zakonske zveze, ljubezenske deviacije in njihovo uravnavanje"/>
-      <reference type="text"
-                 href="index-body.1_div.6.html"
-                 title="Epilog: morala na poti v moderno dobo"/>
-      <reference type="text" href="index-back.1_div.1.html" title="Opombe"/>
-      <reference type="text" href="index-back.1_div.2.html" title="Dodatki"/>
-      <reference type="text"
-                 href="index-back.1_div.3.html"
-                 title="Indeks krajevnih in osebnih imen"/>
-      <reference type="text" href="index-back.1_div.4.html" title=""/>
-      <reference href="titlepageback.html" type="text" title="About this book"/>
-   </guide>
+            <meta refines="#title1" property="title-type" xml:lang="sl">main</meta>
+            <dc:title id="title2" xml:lang="de">Podobe in razvoj ljubezenske morale na Slovenskem do
+                  19. stoletja</dc:title>
+            <meta refines="#title2" property="title-type">subtitle</meta>
+            <meta property="rendition:layout">reflowable</meta>
+            <meta property="rendition:spread">auto</meta>
+            <dc:creator id="creator">Dušan Kos</dc:creator>
+            <meta refines="#creator" property="file-as">Kos, Dušan</meta>
+            <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+            <dc:language>slv</dc:language>
+            <dc:subject xml:lang="slv">zakonska zveza</dc:subject>
+            <dc:subject>Slovenija</dc:subject>
+            <dc:subject xml:lang="slv">odnosi med spoloma</dc:subject>
+            <dc:subject xml:lang="slv">zgodovina</dc:subject>
+            <dc:subject xml:lang="slv">morala</dc:subject>
+            <dc:subject xml:lang="slv">vrednote</dc:subject>
+            <dc:subject xml:lang="slv">ljubezen</dc:subject>
+            <dc:subject xml:lang="slv">kulturna zgodovina</dc:subject>
+            <dc:identifier id="pub-id">9789610500599</dc:identifier>
+            <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+            <dc:description xml:lang="slv">Obsežna znanstvena monografija obravnava zgodovino
+                  čustev, tj. ljubezni, morale in spolnosti. Gre za spremenjeno in združeno besedilo
+                  dveh knjig, ki jih je avtor izdal leta 2015 in 2016 pod skupnim imenom »Zgodovina
+                  morale«. Vsebina se osredotoča v obdobje med 8. in 19. stoletjem in s številnimi
+                  primeri iz arhivskih pisnih in materialnih virov posega v vse predele današnje
+                  Slovenije in v soseščino. Avtor uporablja zanimiv in inovativen znanstveni
+                  pristop: rdeča nit monografije so pripovedi, v katerih predstavlja primere iz
+                  ločitvene in kazenske sodne prakse, ki jih obravnava po analitični, primerjalni in
+                  narativni metodi, teoretske intrepretacije pa so vpete v širši evropski kontekst.
+                  Avtor problematiko ljubezni in zakonske zveze uvaja skozi reševanje spolnih
+                  disfunkcij, moralo in čast, poročne strategije in taktike ter spolno edukacijo pa
+                  skozi primere iz cerkvene sodne prakse in teorije. Posveča se tudi ljubezenski,
+                  zakonski in spolni morali v luči razpadanja zakonskih zvez, prepovedanih in
+                  kriminaliziranih in deviantnih spolnih zvez. Ob tem opozarja na slovensko plemiško
+                  galantno družbeno sceno in nakaže razvojne poti »meščanske morale« v 19. stoletju.
+                  Bralec tako dobi vpogled v dolgo genezo zaznav in praks spolnosti in ljubezni ter
+                  prepovedanih deviacij, zakonskega (družinskega) nasilja in s tem povezanih
+                  cerkvenih moralnih norm in posvetnih kriminalizacij spolne nemorale v slovenski
+                  družbi.</dc:description>
+            <dc:publisher id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
+            <dc:publisher id="issuer">Zgodovinski inštitut Milka Kosa ZRC SAZU</dc:publisher>
+            <dc:rights>© 2017, 2018 Založba ZRC, Zgodovinski inštitut Milka Kosa ZRC
+                  SAZU</dc:rights>
+            <dc:date id="original-publication">2017-09-18</dc:date>
+            <meta name="cover" content="cover-image"/>
+            <meta property="dcterms:modified">2018-01-30T15:23:31Z</meta>
+      </metadata>
+      <manifest>
+            <item href="media/kos1.jpg" id="cover-image" properties="cover-image"
+                  media-type="image/jpeg"/>
+            <item id="css" href="stylesheet.css" media-type="text/css"/>
+            <item id="print.css" href="print.css" media-type="text/css"/>
+            <item href="titlepage.html" id="titlepage" media-type="application/xhtml+xml"/>
+            <item href="titlepage1.html" id="titlepage1" media-type="application/xhtml+xml"/>
+            <item href="titlepage2.html" id="titlepage2" media-type="application/xhtml+xml"/>
+            <item href="titlepageback.html" id="titlepageback" media-type="application/xhtml+xml"/>
+            <item id="toc" properties="nav" href="toc.html" media-type="application/xhtml+xml"/>
+            <item id="start" href="index.html" media-type="application/xhtml+xml"/>
+            <item href="index-front.1_div.1.html" media-type="application/xhtml+xml" id="section1"/>
+            <item href="index-front.1_div.2.html" media-type="application/xhtml+xml" id="section2"/>
+            <item href="index-front.1_div.3.html" media-type="application/xhtml+xml" id="section4"/>
+            <item href="index-front.1_div.4.html" media-type="application/xhtml+xml" id="section5"/>
+            <item href="index-body.1_div.1.html" media-type="application/xhtml+xml" id="section6"/>
+            <item href="index-body.1_div.2.html" media-type="application/xhtml+xml" id="section15"/>
+            <item href="index-body.1_div.3.html" media-type="application/xhtml+xml" id="section51"/>
+            <item href="index-body.1_div.4.html" media-type="application/xhtml+xml" id="section59"/>
+            <item href="index-body.1_div.5.html" media-type="application/xhtml+xml" id="section80"/>
+            <item href="index-body.1_div.6.html" media-type="application/xhtml+xml" id="section116"/>
+            <item href="index-back.1_div.1.html" media-type="application/xhtml+xml" id="section117"/>
+            <item href="index-back.1_div.2.html" media-type="application/xhtml+xml" id="section118"/>
+            <item href="index-back.1_div.3.html" media-type="application/xhtml+xml" id="section123"/>
+            <item href="index-back.1_div.4.html" media-type="application/xhtml+xml" id="section124"/>
+            <item href="media/kos2.jpg" id="image-3" media-type="image/jpeg"/>
+            <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
+            <item href="media/imageZRC.jpeg" id="image-6" media-type="image/jpeg"/>
+            <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      </manifest>
+      <spine toc="ncx">
+            <itemref idref="titlepage" linear="yes"/>
+            <itemref idref="titlepage1" linear="yes"/>
+            <itemref idref="titlepage2" linear="yes"/>
+            <itemref idref="start" linear="yes"/>
+            <itemref idref="section1" linear="yes"/>
+            <itemref idref="section2" linear="yes"/>
+            <itemref idref="section4" linear="yes"/>
+            <itemref idref="section5" linear="yes"/>
+            <itemref idref="section6" linear="yes"/>
+            <itemref idref="section15" linear="yes"/>
+            <itemref idref="section51" linear="yes"/>
+            <itemref idref="section59" linear="yes"/>
+            <itemref idref="section80" linear="yes"/>
+            <itemref idref="section116" linear="yes"/>
+            <itemref idref="section117" linear="yes"/>
+            <itemref idref="section118" linear="yes"/>
+            <itemref idref="section123" linear="yes"/>
+            <itemref idref="section124" linear="yes"/>
+            <itemref idref="titlepageback" linear="no"/>
+      </spine>
+      <guide>
+            <reference type="text" href="titlepage.html" title="Cover"/>
+            <reference type="text" title="Start" href="index.html"/>
+            <reference type="text" href="index-front.1_div.1.html" title=""/>
+            <reference type="text" href="index-front.1_div.2.html" title=""/>
+            <reference type="text" href="index-front.1_div.3.html" title="Kazalo"/>
+            <reference type="text" href="index-front.1_div.4.html"
+                  title="Uvod: zakonska zveza, kriminal in morala"/>
+            <reference type="text" href="index-body.1_div.1.html" title="Trdota je vrednota"/>
+            <reference type="text" href="index-body.1_div.2.html"
+                  title="Ljubezen, zakonska zveza in ovire do sreče"/>
+            <reference type="text" href="index-body.1_div.3.html"
+                  title="Rojstvo moderne ljubezenske morale na Slovenskem"/>
+            <reference type="text" href="index-body.1_div.4.html"
+                  title="Virtualnost in resničnost zakonske ljubezni"/>
+            <reference type="text" href="index-body.1_div.5.html"
+                  title="Nasilna morala: razpadanje zakonske zveze, ljubezenske deviacije in njihovo uravnavanje"/>
+            <reference type="text" href="index-body.1_div.6.html"
+                  title="Epilog: morala na poti v moderno dobo"/>
+            <reference type="text" href="index-back.1_div.1.html" title="Opombe"/>
+            <reference type="text" href="index-back.1_div.2.html" title="Dodatki"/>
+            <reference type="text" href="index-back.1_div.3.html"
+                  title="Indeks krajevnih in osebnih imen"/>
+            <reference type="text" href="index-back.1_div.4.html" title=""/>
+            <reference href="titlepageback.html" type="text" title="About this book"/>
+      </guide>
 </package>

@@ -32,7 +32,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-07-07</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-03-19T05:33:08Z</meta>
+      <meta property="dcterms:modified">2018-03-21T08:03:51Z</meta>
    </metadata>
    <manifest>
       <item href="media/PREKMURJEcolor.jpg"
@@ -84,36 +84,32 @@
             id="section42"/>
       <item href="index-body.1_div.6.xhtml"
             media-type="application/xhtml+xml"
-            id="section55"/>
+            id="section54"/>
       <item href="index-back.1_div.1.xhtml"
             media-type="application/xhtml+xml"
-            id="section63"/>
+            id="section62"/>
       <item href="index-back.1_div.2.xhtml"
             media-type="application/xhtml+xml"
-            id="section64"/>
+            id="section63"/>
       <item href="index-back.1_div.3.xhtml"
             media-type="application/xhtml+xml"
-            id="section65"/>
+            id="section64"/>
       <item href="index-back.1_div.4.xhtml"
             media-type="application/xhtml+xml"
-            id="section66"/>
+            id="section65"/>
       <item href="index-back.1_div.5.xhtml"
             media-type="application/xhtml+xml"
-            id="section67"/>
+            id="section66"/>
       <item href="index-back.1_div.6.xhtml"
             media-type="application/xhtml+xml"
-            id="section68"/>
+            id="section67"/>
       <item href="media/Prekmurje_slo_naslovna.jpg"
             id="image-1"
-            media-type="image/jpeg"/>
-      <item href="media/Prekmurje_slo_naslovna.jpg"
-            id="image-2"
             media-type="image/jpeg"/>
       <item href="media/Prekmurje_slo_zadnja.jpg"
             id="image-3"
             media-type="image/jpeg"/>
       <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-6" media-type="image/jpeg"/>
       <item href="media/PS6.jpg" id="image-7" media-type="image/jpeg"/>
       <item href="media/PS10.jpg" id="image-8" media-type="image/jpeg"/>
       <item href="media/PS12.jpg" id="image-9" media-type="image/jpeg"/>
@@ -179,13 +175,13 @@
       <itemref idref="section25" linear="yes"/>
       <itemref idref="section32" linear="yes"/>
       <itemref idref="section42" linear="yes"/>
-      <itemref idref="section55" linear="yes"/>
+      <itemref idref="section54" linear="yes"/>
+      <itemref idref="section62" linear="yes"/>
       <itemref idref="section63" linear="yes"/>
       <itemref idref="section64" linear="yes"/>
       <itemref idref="section65" linear="yes"/>
       <itemref idref="section66" linear="yes"/>
       <itemref idref="section67" linear="yes"/>
-      <itemref idref="section68" linear="yes"/>
       <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>

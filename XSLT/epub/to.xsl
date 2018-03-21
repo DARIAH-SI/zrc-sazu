@@ -458,14 +458,28 @@ height: </xsl:text>
                 </xsl:otherwise>
               </xsl:choose>
               <!-- images -->
+              <!-- Ker je isto sliko lahko vstaviljena v več kot en tei:graphic element,
+                   jo moram procesirati samo enkrat -->
+              <!-- Najprej odstranim select="//tei:graphic|//tei:media" -->
               <xsl:for-each select="key('GRAPHICS', 1)">
                 <xsl:variable name="img" select="@url | @facs"/>
                 <xsl:if test="not($img = $coverImageOutside)">
                   <xsl:variable name="ID">
                     <xsl:number level="any"/>
                   </xsl:variable>
-                  <item href="{$img}" id="image-{$ID}"
-                    media-type="{tei:generateMimeType($img,@mimeType)}"/>
+                  <!-- ta choose dodam, ker ne sme še enkrat zapisati podatke o isti sliki,
+                       katero je enkrat že zapisalo kot item -->
+                  <xsl:choose>
+                    <!-- če je bil prej že zapisan, ga sedaj ne procesira, -->
+                    <xsl:when test="preceding::tei:graphic[@url = $img]">
+                      <!-- ne procesiram -->
+                    </xsl:when>
+                    <!-- drugače pa je tako kot prej -->
+                    <xsl:otherwise>
+                      <item href="{$img}" id="image-{$ID}"
+                        media-type="{tei:generateMimeType($img,@mimeType)}"/>
+                    </xsl:otherwise>
+                  </xsl:choose>
                 </xsl:if>
               </xsl:for-each>
               <!-- page images -->

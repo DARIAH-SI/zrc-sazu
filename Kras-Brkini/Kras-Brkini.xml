@@ -21,7 +21,7 @@
                 <publisher>Založba ZRC<figure>
                         <graphic n="1001" url="media/imageZRC.jpeg"/>
                     </figure><figure corresp="naslovnica">
-                        <graphic n="1001" url="media/Kras in Brkini_naslovna.jpg">
+                        <graphic n="1001" url="media/Kras_in_Brkini_naslovna.jpg">
                             <desc>Štanjel (Srečko Bajda)</desc>
                         </graphic>
                     </figure>
@@ -139,9 +139,9 @@
                             <width>11</width>
                         </dimensions><figure type="covers">
                             <graphic n="1001" width="11cm" height="18cm"
-                                url="media/Kras in Brkini_naslovna.jpg"/>
+                                url="media/Kras_in_Brkini_naslovna.jpg"/>
                             <graphic n="1002" width="11cm" height="18cm"
-                                url="media/Kras in Brkini_zadnja.jpg"/>
+                                url="media/Kras_in_Brkini_zadnja.jpg"/>
                         </figure></extent>
                     <publicationStmt>
                         <publisher>Založba ZRC <figure>
@@ -269,7 +269,7 @@
     </teiHeader>
     <facsimile>
         <surface xml:id="front_out">
-            <graphic n="1001" url="media/Kras in Brkini_naslovna.jpg"/>
+            <graphic n="1001" url="media/Kras_in_Brkini_naslovna.jpg"/>
         </surface>
     </facsimile>
     <text>

@@ -35,7 +35,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-10-24</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-03-19T05:03:20Z</meta>
+      <meta property="dcterms:modified">2018-03-21T07:28:49Z</meta>
    </metadata>
    <manifest>
       <item href="media/kos1.jpg"
@@ -105,7 +105,6 @@
             id="section125"/>
       <item href="media/kos2.jpg" id="image-3" media-type="image/jpeg"/>
       <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-6" media-type="image/jpeg"/>
       <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
    </manifest>
    <spine toc="ncx">

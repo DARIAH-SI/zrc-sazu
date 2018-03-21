@@ -1,53 +1,45 @@
 
-<package xmlns="http://www.idpf.org/2007/opf"
-         unique-identifier="pub-id"
-         version="3.0"
-         prefix="rendition: http://www.idpf.org/vocab/rendition#">
-   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
-             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-             xmlns:opf="http://www.idpf.org/2007/opf">
-      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Čebele Slovenije</dc:title>
-      <meta property="rendition:layout">reflowable</meta>
-      <meta property="rendition:spread">auto</meta>
-      <meta refines="#title" property="title-type">main</meta>
-            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Andrej
-                  Gogala</dc:creator>
-         <meta refines="#creator" property="file-as">Gogala, Andrej</meta>
-         <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
-      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">slv</dc:language>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">čebele</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Slovenija</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv"
-                  >taksonomija</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">biologija</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">živalska
-                  ekologija</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">živalska
-                  sociologija</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">endemiti</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">živalska
-                  raznovrstnost</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">9789610500575</dc:identifier>
-         <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
-         <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">&lt;p>V knjigi
-                  so predstavljeni taksonomija in sistematika čebel (Anthophila) in njihova
-                  biologija: zbiranje in prenašanje hrane, vedenje izbirčnih čebel, ki so vezane na
-                  določene hranilne rastline, načini gnezdenja, kukavičje čebele, ki odlagajo
-                  jajčeca v gnezda drugih vrst, vedenje in prilagoditve samcev. V poglavju o
-                  raznovrstnosti divjih čebel so opisane spremembe v slovenski favni. Po avtorjevem
-                  mnenju so predvsem posledica sprememb podnebja in izjemnih vremenskih razmer.
-                  Večji del knjige obravnava družbeno življenje čebel, predvsem prvotnejše socialne
-                  oblike, ki nam olajšujejo razumevanje razvoja družbenih skupnosti. V poglavju Poti
-                  in stranpoti evolucije avtor opisuje dolgoročno prednost vrst z družbenimi ali
-                  simbiontskimi povezavami pred vrstami, pri katerih se zaradi prevlade najmočnejših
-                  in največjih osebkov v medsebojnem boju povečuje velikost osebkov in zmanjšuje
-                  njihovo število. Nadaljuje ga poglavje o različnih oblikah družbenih skupnosti, s
-                  primeri pri čebelah. V zadnjem poglavju so predstavljene družine in rodovi čebel,
-                  ki živijo v Sloveniji. Velika vrednost knjige je tudi 154 izvirnih fotografij
-                  različnih vrst čebel, ki ponazarjajo njihovo vedenje v
-                  naravi.&lt;/p></dc:description>
-            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">&lt;p
-                  style="color: grey"> The book presents the taxonomy and systematics of bees
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0"
+      prefix="rendition: http://www.idpf.org/vocab/rendition#">
+      <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns:opf="http://www.idpf.org/2007/opf">
+            <dc:title id="title">Čebele Slovenije</dc:title>
+            <meta property="rendition:layout">reflowable</meta>
+            <meta property="rendition:spread">auto</meta>
+            <meta refines="#title" property="title-type">main</meta>
+            <dc:creator id="creator">Andrej Gogala</dc:creator>
+            <meta refines="#creator" property="file-as">Gogala, Andrej</meta>
+            <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+            <dc:language>slv</dc:language>
+            <dc:subject xml:lang="slv">čebele</dc:subject>
+            <dc:subject xml:lang="slv">Slovenija</dc:subject>
+            <dc:subject xml:lang="slv">taksonomija</dc:subject>
+            <dc:subject xml:lang="slv">biologija</dc:subject>
+            <dc:subject xml:lang="slv">živalska ekologija</dc:subject>
+            <dc:subject xml:lang="slv">živalska sociologija</dc:subject>
+            <dc:subject xml:lang="slv">endemiti</dc:subject>
+            <dc:subject xml:lang="slv">živalska raznovrstnost</dc:subject>
+            <dc:identifier id="pub-id">9789610500575</dc:identifier>
+            <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+            <dc:description xml:lang="slv">V knjigi so predstavljeni taksonomija in sistematika
+                  čebel (Anthophila) in njihova biologija: zbiranje in prenašanje hrane, vedenje
+                  izbirčnih čebel, ki so vezane na določene hranilne rastline, načini gnezdenja,
+                  kukavičje čebele, ki odlagajo jajčeca v gnezda drugih vrst, vedenje in
+                  prilagoditve samcev. V poglavju o raznovrstnosti divjih čebel so opisane spremembe
+                  v slovenski favni. Po avtorjevem mnenju so predvsem posledica sprememb podnebja in
+                  izjemnih vremenskih razmer. Večji del knjige obravnava družbeno življenje čebel,
+                  predvsem prvotnejše socialne oblike, ki nam olajšujejo razumevanje razvoja
+                  družbenih skupnosti. V poglavju Poti in stranpoti evolucije avtor opisuje
+                  dolgoročno prednost vrst z družbenimi ali simbiontskimi povezavami pred vrstami,
+                  pri katerih se zaradi prevlade najmočnejših in največjih osebkov v medsebojnem
+                  boju povečuje velikost osebkov in zmanjšuje njihovo število. Nadaljuje ga poglavje
+                  o različnih oblikah družbenih skupnosti, s primeri pri čebelah. V zadnjem poglavju
+                  so predstavljene družine in rodovi čebel, ki živijo v Sloveniji. Velika vrednost
+                  knjige je tudi 154 izvirnih fotografij različnih vrst čebel, ki ponazarjajo
+                  njihovo vedenje v naravi.</dc:description>
+            <dc:description xml:lang="eng">The book presents the taxonomy and systematics of bees
                   (Anthophila) and their biology: the collection and transport of food, picky
                   behavior of bees, which are linked to certain food plants, nesting methods, Cuckoo
                   bees laying eggs in the nests of other species, behaviors and adaptations of
@@ -63,310 +55,245 @@
                   forms of social communities, with examples in bees. In the last chapter the
                   families and genera of bees living in Slovenia are presented. Great value of the
                   book are also 154 original photos of different species of bees, which illustrate
-                  their behavior in the wild.&lt;/p></dc:description>
- 
-         <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="publisher">Založba ZRC, ZRC
-               SAZU</dc:publisher>
-         <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="issuer">Biološki inštitut Jovana Hadžija ZRC SAZU</dc:publisher>
-        <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2015-01-06</dc:date>
-      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2014, 2018 Andrej Gogala, Biološki
-                  inštut Jovana Hadžija ZRC SAZU, Založba ZRC, ZRC SAZU</dc:rights>
-      <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-01-30T15:20:29Z</meta>
-   </metadata>
-   <manifest>
-      <item href="media/CS_front.jpg"
-            id="cover-image"
-            properties="cover-image"
-            media-type="image/jpeg"/>
-      <item id="css" href="stylesheet.css" media-type="text/css"/>
-      <item id="print.css" href="print.css" media-type="text/css"/>
-      <item href="titlepage.html"
-            id="titlepage"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage1.html"
-            id="titlepage1"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepage2.html"
-            id="titlepage2"
-            media-type="application/xhtml+xml"/>
-      <item href="titlepageback.html"
-            id="titlepageback"
-            media-type="application/xhtml+xml"/>
-      <item id="toc"
-            properties="nav"
-            href="toc.html"
-            media-type="application/xhtml+xml"/>
-      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
-      <item href="index-front.1_div.1.html"
-            media-type="application/xhtml+xml"
-            id="section1"/>
-      <item href="index-front.1_div.2.html"
-            media-type="application/xhtml+xml"
-            id="section2"/>
-      <item href="index-front.1_div.3.html"
-            media-type="application/xhtml+xml"
-            id="section3"/>
-      <item href="index-front.1_div.4.html"
-            media-type="application/xhtml+xml"
-            id="section6"/>
-      <item href="index-body.1_div.1.html"
-            media-type="application/xhtml+xml"
-            id="section7"/>
-      <item href="index-body.1_div.2.html"
-            media-type="application/xhtml+xml"
-            id="section8"/>
-      <item href="index-body.1_div.3.html"
-            media-type="application/xhtml+xml"
-            id="section9"/>
-      <item href="index-body.1_div.4.html"
-            media-type="application/xhtml+xml"
-            id="section10"/>
-      <item href="index-body.1_div.5.html"
-            media-type="application/xhtml+xml"
-            id="section11"/>
-      <item href="index-body.1_div.6.html"
-            media-type="application/xhtml+xml"
-            id="section12"/>
-      <item href="index-body.1_div.7.html"
-            media-type="application/xhtml+xml"
-            id="section13"/>
-      <item href="index-body.1_div.8.html"
-            media-type="application/xhtml+xml"
-            id="section14"/>
-      <item href="index-body.1_div.9.html"
-            media-type="application/xhtml+xml"
-            id="section15"/>
-      <item href="index-body.1_div.10.html"
-            media-type="application/xhtml+xml"
-            id="section16"/>
-      <item href="index-body.1_div.11.html"
-            media-type="application/xhtml+xml"
-            id="section17"/>
-      <item href="index-body.1_div.12.html"
-            media-type="application/xhtml+xml"
-            id="section18"/>
-      <item href="index-body.1_div.13.html"
-            media-type="application/xhtml+xml"
-            id="section19"/>
-      <item href="index-body.1_div.14.html"
-            media-type="application/xhtml+xml"
-            id="section20"/>
-      <item href="index-back.1_div.1.html"
-            media-type="application/xhtml+xml"
-            id="section80"/>
-      <item href="index-back.1_div.2.html"
-            media-type="application/xhtml+xml"
-            id="section81"/>
-      <item href="media/imageZRC.jpeg" id="image-1" media-type="image/jpeg"/>
-      <item href="media/CB_back.jpg" id="image-4" media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-5" media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-7" media-type="image/jpeg"/>
-      <item href="media/image3.png" id="image-8" media-type="image/png"/>
-      <item href="media/image10.jpeg" id="image-9" media-type="image/jpeg"/>
-      <item href="media/image11.jpeg" id="image-10" media-type="image/jpeg"/>
-      <item href="media/image12.jpeg" id="image-11" media-type="image/jpeg"/>
-      <item href="media/image13.png" id="image-12" media-type="image/png"/>
-      <item href="media/image14.jpeg" id="image-13" media-type="image/jpeg"/>
-      <item href="media/image15.jpeg" id="image-14" media-type="image/jpeg"/>
-      <item href="media/image16.png" id="image-15" media-type="image/png"/>
-      <item href="media/image17.jpeg" id="image-16" media-type="image/jpeg"/>
-      <item href="media/image18.jpeg" id="image-17" media-type="image/jpeg"/>
-      <item href="media/image19.jpeg" id="image-18" media-type="image/jpeg"/>
-      <item href="media/image20.jpeg" id="image-19" media-type="image/jpeg"/>
-      <item href="media/image21.png" id="image-20" media-type="image/png"/>
-      <item href="media/image22.jpeg" id="image-21" media-type="image/jpeg"/>
-      <item href="media/image23.png" id="image-22" media-type="image/png"/>
-      <item href="media/image24.jpeg" id="image-23" media-type="image/jpeg"/>
-      <item href="media/image25.jpeg" id="image-24" media-type="image/jpeg"/>
-      <item href="media/image26.jpeg" id="image-25" media-type="image/jpeg"/>
-      <item href="media/image27.jpeg" id="image-26" media-type="image/jpeg"/>
-      <item href="media/image28.jpeg" id="image-27" media-type="image/jpeg"/>
-      <item href="media/image29.jpeg" id="image-28" media-type="image/jpeg"/>
-      <item href="media/image30.jpeg" id="image-29" media-type="image/jpeg"/>
-      <item href="media/image31.png" id="image-30" media-type="image/png"/>
-      <item href="media/image32.png" id="image-31" media-type="image/png"/>
-      <item href="media/image33.jpeg" id="image-32" media-type="image/jpeg"/>
-      <item href="media/image34.png" id="image-33" media-type="image/png"/>
-      <item href="media/image35.jpeg" id="image-34" media-type="image/jpeg"/>
-      <item href="media/image36.jpeg" id="image-35" media-type="image/jpeg"/>
-      <item href="media/image37.jpeg" id="image-36" media-type="image/jpeg"/>
-      <item href="media/image38.jpeg" id="image-37" media-type="image/jpeg"/>
-      <item href="media/image39.png" id="image-38" media-type="image/png"/>
-      <item href="media/image40.jpeg" id="image-39" media-type="image/jpeg"/>
-      <item href="media/image41.jpeg" id="image-40" media-type="image/jpeg"/>
-      <item href="media/image42.jpeg" id="image-41" media-type="image/jpeg"/>
-      <item href="media/image43.jpeg" id="image-42" media-type="image/jpeg"/>
-      <item href="media/image44.jpeg" id="image-43" media-type="image/jpeg"/>
-      <item href="media/image45.jpeg" id="image-44" media-type="image/jpeg"/>
-      <item href="media/image46.jpeg" id="image-45" media-type="image/jpeg"/>
-      <item href="media/image47.jpeg" id="image-46" media-type="image/jpeg"/>
-      <item href="media/image48.jpeg" id="image-47" media-type="image/jpeg"/>
-      <item href="media/image49.png" id="image-48" media-type="image/png"/>
-      <item href="media/image50.jpeg" id="image-49" media-type="image/jpeg"/>
-      <item href="media/image51.jpeg" id="image-50" media-type="image/jpeg"/>
-      <item href="media/image52.png" id="image-51" media-type="image/png"/>
-      <item href="media/image53.jpeg" id="image-52" media-type="image/jpeg"/>
-      <item href="media/image54.jpeg" id="image-53" media-type="image/jpeg"/>
-      <item href="media/image55.jpeg" id="image-54" media-type="image/jpeg"/>
-      <item href="media/image56.jpeg" id="image-55" media-type="image/jpeg"/>
-      <item href="media/image57.jpeg" id="image-56" media-type="image/jpeg"/>
-      <item href="media/image58.jpeg" id="image-57" media-type="image/jpeg"/>
-      <item href="media/image59.jpeg" id="image-58" media-type="image/jpeg"/>
-      <item href="media/image60.jpeg" id="image-59" media-type="image/jpeg"/>
-      <item href="media/image61.jpeg" id="image-60" media-type="image/jpeg"/>
-      <item href="media/image62.jpeg" id="image-61" media-type="image/jpeg"/>
-      <item href="media/image63.jpeg" id="image-62" media-type="image/jpeg"/>
-      <item href="media/image64.jpeg" id="image-63" media-type="image/jpeg"/>
-      <item href="media/image65.jpeg" id="image-64" media-type="image/jpeg"/>
-      <item href="media/image66.jpeg" id="image-65" media-type="image/jpeg"/>
-      <item href="media/image67.jpeg" id="image-66" media-type="image/jpeg"/>
-      <item href="media/image68.png" id="image-67" media-type="image/png"/>
-      <item href="media/image69.jpeg" id="image-68" media-type="image/jpeg"/>
-      <item href="media/image70.jpeg" id="image-69" media-type="image/jpeg"/>
-      <item href="media/image71.jpeg" id="image-70" media-type="image/jpeg"/>
-      <item href="media/image72.jpeg" id="image-71" media-type="image/jpeg"/>
-      <item href="media/image73.jpeg" id="image-72" media-type="image/jpeg"/>
-      <item href="media/image74.jpeg" id="image-73" media-type="image/jpeg"/>
-      <item href="media/image75.png" id="image-74" media-type="image/png"/>
-      <item href="media/image76.jpeg" id="image-75" media-type="image/jpeg"/>
-      <item href="media/image77.jpeg" id="image-76" media-type="image/jpeg"/>
-      <item href="media/image78.jpeg" id="image-77" media-type="image/jpeg"/>
-      <item href="media/image79.png" id="image-78" media-type="image/png"/>
-      <item href="media/image80.jpeg" id="image-79" media-type="image/jpeg"/>
-      <item href="media/image81.jpeg" id="image-80" media-type="image/jpeg"/>
-      <item href="media/image82.jpeg" id="image-81" media-type="image/jpeg"/>
-      <item href="media/image83.jpeg" id="image-82" media-type="image/jpeg"/>
-      <item href="media/image84.jpeg" id="image-83" media-type="image/jpeg"/>
-      <item href="media/image85.jpeg" id="image-84" media-type="image/jpeg"/>
-      <item href="media/image86.jpeg" id="image-85" media-type="image/jpeg"/>
-      <item href="media/image87.jpeg" id="image-86" media-type="image/jpeg"/>
-      <item href="media/image88.jpeg" id="image-87" media-type="image/jpeg"/>
-      <item href="media/image89.png" id="image-88" media-type="image/png"/>
-      <item href="media/image90.jpeg" id="image-89" media-type="image/jpeg"/>
-      <item href="media/image91.jpeg" id="image-90" media-type="image/jpeg"/>
-      <item href="media/image92.jpeg" id="image-91" media-type="image/jpeg"/>
-      <item href="media/image93.png" id="image-92" media-type="image/png"/>
-      <item href="media/image94.jpeg" id="image-93" media-type="image/jpeg"/>
-      <item href="media/image95.jpeg" id="image-94" media-type="image/jpeg"/>
-      <item href="media/image96.jpeg" id="image-95" media-type="image/jpeg"/>
-      <item href="media/image97.jpeg" id="image-96" media-type="image/jpeg"/>
-      <item href="media/image98.jpeg" id="image-97" media-type="image/jpeg"/>
-      <item href="media/image99.jpeg" id="image-98" media-type="image/jpeg"/>
-      <item href="media/image100.png" id="image-99" media-type="image/png"/>
-      <item href="media/image101.jpeg" id="image-100" media-type="image/jpeg"/>
-      <item href="media/image102.png" id="image-101" media-type="image/png"/>
-      <item href="media/image103.jpeg" id="image-102" media-type="image/jpeg"/>
-      <item href="media/image104.jpeg" id="image-103" media-type="image/jpeg"/>
-      <item href="media/image105.jpeg" id="image-104" media-type="image/jpeg"/>
-      <item href="media/image106.jpeg" id="image-105" media-type="image/jpeg"/>
-      <item href="media/image107.jpeg" id="image-106" media-type="image/jpeg"/>
-      <item href="media/image108.jpeg" id="image-107" media-type="image/jpeg"/>
-      <item href="media/image109.jpeg" id="image-108" media-type="image/jpeg"/>
-      <item href="media/image110.png" id="image-109" media-type="image/png"/>
-      <item href="media/image111.jpeg" id="image-110" media-type="image/jpeg"/>
-      <item href="media/image112.jpeg" id="image-111" media-type="image/jpeg"/>
-      <item href="media/image113.jpeg" id="image-112" media-type="image/jpeg"/>
-      <item href="media/image114.jpeg" id="image-113" media-type="image/jpeg"/>
-      <item href="media/image115.jpeg" id="image-114" media-type="image/jpeg"/>
-      <item href="media/image116.jpeg" id="image-115" media-type="image/jpeg"/>
-      <item href="media/image117.jpeg" id="image-116" media-type="image/jpeg"/>
-      <item href="media/image118.jpeg" id="image-117" media-type="image/jpeg"/>
-      <item href="media/image119.jpeg" id="image-118" media-type="image/jpeg"/>
-      <item href="media/image120.jpeg" id="image-119" media-type="image/jpeg"/>
-      <item href="media/image121.jpeg" id="image-120" media-type="image/jpeg"/>
-      <item href="media/image122.jpeg" id="image-121" media-type="image/jpeg"/>
-      <item href="media/image123.jpeg" id="image-122" media-type="image/jpeg"/>
-      <item href="media/image124.jpeg" id="image-123" media-type="image/jpeg"/>
-      <item href="media/image125.png" id="image-124" media-type="image/png"/>
-      <item href="media/image126.jpeg" id="image-125" media-type="image/jpeg"/>
-      <item href="media/image127.jpeg" id="image-126" media-type="image/jpeg"/>
-      <item href="media/image128.jpeg" id="image-127" media-type="image/jpeg"/>
-      <item href="media/image129.jpeg" id="image-128" media-type="image/jpeg"/>
-      <item href="media/image130.png" id="image-129" media-type="image/png"/>
-      <item href="media/image131.jpeg" id="image-130" media-type="image/jpeg"/>
-      <item href="media/image132.jpeg" id="image-131" media-type="image/jpeg"/>
-      <item href="media/image133.jpeg" id="image-132" media-type="image/jpeg"/>
-      <item href="media/image134.jpeg" id="image-133" media-type="image/jpeg"/>
-      <item href="media/image135.jpeg" id="image-134" media-type="image/jpeg"/>
-      <item href="media/image136.jpeg" id="image-135" media-type="image/jpeg"/>
-      <item href="media/image137.jpeg" id="image-136" media-type="image/jpeg"/>
-      <item href="media/image138.jpeg" id="image-137" media-type="image/jpeg"/>
-      <item href="media/image139.jpeg" id="image-138" media-type="image/jpeg"/>
-      <item href="media/image140.jpeg" id="image-139" media-type="image/jpeg"/>
-      <item href="media/image141.jpeg" id="image-140" media-type="image/jpeg"/>
-      <item href="media/image142.jpeg" id="image-141" media-type="image/jpeg"/>
-      <item href="media/image143.png" id="image-142" media-type="image/png"/>
-      <item href="media/image144.jpeg" id="image-143" media-type="image/jpeg"/>
-      <item href="media/image145.jpg" id="image-144" media-type="image/jpeg"/>
-      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
-   </manifest>
-   <spine toc="ncx">
-      <itemref idref="titlepage" linear="yes"/>
-      <itemref idref="titlepage1" linear="yes"/>
-      <itemref idref="titlepage2" linear="yes"/>
-      <itemref idref="start" linear="yes"/>
-      <itemref idref="section1" linear="yes"/>
-      <itemref idref="section2" linear="yes"/>
-      <itemref idref="section3" linear="yes"/>
-      <itemref idref="section6" linear="yes"/>
-      <itemref idref="section7" linear="yes"/>
-      <itemref idref="section8" linear="yes"/>
-      <itemref idref="section9" linear="yes"/>
-      <itemref idref="section10" linear="yes"/>
-      <itemref idref="section11" linear="yes"/>
-      <itemref idref="section12" linear="yes"/>
-      <itemref idref="section13" linear="yes"/>
-      <itemref idref="section14" linear="yes"/>
-      <itemref idref="section15" linear="yes"/>
-      <itemref idref="section16" linear="yes"/>
-      <itemref idref="section17" linear="yes"/>
-      <itemref idref="section18" linear="yes"/>
-      <itemref idref="section19" linear="yes"/>
-      <itemref idref="section20" linear="yes"/>
-      <itemref idref="section80" linear="yes"/>
-      <itemref idref="section81" linear="yes"/>
-      <itemref idref="titlepageback" linear="no"/>
-   </spine>
-   <guide>
-      <reference type="text" href="titlepage.html" title="Cover"/>
-      <reference type="text" title="Start" href="index.html"/>
-      <reference type="text" href="index-front.1_div.1.html" title=""/>
-      <reference type="text" href="index-front.1_div.2.html" title=""/>
-      <reference type="text" href="index-front.1_div.3.html" title=""/>
-      <reference type="text" href="index-front.1_div.4.html" title="Vsebina"/>
-      <reference type="text" href="index-body.1_div.1.html" title="Uvod"/>
-      <reference type="text"
-                 href="index-body.1_div.2.html"
-                 title="Taksonomija in sistematika čebel"/>
-      <reference type="text" href="index-body.1_div.3.html" title="Biologija čebel"/>
-      <reference type="text"
-                 href="index-body.1_div.4.html"
-                 title="Zbiranje in prenašanje hrane"/>
-      <reference type="text" href="index-body.1_div.5.html" title="Izbirčne čebele"/>
-      <reference type="text" href="index-body.1_div.6.html" title="Gnezdenje"/>
-      <reference type="text" href="index-body.1_div.7.html" title="Kukavičje čebele"/>
-      <reference type="text" href="index-body.1_div.8.html" title="Samci"/>
-      <reference type="text"
-                 href="index-body.1_div.9.html"
-                 title="Raznovrstnost divjih čebel"/>
-      <reference type="text"
-                 href="index-body.1_div.10.html"
-                 title="Kraški rob premore tudi endemično vrsto čebele"/>
-      <reference type="text"
-                 href="index-body.1_div.11.html"
-                 title="Družbeno življenje vitkih čebel"/>
-      <reference type="text"
-                 href="index-body.1_div.12.html"
-                 title="Poti in stranpoti evolucije"/>
-      <reference type="text"
-                 href="index-body.1_div.13.html"
-                 title="Razvoj družbenosti pri žuželkah"/>
-      <reference type="text"
-                 href="index-body.1_div.14.html"
-                 title="Družine in rodovi čebel"/>
-      <reference type="text" href="index-back.1_div.1.html" title=""/>
-      <reference type="text" href="index-back.1_div.2.html" title=""/>
-      <reference href="titlepageback.html" type="text" title="About this book"/>
-   </guide>
+                  their behavior in the wild.</dc:description>
+            <dc:publisher id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
+            <dc:publisher id="issuer">Biološki inštitut Jovana Hadžija ZRC SAZU</dc:publisher>
+            <dc:date id="original-publication">2015-01-06</dc:date>
+            <dc:rights>© 2014, 2018 Andrej Gogala, Biološki inštut Jovana Hadžija ZRC SAZU, Založba
+                  ZRC, ZRC SAZU</dc:rights>
+            <meta name="cover" content="cover-image"/>
+            <meta property="dcterms:modified">2018-01-30T15:20:29Z</meta>
+      </metadata>
+      <manifest>
+            <item href="media/CS_front.jpg" id="cover-image" properties="cover-image"
+                  media-type="image/jpeg"/>
+            <item id="css" href="stylesheet.css" media-type="text/css"/>
+            <item id="print.css" href="print.css" media-type="text/css"/>
+            <item href="titlepage.html" id="titlepage" media-type="application/xhtml+xml"/>
+            <item href="titlepage1.html" id="titlepage1" media-type="application/xhtml+xml"/>
+            <item href="titlepage2.html" id="titlepage2" media-type="application/xhtml+xml"/>
+            <item href="titlepageback.html" id="titlepageback" media-type="application/xhtml+xml"/>
+            <item id="toc" properties="nav" href="toc.html" media-type="application/xhtml+xml"/>
+            <item id="start" href="index.html" media-type="application/xhtml+xml"/>
+            <item href="index-front.1_div.1.html" media-type="application/xhtml+xml" id="section1"/>
+            <item href="index-front.1_div.2.html" media-type="application/xhtml+xml" id="section2"/>
+            <item href="index-front.1_div.3.html" media-type="application/xhtml+xml" id="section3"/>
+            <item href="index-front.1_div.4.html" media-type="application/xhtml+xml" id="section6"/>
+            <item href="index-body.1_div.1.html" media-type="application/xhtml+xml" id="section7"/>
+            <item href="index-body.1_div.2.html" media-type="application/xhtml+xml" id="section8"/>
+            <item href="index-body.1_div.3.html" media-type="application/xhtml+xml" id="section9"/>
+            <item href="index-body.1_div.4.html" media-type="application/xhtml+xml" id="section10"/>
+            <item href="index-body.1_div.5.html" media-type="application/xhtml+xml" id="section11"/>
+            <item href="index-body.1_div.6.html" media-type="application/xhtml+xml" id="section12"/>
+            <item href="index-body.1_div.7.html" media-type="application/xhtml+xml" id="section13"/>
+            <item href="index-body.1_div.8.html" media-type="application/xhtml+xml" id="section14"/>
+            <item href="index-body.1_div.9.html" media-type="application/xhtml+xml" id="section15"/>
+            <item href="index-body.1_div.10.html" media-type="application/xhtml+xml" id="section16"/>
+            <item href="index-body.1_div.11.html" media-type="application/xhtml+xml" id="section17"/>
+            <item href="index-body.1_div.12.html" media-type="application/xhtml+xml" id="section18"/>
+            <item href="index-body.1_div.13.html" media-type="application/xhtml+xml" id="section19"/>
+            <item href="index-body.1_div.14.html" media-type="application/xhtml+xml" id="section20"/>
+            <item href="index-back.1_div.1.html" media-type="application/xhtml+xml" id="section80"/>
+            <item href="index-back.1_div.2.html" media-type="application/xhtml+xml" id="section81"/>
+            <item href="media/imageZRC.jpeg" id="image-1" media-type="image/jpeg"/>
+            <item href="media/CB_back.jpg" id="image-4" media-type="image/jpeg"/>
+            <item href="media/imageZRC.jpeg" id="image-5" media-type="image/jpeg"/>
+            <item href="media/imageZRC.jpeg" id="image-7" media-type="image/jpeg"/>
+            <item href="media/image3.png" id="image-8" media-type="image/png"/>
+            <item href="media/image10.jpeg" id="image-9" media-type="image/jpeg"/>
+            <item href="media/image11.jpeg" id="image-10" media-type="image/jpeg"/>
+            <item href="media/image12.jpeg" id="image-11" media-type="image/jpeg"/>
+            <item href="media/image13.png" id="image-12" media-type="image/png"/>
+            <item href="media/image14.jpeg" id="image-13" media-type="image/jpeg"/>
+            <item href="media/image15.jpeg" id="image-14" media-type="image/jpeg"/>
+            <item href="media/image16.png" id="image-15" media-type="image/png"/>
+            <item href="media/image17.jpeg" id="image-16" media-type="image/jpeg"/>
+            <item href="media/image18.jpeg" id="image-17" media-type="image/jpeg"/>
+            <item href="media/image19.jpeg" id="image-18" media-type="image/jpeg"/>
+            <item href="media/image20.jpeg" id="image-19" media-type="image/jpeg"/>
+            <item href="media/image21.png" id="image-20" media-type="image/png"/>
+            <item href="media/image22.jpeg" id="image-21" media-type="image/jpeg"/>
+            <item href="media/image23.png" id="image-22" media-type="image/png"/>
+            <item href="media/image24.jpeg" id="image-23" media-type="image/jpeg"/>
+            <item href="media/image25.jpeg" id="image-24" media-type="image/jpeg"/>
+            <item href="media/image26.jpeg" id="image-25" media-type="image/jpeg"/>
+            <item href="media/image27.jpeg" id="image-26" media-type="image/jpeg"/>
+            <item href="media/image28.jpeg" id="image-27" media-type="image/jpeg"/>
+            <item href="media/image29.jpeg" id="image-28" media-type="image/jpeg"/>
+            <item href="media/image30.jpeg" id="image-29" media-type="image/jpeg"/>
+            <item href="media/image31.png" id="image-30" media-type="image/png"/>
+            <item href="media/image32.png" id="image-31" media-type="image/png"/>
+            <item href="media/image33.jpeg" id="image-32" media-type="image/jpeg"/>
+            <item href="media/image34.png" id="image-33" media-type="image/png"/>
+            <item href="media/image35.jpeg" id="image-34" media-type="image/jpeg"/>
+            <item href="media/image36.jpeg" id="image-35" media-type="image/jpeg"/>
+            <item href="media/image37.jpeg" id="image-36" media-type="image/jpeg"/>
+            <item href="media/image38.jpeg" id="image-37" media-type="image/jpeg"/>
+            <item href="media/image39.png" id="image-38" media-type="image/png"/>
+            <item href="media/image40.jpeg" id="image-39" media-type="image/jpeg"/>
+            <item href="media/image41.jpeg" id="image-40" media-type="image/jpeg"/>
+            <item href="media/image42.jpeg" id="image-41" media-type="image/jpeg"/>
+            <item href="media/image43.jpeg" id="image-42" media-type="image/jpeg"/>
+            <item href="media/image44.jpeg" id="image-43" media-type="image/jpeg"/>
+            <item href="media/image45.jpeg" id="image-44" media-type="image/jpeg"/>
+            <item href="media/image46.jpeg" id="image-45" media-type="image/jpeg"/>
+            <item href="media/image47.jpeg" id="image-46" media-type="image/jpeg"/>
+            <item href="media/image48.jpeg" id="image-47" media-type="image/jpeg"/>
+            <item href="media/image49.png" id="image-48" media-type="image/png"/>
+            <item href="media/image50.jpeg" id="image-49" media-type="image/jpeg"/>
+            <item href="media/image51.jpeg" id="image-50" media-type="image/jpeg"/>
+            <item href="media/image52.png" id="image-51" media-type="image/png"/>
+            <item href="media/image53.jpeg" id="image-52" media-type="image/jpeg"/>
+            <item href="media/image54.jpeg" id="image-53" media-type="image/jpeg"/>
+            <item href="media/image55.jpeg" id="image-54" media-type="image/jpeg"/>
+            <item href="media/image56.jpeg" id="image-55" media-type="image/jpeg"/>
+            <item href="media/image57.jpeg" id="image-56" media-type="image/jpeg"/>
+            <item href="media/image58.jpeg" id="image-57" media-type="image/jpeg"/>
+            <item href="media/image59.jpeg" id="image-58" media-type="image/jpeg"/>
+            <item href="media/image60.jpeg" id="image-59" media-type="image/jpeg"/>
+            <item href="media/image61.jpeg" id="image-60" media-type="image/jpeg"/>
+            <item href="media/image62.jpeg" id="image-61" media-type="image/jpeg"/>
+            <item href="media/image63.jpeg" id="image-62" media-type="image/jpeg"/>
+            <item href="media/image64.jpeg" id="image-63" media-type="image/jpeg"/>
+            <item href="media/image65.jpeg" id="image-64" media-type="image/jpeg"/>
+            <item href="media/image66.jpeg" id="image-65" media-type="image/jpeg"/>
+            <item href="media/image67.jpeg" id="image-66" media-type="image/jpeg"/>
+            <item href="media/image68.png" id="image-67" media-type="image/png"/>
+            <item href="media/image69.jpeg" id="image-68" media-type="image/jpeg"/>
+            <item href="media/image70.jpeg" id="image-69" media-type="image/jpeg"/>
+            <item href="media/image71.jpeg" id="image-70" media-type="image/jpeg"/>
+            <item href="media/image72.jpeg" id="image-71" media-type="image/jpeg"/>
+            <item href="media/image73.jpeg" id="image-72" media-type="image/jpeg"/>
+            <item href="media/image74.jpeg" id="image-73" media-type="image/jpeg"/>
+            <item href="media/image75.png" id="image-74" media-type="image/png"/>
+            <item href="media/image76.jpeg" id="image-75" media-type="image/jpeg"/>
+            <item href="media/image77.jpeg" id="image-76" media-type="image/jpeg"/>
+            <item href="media/image78.jpeg" id="image-77" media-type="image/jpeg"/>
+            <item href="media/image79.png" id="image-78" media-type="image/png"/>
+            <item href="media/image80.jpeg" id="image-79" media-type="image/jpeg"/>
+            <item href="media/image81.jpeg" id="image-80" media-type="image/jpeg"/>
+            <item href="media/image82.jpeg" id="image-81" media-type="image/jpeg"/>
+            <item href="media/image83.jpeg" id="image-82" media-type="image/jpeg"/>
+            <item href="media/image84.jpeg" id="image-83" media-type="image/jpeg"/>
+            <item href="media/image85.jpeg" id="image-84" media-type="image/jpeg"/>
+            <item href="media/image86.jpeg" id="image-85" media-type="image/jpeg"/>
+            <item href="media/image87.jpeg" id="image-86" media-type="image/jpeg"/>
+            <item href="media/image88.jpeg" id="image-87" media-type="image/jpeg"/>
+            <item href="media/image89.png" id="image-88" media-type="image/png"/>
+            <item href="media/image90.jpeg" id="image-89" media-type="image/jpeg"/>
+            <item href="media/image91.jpeg" id="image-90" media-type="image/jpeg"/>
+            <item href="media/image92.jpeg" id="image-91" media-type="image/jpeg"/>
+            <item href="media/image93.png" id="image-92" media-type="image/png"/>
+            <item href="media/image94.jpeg" id="image-93" media-type="image/jpeg"/>
+            <item href="media/image95.jpeg" id="image-94" media-type="image/jpeg"/>
+            <item href="media/image96.jpeg" id="image-95" media-type="image/jpeg"/>
+            <item href="media/image97.jpeg" id="image-96" media-type="image/jpeg"/>
+            <item href="media/image98.jpeg" id="image-97" media-type="image/jpeg"/>
+            <item href="media/image99.jpeg" id="image-98" media-type="image/jpeg"/>
+            <item href="media/image100.png" id="image-99" media-type="image/png"/>
+            <item href="media/image101.jpeg" id="image-100" media-type="image/jpeg"/>
+            <item href="media/image102.png" id="image-101" media-type="image/png"/>
+            <item href="media/image103.jpeg" id="image-102" media-type="image/jpeg"/>
+            <item href="media/image104.jpeg" id="image-103" media-type="image/jpeg"/>
+            <item href="media/image105.jpeg" id="image-104" media-type="image/jpeg"/>
+            <item href="media/image106.jpeg" id="image-105" media-type="image/jpeg"/>
+            <item href="media/image107.jpeg" id="image-106" media-type="image/jpeg"/>
+            <item href="media/image108.jpeg" id="image-107" media-type="image/jpeg"/>
+            <item href="media/image109.jpeg" id="image-108" media-type="image/jpeg"/>
+            <item href="media/image110.png" id="image-109" media-type="image/png"/>
+            <item href="media/image111.jpeg" id="image-110" media-type="image/jpeg"/>
+            <item href="media/image112.jpeg" id="image-111" media-type="image/jpeg"/>
+            <item href="media/image113.jpeg" id="image-112" media-type="image/jpeg"/>
+            <item href="media/image114.jpeg" id="image-113" media-type="image/jpeg"/>
+            <item href="media/image115.jpeg" id="image-114" media-type="image/jpeg"/>
+            <item href="media/image116.jpeg" id="image-115" media-type="image/jpeg"/>
+            <item href="media/image117.jpeg" id="image-116" media-type="image/jpeg"/>
+            <item href="media/image118.jpeg" id="image-117" media-type="image/jpeg"/>
+            <item href="media/image119.jpeg" id="image-118" media-type="image/jpeg"/>
+            <item href="media/image120.jpeg" id="image-119" media-type="image/jpeg"/>
+            <item href="media/image121.jpeg" id="image-120" media-type="image/jpeg"/>
+            <item href="media/image122.jpeg" id="image-121" media-type="image/jpeg"/>
+            <item href="media/image123.jpeg" id="image-122" media-type="image/jpeg"/>
+            <item href="media/image124.jpeg" id="image-123" media-type="image/jpeg"/>
+            <item href="media/image125.png" id="image-124" media-type="image/png"/>
+            <item href="media/image126.jpeg" id="image-125" media-type="image/jpeg"/>
+            <item href="media/image127.jpeg" id="image-126" media-type="image/jpeg"/>
+            <item href="media/image128.jpeg" id="image-127" media-type="image/jpeg"/>
+            <item href="media/image129.jpeg" id="image-128" media-type="image/jpeg"/>
+            <item href="media/image130.png" id="image-129" media-type="image/png"/>
+            <item href="media/image131.jpeg" id="image-130" media-type="image/jpeg"/>
+            <item href="media/image132.jpeg" id="image-131" media-type="image/jpeg"/>
+            <item href="media/image133.jpeg" id="image-132" media-type="image/jpeg"/>
+            <item href="media/image134.jpeg" id="image-133" media-type="image/jpeg"/>
+            <item href="media/image135.jpeg" id="image-134" media-type="image/jpeg"/>
+            <item href="media/image136.jpeg" id="image-135" media-type="image/jpeg"/>
+            <item href="media/image137.jpeg" id="image-136" media-type="image/jpeg"/>
+            <item href="media/image138.jpeg" id="image-137" media-type="image/jpeg"/>
+            <item href="media/image139.jpeg" id="image-138" media-type="image/jpeg"/>
+            <item href="media/image140.jpeg" id="image-139" media-type="image/jpeg"/>
+            <item href="media/image141.jpeg" id="image-140" media-type="image/jpeg"/>
+            <item href="media/image142.jpeg" id="image-141" media-type="image/jpeg"/>
+            <item href="media/image143.png" id="image-142" media-type="image/png"/>
+            <item href="media/image144.jpeg" id="image-143" media-type="image/jpeg"/>
+            <item href="media/image145.jpg" id="image-144" media-type="image/jpeg"/>
+            <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      </manifest>
+      <spine toc="ncx">
+            <itemref idref="titlepage" linear="yes"/>
+            <itemref idref="titlepage1" linear="yes"/>
+            <itemref idref="titlepage2" linear="yes"/>
+            <itemref idref="start" linear="yes"/>
+            <itemref idref="section1" linear="yes"/>
+            <itemref idref="section2" linear="yes"/>
+            <itemref idref="section3" linear="yes"/>
+            <itemref idref="section6" linear="yes"/>
+            <itemref idref="section7" linear="yes"/>
+            <itemref idref="section8" linear="yes"/>
+            <itemref idref="section9" linear="yes"/>
+            <itemref idref="section10" linear="yes"/>
+            <itemref idref="section11" linear="yes"/>
+            <itemref idref="section12" linear="yes"/>
+            <itemref idref="section13" linear="yes"/>
+            <itemref idref="section14" linear="yes"/>
+            <itemref idref="section15" linear="yes"/>
+            <itemref idref="section16" linear="yes"/>
+            <itemref idref="section17" linear="yes"/>
+            <itemref idref="section18" linear="yes"/>
+            <itemref idref="section19" linear="yes"/>
+            <itemref idref="section20" linear="yes"/>
+            <itemref idref="section80" linear="yes"/>
+            <itemref idref="section81" linear="yes"/>
+            <itemref idref="titlepageback" linear="no"/>
+      </spine>
+      <guide>
+            <reference type="text" href="titlepage.html" title="Cover"/>
+            <reference type="text" title="Start" href="index.html"/>
+            <reference type="text" href="index-front.1_div.1.html" title=""/>
+            <reference type="text" href="index-front.1_div.2.html" title=""/>
+            <reference type="text" href="index-front.1_div.3.html" title=""/>
+            <reference type="text" href="index-front.1_div.4.html" title="Vsebina"/>
+            <reference type="text" href="index-body.1_div.1.html" title="Uvod"/>
+            <reference type="text" href="index-body.1_div.2.html"
+                  title="Taksonomija in sistematika čebel"/>
+            <reference type="text" href="index-body.1_div.3.html" title="Biologija čebel"/>
+            <reference type="text" href="index-body.1_div.4.html"
+                  title="Zbiranje in prenašanje hrane"/>
+            <reference type="text" href="index-body.1_div.5.html" title="Izbirčne čebele"/>
+            <reference type="text" href="index-body.1_div.6.html" title="Gnezdenje"/>
+            <reference type="text" href="index-body.1_div.7.html" title="Kukavičje čebele"/>
+            <reference type="text" href="index-body.1_div.8.html" title="Samci"/>
+            <reference type="text" href="index-body.1_div.9.html" title="Raznovrstnost divjih čebel"/>
+            <reference type="text" href="index-body.1_div.10.html"
+                  title="Kraški rob premore tudi endemično vrsto čebele"/>
+            <reference type="text" href="index-body.1_div.11.html"
+                  title="Družbeno življenje vitkih čebel"/>
+            <reference type="text" href="index-body.1_div.12.html"
+                  title="Poti in stranpoti evolucije"/>
+            <reference type="text" href="index-body.1_div.13.html"
+                  title="Razvoj družbenosti pri žuželkah"/>
+            <reference type="text" href="index-body.1_div.14.html" title="Družine in rodovi čebel"/>
+            <reference type="text" href="index-back.1_div.1.html" title=""/>
+            <reference type="text" href="index-back.1_div.2.html" title=""/>
+            <reference href="titlepageback.html" type="text" title="About this book"/>
+      </guide>
 </package>

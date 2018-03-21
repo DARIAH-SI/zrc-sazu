@@ -1,81 +1,70 @@
 
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition#">
-   <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
-      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Moja doživetja z bojnega pohoda proti Prusiji leta 1866</dc:title>
-         <meta refines="#title1" property="title-type" xml:lang="sl">main</meta>
-         <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title2" xml:lang="de">Meine Erlebnisse aus dem Feldzug gegen Preussen 1866</dc:title>
-         <meta refines="#title2" property="title-type">subtitle</meta>
-         <meta property="rendition:layout">reflowable</meta>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0"
+   prefix="rendition: http://www.idpf.org/vocab/rendition#">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title id="title1">Moja doživetja z bojnega pohoda proti Prusiji leta 1866</dc:title>
+      <meta refines="#title1" property="title-type" xml:lang="sl">main</meta>
+      <dc:title id="title2" xml:lang="de">Meine Erlebnisse aus dem Feldzug gegen Preussen
+         1866</dc:title>
+      <meta refines="#title2" property="title-type">subtitle</meta>
+      <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:spread">auto</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator"> Karl Kastl</dc:creator>
+      <dc:creator id="creator"> Karl Kastl</dc:creator>
       <meta refines="#creator" property="file-as">Kastl, Karl</meta>
       <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
-      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">slv</dc:language>
-            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">ger</dc:language>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Kastl, Karl (1848-1920 -
-                  spomini)</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Kastl, Karl (1848-1920 -
-                  Biografije)</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Kastl
-                  (rodbina)</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">prusko-avstrijska vojna
-                  1866</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Avstrija - vojna
-                  zgodovina - 1866</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">habsburška
-                  monarhija</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Prusija</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">bitka pri Kraljevem
-                  Gradcu 1866</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">vojaška
-                  zgodovina</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">19.st.</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id"
-                  >978-961-05-0061-2</dc:identifier>
+      <dc:language>slv</dc:language>
+      <dc:language>ger</dc:language>
+      <dc:subject xml:lang="slv">Kastl, Karl (1848-1920 - spomini)</dc:subject>
+      <dc:subject xml:lang="slv">Kastl, Karl (1848-1920 - Biografije)</dc:subject>
+      <dc:subject xml:lang="slv">Kastl (rodbina)</dc:subject>
+      <dc:subject xml:lang="slv">prusko-avstrijska vojna 1866</dc:subject>
+      <dc:subject xml:lang="slv">Avstrija - vojna zgodovina - 1866</dc:subject>
+      <dc:subject xml:lang="slv">habsburška monarhija</dc:subject>
+      <dc:subject xml:lang="slv">Prusija</dc:subject>
+      <dc:subject xml:lang="slv">bitka pri Kraljevem Gradcu 1866</dc:subject>
+      <dc:subject xml:lang="slv">vojaška zgodovina</dc:subject>
+      <dc:subject xml:lang="slv">19.st.</dc:subject>
+      <dc:identifier id="pub-id">978-961-05-0061-2</dc:identifier>
       <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">&lt;p>Bitka pri
-                  Kraljevem Gradcu (nemško Koniggrätz, češko Hradec Králové) julija 1866 je bila ena
-                  najbolj znamenitih in hkrati najbolj krvavih vojaških spopadov med avstrijsko in
-                  prusko vojsko. Med udeleženci je bil tudi tedaj 18-letni kadet Karl Kastl iz Badna
-                  pri Dunaju, ki je že nekaj mesecev pozneje napisal spomine na svoj ognjeni krst.
-                  Kastla je pozneje vojaška kariera pripeljala v Ljubljano, kjer se je poročil in
-                  ostal do smrti leta 1920. Osrednji del knjige predstavljajo Kastlovi spomini na
-                  bitko, ki so objavljeni v nemškem izvirniku in slovenskem prevodu. V historični
-                  kontekst jih postavljajo tri dodatne študije. Rok Stergar je predstavil širše
-                  politično dogajanje v Srednji Evropi od padca Napoleona in vzpostavitve
-                  postnapoleonske Evrope do izbruha sovražnosti med Avstrijo in Prusijo, ki so
-                  kulminirale v oboroženem spopadu leta 1866. Miha Šimac je s pritegnitvijo manj
-                  poznanih arhivskih virov opisal Kastlovo vojaško pot in jo vpletel v detajlni opis
-                  bitke pri Kraljevem Gradcu. Nazadnje sledi še osebna predstavitev Karla Kastla,
-                  njegove družine in njegovega bivanja v Ljubljani. Ta del je prispevala – tako
-                  kakor prevod Kastlovih spominov – Kastlova pravnukinja Angelika
-                  Hribar.&lt;/p></dc:description>
-            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">&lt;p
-                  style="color: grey">The battle at Königgrätz in July 1866 was one of the most
-                  famous and also one of the bloodiest military conflicts between the Austrian and
-                  the Prussian armies. It had a huge impact on the future development of the
-                  Austrian Empire. One of the Austrian soldiers was the not quite 18 years old Karl
-                  Kastl from Baden near Vienna, who only a few months later wrote his detailed
-                  memoirs of the battle. Kastl was later transferred as officer to Ljubljana, where
-                  he married and remained until his death in 1920. The main part of the book
-                  consists of Kastl's memoirs in the German original with a Slovenian translation,
-                  accompanied by three additional studies. Rok Stergar presents the wider political
-                  situation in Central Europe in the first half of the 19th cenutry, which led to
-                  the outbreak of hostilities between Austria and Prussia in 1866. Miha Šimac
-                  describes Kastl's military career, including it in a detailed description of the
-                  battle at Königgrätz. The last study, written by one of Kastl's
-                  great-granddaughters, Angelika Hribar, is a decription of Kastl's personal life,
-                  his family and his social engagement in Ljubljana.&lt;/p></dc:description>
-     <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
-               <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="issuer">Zgodovinski inštitut Milka Kosa ZRC SAZU</dc:publisher>
-      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2016-06-09</dc:date>
-      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2016, 2018 Založba ZRC, Zgodovinski
-                  inštitut Milka Kosa ZRC SAZU</dc:rights>
+      <dc:description xml:lang="slv">Bitka pri Kraljevem Gradcu (nemško Koniggrätz, češko Hradec
+         Králové) julija 1866 je bila ena najbolj znamenitih in hkrati najbolj krvavih vojaških
+         spopadov med avstrijsko in prusko vojsko. Med udeleženci je bil tudi tedaj 18-letni kadet
+         Karl Kastl iz Badna pri Dunaju, ki je že nekaj mesecev pozneje napisal spomine na svoj
+         ognjeni krst. Kastla je pozneje vojaška kariera pripeljala v Ljubljano, kjer se je poročil
+         in ostal do smrti leta 1920. Osrednji del knjige predstavljajo Kastlovi spomini na bitko,
+         ki so objavljeni v nemškem izvirniku in slovenskem prevodu. V historični kontekst jih
+         postavljajo tri dodatne študije. Rok Stergar je predstavil širše politično dogajanje v
+         Srednji Evropi od padca Napoleona in vzpostavitve postnapoleonske Evrope do izbruha
+         sovražnosti med Avstrijo in Prusijo, ki so kulminirale v oboroženem spopadu leta 1866. Miha
+         Šimac je s pritegnitvijo manj poznanih arhivskih virov opisal Kastlovo vojaško pot in jo
+         vpletel v detajlni opis bitke pri Kraljevem Gradcu. Nazadnje sledi še osebna predstavitev
+         Karla Kastla, njegove družine in njegovega bivanja v Ljubljani. Ta del je prispevala – tako
+         kakor prevod Kastlovih spominov – Kastlova pravnukinja Angelika Hribar.</dc:description>
+      <dc:description xml:lang="eng">The battle at Königgrätz in July 1866 was one of the most
+         famous and also one of the bloodiest military conflicts between the Austrian and the
+         Prussian armies. It had a huge impact on the future development of the Austrian Empire. One
+         of the Austrian soldiers was the not quite 18 years old Karl Kastl from Baden near Vienna,
+         who only a few months later wrote his detailed memoirs of the battle. Kastl was later
+         transferred as officer to Ljubljana, where he married and remained until his death in 1920.
+         The main part of the book consists of Kastl's memoirs in the German original with a
+         Slovenian translation, accompanied by three additional studies. Rok Stergar presents the
+         wider political situation in Central Europe in the first half of the 19th cenutry, which
+         led to the outbreak of hostilities between Austria and Prussia in 1866. Miha Šimac
+         describes Kastl's military career, including it in a detailed description of the battle at
+         Königgrätz. The last study, written by one of Kastl's great-granddaughters, Angelika
+         Hribar, is a decription of Kastl's personal life, his family and his social engagement in
+         Ljubljana.</dc:description>
+      <dc:publisher id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
+      <dc:publisher id="issuer">Zgodovinski inštitut Milka Kosa ZRC SAZU</dc:publisher>
+      <dc:date id="original-publication">2016-06-09</dc:date>
+      <dc:rights>© 2016, 2018 Založba ZRC, Zgodovinski inštitut Milka Kosa ZRC SAZU</dc:rights>
       <meta name="cover" content="cover-image"/>
       <meta property="dcterms:modified">2018-01-30T15:21:35Z</meta>
    </metadata>
    <manifest>
-      <item href="media/image1.png" id="cover-image" properties="cover-image" media-type="image/jpeg"/>
+      <item href="media/image1.png" id="cover-image" properties="cover-image"
+         media-type="image/jpeg"/>
       <item id="css" href="stylesheet.css" media-type="text/css"/>
       <item id="print.css" href="print.css" media-type="text/css"/>
       <item href="titlepage.html" id="titlepage" media-type="application/xhtml+xml"/>
@@ -159,12 +148,18 @@
       <reference type="text" href="index-front.1_div.1.html" title=""/>
       <reference type="text" href="index-front.1_div.2.html" title=""/>
       <reference type="text" href="index-front.1_div.3.html" title="KAZALO"/>
-      <reference type="text" href="index-front.1_div.4.html" title="BITKA, KI JE SPREMENILA (TUDI SLOVENSKO) ZGODOVINO"/>
-      <reference type="text" href="index-body.1_div.1.html" title="MOJA DOŽIVETJA Z BOJNEGA POHODA PROTI PRUSIJI LETA 1866"/>
-      <reference type="text" href="index-body.1_div.2.html" title="MEINE ERLEBNISSE AUS DEM FELDZUG GEGEN PREUSSEN 1866"/>
-      <reference type="text" href="index-body.1_div.3.html" title="SPOPAD ZA NEMČIJO ZUNANJEPOLITIČNE IN VOJAŠKE OKOLIŠČINE PRUSKO-AVSTRIJSKE VOJNE LETA 1866"/>
-      <reference type="text" href="index-body.1_div.4.html" title="OD KRALJEVEGA GRADCA DO LJUBLJANE VOJAŠKA POT TOPNIŠKEGA ČASTNIKA KARLA PL. KASTLA"/>
-      <reference type="text" href="index-body.1_div.5.html" title="KARL KASTL (1848–1920), NJEGOVA DRUŽINA IN JAVNO DELOVANJE V LJUBLJANI"/>
+      <reference type="text" href="index-front.1_div.4.html"
+         title="BITKA, KI JE SPREMENILA (TUDI SLOVENSKO) ZGODOVINO"/>
+      <reference type="text" href="index-body.1_div.1.html"
+         title="MOJA DOŽIVETJA Z BOJNEGA POHODA PROTI PRUSIJI LETA 1866"/>
+      <reference type="text" href="index-body.1_div.2.html"
+         title="MEINE ERLEBNISSE AUS DEM FELDZUG GEGEN PREUSSEN 1866"/>
+      <reference type="text" href="index-body.1_div.3.html"
+         title="SPOPAD ZA NEMČIJO ZUNANJEPOLITIČNE IN VOJAŠKE OKOLIŠČINE PRUSKO-AVSTRIJSKE VOJNE LETA 1866"/>
+      <reference type="text" href="index-body.1_div.4.html"
+         title="OD KRALJEVEGA GRADCA DO LJUBLJANE VOJAŠKA POT TOPNIŠKEGA ČASTNIKA KARLA PL. KASTLA"/>
+      <reference type="text" href="index-body.1_div.5.html"
+         title="KARL KASTL (1848–1920), NJEGOVA DRUŽINA IN JAVNO DELOVANJE V LJUBLJANI"/>
       <reference type="text" href="index-body.1_div.6.html" title="ZUSAMMENFASSUNG"/>
       <reference type="text" href="index-body.1_div.7.html" title="Barvne priloge"/>
       <reference href="titlepageback.html" type="text" title="About this book"/>

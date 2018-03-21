@@ -37,7 +37,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2017-07-07</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-03-19T05:24:46Z</meta>
+      <meta property="dcterms:modified">2018-03-21T07:52:36Z</meta>
    </metadata>
    <manifest>
       <item href="media/prekmurje.jpg"
@@ -111,14 +111,10 @@
       <item href="media/Prekmurje_nem_naslovna.jpg"
             id="image-1"
             media-type="image/jpeg"/>
-      <item href="media/Prekmurje_nem_naslovna.jpg"
-            id="image-2"
-            media-type="image/jpeg"/>
       <item href="media/Prekmurje_nem_zadnja.jpg"
             id="image-3"
             media-type="image/jpeg"/>
       <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-6" media-type="image/jpeg"/>
       <item href="media/PN6.jpg" id="image-7" media-type="image/jpeg"/>
       <item href="media/PN10.jpg" id="image-8" media-type="image/jpeg"/>
       <item href="media/PN12.jpg" id="image-9" media-type="image/jpeg"/>
@@ -169,7 +165,6 @@
       <item href="media/PN176.jpg" id="image-54" media-type="image/jpeg"/>
       <item href="media/PN179.jpg" id="image-55" media-type="image/jpeg"/>
       <item href="media/PN183.jpg" id="image-56" media-type="image/jpeg"/>
-      <item href="media/PN183.jpg" id="image-57" media-type="image/jpeg"/>
       <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
    </manifest>
    <spine toc="ncx">

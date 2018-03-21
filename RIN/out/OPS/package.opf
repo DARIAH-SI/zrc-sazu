@@ -49,7 +49,7 @@
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2016-08-29</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-03-19T05:37:52Z</meta>
+      <meta property="dcterms:modified">2018-03-21T08:06:16Z</meta>
    </metadata>
    <manifest>
       <item href="media/RIN_1.jpg"
@@ -98,17 +98,16 @@
             id="section79"/>
       <item href="index-body.1_div.4.xhtml"
             media-type="application/xhtml+xml"
-            id="section161"/>
+            id="section160"/>
       <item href="index-body.1_div.5.xhtml"
             media-type="application/xhtml+xml"
-            id="section162"/>
+            id="section161"/>
       <item href="index-back.1_div.1.xhtml"
             media-type="application/xhtml+xml"
-            id="section173"/>
+            id="section172"/>
       <item href="media/RIN_2.jpg" id="image-3" media-type="image/jpeg"/>
       <item href="media/imageZRC.jpeg" id="image-4" media-type="image/jpeg"/>
       <item href="media/HS_logo.jpg" id="image-6" media-type="image/jpeg"/>
-      <item href="media/imageZRC.jpeg" id="image-7" media-type="image/jpeg"/>
       <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
    </manifest>
    <spine toc="ncx">
@@ -123,9 +122,9 @@
       <itemref idref="section8" linear="yes"/>
       <itemref idref="section11" linear="yes"/>
       <itemref idref="section79" linear="yes"/>
+      <itemref idref="section160" linear="yes"/>
       <itemref idref="section161" linear="yes"/>
-      <itemref idref="section162" linear="yes"/>
-      <itemref idref="section173" linear="yes"/>
+      <itemref idref="section172" linear="yes"/>
       <itemref idref="titlepageback" linear="yes"/>
    </spine>
    <guide>
