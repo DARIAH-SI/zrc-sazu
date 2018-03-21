@@ -2,33 +2,37 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0"
       prefix="rendition: http://www.idpf.org/vocab/rendition#">
       <metadata xmlns:dcterms="http://purl.org/dc/terms/"
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xmlns:opf="http://www.idpf.org/2007/opf">
-            <dc:title id="title">Prekmurje za radovedneže in ljubitelje</dc:title>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Prekmurje za radovedneže in ljubitelje</dc:title>
             <meta property="rendition:layout">reflowable</meta>
             <meta property="rendition:spread">auto</meta>
             <meta refines="#title" property="title-type">main</meta>
-            <dc:creator id="creator">Oto Luthar</dc:creator>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Oto Luthar</dc:creator>
             <meta refines="#creator" property="role" scheme="marc:relators">edt</meta>
             <meta refines="#creator" property="file-as">Luthar, Oto</meta>
-            <dc:language>slv</dc:language>
-            <dc:subject>Prekmurje</dc:subject>
-            <dc:identifier id="pub-id">9789610500582</dc:identifier>
-            <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
-            <dc:description xml:lang="slv">Knjiga petnajstih avtorjev v 51 jedrnatih in zgoščenih
-                  zapisih zaokroži predstave in dejstva o pokrajini, ki segajo od opisov najbolj
-                  tipičnih kulturnih, naravnih in zgodovinskih znamenitosti pa vse do fenomenov in
-                  slik iz vsakdanjega življenja. Knjiga v privlačni opremi in z ilustracijami Srečka
-                  Bajde približa Prekmurje tako tistim, ki ga že poznajo (ali vsaj menijo, da ga),
-                  kot onim, ki bi radi to slovenska pokrajino in njene lepote še odkrili. Knjiga je
-                  prevedena tudi v nemščino (Prekmurje für Neugierige und
-                  Liebhaber).</dc:description>
-            <dc:description xml:lang="eng">The booklet Prekmurje za radovedneže in ljubitelje
-                  containing short articles on the characteristics of the economically least
-                  developed Slovenian province, is the first in the series of booklets that aim to
-                  provide a reader-friendly presentation of all Slovenian provinces. Starting with
-                  the culturally most diverse province, we illustrate its multicultural or rather
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">slv</dc:language>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Prekmurje</dc:subject>
+            <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id"
+                  >9789610500582</dc:identifier>
+            <meta refines="#pub-id"
+                  property="identifier-type"
+                  scheme="onix:codelist5">15</meta>
+            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">&lt;p>Knjiga
+                  petnajstih avtorjev v 51 jedrnatih in zgoščenih zapisih zaokroži predstave in
+                  dejstva o pokrajini, ki segajo od opisov najbolj tipičnih kulturnih, naravnih in
+                  zgodovinskih znamenitosti pa vse do fenomenov in slik iz vsakdanjega življenja.
+                  Knjiga v privlačni opremi in z ilustracijami Srečka Bajde približa Prekmurje tako
+                  tistim, ki ga že poznajo (ali vsaj menijo, da ga), kot onim, ki bi radi to
+                  slovenska pokrajino in njene lepote še odkrili. Knjiga je prevedena tudi v
+                  nemščino (&lt;a href="http://zalozba.zrc-sazu.si/p/V51">Prekmurje für Neugierige
+                  und Liebhaber&lt;/a>).&lt;/p></dc:description>
+            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">&lt;p
+                  style="color: grey"> The booklet Prekmurje za radovedneže in ljubitelje containing
+                  short articles on the characteristics of the economically least developed
+                  Slovenian province, is the first in the series of booklets that aim to provide a
+                  reader-friendly presentation of all Slovenian provinces. Starting with the
+                  culturally most diverse province, we illustrate its multicultural or rather
                   intercultural character through the description of cultural monuments, where
                   special mention should be made of the castles in Murska Sobota, Lendava and Grad,
                   as well as through the presentation of individual personages, from Mihael Hadik a
@@ -36,10 +40,12 @@
                   text is an interesting palimpsest of natural, cultural and culinary fragments
                   described by the associates of ZRC SAZU and guest authors from Ljubljana, Maribor
                   and various places of Prekmurje. The volume was also published in German, under
-                  the title: Prekmurje für Neugierige und Liebhaber.</dc:description>
-            <dc:publisher id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
-            <dc:date id="original-publication">2010-11-10</dc:date>
-            <dc:rights>© 2010, 2011, 2018 Založba ZRC, ZRC SAZU</dc:rights>
+                  the title: &lt;a href="http://zalozba.zrc-sazu.si/p/V51">Prekmurje für Neugierige
+                  und Liebhaber&lt;/a>.&lt;/p></dc:description>
+            <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
+            <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2010-11-10</dc:date>
+            <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2010, 2011, 2018 Založba ZRC, ZRC
+                  SAZU</dc:rights>
             <meta name="cover" content="cover-image"/>
             <meta property="dcterms:modified">2018-01-30T15:32:10Z</meta>
       </metadata>

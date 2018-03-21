@@ -2,41 +2,51 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0"
       prefix="rendition: http://www.idpf.org/vocab/rendition#">
       <metadata xmlns:dcterms="http://purl.org/dc/terms/"
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xmlns:opf="http://www.idpf.org/2007/opf" xml:lang="slv">
-            <dc:title id="title1">Svet pod Krimom</dc:title>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Svet pod
+                  Krimom</dc:title>
             <meta refines="#title1" property="title-type">main</meta>
-            <dc:title id="title2">Druga popravljena izdaja</dc:title>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title2">Druga popravljena
+                  izdaja</dc:title>
             <meta refines="#title2" property="title-type">edition</meta>
-            <dc:creator id="creator">Ferdo Gestrin</dc:creator>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator"> Ferdo
+                  Gestrin</dc:creator>
             <meta refines="#creator" property="file-as">Gestrin, Ferdo</meta>
             <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
             <contributor xmlns="http://purl.org/dc/elements/1.1/">Oto Luthar</contributor>
             <meta refines="#creator" property="file-as">Luthar, Oto</meta>
             <meta refines="#creator" property="role" scheme="marc:relators">edt</meta>
-            <dc:language>slv</dc:language>
-            <dc:subject xml:lang="slv">svetovna vojna 1939-1945 – Slovenija</dc:subject>
-            <dc:subject xml:lang="slv">Ig – zgodovina</dc:subject>
-            <dc:subject xml:lang="slv">Iška vas – zgodovina</dc:subject>
-            <dc:subject xml:lang="slv">Tomišelj – zgodovina</dc:subject>
-            <dc:subject xml:lang="slv">Slovenija – NOB</dc:subject>
-            <dc:identifier id="pub-id">9789610500605</dc:identifier>
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">slv</dc:language>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">svetovna vojna
+                  1939-1945 – Slovenija</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Ig –
+                  zgodovina</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Iška vas –
+                  zgodovina</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Tomišelj –
+                  zgodovina</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Slovenija –
+                  NOB</dc:subject>
+            <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id"
+                  >9789610500605</dc:identifier>
             <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
-            <dc:description xml:lang="slv">Mikrozgodovina upora in kolaboracije, kot bi lahko podnaslovili
-                  Gestrinovo študiju o življenju v podkrimskih vaseh v času med 1941 in 1945 je
-                  avtorjev poskus rekonstrukcije najbolj travmatičnega obdobja slovenske zgodovine.
-                  Gestrinova zgodovina smrti in upanja ni samo še en deskriptivni opis vojskujočih
-                  se enot, temveč prerez nasilnega vsakdana, ki je nekdanje sosede razdelil na
-                  odpornike in sodelavce okupatorjev. Le-ti skozi osrednja poglavja knjige znova
-                  oživijo tudi zato, ker izvemo o njih skoraj vse: iz kakšne družine so izhajali,
-                  kaj so bili po poklicu, v kolikšni meri so bili (če so bili) dejavni v
-                  komunistični partiji ali sindikalni organizaciji še pred začetkom vojne. V
-                  kolikšni meri so bili (če so bili) razpeti med delom v bližnji Ljubljani in
-                  opravki na domačiji, kako so doživljali okupacijo, zakaj so se pridružili
-                  partizanskim enotam oz. enotam MAVC in, končno, zakaj so morali ali hoteli ene
-                  zamenjati z drugimi in kaj je to pomenilo za njihove družine ...</dc:description>
-            <dc:description xml:lang="eng">The micro-history of resistance and collaboration, as the
+            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">&lt;p>Mikrozgodovina upora
+                  in kolaboracije, kot bi lahko podnaslovili Gestrinovo študiju o življenju v
+                  podkrimskih vaseh v času med 1941 in 1945 je avtorjev poskus rekonstrukcije
+                  najbolj travmatičnega obdobja slovenske zgodovine. Gestrinova zgodovina smrti in
+                  upanja ni samo še en deskriptivni opis vojskujočih se enot, temveč prerez
+                  nasilnega vsakdana, ki je nekdanje sosede razdelil na odpornike in sodelavce
+                  okupatorjev. Le-ti skozi osrednja poglavja knjige znova oživijo tudi zato, ker
+                  izvemo o njih skoraj vse: iz kakšne družine so izhajali, kaj so bili po poklicu, v
+                  kolikšni meri so bili (če so bili) dejavni v komunistični partiji ali sindikalni
+                  organizaciji še pred začetkom vojne. V kolikšni meri so bili (če so bili) razpeti
+                  med delom v bližnji Ljubljani in opravki na domačiji, kako so doživljali
+                  okupacijo, zakaj so se pridružili partizanskim enotam oz. enotam MAVC in, končno,
+                  zakaj so morali ali hoteli ene zamenjati z drugimi in kaj je to pomenilo za
+                  njihove družine ...&lt;/p></dc:description>
+            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">&lt;p
+                  style="color: grey"> The micro-history of resistance and collaboration, as the
                   subtitle could read of Gestrin’s study on the life in the villages at the base of
                   Mt. Krim in 1941–1945, is the author’s attempt at reconstructing the most
                   traumatic period in Slovenian history. Gestrin’s history of death and hope is not
@@ -50,13 +60,16 @@
                   between work in the nearby Ljubljana and chores on their farms, how did they
                   experience the occupation, why did they join the Partisan and MVAC units,
                   respectively, and, finally, why were they forced or otherwise compelled to switch
-                  sides and what implications did that have for their families…</dc:description>
-            <dc:publisher id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
-            <dc:publisher id="issuer">Inštitut za spominske in kulturne študije ZRC
-                  SAZU</dc:publisher>
-            <dc:date id="original-publication">2016-12-01</dc:date>
-            <dc:rights>© 2016, 2018 Inštitut za spominske in kulturne študije ZRC SAZU, Založba ZRC,
-                  ZRC SAZU</dc:rights>
+                  sides and what implications did that have for their
+                  families…&lt;/p></dc:description>
+            <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="publisher">Založba ZRC,
+                  ZRC SAZU</dc:publisher>
+            <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="issuer">Inštitut za
+                  spominske in kulturne študije ZRC SAZU</dc:publisher>
+            <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication"
+                  >2016-12-01</dc:date>
+            <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2016, 2018 Inštitut za
+                  spominske in kulturne študije ZRC SAZU, Založba ZRC, ZRC SAZU</dc:rights>
             <meta name="cover" content="cover-image"/>
             <meta property="dcterms:modified">2018-01-30T15:25:30Z</meta>
       </metadata>

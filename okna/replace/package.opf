@@ -1,65 +1,75 @@
 
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0"
    prefix="rendition: http://www.idpf.org/vocab/rendition#">
-   <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
-      <dc:title id="title1">Okna brez monad</dc:title>
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Okna brez monad</dc:title>
       <meta refines="#title1" property="title-type">main</meta>
-      <dc:title id="title2">Estetika od Heideggerja do Rancièra</dc:title>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title2">Estetika od Heideggerja do Rancièra</dc:title>
       <meta refines="#title2" property="title-type">subtitle</meta>
       <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:orientation">auto</meta>
-      <dc:creator id="creator">Rok Benčin</dc:creator>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Rok Benčin</dc:creator>
       <meta refines="#creator" property="file-as">Benčin, Rok</meta>
       <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
-      <dc:language>slv</dc:language>
-      <dc:subject>Heidegger, Martin, 1889-1976</dc:subject>
-      <dc:subject>Rancière, Jacques, 1940-</dc:subject>
-      <dc:subject xml:lang="slv">Badiou, Alain, 1937-</dc:subject>
-      <dc:subject>Mallarmé, Stéphane, 1842-1898</dc:subject>
-      <dc:subject>Proust, Marcel, 1871-1922</dc:subject>
-      <dc:subject xml:lang="slv">estetika</dc:subject>
-      <dc:subject xml:lang="slv">filozofija umetnosti</dc:subject>
-      <dc:subject xml:lang="slv">ontologija</dc:subject>
-      <dc:subject xml:lang="slv">fenomenologija</dc:subject>
-      <dc:subject xml:lang="slv">reprezentacija</dc:subject>
-      <dc:subject xml:lang="slv">fikcija</dc:subject>
-      <dc:identifier id="pub-id">9789610500605</dc:identifier>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">slv</dc:language>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Heidegger, Martin, 1889-1976</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Rancière, Jacques, 1940-</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Badiou, Alain,
+         1937-</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Mallarmé, Stéphane, 1842-1898</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Proust, Marcel, 1871-1922</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">estetika</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">filozofija
+         umetnosti</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">ontologija</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv"
+         >fenomenologija</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">reprezentacija</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">fikcija</dc:subject>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">9789610500605</dc:identifier>
       <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
-      <dc:description xml:lang="slv">Monografija sledi razvoju estetske misli v filozofiji 20.
-         stoletja z vrhunci pri M. Heideggerju, T. W. Adornu in G. Deleuzu. Kot temeljno potezo te
-         misli izpostavi zaznamovanost filozofije s srečanjem z umetniškim delom, v katerem filozof
-         prepozna misel, ki ima implikacije za filozofsko pojmovanje biti in sveta. Da pa bi
-         filozofija lahko premislila misel umetnosti, se mora odreči klasičnemu pojmu
-         reprezentacije. Umetnost ne reprezentira sveta, ampak izraža bit, ki v reprezentacijski
-         konstituciji sveta ostaja zakrita. V prvem delu monografije na podlagi sodobnih pristopov,
-         predvsem ontologije A. Badiouja in estetske misli J. Rancièra, kritično ocenimo estetsko
-         dediščino 20. stoletja in predlagamo prenovljen pojem reprezentacije, ločen tako od
-         posnemanja kot od izraza biti. V drugem delu odpiramo vprašanje pojma sveta v sodobni
-         filozofiji, po eni strani vezanega na Leibnizevo problematiko možnih svetov, po drugi pa na
-         fikcijske svetove moderne literature skozi branje S. Mallarméja in M. Prousta. Monografijo
-         zaključuje razprava o specifikah filozofskega načina branja umetniških del in njihove
-         politične razsežnosti.</dc:description>
-      <dc:description xml:lang="eng">The monograph ('Monadless Windows. Aesthetics from Heidegger to
-         Rancière') follows the development of aesthetics in key thinkers of 20th century
-         philosophy, such as M. Heidegger, T. W. Adorno, and G. Deleuze. It argues that the central
-         trait of this development is the encounter with an artwork in which a philosopher
-         identifies thought. The artwork thinks and therefore it bears implications for the
-         philosophical understanding of being and the world. But in order for philosophy to be able
-         to grasp the thought of art it has to renounce the classical notion of representation. Art
-         does not represent the world; it expresses being, which remains hidden in the
-         representational constitution of the world. In the first part of the book, contemporary
-         approaches such as A. Badiou’s ontology and J. Rancière’s aesthetics form the ground for a
-         critical assessment of the aesthetical heritage of the 20th century and for rethinking the
-         notion of representation beyond the alternative between imitation and expression of being.
-         The second part explores the notion of the world in contemporary philosophy through
-         readings of Leibniz’s multitude of possible worlds, on the one hand, and the fictional
-         worlds of modernist literature (S. Mallarmé, M. Proust), on the other. The third and final
-         part addresses different ways in which philosophy reads specific artworks and how it
-         identifies their political dimension.</dc:description>
-      <dc:publisher>Založba ZRC, ZRC SAZU</dc:publisher>
-      <dc:date id="original-publication">2015-04-08</dc:date>
-      <dc:rights>© 2015, 2018 Filozofski inštitut ZRC SAZU, Založba ZRC, ZRC SAZU</dc:rights>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Monografija
+         sledi razvoju estetske misli v filozofiji 20. stoletja z vrhunci pri M.
+         Heideggerju, T. W. Adornu in G. Deleuzu. Kot temeljno potezo te misli izpostavi
+         zaznamovanost filozofije s srečanjem z umetniškim delom, v katerem filozof
+         prepozna misel, ki ima implikacije za filozofsko pojmovanje biti in sveta. Da pa
+         bi filozofija lahko premislila misel umetnosti, se mora odreči klasičnemu pojmu
+         reprezentacije. Umetnost ne reprezentira sveta, ampak izraža bit, ki v
+         reprezentacijski konstituciji sveta ostaja zakrita. V prvem delu monografije na
+         podlagi sodobnih pristopov, predvsem ontologije A. Badiouja in estetske misli J.
+         Rancièra, kritično ocenimo estetsko dediščino 20. stoletja in predlagamo
+         prenovljen pojem reprezentacije, ločen tako od posnemanja kot od izraza biti. V
+         drugem delu odpiramo vprašanje pojma sveta v sodobni filozofiji, po eni strani
+         vezanega na Leibnizevo problematiko možnih svetov, po drugi pa na fikcijske
+         svetove moderne literature skozi branje S. Mallarméja in M. Prousta. Monografijo
+         zaključuje razprava o specifikah filozofskega načina branja umetniških del in
+         njihove politične razsežnosti.</dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">&lt;p
+         style="color: grey">The monograph ('Monadless Windows. Aesthetics from Heidegger
+         to Rancière') follows the development of aesthetics in key thinkers of 20th
+         century philosophy, such as M. Heidegger, T. W. Adorno, and G. Deleuze. It argues
+         that the central trait of this development is the encounter with an artwork in
+         which a philosopher identifies thought. The artwork thinks and therefore it bears
+         implications for the philosophical understanding of being and the world. But in
+         order for philosophy to be able to grasp the thought of art it has to renounce the
+         classical notion of representation. Art does not represent the world; it expresses
+         being, which remains hidden in the representational constitution of the world. In
+         the first part of the book, contemporary approaches such as A. Badiou’s ontology
+         and J. Rancière’s aesthetics form the ground for a critical assessment of the
+         aesthetical heritage of the 20th century and for rethinking the notion of
+         representation beyond the alternative between imitation and expression of being.
+         The second part explores the notion of the world in contemporary philosophy
+         through readings of Leibniz’s multitude of possible worlds, on the one hand, and
+         the fictional worlds of modernist literature (S. Mallarmé, M. Proust), on the
+         other. The third and final part addresses different ways in which philosophy reads
+         specific artworks and how it identifies their political
+         dimension.&lt;/p></dc:description>
+      
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC, ZRC
+         SAZU</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2015-04-08</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2015, 2018 Filozofski inštitut ZRC
+         SAZU, Založba ZRC, ZRC SAZU</dc:rights>
       <meta name="cover" content="cover-image"/>
       <meta property="dcterms:modified">2018-01-30T15:29:31Z</meta>
    </metadata>

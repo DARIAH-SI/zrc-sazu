@@ -2,44 +2,50 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0"
       prefix="rendition: http://www.idpf.org/vocab/rendition#">
       <metadata xmlns:dcterms="http://purl.org/dc/terms/"
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xmlns:opf="http://www.idpf.org/2007/opf">
-            <dc:title id="title">Čebele Slovenije</dc:title>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Čebele Slovenije</dc:title>
             <meta property="rendition:layout">reflowable</meta>
             <meta property="rendition:spread">auto</meta>
             <meta refines="#title" property="title-type">main</meta>
-            <dc:creator id="creator">Andrej Gogala</dc:creator>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Andrej
+                  Gogala</dc:creator>
             <meta refines="#creator" property="file-as">Gogala, Andrej</meta>
             <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
-            <dc:language>slv</dc:language>
-            <dc:subject xml:lang="slv">čebele</dc:subject>
-            <dc:subject xml:lang="slv">Slovenija</dc:subject>
-            <dc:subject xml:lang="slv">taksonomija</dc:subject>
-            <dc:subject xml:lang="slv">biologija</dc:subject>
-            <dc:subject xml:lang="slv">živalska ekologija</dc:subject>
-            <dc:subject xml:lang="slv">živalska sociologija</dc:subject>
-            <dc:subject xml:lang="slv">endemiti</dc:subject>
-            <dc:subject xml:lang="slv">živalska raznovrstnost</dc:subject>
-            <dc:identifier id="pub-id">9789610500575</dc:identifier>
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">slv</dc:language>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">čebele</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">Slovenija</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv"
+                  >taksonomija</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">biologija</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">živalska
+                  ekologija</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">živalska
+                  sociologija</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">endemiti</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">živalska
+                  raznovrstnost</dc:subject>
+            <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">9789610500575</dc:identifier>
             <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
-            <dc:description xml:lang="slv">V knjigi so predstavljeni taksonomija in sistematika
-                  čebel (Anthophila) in njihova biologija: zbiranje in prenašanje hrane, vedenje
-                  izbirčnih čebel, ki so vezane na določene hranilne rastline, načini gnezdenja,
-                  kukavičje čebele, ki odlagajo jajčeca v gnezda drugih vrst, vedenje in
-                  prilagoditve samcev. V poglavju o raznovrstnosti divjih čebel so opisane spremembe
-                  v slovenski favni. Po avtorjevem mnenju so predvsem posledica sprememb podnebja in
-                  izjemnih vremenskih razmer. Večji del knjige obravnava družbeno življenje čebel,
-                  predvsem prvotnejše socialne oblike, ki nam olajšujejo razumevanje razvoja
-                  družbenih skupnosti. V poglavju Poti in stranpoti evolucije avtor opisuje
-                  dolgoročno prednost vrst z družbenimi ali simbiontskimi povezavami pred vrstami,
-                  pri katerih se zaradi prevlade najmočnejših in največjih osebkov v medsebojnem
-                  boju povečuje velikost osebkov in zmanjšuje njihovo število. Nadaljuje ga poglavje
-                  o različnih oblikah družbenih skupnosti, s primeri pri čebelah. V zadnjem poglavju
-                  so predstavljene družine in rodovi čebel, ki živijo v Sloveniji. Velika vrednost
-                  knjige je tudi 154 izvirnih fotografij različnih vrst čebel, ki ponazarjajo
-                  njihovo vedenje v naravi.</dc:description>
-            <dc:description xml:lang="eng">The book presents the taxonomy and systematics of bees
+            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">&lt;p>V knjigi
+                  so predstavljeni taksonomija in sistematika čebel (Anthophila) in njihova
+                  biologija: zbiranje in prenašanje hrane, vedenje izbirčnih čebel, ki so vezane na
+                  določene hranilne rastline, načini gnezdenja, kukavičje čebele, ki odlagajo
+                  jajčeca v gnezda drugih vrst, vedenje in prilagoditve samcev. V poglavju o
+                  raznovrstnosti divjih čebel so opisane spremembe v slovenski favni. Po avtorjevem
+                  mnenju so predvsem posledica sprememb podnebja in izjemnih vremenskih razmer.
+                  Večji del knjige obravnava družbeno življenje čebel, predvsem prvotnejše socialne
+                  oblike, ki nam olajšujejo razumevanje razvoja družbenih skupnosti. V poglavju Poti
+                  in stranpoti evolucije avtor opisuje dolgoročno prednost vrst z družbenimi ali
+                  simbiontskimi povezavami pred vrstami, pri katerih se zaradi prevlade najmočnejših
+                  in največjih osebkov v medsebojnem boju povečuje velikost osebkov in zmanjšuje
+                  njihovo število. Nadaljuje ga poglavje o različnih oblikah družbenih skupnosti, s
+                  primeri pri čebelah. V zadnjem poglavju so predstavljene družine in rodovi čebel,
+                  ki živijo v Sloveniji. Velika vrednost knjige je tudi 154 izvirnih fotografij
+                  različnih vrst čebel, ki ponazarjajo njihovo vedenje v
+                  naravi.&lt;/p></dc:description>
+            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">&lt;p
+                  style="color: grey"> The book presents the taxonomy and systematics of bees
                   (Anthophila) and their biology: the collection and transport of food, picky
                   behavior of bees, which are linked to certain food plants, nesting methods, Cuckoo
                   bees laying eggs in the nests of other species, behaviors and adaptations of
@@ -55,12 +61,14 @@
                   forms of social communities, with examples in bees. In the last chapter the
                   families and genera of bees living in Slovenia are presented. Great value of the
                   book are also 154 original photos of different species of bees, which illustrate
-                  their behavior in the wild.</dc:description>
-            <dc:publisher id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
-            <dc:publisher id="issuer">Biološki inštitut Jovana Hadžija ZRC SAZU</dc:publisher>
-            <dc:date id="original-publication">2015-01-06</dc:date>
-            <dc:rights>© 2014, 2018 Andrej Gogala, Biološki inštut Jovana Hadžija ZRC SAZU, Založba
-                  ZRC, ZRC SAZU</dc:rights>
+                  their behavior in the wild.&lt;/p></dc:description>
+            
+            <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="publisher">Založba ZRC, ZRC
+                  SAZU</dc:publisher>
+            <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="issuer">Biološki inštitut Jovana Hadžija ZRC SAZU</dc:publisher>
+            <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2015-01-06</dc:date>
+            <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2014, 2018 Andrej Gogala, Biološki
+                  inštut Jovana Hadžija ZRC SAZU, Založba ZRC, ZRC SAZU</dc:rights>
             <meta name="cover" content="cover-image"/>
             <meta property="dcterms:modified">2018-01-30T15:20:29Z</meta>
       </metadata>

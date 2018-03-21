@@ -2,58 +2,60 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0"
       prefix="rendition: http://www.idpf.org/vocab/rendition#">
       <metadata xmlns:dcterms="http://purl.org/dc/terms/"
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xmlns:opf="http://www.idpf.org/2007/opf">
-            <dc:title id="title">Kras in Brkini za radovedneže in ljubitelje</dc:title>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Kras in Brkini za radovedneže in ljubitelje</dc:title>
             <meta property="rendition:layout">reflowable</meta>
             <meta property="rendition:spread">auto</meta>
             <meta refines="#title" property="title-type">main</meta>
-            <dc:creator id="creator1">Jasna Fakin Bajec</dc:creator>
-            <dc:creator id="creator2">Oto Luthar</dc:creator>
-            <meta refines="#creator1" property="file-as">Fakin Bajec, Jasna</meta>
-            <meta refines="#creator2" property="file-as">Luthar, Oto</meta>
-            <meta refines="#creator1" property="role" scheme="marc:relators">edt</meta>
-            <meta refines="#creator2" property="role" scheme="marc:relators">edt</meta>
-            <dc:language>slv</dc:language>
-            <dc:subject>Kras</dc:subject>
-            <dc:subject>Brkini</dc:subject>
-            <dc:identifier id="pub-id">9789610500452</dc:identifier>
-            <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
-            <dc:description xml:lang="slv">Knjiga o Krasu in Brkinih je (2014) nastala v zbirki
-                  kratkih predstavitev naravne in kulturne dediščine slovenskih pokrajin in se tako
-                  pridružila knjigi o Prekmurju. Predstavljena gesla razgrinjajo poleg naravnih in
-                  kulturnih zanimivosti tudi drobne detajle življenja ljudi, ki se navadno v
-                  obsežnejših monografijah izgubijo, pa vendar odstirajo bistveno bolj zanimive
-                  zgodbe in velikokrat kažejo zmotne ali celo izmišljene predstave o tamkajšnjem
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Jasna Fakin Bajec &amp;
+                  Oto Luthar</dc:creator>
+            <meta refines="#creator" property="file-as"> Fakin Bajec, Jasna &amp; Luthar, Oto</meta>
+            <meta refines="#creator" property="role" scheme="marc:relators">edt</meta>
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">slv</dc:language>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Kras</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Brkini</dc:subject>
+            <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id"
+                  >9789610500452</dc:identifier>
+            <meta refines="#pub-id"
+                  property="identifier-type"
+                  scheme="onix:codelist5">15</meta>
+            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">&lt;p>Knjiga o
+                  Krasu in Brkinih je (2014) nastala v zbirki kratkih predstavitev naravne in kulturne
+                  dediščine slovenskih pokrajin in se tako pridružila knjigi o &lt;a
+                  href="http://zalozba.zrc-sazu.si/p/536">Prekmurju&lt;/a>. Predstavljena gesla razgrinjajo
+                  poleg naravnih in kulturnih zanimivosti tudi drobne detajle življenja ljudi, ki se
+                  navadno v obsežnejših monografijah izgubijo, pa vendar odstirajo bistveno bolj
+                  zanimive zgodbe in velikokrat kažejo zmotne ali celo izmišljene predstave o tamkajšnjem
                   življenju. Čeprav sta Kras in Brkini mnogokrat v očeh gostov, pa naj gre za domače
                   obiskovalce ali tuje turiste, označeni kot očarljivi, avtentični, zanimivi, celo
                   skrivnostni pokrajini, pogled od blizu razkriva nekoliko drugačno podobo. Kot del
-                  Primorske sta bili od nekdaj tesno upravno, kulturno in naravno povezani, kar
-                  simbolizira že reka Reka, pa vendar tudi zelo edinstveni, kar se kaže v prvinah
-                  stavbarstva, narečja in načina obdelovanja zemlje. Namen knjige je bralce in
-                  popotnike opozoriti na morda preveč romantizirano podobo o pokrajinah ter jih
-                  privabiti na nekoliko nepoznane predele, ki kažejo bogato kulturno in naravno
-                  pestrost slovenskih pokrajin.</dc:description>
-            <dc:description xml:lang="eng">The book (‘Karst and Brkini for the Curious and the
-                  Keen') was written (originaly published in 2014) as part of a collection of short
-                  presentations of natural and cultural heritage of Slovenian regions and as such
-                  joined the book about Prekmurje. Book entries unveil natural and cultural
-                  curiosities as well as small details of people's lives which are usually lost in
-                  extensive monographs although they reveal significantly more interesting stories
-                  and often disclose wrong ideas or even made-up images of the life in the regions.
-                  In the eyes of visitors, both local or foreign, the Karst and the Brkini are often
-                  considered charming, authentic, interesting and even mysterious; however, upon a
-                  closer look, the two regions reveal a slightly different idea. As part of the
-                  Primorska region, they have always been closely connected in terms of
-                  administration, culture and nature (also by the river Reka), but at the same time
-                  very unique in terms of architecture, dialect and land cultivation. The aim of the
-                  book is to make readers and travellers aware that the image of the regions might
-                  be too romanticized and invite them to rather unknown places which show a rich
-                  cultural and natural variety of Slovenian regions.</dc:description>
-            <dc:publisher id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
-            <dc:date id="original-publication">2014-11-17</dc:date>
-            <dc:rights>© 2014, 2018 Založba ZRC, ZRC SAZU</dc:rights>
+                  Primorske sta bili od nekdaj tesno upravno, kulturno in naravno povezani, kar simbolizira
+                  že reka Reka, pa vendar tudi zelo edinstveni, kar se kaže v prvinah stavbarstva, narečja in
+                  načina obdelovanja zemlje. Namen knjige je bralce in popotnike opozoriti na morda preveč
+                  romantizirano podobo o pokrajinah ter jih privabiti na nekoliko nepoznane predele, ki
+                  kažejo bogato kulturno in naravno pestrost slovenskih pokrajin.&lt;/p></dc:description>
+            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">&lt;p style="color:
+                  grey">The book (‘Karst and Brkini for the Curious and the Keen') was written (originaly
+                  published in 2014) as part of a collection of short presentations of natural and cultural
+                  heritage of Slovenian regions and as such joined the book about &lt;a
+                  href="http://zalozba.zrc-sazu.si/p/536">Prekmurje&lt;/a>. Book entries unveil natural and
+                  cultural curiosities as well as small details of people's lives which are usually lost in
+                  extensive monographs although they reveal significantly more interesting stories and often
+                  disclose wrong ideas or even made-up images of the life in the regions. In the eyes of
+                  visitors, both local or foreign, the Karst and the Brkini are often considered charming,
+                  authentic, interesting and even mysterious; however, upon a closer look, the two regions
+                  reveal a slightly different idea. As part of the Primorska region, they have always been
+                  closely connected in terms of administration, culture and nature (also by the river Reka),
+                  but at the same time very unique in terms of architecture, dialect and land cultivation.
+                  The aim of the book is to make readers and travellers aware that the image of the regions
+                  might be too romanticized and invite them to rather unknown places which show a rich
+                  cultural and natural variety of Slovenian regions.&lt;/p></dc:description>
+            <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="publisher">Založba ZRC, ZRC
+                  SAZU</dc:publisher>
+            <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2014-11-17</dc:date>
+            <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2014, 2018 Založba ZRC, ZRC
+                  SAZU</dc:rights>
             <meta name="cover" content="cover-image"/>
             <meta property="dcterms:modified">2018-01-30T15:24:33Z</meta>
       </metadata>

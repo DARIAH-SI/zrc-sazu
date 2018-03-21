@@ -2,74 +2,63 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0"
       prefix="rendition: http://www.idpf.org/vocab/rendition#">
       <metadata xmlns:dcterms="http://purl.org/dc/terms/"
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xmlns:opf="http://www.idpf.org/2007/opf">
-            <dc:title id="title1">Razsvetljenske interpretacije narave</dc:title>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Razsvetljenske interpretacije narave</dc:title>
             <meta refines="#title1" property="title-type">short</meta>
-            <dc:title id="title2">Razsvetljenske interpretacije narave (1749–1756)</dc:title>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title2">Razsvetljenske interpretacije narave (1749–1756)</dc:title>
             <meta refines="#title2" property="title-type">extended</meta>
             <meta property="rendition:layout">reflowable</meta>
             <meta property="rendition:orientation">auto</meta>
-            <dc:creator id="creator1">Georges-Louis Leclerc Buffon</dc:creator>
-            <dc:creator id="creator2">Pierre-Louis Moreau Maupertuis</dc:creator>
-            <dc:creator id="creator3">Denis Diderot</dc:creator>
-            <meta refines="#creator1" property="file-as">Buffon, Georges-Louis Leclerc</meta>
-            <meta refines="#creator2" property="file-as">Maupertuis, Pierre-Louis Moreau</meta>
-            <meta refines="#creator3" property="file-as">Diderot, Denis</meta>
-            <meta refines="#creator1" property="role" scheme="marc:relators">aut</meta>
-            <meta refines="#creator2" property="role" scheme="marc:relators">aut</meta>
-            <meta refines="#creator3" property="role" scheme="marc:relators">aut</meta>
-            <dc:contributor>Miha Marek</dc:contributor>
-            <meta refines="#creator1" property="file-as">Marek, Miha</meta>
-            <meta refines="#creator1" property="role" scheme="marc:relators">trl</meta>
-            <meta refines="#creator1" property="role" scheme="marc:relators">wac</meta>
-            <meta refines="#creator2" property="file-as">Marek, Miha</meta>
-            <meta refines="#creator2" property="role" scheme="marc:relators">trl</meta>
-            <meta refines="#creator2" property="role" scheme="marc:relators">wac</meta>
-            <meta refines="#creator3" property="file-as">Marek, Miha</meta>
-            <meta refines="#creator3" property="role" scheme="marc:relators">trl</meta>
-            <meta refines="#creator3" property="role" scheme="marc:relators">wac</meta>
-            <dc:contributor>Miran Božovič</dc:contributor>
-            <meta refines="#creator1" property="file-as">Božovič, Miran</meta>
-            <meta refines="#creator2" property="file-as">Božovič, Miran</meta>
-            <meta refines="#creator3" property="file-as">Božovič, Miran</meta>
-            <dc:contributor>Miha Marek</dc:contributor>
-            <meta refines="#creator1" property="file-as">Marek, Miha</meta>
-            <meta refines="#creator1" property="role" scheme="marc:relators">aft</meta>
-            <meta refines="#creator2" property="file-as">Marek, Miha</meta>
-            <meta refines="#creator2" property="role" scheme="marc:relators">aft</meta>
-            <meta refines="#creator3" property="file-as">Marek, Miha</meta>
-            <meta refines="#creator3" property="role" scheme="marc:relators">aft</meta>
-            <dc:language>slv</dc:language>
-            <dc:subject>Buffon, Georges-Louis Leclerc, 1707-1788</dc:subject>
-            <dc:subject>Diderot, Denis, 1713-1784</dc:subject>
-            <dc:subject>Maupertuis, Pierre-Louis Moreau, 1698-1759</dc:subject>
-            <dc:subject xml:lang="slv">filozofija narave</dc:subject>
-            <dc:subject xml:lang="slv">razsvetljenstvo</dc:subject>
-            <dc:subject xml:lang="slv">razsvetljenska filozofija</dc:subject>
-            <dc:subject xml:lang="slv">biologija</dc:subject>
-            <dc:subject xml:lang="slv">naravoslovje</dc:subject>
-            <dc:identifier id="pub-id">9789610500643</dc:identifier>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Georges-Louis Leclerc
+                  Buffon &amp; Pierre-Louis Moreau Maupertuis &amp; Denis Diderot</dc:creator>
+            <meta refines="#creator" property="file-as">Buffon, Georges-Louis Leclerc &amp; Maupertuis,
+                  Pierre-Louis Moreau &amp; Diderot, Denis</meta>
+            <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+            <contributor xmlns="http://purl.org/dc/elements/1.1/">Miha Marek</contributor>
+            <meta refines="#creator" property="file-as">Marek, Miha</meta>
+            <meta refines="#creator" property="role" scheme="marc:relators">trl</meta>
+            <meta refines="#creator" property="role" scheme="marc:relators">wac</meta>
+            <contributor xmlns="http://purl.org/dc/elements/1.1/">Miran Božovič</contributor>
+            <meta refines="#creator" property="file-as">Božovič, Miran</meta>
+            <contributor xmlns="http://purl.org/dc/elements/1.1/">Miha Marek</contributor>
+            <meta refines="#creator" property="file-as">Marek, Miha</meta>
+            <meta refines="#creator" property="role" scheme="marc:relators">aft</meta>
+            <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">slv</dc:language>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Buffon, Georges-Louis Leclerc, 1707-1788</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Diderot, Denis, 1713-1784</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Maupertuis, Pierre-Louis Moreau, 1698-1759</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">filozofija
+                  narave</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">razsvetljenstvo</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">razsvetljenska
+                  filozofija</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">biologija</dc:subject>
+            <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv"
+                  >naravoslovje</dc:subject>
+            <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">9789610500643</dc:identifier>
             <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
-            <dc:description xml:lang="slv">Zbornik vključuje besedila treh temeljnih avtorjev
-                  zgodovine znanosti in filozofije francoskega razsvetljenstva. Georges-Louis
-                  Leclerc de Buffon (1707–1788), največji prirodopisec osemnajstega stoletja, se v
-                  uvodni razpravi svojega monumentalnega Prirodopisa (1749–1788) zavzema za
-                  specifičnost znanosti o življenju, v poglavju “Osel" pa ponudi presenetljivo
-                  izdelan pojem evolucije. Newtonski fizik Pierre-Louis Moreau de Maupertuis
-                  (1698–1759) v Eseju o nastajanju organiziranih teles (1754) sistematično in na
-                  eksperimentalni osnovi opredeljuje načela dedovanja in se s tem umešča med
-                  napovedovalce Mendlove genetike. Enciklopedist Denis Diderot (1713–1784) v Mislih
-                  o interpretaciji narave (1754) v slogu Francisa Bacona analizira položaj znanosti
-                  v svojem času kakor tudi logiko znanstvenega raziskovanja samega. Vsi avtorji v
-                  središče svoje refleksije postavljajo znanost o življenju – biologijo. Pretresajo
-                  njene temelje in metodo ter se zavzemajo za njen razvoj. S tem korenito
-                  preoblikujejo znanstveno razumevanje živega ter metode preučevanja živih bitij in
-                  življenjskih procesov.</dc:description>
-            <dc:publisher id="publisher">Založba ZRC, ZRC SAZU</dc:publisher>
-            <dc:date id="original-publication">2013-08-22</dc:date>
-            <dc:rights>© 2013, 2018 Založba ZRC, ZRC SAZU</dc:rights>
+            <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="slv">&lt;p>Zbornik
+                  vključuje besedila treh temeljnih avtorjev zgodovine znanosti in filozofije
+                  francoskega razsvetljenstva. Georges-Louis Leclerc de Buffon (1707–1788), največji
+                  prirodopisec osemnajstega stoletja, se v uvodni razpravi svojega monumentalnega
+                  &lt;em>Prirodopisa &lt;/em>(1749–1788) zavzema za specifičnost znanosti o
+                  življenju, v poglavju “Osel" pa ponudi presenetljivo izdelan pojem evolucije.
+                  Newtonski fizik Pierre-Louis Moreau de Maupertuis (1698–1759) v &lt;em>Eseju o
+                  nastajanju organiziranih teles&lt;/em> (1754) sistematično in na eksperimentalni
+                  osnovi opredeljuje načela dedovanja in se s tem umešča med napovedovalce Mendlove
+                  genetike. Enciklopedist Denis Diderot (1713–1784) v &lt;em>Mislih o interpretaciji
+                  narave&lt;/em> (1754) v slogu Francisa Bacona analizira položaj znanosti v svojem
+                  času kakor tudi logiko znanstvenega raziskovanja samega. Vsi avtorji v središče
+                  svoje refleksije postavljajo znanost o življenju – biologijo. Pretresajo njene
+                  temelje in metodo ter se zavzemajo za njen razvoj. S tem korenito preoblikujejo
+                  znanstveno razumevanje živega ter metode preučevanja živih bitij in življenjskih
+                  procesov.&lt;/p> </dc:description>
+            <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" id="publisher">Založba ZRC, ZRC
+                  SAZU</dc:publisher>
+            <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2013-08-22</dc:date>
+            <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2013, 2018 Založba ZRC, ZRC
+                  SAZU</dc:rights>
             <meta name="cover" content="cover-image"/>
             <meta property="dcterms:modified">2018-01-30T15:32:47Z</meta>
       </metadata>
