@@ -21,7 +21,7 @@
          <extent>???636 kB XML; 220 kB JPG; ????411.616 znakov besedila</extent>
          <publicationStmt>
             <publisher>Založba ZRC<figure corresp="naslovnica">
-                  <graphic n="1001" url="media/image1.jpeg">
+                  <graphic n="1001" url="media/image1.jpg">
                      <desc>Fotografija na naslovnici: Idila pod Krimom, spomladi 2012, avtor Rok
                         Godec; objavljeno z avtorjevim dovoljenjem.</desc>
                   </graphic>
@@ -83,14 +83,14 @@
                      <height>23,5</height>
                      <width>16,7</width>
                   </dimensions><figure corresp="naslovnica_zadnjica">
-                     <graphic width="23.5cm" height="16.7cm" url="media/image1.jpeg"/>
-                     <graphic width="23.5cm" height="16.7cm" url="media/image1a.jpeg"/>
+                     <graphic width="23.5cm" height="16.7cm" url="media/image1.jpg"/>
+                     <graphic width="23.5cm" height="16.7cm" url="media/image1a.jpg"/>
                   </figure></extent>
                <publicationStmt>
                   <distributor><orgName role="Izdajatelj">Inštitut za kulturne in spominske študije
                         ZRC SAZU</orgName></distributor>
                   <publisher>Založba ZRC <figure>
-                        <graphic url="media/image2.png"/>
+                        <graphic url="media/image2.jpg"/>
                      </figure></publisher>
                   <authority><respons locus="name">
                         <desc>Za založbo</desc>
@@ -293,7 +293,7 @@
    </teiHeader>
    <facsimile>
       <surface xml:id="front_out">
-         <graphic n="1001" url="media/image1.jpeg"/>
+         <graphic n="1001" url="media/image1.jpg"/>
       </surface>
    </facsimile>
    <text>
@@ -323,7 +323,7 @@
             <p>Ferdo Gestrin</p>
                <p>SVET POD KRIMOM</p>
             <figure>
-               <graphic n="1002" url="media/image2.png"/>
+               <graphic n="1002" url="media/image2.jpg"/>
             </figure>
          </div>
          <div type="title" rend="align:center">
@@ -19675,12 +19675,12 @@
                <p>Slikovno gradivo vsebuje le prva izdaja (1993), razen
                   prvih dveh slik, ki sta na straneh 3-4 oziroma 446-447 druge izdaje.</p>
                <figure>
-                  <graphic n="100A" url="media/image3.png" height="400px"/>
+                  <graphic n="100A" url="media/image3.jpg" height="400px"/>
                   <head>Partizani <hi rend="italic">(<seg rend="italic">Arhiv Muzeja novejše
                            zgodovine Slovenije</seg>)</hi></head>
                </figure>
                <figure>
-                  <graphic n="100AB" url="media/image4.png" height="400px"/>
+                  <graphic n="100AB" url="media/image4.jpg" height="400px"/>
                   <head>Stražarji <hi rend="italic">(<seg rend="italic">Arhiv Muzeja novejše
                            zgodovine Slovenije</seg>)</hi></head>
                </figure>

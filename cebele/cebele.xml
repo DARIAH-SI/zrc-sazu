@@ -13,7 +13,7 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>Založba ZRC<figure>
-                        <graphic n="1001" url="media/imageZRC.jpeg"/>
+                        <graphic n="1001" url="media/imageZRC.jpg"/>
                     </figure><figure corresp="naslovnica">
                         <graphic n="1001" url="media/CS_front.jpg">
                             <desc>Samica kaspijske dolgorožke (<hi rend="italic">Eucera
@@ -95,7 +95,7 @@
                         </figure></extent>
                     <publicationStmt>
                         <publisher>Založba ZRC<figure>
-                                <graphic n="10011" url="media/imageZRC.jpeg"/>
+                                <graphic n="10011" url="media/imageZRC.jpg"/>
                             </figure>
                         </publisher>
                         <authority><respons locus="name">
@@ -295,7 +295,7 @@
                 <p>Čebele Slovenije</p>
                 <p>Andrej Gogala</p>
                 <figure>
-                    <graphic n="1002" url="media/imageZRC.jpeg"/>
+                    <graphic n="1002" url="media/imageZRC.jpg"/>
                 </figure>
             </div>
             <div type="colophone">
@@ -355,7 +355,7 @@
             <div type="title" rend="align:center" >
                 <pb n="(3)" xml:id="pb.3"/>
                 <figure>
-                    <graphic n="1003" url="media/image3.png"/>
+                    <graphic n="1003" url="media/image3.jpg"/>
                 </figure>
                 <p><hi rend="bold">Čebele Slovenije</hi></p>
                 <p>Andrej Gogala</p>
@@ -432,7 +432,7 @@
                 <pb n="7" xml:id="pb.7"/>
                 <head>Uvod</head>
                 <figure>
-                    <graphic n="1004" url="media/image10.jpeg"/>
+                    <graphic n="1004" url="media/image10.jpg"/>
                     <head>Suhi kraški travniki vsak mesec menjajo svojo podobo, v vsaki izmed njih
                         pa so bogat življenjski prostor, domovanje raznovrstnih čebeljih vrst. Konec
                         junija ali julija zacveti oblasti luk (<hi rend="italic">Allium
@@ -519,7 +519,7 @@
                     družin, temveč so nekaterim članicam nekdanje družine Anthopho-</p>
                 <pb n="10" xml:id="pb.10"/>
                 <figure>
-                    <graphic n="1005" url="media/image11.jpeg"/>
+                    <graphic n="1005" url="media/image11.jpg"/>
                     <head>Na cvetu lepljive kadulje počiva zakrinkana čebela vrste <hi rend="italic"
                             >Hylaeus communis</hi>, pripadnica družine opnark (Colletidae).</head>
                 </figure>
@@ -534,7 +534,7 @@
                     živi v Evropi. To so Colletidae, Halictidae, Andrenidae,</p>
                 <pb n="11" xml:id="pb.11"/>
                 <figure>
-                    <graphic n="1006" url="media/image12.jpeg"/>
+                    <graphic n="1006" url="media/image12.jpg"/>
                     <head>Ena najpogostejših vitkih čebel (Halictidae) je vrsta <hi rend="italic"
                             >Lasioglossum fulvicorne</hi>, ki ni izbirčna in obiskuje tudi tevje
                             (<hi rend="italic">Hacquetia epipactis</hi>).</head>
@@ -550,7 +550,7 @@
                     Andrenidae. Po njuni klasifikaciji torej ločimo devet družin čebel, od ka-</p>
                 <pb n="12" xml:id="pb.12"/>
                 <figure>
-                    <graphic n="1007" url="media/image13.png"/>
+                    <graphic n="1007" url="media/image13.jpg"/>
                     <head> Dvobarvna peščinarka (<hi rend="italic">Andrena bicolor</hi>) se prebudi
                         že v zgodnji pomladi in obiskuje prve cvetove, med katerimi je tudi pasja
                         čebulica (<hi rend="italic">Gagea</hi>). Rod Andrena je najobsežnejši rod
@@ -562,7 +562,7 @@
                 </figure>
                 <pb n="13" xml:id="pb.13"/>
                 <figure>
-                    <graphic n="1008" url="media/image14.jpeg"/>
+                    <graphic n="1008" url="media/image14.jpg"/>
                     <head> Zvončična žagorožka (<hi rend="italic">Melitta haemorrhoidalis</hi>) med
                         dežjem počiva na suhem, v cvetu zvončice, svoje hranilne rastline.
                         Melittidae so majhna, a zanimiva družina čebel.</head>
@@ -576,7 +576,7 @@
                     tako molekulske kot morfološke podatke, ni potrdila, a tudi ne ovrgla.</p>
                 <pb n="14" xml:id="pb.14"/>
                 <figure>
-                    <graphic n="1009" url="media/image15.jpeg"/>
+                    <graphic n="1009" url="media/image15.jpg"/>
                     <head>Obsežni družini znosk (Megachilidae) pripada tudi zlata dišavka (<hi
                             rend="italic">Osmia aurulenta</hi>). Gnezdi v praznih polžjih hišicah in
                         najraje obiskuje cvetove metuljnic, kot je turška detelja (<hi rend="italic"
@@ -645,7 +645,7 @@
                     dolžino merijo skoraj 4 cm. Najtežje pa so samice</p>
                 <pb n="17" xml:id="pb.17"/>
                 <figure>
-                    <graphic n="10010" url="media/image16.png"/>
+                    <graphic n="10010" url="media/image16.jpg"/>
                     <head>Samica čebele oljarke (<hi rend="italic">Macropis europaea</hi>) na cvetu
                         pijavčnice. Na zadnjih nogah tovori pelod, pomešan s cvetnim oljem.</head>
                     <head>Lesna čebela (<hi rend="italic">Xylocopa violacea</hi>) je s približno 2,5
@@ -653,7 +653,7 @@
                 </figure>
                 <pb n="18" xml:id="pb.18"/>
                 <figure>
-                    <graphic n="10011" url="media/image17.jpeg"/>
+                    <graphic n="10011" url="media/image17.jpg"/>
                     <head>Med najmanjšimi so zakrinkane čebele. Samica vrste <hi rend="italic"
                             >Hylaeus imparilis</hi> na socvetju hermelike.</head>
                 </figure>
@@ -670,17 +670,17 @@
                     prenašajo pelod kar v golši, skupaj z medičino.</p>
                 <pb n="19" xml:id="pb.19"/>
                 <figure>
-                    <graphic n="10012" url="media/image18.jpeg"/>
+                    <graphic n="10012" url="media/image18.jpg"/>
                     <head>Prašniki ustnatic, kot je žajbelj, podrgnejo čebelo volnarko (<hi
                             rend="italic">Anthidium manicatum</hi>) po hrbtu.</head>
                 </figure>
                 <figure>
-                    <graphic n="10013" url="media/image19.jpeg"/>
+                    <graphic n="10013" url="media/image19.jpg"/>
                     <head>Pelod si nato čebela s srednjo nogo postrga s hrbta.</head>
                 </figure>
                 <pb n="20" xml:id="pb.20"/>
                 <figure>
-                    <graphic n="10014" url="media/image20.jpeg"/>
+                    <graphic n="10014" url="media/image20.jpg"/>
                     <head>Čebele in njihove rastlinske gostiteljice so se v razvoju medsebojno
                         prilagodile. Prašniki gozdne košeničice (<hi rend="italic">Genista
                             sylvestris</hi>) podrgnejo ravno po krtački za prenašanje peloda na
@@ -785,7 +785,7 @@
                     ličinkami.</p>
                 <pb n="24" xml:id="pb.24"/>
                 <figure>
-                    <graphic n="10015" url="media/image21.png"/>
+                    <graphic n="10015" url="media/image21.jpg"/>
                     <head>Hrbtonosec (<hi rend="italic">Leucospis dorsigera</hi>) zabada svojo
                         leglico skozi les v gnezdo samotarske čebele v njem.</head>
                     <head>Čmrljevka (<hi rend="italic">Volucella bombylans</hi>) je muha trepetavka,
@@ -820,7 +820,7 @@
                     razvito posebno kamrico (acinarium), v kateri</p>
                 <pb n="26" xml:id="pb.26"/>
                 <figure>
-                    <graphic n="10016" url="media/image22.jpeg"/>
+                    <graphic n="10016" url="media/image22.jpg"/>
                     <head>Rakovičasti pajek s plenom, samico peščinske čebele (<hi rend="italic"
                             >Andrena</hi> sp.).</head>
                 </figure>
@@ -931,7 +931,7 @@
                     dlake, ki pa jih ne uporabljajo.</p>
                 <pb n="30" xml:id="pb.30"/>
                 <figure>
-                    <graphic n="10017" url="media/image23.png"/>
+                    <graphic n="10017" url="media/image23.jpg"/>
                     <head> Vitka čebela vrste
                         <hi rend="italic" xml:space="preserve">Lasioglossum puncticolle </hi>prenaša
                         pelod na spodnji strani zadka, priprsju in na zadnjih nogah.</head>
@@ -941,7 +941,7 @@
                 </figure>
                 <pb n="31" xml:id="pb.31"/>
                 <figure>
-                    <graphic n="10018" url="media/image24.jpeg"/>
+                    <graphic n="10018" url="media/image24.jpg"/>
                     <head> Peščinska čebela (<hi rend="italic">Andrena alutacea</hi>) prenaša pelod
                         na zadnjih nogah in na priprsju.</head>
                 </figure>
@@ -954,7 +954,7 @@
                     zunanji strani goleni. Da se bolje drži v kepici, ga ovlažijo z medičino.</p>
                 <pb n="32" xml:id="pb.32"/>
                 <figure>
-                    <graphic n="10019" url="media/image25.jpeg"/>
+                    <graphic n="10019" url="media/image25.jpg"/>
                     <head>Listorezka (<hi rend="italic">Megachile pilidens</hi>) ima krtačko za
                         prenašanje peloda na spodnji strani zadka.</head>
                 </figure>
@@ -970,7 +970,7 @@
                     listu. Ko čebela zleze v cvet, da bi dosegla medičino, pritisne</p>
                 <pb n="33" xml:id="pb.33"/>
                 <figure>
-                    <graphic n="10020" url="media/image26.jpeg"/>
+                    <graphic n="10020" url="media/image26.jpg"/>
                     <head>Majhne čebele, kakršna je pritlikava vitka čebela (<hi rend="italic"
                             >Lasioglossum politum</hi>), prašnike nagrizejo s svojimi čeljustmi, da
                         pridejo do peloda.</head>
@@ -998,7 +998,7 @@
                     cvetno žrelo pri gabezu in rdečem korenu preprečujejo prašnice, ki so na korenu
                     zrasle s cve-</p>
                 <figure>
-                    <graphic n="10021" url="media/image27.jpeg"/>
+                    <graphic n="10021" url="media/image27.jpg"/>
                     <head>Gabezova peščinska čebela (<hi rend="italic">Andrena symphyti</hi>) s
                         kratkim jezičkom ne doseže medičine v gabezovem cvetu. Zato s čeljustmi
                         naredi režo v cvetni venec in od zunaj pride do skrite medičine.</head>
@@ -1009,14 +1009,14 @@
                     prašnični stožec stresajo z nogami. Gabezova peščinska čebela (<hi rend="italic"
                         >Andrena symphyti</hi>) je</p>
                 <figure>
-                    <graphic n="10022" url="media/image28.jpeg"/>
+                    <graphic n="10022" url="media/image28.jpg"/>
                     <head>Dolgojezična dišavka (<hi rend="italic">Osmia apicata</hi>) s svojim
                         dolgim jezičkom doseže medičino v dolgem in ozkem cvetu rdečega
                         korena.</head>
                 </figure>
                 <pb n="36" xml:id="pb.36"/>
                 <figure>
-                    <graphic n="10023" url="media/image29.jpeg"/>
+                    <graphic n="10023" url="media/image29.jpg"/>
                     <head>Samica zgrabi rob cvetnega venca z nogami, viseč navzdol.</head>
                 </figure>
                 <p>zmožna obeh načinov, nima pa dovolj dolgega jezička, da bi dosegla medičino. Zato
@@ -1031,7 +1031,7 @@
                     tako dolg kot telo.</p>
                 <pb n="37" xml:id="pb.37"/>
                 <figure>
-                    <graphic n="10024" url="media/image30.jpeg"/>
+                    <graphic n="10024" url="media/image30.jpg"/>
                     <head>Pelod, stresen iz prašničnega stožca, pade na trebušno stran
                         čebele.</head>
                 </figure>
@@ -1078,7 +1078,7 @@
                     vodila v razvoj velikega števila različnih vrst in ne obratno.</p>
                 <pb n="39" xml:id="pb.39"/>
                 <figure>
-                    <graphic n="10025" url="media/image31.png"/>
+                    <graphic n="10025" url="media/image31.jpg"/>
                     <head>Vresina opnarka (<hi rend="italic">Colletes succinctus</hi>) na svoji
                         hranilni rastlini. </head>
                     <head>Bršljanova opnarka (<hi rend="italic">Colletes hederae</hi>) zbira le
@@ -1086,7 +1086,7 @@
                 </figure>
                 <pb n="40" xml:id="pb.40"/>
                 <figure>
-                    <graphic n="10026" url="media/image32.png"/>
+                    <graphic n="10026" url="media/image32.jpg"/>
                     <head> Rana peščinarka (<hi rend="italic">Andrena praecox</hi>) svoj vir peloda
                         in medičine najde na vrbovih mačicah.</head>
                     <head>Grabljiščna peščinarka (<hi rend="italic">Andrena hattorfiana</hi>) zbira
@@ -1151,7 +1151,7 @@
                         >Allium waldsteinii</hi>. Zanimiv je tudi</p>
                 <pb n="43" xml:id="pb.43"/>
                 <figure>
-                    <graphic n="10027" url="media/image33.jpeg"/>
+                    <graphic n="10027" url="media/image33.jpg"/>
                     <head>Pelod zlatic vsebuje strupeni ranunkulin, kar pa ne moti vrst, ki so se mu
                         prilagodile. Kleščarka vrste <hi rend="italic">Chelostoma emarginatum</hi>
                         zbira le pelod zlatičinih cvetov<hi rend="color(0070C0)">.</hi>
@@ -1172,7 +1172,7 @@
                     istovrstnih cvetov. Družbene vrste so poleg tega dejav-</p>
                 <pb n="44" xml:id="pb.44"/>
                 <figure>
-                    <graphic n="10028" url="media/image34.png"/>
+                    <graphic n="10028" url="media/image34.jpg"/>
                     <head> Graeffejeva opnarka (<hi rend="italic">Colletes graeffei</hi>) med
                         obiskom visečega cveta lepega luka.</head>
                     <head>Jesenska peščinarka (<hi rend="italic">Andrena pellucens</hi>) na dimku
@@ -1180,7 +1180,7 @@
                 </figure>
                 <pb n="45" xml:id="pb.45"/>
                 <figure>
-                    <graphic n="10029" url="media/image35.jpeg"/>
+                    <graphic n="10029" url="media/image35.jpg"/>
                     <head> Samec preobjedinega čmrlja (<hi rend="italic">Bombus gerstaeckeri</hi>)
                         se hrani na preobjedi.</head>
                 </figure>
@@ -1249,18 +1249,18 @@
                         >Hoplitis adunca</hi>)</p>
                 <pb n="48" xml:id="pb.48"/>
                 <figure>
-                    <graphic n="10030" url="media/image36.jpeg"/>
+                    <graphic n="10030" url="media/image36.jpg"/>
                     <head> Velika kleščarka (<hi rend="italic">Chelostoma grande</hi>) prinaša tovor
                         rdečega grabljiščevega peloda v rov v starem lesu senika na planini.</head>
                 </figure>
                 <figure>
-                    <graphic n="10031" url="media/image37.jpeg"/>
+                    <graphic n="10031" url="media/image37.jpg"/>
                     <head> Solinska čebela (<hi rend="italic">Pseudapis bispinosa</hi>) gnezdi v
                         tleh. V svoj rov je prinesla tovor rumenega peloda.</head>
                 </figure>
                 <pb n="49" xml:id="pb.49"/>
                 <figure>
-                    <graphic n="10032" url="media/image38.jpeg"/>
+                    <graphic n="10032" url="media/image38.jpg"/>
                     <head>Rdečedlaka dišavka (<hi rend="italic">Osmia rufohirta</hi>) na svoji
                         polžji hišici.</head>
                 </figure>
@@ -1280,7 +1280,7 @@
                     zakrijejo z borovimi iglicami, ki jih najdejo v okolici.</p>
                 <pb n="50" xml:id="pb.50"/>
                 <figure>
-                    <graphic n="10033" url="media/image39.png"/>
+                    <graphic n="10033" url="media/image39.jpg"/>
                     <head> Dvobarvna dišavka (<hi rend="italic">Osmia bicolor</hi>) z borovimi
                         iglicami zakrije polžjo hišico z gnezdom.</head>
                     <head>Trizoba dišavka (<hi rend="italic">Hoplitis tridentata</hi>) listje zgrize
@@ -1288,7 +1288,7 @@
                 </figure>
                 <pb n="51" xml:id="pb.51"/>
                 <figure>
-                    <graphic n="10034" url="media/image40.jpeg"/>
+                    <graphic n="10034" url="media/image40.jpg"/>
                     <head> Za zaprtje vhoda v gnezdo čebela volnarka (<hi rend="italic">Anthidium
                             manicatum</hi>) poišče primerne kamenčke.</head>
                 </figure>
@@ -1304,18 +1304,18 @@
                     nadomestna gnezdišča</p>
                 <pb n="52" xml:id="pb.52"/>
                 <figure>
-                    <graphic n="10035" url="media/image41.jpeg"/>
+                    <graphic n="10035" url="media/image41.jpg"/>
                     <head> Bledoroga zidarka (<hi rend="italic">Hoplitis pallicornis</hi>) na svojem
                         gnezdu v skalni vdolbinici.</head>
                 </figure>
                 <figure>
-                    <graphic n="10036" url="media/image42.jpeg"/>
+                    <graphic n="10036" url="media/image42.jpg"/>
                     <head> Lepeletierjeve zidarke (<hi rend="italic">Hoplitis lepeletieri</hi>)
                         prenočujejo v celicah rodnega gnezda, zgrajenega iz peska.</head>
                 </figure>
                 <pb n="53" xml:id="pb.53"/>
                 <figure>
-                    <graphic n="10037" url="media/image43.jpeg"/>
+                    <graphic n="10037" url="media/image43.jpg"/>
                     <head>Črna zidarka (<hi rend="italic">Megachile parietina</hi>) gradi novo
                         celico svojega gnezda iz blata.</head>
                 </figure>
@@ -1333,7 +1333,7 @@
                     obrnje-</p>
                 <pb n="54" xml:id="pb.54"/>
                 <figure>
-                    <graphic n="10038" url="media/image44.jpeg"/>
+                    <graphic n="10038" url="media/image44.jpg"/>
                     <head>Listorezka vrste <hi rend="italic">Megachile ligniseca</hi> prinaša košček
                         lista v bambusovo steblo, gnezdilni pripomoček za čebele. Foto: Ivan
                         Esenko.</head>
@@ -1368,7 +1368,7 @@
                     imajo koničast zadek, ki se končuje v ost, ki jo tvorijo zadnji zadkovi obročki.
                     Z njo samice koni-</p>
                 <figure>
-                    <graphic n="10039" url="media/image45.jpeg"/>
+                    <graphic n="10039" url="media/image45.jpg"/>
                     <head>Na gnezdišču peščinskih čebel vrste
                         <hi rend="italic" xml:space="preserve">Andrena vaga </hi>lahko vidimo tudi
                         osam podobne pohajkovalke vrste <hi rend="italic">Nomada lathburiana</hi>,
@@ -1376,21 +1376,21 @@
                 </figure>
                 <pb n="56" xml:id="pb.56"/>
                 <figure>
-                    <graphic n="10040" url="media/image46.jpeg"/>
+                    <graphic n="10040" url="media/image46.jpg"/>
                     <head> Pohajkovalka vrste <hi rend="italic">Nomada integra</hi> zapušča rov
                         svoje gostiteljice, peščinske čebele <hi rend="italic">Andrena humilis</hi>.
                         Na zadku in zadnji nogi vidimo rumen pelod, ki se je pohajkovalke prijel med
                         odlaganjem jačec.</head>
                 </figure>
                 <figure>
-                    <graphic n="10041" url="media/image47.jpeg"/>
+                    <graphic n="10041" url="media/image47.jpg"/>
                     <head> Koničasta čebela (<hi rend="italic">Coelioxys polycentris</hi>) ima
                         koničast zadek, s katerim prebode steno celice v gnezdu gostiteljske
                         vrste.</head>
                 </figure>
                 <pb n="57" xml:id="pb.57"/>
                 <figure>
-                    <graphic n="10042" url="media/image48.jpeg"/>
+                    <graphic n="10042" url="media/image48.jpg"/>
                     <head>
                         <hi rend="italic">Stelis nasuta</hi> je tatinska zajedavka v gnezdih čebel
                         zidark (<hi rend="italic">Megachile parietina</hi> in <hi rend="italic"
@@ -1412,7 +1412,7 @@
                     to so bili osebki iste vrste kot osebki v gnezdih.</p>
                 <pb n="58" xml:id="pb.58"/>
                 <figure>
-                    <graphic n="10043" url="media/image49.png"/>
+                    <graphic n="10043" url="media/image49.jpg"/>
                     <head> Solinske kukavičje čebele (<hi rend="italic">Pasites maculatus</hi>)
                         zajedajo pri solinskih čebelah (<hi rend="italic">Pseudapis
                         bispinosa</hi>).</head>
@@ -1423,7 +1423,7 @@
                 </figure>
                 <pb n="59" xml:id="pb.59"/>
                 <figure>
-                    <graphic n="10044" url="media/image50.jpeg"/>
+                    <graphic n="10044" url="media/image50.jpg"/>
                     <head> Krvava čebela vrste <hi rend="italic">Sphecodes puncticeps</hi> zapušča
                         gnezdo gostiteljice, vitke čebele vrste <hi rend="italic">Lasioglossum
                             puncticolle</hi>.</head>
@@ -1464,13 +1464,13 @@
                     samcev peščinskih čebel, ki iščejo samice. Samci mnogih drugih vrst pa svoje
                     cvetoče rastline varujejo pred tekmeci.</p>
                 <figure>
-                    <graphic n="10045" url="media/image51.jpeg"/>
+                    <graphic n="10045" url="media/image51.jpg"/>
                     <head>Par vrbovih opnark (<hi rend="italic">Colletes cunicularius</hi>) na
                         gnezdišču.</head>
                 </figure>
                 <pb n="62" xml:id="pb.62"/>
                 <figure>
-                    <graphic n="10046" url="media/image52.png"/>
+                    <graphic n="10046" url="media/image52.jpg"/>
                     <head> Dva samca se skušata na gnezdišču spariti s samico vrste <hi
                             rend="italic">Panurgus banksianus</hi>.</head>
                     <head>Samec Rogenhoferjeve peščinarke (<hi rend="italic">Andrena
@@ -1479,7 +1479,7 @@
                 </figure>
                 <pb n="63" xml:id="pb.63"/>
                 <figure>
-                    <graphic n="10047" url="media/image53.jpeg"/>
+                    <graphic n="10047" url="media/image53.jpg"/>
                     <head> Sedemtrni volnarki (<hi rend="italic">Anthidium septemspinosum</hi>) med
                         parjenjem na grašici.</head>
                 </figure>
@@ -1494,7 +1494,7 @@
                     parjenjem. Samci</p>
                 <pb n="64" xml:id="pb.64"/>
                 <figure>
-                    <graphic n="10048" url="media/image54.jpeg"/>
+                    <graphic n="10048" url="media/image54.jpg"/>
                     <head>Znoski vrste <hi rend="italic">Protosmia tiflensis</hi> se parita na
                         hranilni rastlini pokončnem čišljaku (<hi rend="italic"
                         >Stachys recta</hi>).</head>
@@ -1511,7 +1511,7 @@
                     pa imajo močno podaljšane čeljusti, s katerimi zgrabijo samico za vrat.</p>
                 <pb n="65" xml:id="pb.65"/>
                 <figure>
-                    <graphic n="10049" url="media/image55.jpeg"/>
+                    <graphic n="10049" url="media/image55.jpg"/>
                     <head>Par čebel zidark (<hi rend="italic">Megachile manicata</hi>) med
                         parjenjem. Samec samici zakriva oči s prednjimi nogami.</head>
                 </figure>
@@ -1530,19 +1530,19 @@
                     zato imajo samci večinoma daljše tipal-</p>
                 <pb n="66" xml:id="pb.66"/>
                 <figure>
-                    <graphic n="10050" url="media/image56.jpeg"/>
+                    <graphic n="10050" url="media/image56.jpg"/>
                     <head> Samec zakrinkane čebele (<hi rend="italic">Hylaeus nigritus</hi>) opreza
                         za samicami s svojega razgledišča.</head>
                 </figure>
                 <figure>
-                    <graphic n="10051" url="media/image57.jpeg"/>
+                    <graphic n="10051" url="media/image57.jpg"/>
                     <head> Samec navadne kožuhaste čebele (<hi rend="italic">Anthophora
                             plumipes</hi>) ima belo obrazno masko in dolge ščetine na stopalih
                         srednjih nog.</head>
                 </figure>
                 <pb n="67" xml:id="pb.67"/>
                 <figure>
-                    <graphic n="10052" url="media/image58.jpeg"/>
+                    <graphic n="10052" url="media/image58.jpg"/>
                     <head>Par kaspijskih dolgorožk (<hi rend="italic">Eucera caspica</hi>) na
                         grozdasti hrušici (<hi rend="italic">Muscari neglectum</hi>).</head>
                 </figure>
@@ -1561,7 +1561,7 @@
                         (<hi rend="italic">Ophrys</hi>). Njihovi</p>
                 <pb n="68" xml:id="pb.68"/>
                 <figure>
-                    <graphic n="10053" url="media/image59.jpeg"/>
+                    <graphic n="10053" url="media/image59.jpg"/>
                     <head>Triunguline se zbirajo v gručo, ki jo lahko čebelji samci zamenjajo za
                         samico.</head>
                 </figure>
@@ -1626,7 +1626,7 @@
                     Izbirčne vrste lahko ob pomanjkanju njihove izbrane hrane</p>
                 <pb n="71" xml:id="pb.71"/>
                 <figure>
-                    <graphic n="10054" url="media/image60.jpeg"/>
+                    <graphic n="10054" url="media/image60.jpg"/>
                     <head>Laponska peščinska čebela (<hi rend="italic">Andrena lapponica</hi>) na
                         cvetu borovnice. Ta je njena izbrana hranilna rastlina skoraj povsod, kjer
                         živi.</head>
@@ -1645,7 +1645,7 @@
                     Vidnih razlik v morfologiji nisem opazil. Je pa zanimivo, da je Ebmer tudi</p>
                 <pb n="72" xml:id="pb.72"/>
                 <figure>
-                    <graphic n="10055" url="media/image61.jpeg"/>
+                    <graphic n="10055" url="media/image61.jpg"/>
                     <head>Laponskapeščinskačebelana Snežnikuniizbirčna. Zbira tudi pelod popona (<hi
                             rend="italic">Helianthemum</hi>).</head>
                 </figure>
@@ -1722,12 +1722,12 @@
                     da je bila leta 2005 opisana</p>
                 <pb n="75" xml:id="pb.75"/>
                 <figure>
-                    <graphic n="10056" url="media/image62.jpeg"/>
+                    <graphic n="10056" url="media/image62.jpg"/>
                     <head> Listorezka vrste <hi rend="italic">Megachile rotundata</hi> na ozkolistni
                         nokoti (<hi rend="italic">Lotus tenuis</hi>).</head>
                 </figure>
                 <figure>
-                    <graphic n="10057" url="media/image63.jpeg"/>
+                    <graphic n="10057" url="media/image63.jpg"/>
                     <head> Samica znoske vrste <hi rend="italic">Hoplitis mazzuccoi</hi> pri
                         zapiranju gnezda v votlem steblu robide.</head>
                 </figure>
@@ -1766,7 +1766,7 @@
                     gnezdi-</p>
                 <pb n="77" xml:id="pb.77"/>
                 <figure>
-                    <graphic n="10058" url="media/image64.jpeg"/>
+                    <graphic n="10058" url="media/image64.jpg"/>
                     <head>Črnikasta žagorožka (<hi rend="italic">Melitta nigricans</hi>) je v
                         zadnjih letih izginila v delu svojega nekdanjega območja. Posnetek je z
                         Radenskega polja, kjer se je ohranila. Obiskuje cvetove krvenke in zbira
@@ -1786,7 +1786,7 @@
                     ki ima še posebej veliko zahtev (Westrich, 1996). Gnezdi le</p>
                 <pb n="78" xml:id="pb.78"/>
                 <figure>
-                    <graphic n="10059" url="media/image65.jpeg"/>
+                    <graphic n="10059" url="media/image65.jpg"/>
                     <head>Samec dalmatinske dišavke (<hi rend="italic">Hoplitis dalmatica</hi>) na
                         ilirskem grabljišču (<hi rend="italic">Knautia illyirica</hi>).</head>
                 </figure>
@@ -1894,7 +1894,7 @@
                     istrsko žagorožko v bližnjem sorodstvu.</p>
                 <pb n="82" xml:id="pb.82"/>
                 <figure>
-                    <graphic n="10060" url="media/image66.jpeg"/>
+                    <graphic n="10060" url="media/image66.jpg"/>
                     <head>Samica istrske žagorožke (<hi rend="italic">Melitta tomentosa</hi>) na
                         cvetu piramidaste zvončice. Posnetek je nastal na Velem Badinu avgusta leta
                         2008.</head>
@@ -1913,7 +1913,7 @@
                     submediteranskem delu</p>
                 <pb n="83" xml:id="pb.83"/>
                 <figure>
-                    <graphic n="10061" url="media/image67.jpeg"/>
+                    <graphic n="10061" url="media/image67.jpg"/>
                     <head>Samec istrske žagorožke ima daljše tipalnice.</head>
                 </figure>
                 <p>Slovenije (na Krasu in v Istri) in v dolini Kolpe, poleg tega je znana še iz
@@ -1947,7 +1947,7 @@
                     v submediteranskem in tudi pravem mediteranskem rastju s črnim hrastom. Posebno
                     dobro uspeva</p>
                 <figure>
-                    <graphic n="10062" url="media/image68.png"/>
+                    <graphic n="10062" url="media/image68.jpg"/>
                     <head>Doslej poznana najdišča istrske žagorožke (<hi rend="italic">Melitta
                             tomentosa</hi>) so v treh državah, vendar na zelo majhnem območju, zato
                         jo lahko obravnavamo kot endemično vrsto.</head>
@@ -2125,7 +2125,7 @@
                     prostor, se lahko pridružijo njegovim prebivalkam. Lahko pa izkopljejo</p>
                 <pb n="91" xml:id="pb.91"/>
                 <figure>
-                    <graphic n="10063" url="media/image69.jpeg"/>
+                    <graphic n="10063" url="media/image69.jpg"/>
                     <head>Grintovčanka (<hi rend="italic">Halictus scabiosae</hi>) na cvetu
                         velikonočnice (<hi rend="italic">Pulsatilla grandis</hi>) v Ponikvi.</head>
                 </figure>
@@ -2173,7 +2173,7 @@
                     nenavadne sivomodre barve, druga pa običajnejšega rumenega. Očitno</p>
                 <pb n="93" xml:id="pb.93"/>
                 <figure>
-                    <graphic n="10064" url="media/image70.jpeg"/>
+                    <graphic n="10064" url="media/image70.jpg"/>
                     <head>Delavka grintovčank se vrača v gnezdo s pelodom na nogah in spodnji strani
                         zadka.</head>
                 </figure>
@@ -2196,7 +2196,7 @@
                     temveč so nekate-</p>
                 <pb n="94" xml:id="pb.94"/>
                 <figure>
-                    <graphic n="10065" url="media/image71.jpeg"/>
+                    <graphic n="10065" url="media/image71.jpg"/>
                     <head>Preden spet odleti, se delavka prepriča, da v bližini gnezda ni
                         nevarnosti.</head>
                 </figure>
@@ -2216,7 +2216,7 @@
                     obstanek vrste.</p>
                 <pb n="95" xml:id="pb.95"/>
                 <figure>
-                    <graphic n="10066" url="media/image72.jpeg"/>
+                    <graphic n="10066" url="media/image72.jpg"/>
                     <head>Gnezdo ob vhodu straži matica.</head>
                 </figure>
                 <p>Tega načina nastajanja novih gnezd ni opisal še nihče. Knerer sicer omenja od
@@ -2264,12 +2264,12 @@
                     reproduktivni zarod čebel. Samci se</p>
                 <pb n="97" xml:id="pb.97"/>
                 <figure>
-                    <graphic n="10067" url="media/image73.jpeg"/>
+                    <graphic n="10067" url="media/image73.jpg"/>
                     <head>Osa mravljarica vrste <hi rend="italic">Myrmilla mutica</hi> lahko zasede
                         gnezdo grintovčank.</head>
                 </figure>
                 <figure>
-                    <graphic n="10068" url="media/image74.jpeg"/>
+                    <graphic n="10068" url="media/image74.jpg"/>
                     <head>Družabni so tudi samci grintovčank, ki se zvečer zberejo k skupinskemu
                         počitku.</head>
                 </figure>
@@ -2392,7 +2392,7 @@
                     gnezdo nebranjeno.</p>
                 <pb n="102" xml:id="pb.102"/>
                 <figure>
-                    <graphic n="10069" url="media/image75.png"/>
+                    <graphic n="10069" url="media/image75.jpg"/>
                     <head>Peščinska čebela vrste <hi rend="italic">Andrena vaga</hi> zakrije vhod v
                         gnezdo, preden odleti na pašo. Na prvi sliki se za čebelinim zadkom vidi
                         vhod v rov, ki je na drugi sliki že zakrit s peskom, narinjenim z
@@ -2400,7 +2400,7 @@
                 </figure>
                 <pb n="103" xml:id="pb.103"/>
                 <figure>
-                    <graphic n="10070" url="media/image76.jpeg"/>
+                    <graphic n="10070" url="media/image76.jpg"/>
                     <head>Delavka njivskega čmrlja (<hi rend="italic">Bombus pascuorum</hi>) s
                         svojim telesom greje ličinke v kamrici iz voska. Telesno toploto tvori z
                         drgetanjem letalnih mišic.</head>
@@ -2420,7 +2420,7 @@
                     dobro, le nekatere med njimi pa gene prenesejo naprej v novo generacijo.</p>
                 <pb n="104" xml:id="pb.104"/>
                 <figure>
-                    <graphic n="10071" url="media/image77.jpeg"/>
+                    <graphic n="10071" url="media/image77.jpg"/>
                     <head>Delavka kamnjarskega čmrlja (<hi rend="italic">Bombus lapidarius</hi>) na
                         cvetu škrobotca. Potomcev ne bo zaplodila, vendar z delom za družino pomaga
                         pri vzreji svojih sester in bratov.</head>
@@ -2436,7 +2436,7 @@
                     več je intenzivno gojenih travnikov, na</p>
                 <pb n="105" xml:id="pb.105"/>
                 <figure>
-                    <graphic n="10072" url="media/image78.jpeg"/>
+                    <graphic n="10072" url="media/image78.jpg"/>
                     <head>V gorah so čmrlji najpogostejše čebele, saj so dobro prilagojeni na hladno
                         podnebje. Alpska vrsta
                         <hi rend="italic" xml:space="preserve">Bombus mucidus </hi>živi le v
@@ -2567,7 +2567,7 @@
                     celo povrne k samotarskemu življenju samic, odvisno od razmer v okolju,</p>
                 <pb n="110" xml:id="pb.110"/>
                 <figure>
-                    <graphic n="10073" url="media/image79.png"/>
+                    <graphic n="10073" url="media/image79.jpg"/>
                     <head> Zlatonoga brazdarka (<hi rend="italic">Lasioglossum xanthopus</hi>) je
                         samotarska vrsta.</head>
                     <head>Brazdarka vrste <hi rend="italic">Lasioglossum malachurum</hi> se skuša
@@ -2576,7 +2576,7 @@
                 </figure>
                 <pb n="111" xml:id="pb.111"/>
                 <figure>
-                    <graphic n="10074" url="media/image80.jpeg"/>
+                    <graphic n="10074" url="media/image80.jpg"/>
                     <head> Delavke obrobljenih brazdark (<hi rend="italic">Lasioglossum
                             marginatum</hi>) izletavajo iz podzemnega gnezda. Vrsta živi v večletnih
                         evsocialnih družinah z velikim številom delavk.</head>
@@ -2591,11 +2591,11 @@
                     populacije, v katerih živijo samotarsko</p>
                 <pb n="112" xml:id="pb.112"/>
                 <figure>
-                    <graphic n="10075" url="media/image81.jpeg"/>
+                    <graphic n="10075" url="media/image81.jpg"/>
                     <head> Obrobljena brazdarka se s tovorom peloda vrača v svoje gnezdo.</head>
                 </figure>
                 <figure>
-                    <graphic n="10076" url="media/image82.jpeg"/>
+                    <graphic n="10076" url="media/image82.jpg"/>
                     <head> Samec obrobljene brazdarke na gnezdišču.</head>
                 </figure>
                 <pb n="113" xml:id="pb.113"/>
@@ -2658,7 +2658,7 @@
                     vrstah.</p>
                 <pb n="115" xml:id="pb.115"/>
                 <figure>
-                    <graphic n="10077" url="media/image83.jpeg"/>
+                    <graphic n="10077" url="media/image83.jpg"/>
                     <head>Pri naših vrstah iz rodu <hi rend="italic">Ceratina</hi> še niso našli
                         družbenih skupnosti. Največja vrsta tega rodu je <hi rend="italic">Ceratina
                             chalcites</hi>. Na sliki samica na panonskem osatu (<hi rend="italic"
@@ -2757,13 +2757,13 @@
                                 target="#pb.66">66</ref>]</p>
                         <pb n="119" xml:id="pb.119"/>
                         <figure>
-                            <graphic n="10078" url="media/image84.jpeg"/>
+                            <graphic n="10078" url="media/image84.jpg"/>
                             <head> Samci zakrinkane čebele vrste <hi rend="italic">Hylaeus
                                     lineolatus</hi> edini nimajo za samce značilne bele ali rumene
                                 obrazne maske, temveč le lisi ob očeh, tako kot samice.</head>
                         </figure>
                         <figure>
-                            <graphic n="10079" url="media/image85.jpeg"/>
+                            <graphic n="10079" url="media/image85.jpg"/>
                             <head> Vrsta <hi rend="italic">Hylaeus signatus</hi> je malobralna,
                                 obiskuje le cvetove katanca (<hi rend="italic">Reseda</hi>).</head>
                         </figure>
@@ -2787,19 +2787,19 @@
                             tudi na str. <ref target="#pb.39">39</ref>, <ref target="#pb.44"
                                 >44</ref>, <ref target="#pb.61">61</ref>]</p>
                         <figure>
-                            <graphic n="10080" url="media/image86.jpeg"/>
+                            <graphic n="10080" url="media/image86.jpg"/>
                             <head>Gredljato opnarko (<hi rend="italic">Colletes carinatus</hi>)
                                 najdemo na socvetjih lukov (<hi rend="italic">Allium</hi>), saj
                                 zbira le njihov pelod.</head>
                         </figure>
                         <pb n="121" xml:id="pb.121"/>
                         <figure>
-                            <graphic n="10081" url="media/image87.jpeg"/>
+                            <graphic n="10081" url="media/image87.jpg"/>
                             <head>Daviesova opnarka (<hi rend="italic">Colletes daviesanus</hi>)
                                 gnezdi v peščeni steni.</head>
                         </figure>
                         <figure>
-                            <graphic n="10082" url="media/image88.jpeg"/>
+                            <graphic n="10082" url="media/image88.jpg"/>
                             <head>Hranilna rastlina vrste <hi rend="italic">Colletes
                                     hylaeiformis</hi> je ametistasta možina (<hi rend="italic"
                                     >Eryngium amethystinum</hi>).</head>
@@ -2840,7 +2840,7 @@
                                 >97</ref>]</p>
                         <pb n="123" xml:id="pb.123"/>
                         <figure>
-                            <graphic n="10083" url="media/image89.png"/>
+                            <graphic n="10083" url="media/image89.jpg"/>
                             <head>Kesslerjeva brazdarka (<hi rend="italic">Halictus kessleri</hi>)
                                 je ena izmed zlato obarvanih vrst. Živi v družbenih skupnostih.
                                 Matico lahko prepoznamo po veliki glavi, s katero varuje vhod v
@@ -2863,7 +2863,7 @@
                             <hi rend="italic" xml:space="preserve">Evylaeus </hi>prevladujejo
                             družbene vrste. Samice se parijo s samci že pred prezimo-</p>
                         <figure>
-                            <graphic n="10084" url="media/image90.jpeg"/>
+                            <graphic n="10084" url="media/image90.jpg"/>
                             <head>Zvončična brazdarka (<hi rend="italic">Lasioglossum
                                     costulatum</hi>) je samotarska malobralna vrsta, obisko­ valka
                                 zvončic (<hi rend="italic">Campanula</hi>).</head>
@@ -2878,14 +2878,14 @@
                                 target="#pb.33">33</ref>, <ref target="#pb.110">110</ref>, <ref
                                 target="#pb.110">111</ref>, <ref target="#pb.112">112</ref>]</p>
                         <figure>
-                            <graphic n="10085" url="media/image91.jpeg"/>
+                            <graphic n="10085" url="media/image91.jpg"/>
                             <head>
                                 <hi rend="italic">Lasioglossum laterale</hi> je redka sredozemska
                                 vrsta, ki smo jo našli na Kraškem robu.</head>
                         </figure>
                         <pb n="126" xml:id="pb.126"/>
                         <figure>
-                            <graphic n="10086" url="media/image92.jpeg"/>
+                            <graphic n="10086" url="media/image92.jpg"/>
                             <head>
                                 <hi rend="italic">Lasioglossum fratellum</hi> je gorska vrsta,
                                 pogosta v slovenskih Alpah.</head>
@@ -2906,7 +2906,7 @@
                             sostanovalk. To kaže na vzporedni razvoj družbenega</p>
                         <pb n="127" xml:id="pb.127"/>
                         <figure>
-                            <graphic n="10087" url="media/image93.png"/>
+                            <graphic n="10087" url="media/image93.jpg"/>
                             <head>Značilnost samice krvave čebele vrste <hi rend="italic">Sphecodes
                                     monilicornis</hi> je glava kvadratne oblike. </head>
                             <head>Samec vrste <hi rend="italic">Sphecodes rufiventris</hi> na
@@ -2934,7 +2934,7 @@
                                 <hi rend="italic">Nomia</hi>. Zanje so značilne nenavadno velike
                             ramenske luske, ki prekri-</p>
                         <figure>
-                            <graphic n="10088" url="media/image94.jpeg"/>
+                            <graphic n="10088" url="media/image94.jpg"/>
                             <head>Samica vrste <hi rend="italic">Pseudapis diversipes</hi> s tovorom
                                 peloda počiva na suhi travni bilki.</head>
                         </figure>
@@ -2958,7 +2958,7 @@
                             slabo izraženimi pasovi dlak na zadkovih obročkih. Gnezdijo v tleh.
                             Število vrst v Sloveniji: 3.</p>
                         <figure>
-                            <graphic n="10089" url="media/image95.jpeg"/>
+                            <graphic n="10089" url="media/image95.jpg"/>
                             <head>
                                 <hi rend="italic" xml:space="preserve">Dufourea dentiventris </hi>v
                                 cvetu hranilne rastline.</head>
@@ -2973,7 +2973,7 @@
                             Z ozkimi prečnimi pasovi na zadkovih obročkih je na videz podobna
                             majhnim vrstam iz rodu <hi rend="italic">Halictus</hi>.</p>
                         <figure>
-                            <graphic n="10090" url="media/image96.jpeg"/>
+                            <graphic n="10090" url="media/image96.jpg"/>
                             <head>
                                 <hi rend="italic" xml:space="preserve">Rhophitoides canus </hi>je
                                 opraševalka meteljk.</head>
@@ -2992,7 +2992,7 @@
                             tipalnice.</p>
                         <pb n="131" xml:id="pb.131"/>
                         <figure>
-                            <graphic n="10091" url="media/image97.jpeg"/>
+                            <graphic n="10091" url="media/image97.jpg"/>
                             <head>Samec vrste <hi rend="italic">Rophites algirus</hi> na cvetu
                                 pokončnega čišljaka.</head>
                         </figure>
@@ -3020,7 +3020,7 @@
                             zgodaj spomladi na prvem cvetju, druge se pojavljajo pozneje, nekaj vrst
                             leta tudi pozno jeseni. Več vrst ima po dve</p>
                         <figure>
-                            <graphic n="10092" url="media/image98.jpeg"/>
+                            <graphic n="10092" url="media/image98.jpg"/>
                             <head>Krivonoga peščinarka (<hi rend="italic">Andrena curvungula</hi>)
                                 je ena izmed vrst, vezanih na cvetove zvončic. Na oprsju ima
                                 značilne kratke dlačice.</head>
@@ -3035,14 +3035,14 @@
                             košek zapira s spodnje strani. Veliko vrst je malobralnih, vezanih
                             na</p>
                         <figure>
-                            <graphic n="10093" url="media/image99.jpeg"/>
+                            <graphic n="10093" url="media/image99.jpg"/>
                             <head>Rumenonoga peščinarka (<hi rend="italic">Andrena flavipes</hi>) je
                                 pogosta mnogobralna vrsta, na sliki na ruju (<hi rend="italic"
                                     >Cotinus coggygria</hi>).</head>
                         </figure>
                         <pb n="134" xml:id="pb.134"/>
                         <figure>
-                            <graphic n="10094" url="media/image100.png"/>
+                            <graphic n="10094" url="media/image100.jpg"/>
                             <head> Edina hranilna rastlina vrste <hi rend="italic">Andrena
                                     florea</hi> je bluščec (<hi rend="italic">Bryonia
                                 dioica</hi>).</head>
@@ -3052,7 +3052,7 @@
                         </figure>
                         <pb n="135" xml:id="pb.135"/>
                         <figure>
-                            <graphic n="10095" url="media/image101.jpeg"/>
+                            <graphic n="10095" url="media/image101.jpg"/>
                             <head> Rdečerjava peščinarka (<hi rend="italic">Andrena fulva</hi>) ni
                                 izbirčna, a posebej rada obiskuje cvetove rdečega ribeza.</head>
                         </figure>
@@ -3066,7 +3066,7 @@
                                 target="#pb.102">102</ref>]</p>
                         <pb n="136" xml:id="pb.136"/>
                         <figure>
-                            <graphic n="10096" url="media/image102.png"/>
+                            <graphic n="10096" url="media/image102.jpg"/>
                             <head> Na jesenski vresi zbira hrano vresina peščinarka (<hi
                                     rend="italic">Andrena fuscipes</hi>).</head>
                             <head>Črna peščinarka (<hi rend="italic">Andrena morio</hi>) je
@@ -3074,7 +3074,7 @@
                         </figure>
                         <pb n="137" xml:id="pb.137"/>
                         <figure>
-                            <graphic n="10097" url="media/image103.jpeg"/>
+                            <graphic n="10097" url="media/image103.jpg"/>
                             <head> Rogenhoferjeva peščinarka (<hi rend="italic">Andrena
                                     rogenhoferi</hi>) je alpska vrsta, najdena tudi pod vrhom Malega
                                 Triglava. Kot večina gorskih vrst ni izbirčna, na sliki na
@@ -3082,13 +3082,13 @@
                         </figure>
                         <pb n="138" xml:id="pb.138"/>
                         <figure>
-                            <graphic n="10098" url="media/image104.jpeg"/>
+                            <graphic n="10098" url="media/image104.jpg"/>
                             <head>Na rešeliki (<hi rend="italic">Prunus mahaleb</hi>) je spomladi na
                                 Krasu pogosta rdečkasta peščinarka (<hi rend="italic">Andrena
                                     rufula</hi>).</head>
                         </figure>
                         <figure>
-                            <graphic n="10099" url="media/image105.jpeg"/>
+                            <graphic n="10099" url="media/image105.jpg"/>
                             <head>Tschekova peščinarka (<hi rend="italic">Andrena tscheki</hi>)
                                 obiskuje križnice (Brassicaceae).</head>
                         </figure>
@@ -3105,7 +3105,7 @@
                             svoje zarodne celice. Večja vrsta <hi rend="italic">P. banksianus</hi>
                             je samotarska. [Slika tudi na str. <ref target="#pb.62">62</ref>]</p>
                         <figure>
-                            <graphic n="100100" url="media/image106.jpeg"/>
+                            <graphic n="100100" url="media/image106.jpg"/>
                             <head>Samica vrste <hi rend="italic">Panurgus calcaratus</hi> s tovorom
                                 peloda na otavčiču (<hi rend="italic">Leontodon</hi>).</head>
                         </figure>
@@ -3156,7 +3156,7 @@
                                 target="#pb.83">83</ref>]</p>
                         <pb n="141" xml:id="pb.141"/>
                         <figure>
-                            <graphic n="100101" url="media/image107.jpeg"/>
+                            <graphic n="100101" url="media/image107.jpg"/>
                             <head>Samec tropase žagorožke (<hi rend="italic">Melitta tricincta</hi>)
                                 na rdečem zobniku (<hi rend="italic">Odontites
                                 vulgaris</hi>).</head>
@@ -3172,7 +3172,7 @@
                             zmeša z nabranim pelodom, da pripravi hrano za zarod.</p>
                         <pb n="142" xml:id="pb.142"/>
                         <figure>
-                            <graphic n="100102" url="media/image108.jpeg"/>
+                            <graphic n="100102" url="media/image108.jpg"/>
                             <head>Rumenonoga oljarka (<hi rend="italic">Macropis fulvipes</hi>) na
                                 cvetu pijavčnice.</head>
                         </figure>
@@ -3212,7 +3212,7 @@
                         <p>Tesarke same stešejo rove za svoja gnezda v trdnem ali trhlem lesu.
                             Zarodnih celic ne oblagajo. Pri nas sta bili naj-</p>
                         <figure>
-                            <graphic n="100103" url="media/image109.jpeg"/>
+                            <graphic n="100103" url="media/image109.jpg"/>
                             <head>Samec tesarke (<hi rend="italic">Lithurgus chrysurus</hi>) na
                                 omanu (<hi rend="italic">Inula</hi>).</head>
                         </figure>
@@ -3257,7 +3257,7 @@
                             (Fabaceae), a te niso njihove edine hranilne rastline.</p>
                         <pb n="145" xml:id="pb.145"/>
                         <figure>
-                            <graphic n="100104" url="media/image110.png"/>
+                            <graphic n="100104" url="media/image110.jpg"/>
                             <head>Smolarka vrste
                                 <hi rend="italic" xml:space="preserve">Trachusa byssina </hi>na
                                 širokolistnem grahorju (<hi rend="italic">Lathyrus latifolius</hi>). </head>
@@ -3267,7 +3267,7 @@
                         </figure>
                         <pb n="146" xml:id="pb.146"/>
                         <figure>
-                            <graphic n="100105" url="media/image111.jpeg"/>
+                            <graphic n="100105" url="media/image111.jpg"/>
                             <head>Samec sedemzobe smolarke (<hi rend="italic">Rhodanthidium
                                     septemdentatum</hi>) na grahorjevem cvetu.</head>
                         </figure>
@@ -3281,7 +3281,7 @@
                             njena razširjenost sega tudi v Alpe.</p>
                         <pb n="147" xml:id="pb.147"/>
                         <figure>
-                            <graphic n="100106" url="media/image112.jpeg"/>
+                            <graphic n="100106" url="media/image112.jpg"/>
                             <head>Samica Grohmannove smolarke (<hi rend="italic">Icteranthidium
                                     grohmanni</hi>) na bledi obloglavki (<hi rend="italic"
                                     >Cephalaria leucantha</hi>).</head>
@@ -3299,7 +3299,7 @@
                             svojem gnezdu zgradijo iz rastlinske smole.</p>
                         <pb n="148" xml:id="pb.148"/>
                         <figure>
-                            <graphic n="100107" url="media/image113.jpeg"/>
+                            <graphic n="100107" url="media/image113.jpg"/>
                             <head>Samica male volnarke (<hi rend="italic">Pseudoanthidium
                                 nanum</hi>) na glavincu (<hi rend="italic">Centaurea</hi>).</head>
                         </figure>
@@ -3324,7 +3324,7 @@
                             gradnjo celic v gnezdih,</p>
                         <pb n="149" xml:id="pb.149"/>
                         <figure>
-                            <graphic n="100108" url="media/image114.jpeg"/>
+                            <graphic n="100108" url="media/image114.jpg"/>
                             <head>Lisasta volnarka (<hi rend="italic">Anthidium loti</hi>) na
                                 pokončnem čišljaku (<hi rend="italic">Stachys recta</hi>).</head>
                         </figure>
@@ -3365,7 +3365,7 @@
                             (Asteraceae). Pelod zbirajo tako, da z zadkom udarjajo po prašnikih in
                             se pelod ujame na krtačko za prenašanje peloda.</p>
                         <figure>
-                            <graphic n="100109" url="media/image115.jpeg"/>
+                            <graphic n="100109" url="media/image115.jpg"/>
                             <head>Robidina smolarka (<hi rend="italic">Heriades rubicola</hi>) je
                                 najmanjša od treh vrst svojega rodu.</head>
                         </figure>
@@ -3390,7 +3390,7 @@
                             V zaključni čep lahko vgradijo tudi manjše kamenčke. Dolge čeljusti
                             nekaterih vrst so name-</p>
                         <figure>
-                            <graphic n="100110" url="media/image116.jpeg"/>
+                            <graphic n="100110" url="media/image116.jpg"/>
                             <head>Mocsaryjeva kleščarka (<hi rend="italic">Chelostoma mocsaryi</hi>)
                                 na piramidastem ptičjem mleku (<hi rend="italic">Ornithoga-lum
                                     pyramidale</hi>). Obiskuje le cvetove tega rastlinskega
@@ -3413,7 +3413,7 @@
                             dela obročka) pri samcih. Male zidarke (podrod <hi rend="italic"
                                 >Hoplitis</hi>) se</p>
                         <figure>
-                            <graphic n="100111" url="media/image117.jpeg"/>
+                            <graphic n="100111" url="media/image117.jpg"/>
                             <head>Ostroroga dišavka (<hi rend="italic">Hoplitis acuticornis</hi>)
                                 med obiskom grahorjevega cveta. Prašnik podrgne.</head>
                         </figure>
@@ -3430,7 +3430,7 @@
                                 >50</ref>, <ref target="#pb.52">52</ref>, <ref target="#pb.75"
                                 >75</ref>, <ref target="#pb.78">78</ref>]</p>
                         <figure>
-                            <graphic n="100112" url="media/image118.jpeg"/>
+                            <graphic n="100112" url="media/image118.jpg"/>
                             <head>Samec bledoroge zidarke (<hi rend="italic">Hoplitis
                                     pallicornis</hi>) čaka samice na kamenju, kjer gnezdijo.</head>
                         </figure>
@@ -3447,27 +3447,27 @@
                             redkost. Večina vrst namreč uporablja kašo iz zgrizenega listja. Samice
                             rdeče in rogate dišavke imajo na obrazu dva izrastka, s katerima</p>
                         <figure>
-                            <graphic n="100113" url="media/image119.jpeg"/>
+                            <graphic n="100113" url="media/image119.jpg"/>
                             <head>Voščičina dišavka (<hi rend="italic">Osmia cerithidis</hi>)
                                 obiskuje le cvetove male voščice (<hi rend="italic">Cerinthe
                                     minor</hi>).</head>
                         </figure>
                         <pb n="155" xml:id="pb.155"/>
                         <figure>
-                            <graphic n="100114" url="media/image120.jpeg"/>
+                            <graphic n="100114" url="media/image120.jpg"/>
                             <head>
                                 <hi rend="italic" xml:space="preserve">Osmia andrenoides </hi>je
                                 edina izmed naših dišavk z rdeče obarvanim zadkom.</head>
                         </figure>
                         <figure>
-                            <graphic n="100115" url="media/image121.jpeg"/>
+                            <graphic n="100115" url="media/image121.jpg"/>
                             <head>Črnotrebušna dišavka (<hi rend="italic">Osmia melanogaster</hi>)
                                 na Triumfettijevem glavincu (<hi rend="italic">Centaurea
                                     triumfettii</hi>).</head>
                         </figure>
                         <pb n="156" xml:id="pb.156"/>
                         <figure>
-                            <graphic n="100116" url="media/image122.jpeg"/>
+                            <graphic n="100116" url="media/image122.jpg"/>
                             <head>
                                 <hi rend="italic">Osmia xanthomelana</hi> pri nabiranju ilovice za
                                 gradnjo zarodnih celic.</head>
@@ -3484,7 +3484,7 @@
                         </p>
                         <pb n="157" xml:id="pb.157"/>
                         <figure>
-                            <graphic n="100117" url="media/image123.jpeg"/>
+                            <graphic n="100117" url="media/image123.jpg"/>
                             <head>Samec hrvaške dišavke (<hi rend="italic">Osmia croatica</hi>) je
                                 predstavnik podrodu <hi rend="italic">Hoplosmia</hi>, ki so ga nekaj
                                 časa obravnavali kot samostojen rod, a so genske raziskave pokazale
@@ -3504,7 +3504,7 @@
                                 target="#pb.50">50</ref>]</p>
                         <pb n="158" xml:id="pb.158"/>
                         <figure>
-                            <graphic n="100118" url="media/image124.jpeg"/>
+                            <graphic n="100118" url="media/image124.jpg"/>
                             <head>Samec širokonoge listorezke (<hi rend="italic">Megachile
                                     lagopoda</hi>) ima prednja stopalca plosko razširjena v široke
                                 bele šape, s katerimi samici med parjenjem zakrije oči.</head>
@@ -3520,7 +3520,7 @@
                             drugi in jih po vrhu še dodatno prekrijejo.</p>
                         <pb n="159" xml:id="pb.159"/>
                         <figure>
-                            <graphic n="100119" url="media/image125.png"/>
+                            <graphic n="100119" url="media/image125.jpg"/>
                             <head>Samica resavske zidarke (<hi rend="italic">Megachile
                                     ericetorum</hi>) med zbiranjem blata za gradnjo celic v gnezdu.
                                 Z notranje strani jih prevleče še s smolo. </head>
@@ -3542,7 +3542,7 @@
                                 target="#pb.53">53</ref>, <ref target="#pb.54">54</ref>, <ref
                                 target="#pb.65">65</ref>, <ref target="#pb.75">75</ref>]</p>
                         <figure>
-                            <graphic n="100120" url="media/image126.jpeg"/>
+                            <graphic n="100120" url="media/image126.jpg"/>
                             <head>Listorezka vrste <hi rend="italic">Megachile willughbiella</hi> na
                                 grahorjevem cvetu.</head>
                         </figure>
@@ -3561,7 +3561,7 @@
                             drugega gradiva. Samci imajo na konici zadka več trnov. Število vrst v
                             Sloveniji: 12. [Slika tudi na str. <ref target="#pb.56">56</ref>]</p>
                         <figure>
-                            <graphic n="100121" url="media/image127.jpeg"/>
+                            <graphic n="100121" url="media/image127.jpg"/>
                             <head>Luskava koničasta čebela (<hi rend="italic">Coelioxys afra</hi>)
                                 je tatinska zajedavka v gnezdih listorezk vrst</head>
                             <head>
@@ -3585,13 +3585,13 @@
                             čmrljem, vendar za prenašanje peloda uporabljajo čope dlak na zadnjih
                             nogah in veliko hitreje letajo.</p>
                         <figure>
-                            <graphic n="100122" url="media/image128.jpeg"/>
+                            <graphic n="100122" url="media/image128.jpg"/>
                             <head>Samica dvolise kožuhaste čebele (<hi rend="italic">Anthophora
                                     bimaculata</hi>) med kopanjem rova za gnezdo.</head>
                         </figure>
                         <pb n="163" xml:id="pb.163"/>
                         <figure>
-                            <graphic n="100123" url="media/image129.jpeg"/>
+                            <graphic n="100123" url="media/image129.jpg"/>
                             <head>
                                 <hi rend="italic" xml:space="preserve">Anthophora crinipes </hi>na
                                 skrečniku (<hi rend="italic">Ajuga</hi>).</head>
@@ -3605,7 +3605,7 @@
                                 >66</ref>]</p>
                         <pb n="164" xml:id="pb.164"/>
                         <figure>
-                            <graphic n="100124" url="media/image130.png"/>
+                            <graphic n="100124" url="media/image130.jpg"/>
                             <head>Progasta kožuharka (<hi rend="italic">Amegilla garrula</hi>) na
                                 cvetu lepljive kadulje (<hi rend="italic">Salvia glutinosa</hi>). Ko
                                 zleze v cvet, z glavo pritisne na vzvoda (vidna na prvi sliki), ki
@@ -3632,7 +3632,7 @@
                             tudi po barvi zelo podobna čmrljem. Samci imajo precej dolge
                             tipalke.</p>
                         <figure>
-                            <graphic n="100125" url="media/image131.jpeg"/>
+                            <graphic n="100125" url="media/image131.jpg"/>
                             <head>Samec čmrlje kožuharke (<hi rend="italic">Habropoda tarsata</hi>)
                                 odletava s skrečnika.</head>
                         </figure>
@@ -3654,7 +3654,7 @@
                                 simulatrix</hi> pa je zajedavec vrste <hi rend="italic">Habropo­ da
                                 tarsata</hi>. [Slika tudi na str. <ref target="#pb.58">58</ref>]</p>
                         <figure>
-                            <graphic n="100126" url="media/image132.jpeg"/>
+                            <graphic n="100126" url="media/image132.jpg"/>
                             <head>Samec beločele kukavičje čebele (<hi rend="italic">Melecta
                                     albifrons</hi>) na škrlatnomodrem ptičjem semenu (<hi
                                     rend="italic">Buglossoides purpurocaerulea</hi>).</head>
@@ -3679,7 +3679,7 @@
                             pomagajo z vohalnimi čutnicami na razmeroma dolgih tipalnicah. Njihove
                             gostiteljice so</p>
                         <figure>
-                            <graphic n="100127" url="media/image133.jpeg"/>
+                            <graphic n="100127" url="media/image133.jpg"/>
                             <head>Belopikasta pohajkovalka (<hi rend="italic">Nomada
                                     alboguttata</hi>) razpenja krila na gnezdišču gostiteljice,
                                 peščinarke vrste <hi rend="italic">Andrena barbilabris</hi>.</head>
@@ -3691,7 +3691,7 @@
                             najprej uniči</p>
                         <pb n="168" xml:id="pb.168"/>
                         <figure>
-                            <graphic n="100128" url="media/image134.jpeg"/>
+                            <graphic n="100128" url="media/image134.jpg"/>
                             <head>Moeschlerjeva pohajkovalka (<hi rend="italic">Nomada
                                     moeschleri</hi>) na barbici (<hi rend="italic"
                                 >Barbarea</hi>).</head>
@@ -3711,7 +3711,7 @@
                         </p>
                         <pb n="169" xml:id="pb.169"/>
                         <figure>
-                            <graphic n="100129" url="media/image135.jpeg"/>
+                            <graphic n="100129" url="media/image135.jpg"/>
                             <head>Pomladna pohajkovalka (<hi rend="italic">Nomada verna</hi>) se
                                 hrani na ranem mošnjaku (<hi rend="italic">Thlaspi praecox</hi>),
                                 tako kot njena gostiteljica, Tschekova peščinarka (<hi rend="italic"
@@ -3777,18 +3777,18 @@
                             izleti že jeseni, vendar prezimi ne-</p>
                         <pb n="171" xml:id="pb.171"/>
                         <figure>
-                            <graphic n="100130" url="media/image136.jpeg"/>
+                            <graphic n="100130" url="media/image136.jpg"/>
                             <head> Križarska lisarka (<hi rend="italic">Epeolus cruciger</hi>) je
                                 zajedavka v gnezdih bršljanovih in vresinih opnark.</head>
                         </figure>
                         <figure>
-                            <graphic n="100131" url="media/image137.jpeg"/>
+                            <graphic n="100131" url="media/image137.jpg"/>
                             <head> Samec oljarkine kukavice (<hi rend="italic">Epeoloides
                                     coecutiens</hi>) na omanu (<hi rend="italic">Inula</hi>).</head>
                         </figure>
                         <pb n="172" xml:id="pb.172"/>
                         <figure>
-                            <graphic n="100132" url="media/image138.jpeg"/>
+                            <graphic n="100132" url="media/image138.jpg"/>
                             <head>Samec vrste
                                 <hi rend="italic" xml:space="preserve">Ceratina chalcites </hi>na
                                 pokončnem čišljaku.</head>
@@ -3801,7 +3801,7 @@
                             >115</ref>]</p>
                         <pb n="173" xml:id="pb.173"/>
                         <figure>
-                            <graphic n="100133" url="media/image139.jpeg"/>
+                            <graphic n="100133" url="media/image139.jpg"/>
                             <head>Samica vrste <hi rend="italic">Ceratina cucurbitina</hi> na
                                 gadovcu (<hi rend="italic">Echium</hi>).</head>
                         </figure>
@@ -3815,7 +3815,7 @@
                             Manjše so pripa-</p>
                         <pb n="174" xml:id="pb.174"/>
                         <figure>
-                            <graphic n="100134" url="media/image140.jpeg"/>
+                            <graphic n="100134" url="media/image140.jpg"/>
                             <head>Modrikasta lesna čebela (<hi rend="italic">Xylocopa iris</hi>) na
                                 grahorju. Pelod prenaša na zadnjih stopalih, medtem ko ga obe večji
                                 vrsti nosita v golši.</head>
@@ -3854,14 +3854,14 @@
                             obiskuje slezenovke (Malvaceae). Vse vrste gnezdijo v tleh. Število vrst
                             v Sloveniji: 6.</p>
                         <figure>
-                            <graphic n="100135" url="media/image141.jpeg"/>
+                            <graphic n="100135" url="media/image141.jpg"/>
                             <head>Samec rumenkaste dolgorožke (<hi rend="italic">Tetraloniella
                                     fulvescens</hi>) na primožku (<hi rend="italic">Buphthalmum
                                     salicifolium</hi>).</head>
                         </figure>
                         <pb n="176" xml:id="pb.176"/>
                         <figure>
-                            <graphic n="100136" url="media/image142.jpeg"/>
+                            <graphic n="100136" url="media/image142.jpg"/>
                             <head>Samica slezove dolgorožke (<hi rend="italic">Tetraloniella
                                     nana</hi>) zbira debelozrnat pelod sleza (<hi rend="italic"
                                     >Althaea</hi>).</head>
@@ -3880,7 +3880,7 @@
                             >naslovnici</ref>]</p>
                         <pb n="177" xml:id="pb.177"/>
                         <figure>
-                            <graphic n="100137" url="media/image143.png"/>
+                            <graphic n="100137" url="media/image143.jpg"/>
                             <head>Samica črnikaste dolgorožke (<hi rend="italic">Eucera
                                     nigrescens</hi>) skuša razpreti popek velecvetne grašice (<hi
                                     rend="italic">Vicia grandiflora</hi>). </head>
@@ -3908,7 +3908,7 @@
                             matico in začne namesto nje leči jajčeca. Na nogah nima razvitih organov
                             za prenašanje hrane (koškov).</p>
                         <figure>
-                            <graphic n="100138" url="media/image144.jpeg"/>
+                            <graphic n="100138" url="media/image144.jpg"/>
                             <head>Matica ilovičnega čmrlja (<hi rend="italic">Bombus
                                     argillaceus</hi>) se po barvi loči od delavk. Le ona ima povsem
                                 črn zadek.</head>

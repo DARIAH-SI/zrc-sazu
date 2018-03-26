@@ -19,7 +19,7 @@
                         <desc>Za izdajatelja</desc>
                     </respons><persName><forename>Petra</forename><surname>Svoljšak</surname></persName></authority>
                 <publisher>Založba ZRC<figure type="naslovnica">
-                        <graphic n="1001" url="media/image1.png">
+                        <graphic n="1001" url="media/image1.jpg">
                             <desc>Zemljevid bitke pri Kraljevem Gradcu (3. 7. 1866). Karl Kastl v
                                 uniformi leta 1903 (hrani: Angelika Hribar). </desc>
                         </graphic>
@@ -99,8 +99,8 @@
                             <width>17</width>
                         </dimensions>
                         <figure corresp="NASLOVNICA IN ZADNJICA">
-                            <graphic n="1001" url="media/image1.png"/>
-                            <graphic n="10038" url="media/image38.jpeg"/>
+                            <graphic n="1001" url="media/image1.jpg"/>
+                            <graphic n="10038" url="media/image38.jpg"/>
                         </figure></extent>
                     <publicationStmt>
                         <distributor><orgName role="Izdajatelj">Zgodovinski inštitut Milka Kosa ZRC
@@ -109,7 +109,7 @@
                                 <desc>Za izdajatelja</desc>
                             </respons><persName><forename>Petra</forename><surname>Svoljšak</surname></persName></authority>
                         <publisher>Založba ZRC <figure>
-                                <graphic url="media/imageZRC.jpeg"/>
+                                <graphic url="media/imageZRC.jpg"/>
                             </figure>
                         </publisher>
                         <authority><respons locus="name">
@@ -249,7 +249,7 @@
     </teiHeader>
     <facsimile>
         <surface xml:id="front_out">
-            <graphic n="1001" url="media/image1.png"/>
+            <graphic n="1001" url="media/image1.jpg"/>
         </surface>
     </facsimile>
     <text>
@@ -284,7 +284,7 @@
                 <p rend="bold">Thesaurus memoriae</p>
                 <p>Opuscula 4</p>
                 <figure corresp="logotip založba">
-                    <graphic n="1002" url="media/image2.jpeg"/>
+                    <graphic n="1002" url="media/image2.jpg"/>
                 </figure>
             </div>
             <div type="colophon">
@@ -3435,7 +3435,7 @@
                         Jožef je bil prisiljen podpisati mirovni sporazum, s katerim je razpustil
                         Nemško zvezo in Prusiji prepustil<pb n="80" xml:id="pb.80"/></p>
                     <figure>
-                        <graphic n="1003" url="media/image3.png"/>
+                        <graphic n="1003" url="media/image3.jpg"/>
                         <head>
                             <hi rend="italic">Avstrijski cesar Franc Jožef (doprsni kip je leta 1901
                                 izdelala Elza Kastl).</hi></head>
@@ -3593,7 +3593,7 @@
                     <p>Tudi odnosi Avstrije s Prusijo, brez katere Avstrija ni mogla doseči
                             nameravanih<pb n="84" xml:id="pb.84"/></p>
                     <figure>
-                        <graphic n="1004" url="media/image4.png"/>
+                        <graphic n="1004" url="media/image4.jpg"/>
                         <head>
                             <hi rend="italic">Otto v. Bismarck (1815–1898).</hi></head>
                     </figure>
@@ -3664,7 +3664,7 @@
                         režim in imel več razumevanja za partikularizme, ki so bili tako pomemben
                         del nemške<pb n="86" xml:id="pb.86"/></p>
                     <figure>
-                        <graphic n="1005" url="media/image5.png"/>
+                        <graphic n="1005" url="media/image5.jpg"/>
                         <head>
                             <hi rend="italic">Pruski kralj in prvi nemški cesar Viljem I.
                                 (1797–1888).</hi></head>
@@ -3826,8 +3826,8 @@
                             58.</note> Pruski generalštab je temeljito spremenil tudi pehotno
                         taktiko. Opustili so<pb n="90" xml:id="pb.90"/></p>
                     <figure>
-                        <p><graphic n="1006" url="media/image6.png"/>
-                            <graphic n="1007" url="media/image7.png"/></p>
+                        <p><graphic n="1006" url="media/image6.jpg"/>
+                            <graphic n="1007" url="media/image7.jpg"/></p>
                         <head>
                             <hi rend="italic">Ludwig v. Benedek (1804–1881). Helmuth v. Moltke
                                 (1800–1891).</hi>
@@ -5215,7 +5215,7 @@
                             izboljšanju družinskega proračuna. Seveda se ob tem<pb n="119"
                                 xml:id="pb.119"/></p>
                         <figure>
-                            <graphic n="1008" url="media/image8.png"/>
+                            <graphic n="1008" url="media/image8.jpg"/>
                             <head>
                                 <hi rend="italic">Karl Kastl v Ljubljani in njegova žena Frančiška
                                     (Fany) Peterka (hrani Angelika Hribar).</hi></head>
@@ -5296,7 +5296,7 @@
                         <p>V zanj novi enoti je stotnik Kastl dobil tudi nove zadolžitve, saj je
                             postal poveljnik<pb n="121" xml:id="pb.121"/></p>
                         <figure>
-                            <graphic n="1009" url="media/image9.png"/>
+                            <graphic n="1009" url="media/image9.jpg"/>
                             <head>
                                 <hi rend="italic">Kastl s konjem in častniki v trnovski vojašnici
                                     (1892) (hrani Angelika Hribar).</hi>
@@ -5383,7 +5383,7 @@
                                 Karl.</note>
                             <pb n="123" xml:id="pb.123"/></p>
                         <figure>
-                            <graphic n="10010" url="media/image10.png"/>
+                            <graphic n="10010" url="media/image10.jpg"/>
                             <head>
                                 <hi rend="italic">Elza Kastl: Risba artilerijske vojašnice za
                                     Bežigradom, kjer je Kastl 12. maja 1900 prejel plemiško diplomo
@@ -5510,7 +5510,7 @@
                                 >merodajne faktorje</hi>«, naj storijo vse,<pb n="126"
                                 xml:id="pb.126"/></p>
                         <figure>
-                            <graphic n="10011" url="media/image11.png"/>
+                            <graphic n="10011" url="media/image11.jpg"/>
                             <head>
                                 <hi rend="italic">Stotnik Kastl (na belcu) na manevrih topničarjev
                                     (hrani Angelika Hribar).</hi></head>
@@ -5633,7 +5633,7 @@
                                 inštruktor častnikov. Uri in vodi regiment formalno in v</hi>
                             <pb n="129" xml:id="pb.129"/></p>
                         <figure>
-                            <graphic n="10012" url="media/image12.png"/>
+                            <graphic n="10012" url="media/image12.jpg"/>
                             <head>
                                 <hi rend="italic">Topničarji ob topovih na dvorišču vojašnice.
                                     Stotnik Kastl sedi tretji z leve (hrani Angelika
@@ -5715,7 +5715,7 @@
                                     rend="italic">Beyond Nationalism</hi>, str. 151–152.</note>
                             Seveda so se lahko<pb n="131" xml:id="pb.131"/></p>
                         <figure>
-                            <graphic n="10013" url="media/image13.png"/>
+                            <graphic n="10013" url="media/image13.jpg"/>
                             <head>
                                 <hi rend="italic">Kastl v uniformi leta 1903 (hrani Angelika
                                     Hribar).</hi></head>
@@ -5998,7 +5998,7 @@
                         polnoleten in ga ne bi bili poslali na fronto, če se ne bi bil iz same
                         radovednosti prostovoljno javil.<pb n="138" xml:id="pb.138"/></p>
                     <figure>
-                        <graphic n="10014" url="media/image14.png"/>
+                        <graphic n="10014" url="media/image14.jpg"/>
                         <head>
                             <hi rend="italic">Bratje Kastl, sedita z leve Karl in Josef, stojijo z
                                 leve Heinrich, Ferdinand in neznani družinski prijatelj, ok. 1874
@@ -6023,8 +6023,8 @@
                         po rojstvu leta 1858 umrla. Zanimivo je, da je Eliza Peterka<pb n="139"
                             xml:id="pb.139"/></p>
                     <figure>
-                        <p><graphic n="10015" url="media/image15.png"/>
-                            <graphic n="10016" url="media/image16.png"/></p>
+                        <p><graphic n="10015" url="media/image15.jpg"/>
+                            <graphic n="10016" url="media/image16.jpg"/></p>
                         <head>
                             <hi rend="italic">Karl Kastl v Olomoucu, ok. 1876. Fotografijo je
                                 podaril svoji nevesti in zadaj zapisal: "Meinem Liebchen Fanchette«,
@@ -6094,7 +6094,7 @@
                             rend="italic">Čitalnica</hi>
                         <pb n="141" xml:id="pb.141"/></p>
                     <figure>
-                        <graphic n="10017" url="media/image17.png"/>
+                        <graphic n="10017" url="media/image17.jpg"/>
                         <head>
                             <hi rend="italic">Kastlova hiša v Prečni ulici J (foto: Miha
                                 Preinfalk).</hi></head>
@@ -6169,7 +6169,7 @@
                             <hi rend="italic">Slovenec</hi>, 1. 5. 1943, str. 4.</note>
                         <pb n="143" xml:id="pb.143"/></p>
                     <figure>
-                        <graphic n="10018" url="media/image18.png"/>
+                        <graphic n="10018" url="media/image18.jpg"/>
                         <head>
                             <hi rend="italic">Prodajalke pred trgovino "Pri Ažman« v pritličju
                                 škofijske palače na Pogačarjevem trgu. Z leve: Rezka Završan, Malka
@@ -6195,7 +6195,7 @@
                         Ljubljano, sama pa sta si privoščila še kakšno daljše potovanje. Zdi se, da
                         sta si sproti zapisovala podatke in<pb n="144" xml:id="pb.144"/></p>
                     <figure>
-                        <graphic n="10019" url="media/image19.png"/>
+                        <graphic n="10019" url="media/image19.jpg"/>
                         <head>
                             <hi rend="italic">Elza in Frida Kastl, ok. 1890 (hrani Angelika
                                 Hribar).</hi></head>
@@ -6214,7 +6214,7 @@
                         1892 so poletje preživljali ob jezeru v "lepem Millstattu«, septembra pa sta
                         se Kastla podala na Južno<pb n="145" xml:id="pb.145"/></p>
                     <figure>
-                        <graphic n="10020" url="media/image20.png"/>
+                        <graphic n="10020" url="media/image20.jpg"/>
                         <head>
                             <hi rend="italic">Karl in Frančiška Kastl na koleslju v današnji Mali
                                 ulici, ok. 1894 (hrani Angelika Hribar).</hi></head>
@@ -6286,7 +6286,7 @@
                         napeljali tudi mestni vodovod. Pred tem so morali stanovalci vodo nositi iz
                         skupnega vodnjaka. Leta 1903 so prvi<pb n="147" xml:id="pb.147"/></p>
                     <figure>
-                        <graphic n="10021" url="media/image21.png"/>
+                        <graphic n="10021" url="media/image21.jpg"/>
                         <head>
                             <hi rend="italic">Delavske hiše na Hranilniški cesti (zdaj Hranilniški
                                 ulici) za Bežigradom ok. 1912.</hi></head>
@@ -6311,7 +6311,7 @@
                         prostorov, kjer bi bila pralnica in bolniški prostori, če bi<pb n="148"
                             xml:id="pb.148"/></p>
                     <figure>
-                        <graphic n="10022" url="media/image22.png"/>
+                        <graphic n="10022" url="media/image22.jpg"/>
                         <head>
                             <hi rend="italic">Miniaturni portret Jožefa Luckmanna je naslikala Elza
                                 Kastl ok. leta 1950 (hrani Angelika Hribar).</hi></head>
@@ -6524,7 +6524,7 @@
                         dolga leta po drugi svetovni vojni stal v sejni dvorani Mestne hranilnice,
                             zdaj<pb n="153" xml:id="pb.153"/></p>
                     <figure>
-                        <graphic n="10023" url="media/image23.png"/>
+                        <graphic n="10023" url="media/image23.jpg"/>
                         <head>
                             <hi rend="italic">Kastl s hčerjo Elzo na konju na dvorišču vojašnice v
                                 Trnovem v Ljubljani leta 1904. Žensko sedlo, ki so ga nabavili na
@@ -6591,7 +6591,7 @@
                         penziona Benoit jima je povedala, da pozna slikarja osebno. In Elza dodaja v
                         pismu: "Papá je trdno prepričan, da<pb n="155" xml:id="pb.155"/></p>
                     <figure>
-                        <graphic n="10024" url="media/image24.png"/>
+                        <graphic n="10024" url="media/image24.jpg"/>
                         <head>
                             <hi rend="italic">V Bad Gasteinu leta 1909). Z leve Karl Kastl, Olga in
                                 Marija Plautz, Frida, Elza in mati Frančiška Kastl, ljubljanski
@@ -6613,7 +6613,7 @@
                         opravljal vrsto drugih dejavnosti. Žal se je ohranilo le nekaj<pb n="156"
                             xml:id="pb.156"/></p>
                     <figure>
-                        <graphic n="10025" url="media/image25.png"/>
+                        <graphic n="10025" url="media/image25.jpg"/>
                         <head>
                             <hi rend="italic">Elza Kastl pl. Traunstätt in mož Henrik pl. Obereigner
                                 ob poroki leta 1911 (hrani Angelika Hribar).</hi></head>
@@ -6683,7 +6683,7 @@
                         videti je, da je novi vladar od vseh nekdanjih avstro-ogrskih častnikov
                         zahteval lojalnost.<pb n="158" xml:id="pb.158"/></p>
                     <figure>
-                        <graphic n="10026" url="media/image26.png"/>
+                        <graphic n="10026" url="media/image26.jpg"/>
                         <head>
                             <hi rend="italic">Cesarja Franca Jožefa I. azil za neozdravljivo bolne,
                                 danes ginekološka klinika na Šlajmerjevi ulici v Ljubljani
@@ -6696,7 +6696,7 @@
                         ganljiv, saj je bila vsebina v nasprotju z njegovo srčno pripadnostjo
                         habsburški dinastiji.<pb n="159" xml:id="pb.159"/></p>
                     <figure>
-                        <graphic n="10027" url="media/image27.png"/>
+                        <graphic n="10027" url="media/image27.jpg"/>
                         <head>
                             <hi rend="italic">Nagrobnik rodbine Peterka in Kastl v. Traunstätt na
                                 Žalah (foto: Barbara Žabota, ZAL, 2010).</hi></head>
@@ -7142,14 +7142,14 @@
             <div type="chapter">
                 <head xml:id=" TOC_250000">Barvne priloge</head>
                 <figure>
-                    <graphic n="10028" url="media/image28.jpeg"/>
+                    <graphic n="10028" url="media/image28.jpg"/>
                     <head>
                         <hi rend="italic">Avstrijski topničarji v uniformah leta 1863 (v: The
                             Austrian Army, str. 173).</hi><note xml:id="p1a">V knjigi med str. 96 in
                             97.</note></head>
                 </figure>
                 <figure>
-                    <graphic n="10029" url="media/image29.jpeg"/>
+                    <graphic n="10029" url="media/image29.jpg"/>
                     <head>
                         <hi rend="italic">Razporeditev enot pred bitko, 3. julija 1866
                             ((http://battlefieldanomalies.com/wp-content/
@@ -7157,22 +7157,22 @@
                             xml:id="p1b">V knjigi med str. 96 in 97.</note></head>
                 </figure>
                 <figure>
-                    <graphic n="10030" url="media/image30.jpeg"/>
+                    <graphic n="10030" url="media/image30.jpg"/>
                     <head>
                         <hi rend="italic">Kastlova soba v Turški kasarni v Mostarju (1878/1879)
                             (hrani Angelika Hribar).</hi><note xml:id="p2a">V knjigi med str. 112 in
                             113.</note></head>
                 </figure>
                 <figure>
-                    <graphic n="10031" url="media/image31.jpeg"/>
+                    <graphic n="10031" url="media/image31.jpg"/>
                     <head>
                         <hi rend="italic">Portret Karla Kastla je hči Elza naslikala leta 1907
                             (hrani Angelika Hribar).</hi><note xml:id="p2b">V knjigi med str. 112 in
                             113.</note></head>
                 </figure>
                 <figure>
-                    <p><graphic n="10032" url="media/image32.jpeg"/>
-                        <graphic n="10033" url="media/image33.jpeg"/></p>
+                    <p><graphic n="10032" url="media/image32.jpg"/>
+                        <graphic n="10033" url="media/image33.jpg"/></p>
                     <head>
                         <hi rend="italic">Kastlov osnutek za tapiserijo (hrani Angelika
                             Hribar).</hi><lb/>
@@ -7181,8 +7181,8 @@
                             141.</note></head>
                 </figure>
                 <figure>
-                    <p><graphic n="10034" url="media/image34.jpeg"/>
-                        <graphic n="10035" url="media/image35.jpeg"/></p>
+                    <p><graphic n="10034" url="media/image34.jpg"/>
+                        <graphic n="10035" url="media/image35.jpg"/></p>
                     <head>
                         <hi rend="italic">Grb rodbine Kastl pl. Traunstätt (hrani Angelika
                             Hribar).</hi><lb/>
@@ -7191,7 +7191,7 @@
                             str. 140 in 141.</note></head>
                 </figure>
                 <figure>
-                    <graphic n="10036" url="media/image36.jpeg"/>
+                    <graphic n="10036" url="media/image36.jpg"/>
                     <head>
                         <hi rend="italic">Hišo na Sv. Petra cesti (zdaj Trubarjeva 19) je Eliza
                             Peterka kupila leta 1859; rekli so ji "Ažmanov klošter«, akvarel Elze
@@ -7199,7 +7199,7 @@
                             knjigi med str. 156 in 157.</note></head>
                 </figure>
                 <figure>
-                    <graphic n="10037" url="media/image37.jpeg"/>
+                    <graphic n="10037" url="media/image37.jpg"/>
                     <head>
                         <hi rend="italic">Heinrich Wettach: Elza in Frida Kastl, ok. 1895 (hrani
                             Angelika Hribar).</hi><note xml:id="p4b">V knjigi med str. 156 in
