@@ -1708,8 +1708,8 @@
                         <pb n="60" xml:id="pb.1.60"/>
                         <p>Zaradi uvedbe slovanske liturgije so zadevne knjige in spise prevajali v
                             slovenščino. Sam Ciril je v ta namen iznašel ali vsaj izpopolnil
-                            slovenskemu jeziku ustrezne fonetične znake, <hi rend="emphasized"
-                                >glagolico</hi>, predhodnico <hi rend="emphasized">cirilice</hi>, in
+                            slovenskemu jeziku ustrezne fonetične znake, <hi style="letter-spacing: 2px;"
+                                >glagolico</hi>, predhodnico <hi style="letter-spacing: 2px;">cirilice</hi>, in
                             tako se je v 9. stoletju na moravsko-panonskih tleh razvila popolna
                             krščanska literatura v slovenskem, torej staroslovenskem jeziku. </p>
                         <p>Spomeniki tega jezika so jezikovno zelo zanimivi in so povedne priče o
@@ -2164,7 +2164,7 @@
                                 Cilli.</note> in še nekaterih večjih naseljih večinoma slovenski
                             prebivalci. </p>
                         <p>
-                            <hi rend="emphasized">Nemci</hi> na Štajerskem so mešano ljudstvo,
+                            <hi style="letter-spacing: 2px;">Nemci</hi> na Štajerskem so mešano ljudstvo,
                             podobno kakor večina drugih kulturnih ljudstev. Takšen pogled potrjujejo
                             tako statistični rezultati o barvi oči in las lakor tudi opazne razlike
                             v obliki lobanje. Po barvi oči in las ločimo pri štajerskih Nemcih med
@@ -2284,7 +2284,7 @@
                             Štajerske pretakalo le še malo nepomešane germanske krvi. </p>
                         <pb n="78" xml:id="pb.1.78"/>
                         <p>
-                            <hi rend="emphasized">Slovenci</hi> na Štajerskem so prav tako mešano
+                            <hi style="letter-spacing: 2px;">Slovenci</hi> na Štajerskem so prav tako mešano
                             ljudstvo. Tudi med Slovenci se poleg rjavolasega tipa uveljavlja
                             plavolasi; slednji je pogostejši pri otrocih, prvi pri odraslih, in
                             spreminjanje svetle kompleksije v temno poteka podobno hitro kot pri
@@ -2405,7 +2405,7 @@
                                 Beltinci, 1935).</note>
                         </head>
                         <p style="body-txt-prvi-odstavek">
-                            <hi rend="emphasized">Vende</hi>
+                            <hi style="letter-spacing: 2px;">Vende</hi>
                             <note place="end" xml:id="ftn.1.115" n="1"> Nem. Die Wenden. Med
                                 oklepajema zapisani izrazi so iz izvirnika.</note> (pravilneje
                             Slovence), ki živijo v jugozahodnem kotu Železne županije<note
@@ -2925,8 +2925,8 @@
                         </head>
                         <byline>Rudolf Waizer in Franz Franzisci</byline>
                         <p style="body-txt-prvi-odstavek">Čudovito alpsko deželo Koroško naseljujeta
-                            dve narodni skupini, namreč <hi rend="emphasized">Nemci</hi> in <hi
-                                rend="emphasized">Slovenci</hi>.<note place="end" xml:id="ftn.1.334"
+                            dve narodni skupini, namreč <hi style="letter-spacing: 2px;">Nemci</hi> in <hi
+                                style="letter-spacing: 2px;">Slovenci</hi>.<note place="end" xml:id="ftn.1.334"
                                 n="1"> V tem poglavju avtorja za Slovence večinoma uporabljata izraz
                                     <hi rend="italic">die</hi>
                                 <hi rend="italic">Slovenen</hi>, kar na Koroškem in Štajerskem ni
@@ -3046,7 +3046,7 @@
                             danes redko najti kmete ali kmetice, oblečene v izvirno deželno nošo. –
                             Pred 300 leti je bil na Koroškem zakonski oblačilni red, ki je bil izdan
                             za časa vladavine nadvojvode Karla II. leta 1587 in so ga strogo
-                            upoštevali. Zajemal je <hi rend="emphasized">vse stanove</hi>. V
+                            upoštevali. Zajemal je <hi style="letter-spacing: 2px;">vse stanove</hi>. V
                             današnjem času se še najizvirneje oblačijo prebivalci spodnje Zilje.
                             Fantje nosijo pod klobukom iz mehke polsti, okrašenim s šopkom rož in
                             peresi ruševca, svileno čepico s cofom,<note place="end"
@@ -3134,9 +3134,9 @@
                                 potem iz njega kuhali žganje.</note> so ponavadi v celoti oblečeni v
                             loden, za klobukom pa nosijo prava peresa ruševca in gamsovo brado. </p>
                         <p>Šege in navade, ki se še dandanes večinoma vključujejo v ciklus različnih
-                            obdobij <hi rend="emphasized">prazničnega leta</hi> dokazujejo, da se
+                            obdobij <hi style="letter-spacing: 2px;">prazničnega leta</hi> dokazujejo, da se
                             Korošec še dokaj vztrajno drži izročila. Praznično leto se začne z enim
-                            najskrivnostnejših in najsvetejših časov – <hi rend="emphasized">z
+                            najskrivnostnejših in najsvetejših časov – <hi style="letter-spacing: 2px;">z
                                 božičem</hi>. Sveti večer z božičem je jedro praznika, čas pred
                             svetim večerom do vključno treh kraljev – imenovan volčje noči<note
                                 place="end" xml:id="ftn.1.298" n="37"> V izv. Rauchnächte, v nem.
@@ -3172,7 +3172,7 @@
                                 xml:id="ftn.1.295" n="40"> Ital. Camporosso in Valcanale, nem.
                                 Saifnitz.</note> Slovenci pogrnejo mizo s slovenskim prtom, to je z
                             belim lanenim prtom, ki ima rdeče in belo progaste čipke, po sredini pa
-                            rdečo borduro, in nanj položijo <hi rend="emphasized">»mižnjak«</hi>, to
+                            rdečo borduro, in nanj položijo <hi style="letter-spacing: 2px;">»mižnjak«</hi>, to
                             je božični kruh, ter nekaj kadila in žita. To pustijo čez noč na mizi do
                             poldneva božičnega dne. Na štefanovo<note place="end" xml:id="ftn.1.294"
                                 n="41"> Dan sv. Štefana, 26. decembra.</note> v vsaki vaški cerkvi
@@ -3261,7 +3261,7 @@
                         </p>
                         <p>Kakor Nemci pečejo svoj klecenbrot,<note place="end" xml:id="ftn.1.283"
                                 n="52"> V izv. „Kletzenbrote“, kruh s suhim sadjem in orehi.</note>
-                            tako Slovenci iz ajdove moke pečejo <hi rend="emphasized"
+                            tako Slovenci iz ajdove moke pečejo <hi style="letter-spacing: 2px;"
                                 >ajdnik</hi>,l<note place="end" xml:id="ftn.1.282" n="53"> V izv.
                                 „Hadnnikl“ (iz der Heiden, ajda), kruh iz ajdove moke z makom in
                                 medom.</note> ki ga posujejo z makom in pomažejo z medom. </p>
@@ -3427,7 +3427,7 @@
                                 da se postijo; tj. nekakšen kokošji post, ki jih naj bi v prihodnje
                                 obvaroval pred jastrebi, lisicami idr. sovražniki.</note> in jim
                             pripisujejo zdravilne in čarne učinke.</p>
-                        <p>V <hi rend="emphasized">velikonočni noči</hi> v Labotski dolini kmet med
+                        <p>V <hi style="letter-spacing: 2px;">velikonočni noči</hi> v Labotski dolini kmet med
                             molitvijo in petjem nabožnih pesmi prižge »velikonočni kres«, ki je
                             pripravljen iz ogromnih skladovnic lesa. Po hribih in dolinah tedaj
                             sveti na stotine takšnih velikonočnih plamenov in ponujajo veličasten
@@ -3454,7 +3454,7 @@
                                 kvašenega testa z rozinami in cimetom.</note> in rdeči jajci; fant,
                             ki dobi največ kosov šarklja, velja za vaškega Adonisa. Na velikonočni
                             ponedeljek v nekaterih krajih v dolini reke Gline uprizarjajo <hi
-                                rend="emphasized">pasijonske igre.</hi>
+                                style="letter-spacing: 2px;">pasijonske igre.</hi>
                         </p>
                         <p>Slovenec obhaja veliko noč prav posebej slovesno. Šege v velikonočnem
                             tednu so enake kot pri Nemcih. Velikonočno pecivo se imenuje <hi
@@ -3479,7 +3479,7 @@
                             Mislinjski dolini <pb n="122" xml:id="pb.1.122"/>pa tista na Uršlji
                                 gori.<note place="end" xml:id="ftn.1.250" n="85"> V izv. nem
                                 Mißlingthal, Ursulaberg.</note> Glavna posebnost vseh romarjev tega
-                            dne pa so <hi rend="emphasized">štirje vrhovi</hi>,<note place="end"
+                            dne pa so <hi style="letter-spacing: 2px;">štirje vrhovi</hi>,<note place="end"
                                 xml:id="ftn.1.249" n="86"> Gre za t. i. tek na štiri vrhove (gore)
                                 (nem. Vierberglauf), poznan tudi kot leteča procesija. Šega z
                                 avstrijskega Koroškega ima korenine v poganskih časih in se je
@@ -3589,7 +3589,7 @@
                                 metanje ipd.). Ponekod v Nemčiji še danes na poročni dan uprizarjajo
                                 tekaško tekmo od cerkve do gostilne. </note> in majsko ježo<note
                                 place="end" xml:id="ftn.1.230" n="105"> Nem. Mairitt.</note> starih
-                            Nemcev spominja <hi rend="emphasized">»ježa za venček v
+                            Nemcev spominja <hi style="letter-spacing: 2px;">»ježa za venček v
                                 Weitensfeldu«</hi>
                             <note place="end" xml:id="ftn.1.229" n="106"> Nem. Kranzlreiten in
                                 Weitensfeld.</note> (dolina Krke), ki jo vsako leto uprizorijo tudi
@@ -3624,7 +3624,7 @@
                         <p>Podobno šego najdemo v Ziljskih Alpah. Pastirji postavijo »maje«<note
                                 place="end" xml:id="ftn.1.227" n="108"> Mlaj, nem. Maibaum.</note>
                             in potem z določene razdalje tečejo proti temu cilju. Tisti, ki prvi
-                            priteče, je <hi rend="emphasized">»binkoštni kralj«</hi>, zadnji dobi
+                            priteče, je <hi style="letter-spacing: 2px;">»binkoštni kralj«</hi>, zadnji dobi
                             kakšen sramotilni vzdevek. Ko se zmrači, postavijo okrog mlaja
                             skladovnico lesa in jo skupaj z mlajem sežgejo. </p>
                         <pb n="127" xml:id="pb.1.127"/>
@@ -3636,7 +3636,7 @@
                                     leto Slovencev 1.</hi> Ljubljana, 1989, 345).</note> so nekoč v
                                 Getenbergu<note place="end" xml:id="ftn.1.225" n="110"> Nem.
                                 Hüttenberg v okrožju St. Veit an der Glan/Šentvid ob Glini.</note>
-                            praznovali <hi rend="emphasized">knapovski praznik s plesom z
+                            praznovali <hi style="letter-spacing: 2px;">knapovski praznik s plesom z
                                 obročem</hi>.<note place="end" xml:id="ftn.1.224" n="111"> Nem.
                                 Reiftanz.</note> V zadnjem času ta praznik, ki izvira iz srednjega
                             veka, obhajajo le še vsako tretje leto. Oblečeni v rudarske noše se ga
@@ -3649,7 +3649,7 @@
                                 primere in urejanje pravic rudarjev ob nesrečah v rudnikih.</note>
                             in devico z vencem. Z njima odidejo na zgornji trg, kjer stoji iz vej
                             narejena in z listjem pokrita koča, v kateri so se zbrali trški veljaki.
-                            Po tej koči se praznik imenuje tudi praznik v <hi rend="emphasized"
+                            Po tej koči se praznik imenuje tudi praznik v <hi style="letter-spacing: 2px;"
                                 >listnati koči</hi>.<note place="end" xml:id="ftn.1.222" n="113">
                                 Laubhüttenfest.</note>
                         </p>
@@ -3666,7 +3666,7 @@
                                 so ga imeli norci. </note> Na ta dan vsak rudar, ki pride ven brez
                             pripasanega kosa usnja, dobi tri udarce in je prisiljen zbežati, da se
                             reši naslednje porcije batin. </p>
-                        <p>Praznik <hi rend="emphasized">svetega Rešnjega telesa</hi> je ljudstvo
+                        <p>Praznik <hi style="letter-spacing: 2px;">svetega Rešnjega telesa</hi> je ljudstvo
                             poimenovalo »Gottleimastag« ali »Antlasstag«.<note place="end"
                                 xml:id="ftn.1.219" n="116"> Antlasstag, iz. Antlaß, Ablaß (prim op.
                                 77); v slov. im. tudi telovo, četrtek po nedelji sv. Trojice.</note>
@@ -3675,8 +3675,8 @@
                             telesa meščanke nosile še zlate avbe in v starem vojvodskem mestu<note
                                 place="end" xml:id="ftn.1.217" n="118"> Nem. Herozgstadt imenujejo
                                 Šentvid ob Glini.</note> na ta dan odkoraka tudi <hi
-                                rend="emphasized">garda </hi>
-                            <hi rend="emphasized">trabantov</hi>
+                                style="letter-spacing: 2px;">garda </hi>
+                            <hi style="letter-spacing: 2px;">trabantov</hi>
                             <note place="end" xml:id="ftn.1.216" n="119"> Nem. Trabantengarde, iz
                                 trabant, nekdaj telesni stražar pomembne osebe (<hi rend="italic"
                                     >SSKJ</hi>), torej častna garda.</note> – ustanovljena leta
@@ -3684,7 +3684,7 @@
                         <pb n="129" xml:id="pb.1.129"/>
                         <p>V Himmelbergu, Tiffenu in Gnesauu, kjer so strelišča, odkorakajo strelci
                             pod vodstvom svojega vodnika. V Gnesauu po cerkvenem obredu uprizorijo
-                            tako imenovano <hi rend="emphasized">vrtenje zastave</hi>.<note
+                            tako imenovano <hi style="letter-spacing: 2px;">vrtenje zastave</hi>.<note
                                 place="end" xml:id="ftn.1.215" n="120"> V izv. „Fohndrahn“.</note>
                             Družba strelcev, ki se udeleži praznovanja, se po koncu procesije
                             postavi v vrsto. Na vodnikove ukaze uprizorijo različne figure. Po
@@ -3698,7 +3698,7 @@
                             pobira denar za smodnik za salve. Šega bi utegnila biti ostanek kakšne
                             stare podeželske igre. </p>
                         <p>V noči pred dnevom svetega Rešnjega telesa koroški Slovenci pred hišo
-                            svoje najdražje postavijo <hi rend="emphasized">mlaj</hi>. Zato izberejo
+                            svoje najdražje postavijo <hi style="letter-spacing: 2px;">mlaj</hi>. Zato izberejo
                             visoke, vitke smreke, ki jih popolnoma olupijo in okrasijo s cvetlicami
                             in venčki. Na vrh drevesa pritrdijo lesenega petelina in pod petelina
                             pribijejo leseni sablji v obliki križa. Drevo strogo stražijo, da ne bi
@@ -3708,7 +3708,7 @@
                             ga tudi preskakujejo, da ne bi dobili vročine in bi lan dobro obrodil.
                             Na kresni večer tudi vedežujejo in nabirajo praprotno seme, s katerimi
                             lahko postaneš neviden. V številnih krajih poleg kresovanja tudi <hi
-                                rend="emphasized">mečejo žareče šibe</hi>,<note place="end"
+                                style="letter-spacing: 2px;">mečejo žareče šibe</hi>,<note place="end"
                                 xml:id="ftn.1.214" n="121"> V izv. „Scheibenschlagen“. Metanje,
                                 proženje žarečih šib oz. <hi rend="italic">šajb</hi>; šibe so v
                                 kresnem ognju razžarjene lesene pravokotne ali okrogle ploščice. Za
@@ -3717,8 +3717,8 @@
                                 391–396. </note>
                             <pb n="130" xml:id="pb.1.130"/>tedaj navajajo čutne, pogosto tudi
                             kvantaške stihe. V zgornji (nemški) Ziljski dolini se <hi
-                                rend="emphasized">nobeno dekle</hi> ne sme približati kresu.
-                            Skrivajo se v grmovju, za ograjami, da <hi rend="emphasized"
+                                style="letter-spacing: 2px;">nobeno dekle</hi> ne sme približati kresu.
+                            Skrivajo se v grmovju, za ograjami, da <hi style="letter-spacing: 2px;"
                                 >prisluškujejo</hi> fantovskim hudomušnostim. Pri Slovencih je
                             sončni obrat (<hi rend="italic">kres</hi>
                             <note place="end" xml:id="ftn.1.213" n="122"> V izv. Kreš.</note>) eden
@@ -3756,8 +3756,8 @@
                             drugem mestu. </p>
                         <p>Na Koroškem je posebej pomemben »veliki šmaren«<note place="end"
                                 xml:id="ftn.1.209" n="126"> V izv. „der große Frauentag“.</note>
-                                (<hi rend="emphasized">Marijino vnebovzetje</hi>), ko je v mnogih
-                            krajih <hi rend="emphasized">blagoslov zelišč</hi>. V Lesni dolini in
+                                (<hi style="letter-spacing: 2px;">Marijino vnebovzetje</hi>), ko je v mnogih
+                            krajih <hi style="letter-spacing: 2px;">blagoslov zelišč</hi>. V Lesni dolini in
                             dolini reke Malte se ta dan imenuje tudi »Marijin blagoslov zelišč«.
                             Vsak kmet na ta dan poveže v šopek devet zelišč, da ga blagoslovi dušni
                                 pastir.<note place="end" xml:id="ftn.1.208" n="127"> Blagoslov
@@ -3793,7 +3793,7 @@
                             pride 6. decembra Nikolaj, ki kakor drugod skuša tudi po Koroškem z
                             brado prestrašiti velike in majhne otroke. Je osrednji lik v prazničnem
                             letu. </p>
-                        <p>Na <hi rend="emphasized">žegnanje</hi>
+                        <p>Na <hi style="letter-spacing: 2px;">žegnanje</hi>
                             <note place="end" xml:id="ftn.1.203" n="132"> V izv. nem. Kirchtag,
                                 žegnanje, na avstrijskem Koroškem im. <hi rend="italic">žegen,
                                     cerkvanje, semenj, lepa nedelja,</hi> je krajevno praznovanje
@@ -3807,7 +3807,7 @@
                             priljubljene ocvrte miške (narejene iz moke, masti in rozin),<note
                                 place="end" xml:id="ftn.1.201" n="134"> Nem. Schmalzmaus.</note> na
                             Zilji mlečno kašo z rozinami.<note place="end" xml:id="ftn.1.200"
-                                n="135"> V izv. „Lunkmus“</note> Žegen je <hi rend="emphasized">na
+                                n="135"> V izv. „Lunkmus“</note> Žegen je <hi style="letter-spacing: 2px;">na
                                 Zilji </hi>pravi ljudski praznik; v vsaki hiši pečejo »žegnanjske
                                 krofe«<note place="end" xml:id="ftn.1.199" n="136"> Nem.
                                 „Kirchtagskrapfen“, krofi ali flancati, na Zilji tudi kroglice,
@@ -3839,7 +3839,7 @@
                             ležečih domačij na gorskih hrbtih, da »obredejo« »pivske bratce« – pri
                             vsaki hiši, pred katero se ustavijo in zaigrajo eno »vižo«, za njimi
                             narašča truma fantov, s suknjiči čez rame in s klobuki, okrašenimi z
-                            roženkravtom in nageljni. Dekleta <hi rend="emphasized">»zaprosijo«</hi>
+                            roženkravtom in nageljni. Dekleta <hi style="letter-spacing: 2px;">»zaprosijo«</hi>
                             takole: nekaj fantov vstopi s steklenico vina v sobo in povabi na častni
                             ples. Med salvami iz možnarjev se v gostilno selijo »pivski bratci«,
                             katerim sledi pisana druščina deklet. Tu zdaj zrak valovi. Zrak trepeče
@@ -3911,7 +3911,7 @@
                             na pokopališču. Na stare borilne igre Slovencev, kakršne so bile nekdaj
                             v navadi zlasti ob praznikih, ki so povezani s smrtjo, spominja <pb
                                 n="135" xml:id="pb.1.135"/>
-                            <hi rend="emphasized">štehvanje</hi>, ki ga na ta dan uprizarjajo samo
+                            <hi style="letter-spacing: 2px;">štehvanje</hi>, ki ga na ta dan uprizarjajo samo
                             še v vindiški Bistrici in včasih v naselju Trata.<note place="end"
                                 xml:id="ftn.1.192" n="143"> V izv. Windisch-Feistriz, zdaj Feistritz
                                 an der Gail/Bistrica na Zilji; Trata, zdaj Tratten/Pešišče v občini
@@ -3936,7 +3936,7 @@
                             drugim natakne na kol. Jezdeci pridrvijo v dirkalnem galopu in jih
                             snamejo z železno palico. Zmagovalca, ki razbije sod z enim silovitim
                             udarcem, devica okinča z venčkom iz umetnih rož. </p>
-                        <p>Nekoliko proč v zgornji Ziljski dolini najdemo <hi rend="emphasized"
+                        <p>Nekoliko proč v zgornji Ziljski dolini najdemo <hi style="letter-spacing: 2px;"
                                 >»razbijanje lonca«</hi>, pristno ljudsko igro, ki jo fantje igrajo
                             že od prastarih časov in poteka vsako leto na drugo oktobrsko nedeljo na
                             močvirnatem travniku v bližini vasi Dole. Z zvenečim igranjem se fantje
@@ -3959,7 +3959,7 @@
                         <pb n="138" xml:id="pb.1.138"/>
                         <p>V nekaterih krajih v zgornji Ziljski dolini, ki jih ogroža in pogosto
                             opustoši hudournik, že od nekdaj prirejajo poseben praznik, ki ni
-                            zapisan v nobenem koledarju, <hi rend="emphasized">»rečni
+                            zapisan v nobenem koledarju, <hi style="letter-spacing: 2px;">»rečni
                                 praznik«</hi>.<note place="end" xml:id="ftn.1.188" n="147"> V izv.
                                 Bachfeiertag.</note> Na pepelnato siv delovni dan se krajani,
                             dekleta s pisanimi naglavnimi rutami, dopoldne zberejo v vaški cerkvi,
@@ -4013,7 +4013,7 @@
                             sprejmeta svojo ljubo živino z velikim veseljem in krepak obrok poveže
                             pastirje v veliki hišni izbi. </p>
                         <p>
-                            <hi rend="emphasized">Delovne šege</hi>. Na jedrtino<note place="end"
+                            <hi style="letter-spacing: 2px;">Delovne šege</hi>. Na jedrtino<note place="end"
                                 xml:id="ftn.1.180" n="155"> Nem. Gertrude.</note> (17. marec) se
                             začnejo dela na polju. Slovenci v Podjuni ob tem času ohranjajo šego, ki
                             jo imenujejo »vlačenje pluga«. Ta predstavlja uvod v delo na polju.
@@ -4024,7 +4024,7 @@
                                 „'Saaring' (Säering)“.</note> in ga položijo v semensko žito;
                             sejalec jemlje zrnje za setev samo skoz ta obroč. Verjamejo, da bo žito
                             tako obvarovano pred točo in bo bolje uspevalo. </p>
-                        <p>Ko je pridelek pod streho, se v dolini Molne začne <hi rend="emphasized"
+                        <p>Ko je pridelek pod streho, se v dolini Molne začne <hi style="letter-spacing: 2px;"
                                 >»mlatev ob luči«</hi>;<note place="end" xml:id="ftn.1.178" n="157">
                                 V izv. „Lichtdreschen“.</note> kmalu po polnoči hiša oživi in
                             prebivalci alpskih dolin se po <pb n="140" xml:id="pb.1.140"/>kratkem
@@ -4092,7 +4092,7 @@
                             nepovabljen stopiti v sobo; tako ga zasujejo z zbadljivkami in
                             »natepejo«, da je vesel, če se mu jo posreči pocvirnati. </p>
                         <pb n="142" xml:id="pb.1.142"/>
-                        <p>V dolini reke Gline včasih v sobo prijezdi <hi rend="emphasized"
+                        <p>V dolini reke Gline včasih v sobo prijezdi <hi style="letter-spacing: 2px;"
                                 >»teritveni vitez«</hi>
                             <note place="end" xml:id="ftn.1.171" n="164"> V izv. „Brechlritter“.
                                 Pavle Zablatnik (Teritev na Koroškem, <hi rend="italic"
@@ -4207,7 +4207,7 @@
                                 pečeno pecivo, podobno flancatom.</note>
                         </p>
                         <p>
-                            <hi rend="emphasized">Šege ob krstu</hi>. Ko se rodi otrok, ga kolikor
+                            <hi style="letter-spacing: 2px;">Šege ob krstu</hi>. Ko se rodi otrok, ga kolikor
                             je le mogoče hitro, celo v nevihti in neurju, nesejo h krstu v župnijsko
                             cerkev, četudi oddaljeno več ur hoda, kajti pogana ni dovoljeno imeti
                             dolgo v hiši. »Mladonedeljski otrok«, to je otrok, ki pride na svet na
@@ -4291,7 +4291,7 @@
                             tam pustiti samo tri, namreč tisto, ki je dvomila v Boga, morilca, in
                             tisto, ki se je pregrešila z botrom. </p>
                         <p>
-                            <hi rend="emphasized">Svatbene šege</hi>. Še preden fant doseže starost
+                            <hi style="letter-spacing: 2px;">Svatbene šege</hi>. Še preden fant doseže starost
                             vojaškega obveznika, se pridruži drugim fantom v vasi. Ko ima enkrat
                             čedro, verižico za uro in »trofejo«<note place="end" xml:id="ftn.1.149"
                                 n="186"> V izv. „Schneid“. Nem. Schneid, pogum, odločnost; morda je
@@ -4322,7 +4322,7 @@
                                 af's Kranzelpint, af'n Montag af' die Hochzeit.“</note> se glasi
                             njegovo povabilo, ko vstopi v sobo.</p>
                         <p>V dolini Molne pri venčanju pripeljejo na ženinovo domačijo <hi
-                                rend="emphasized">»bališ«</hi>,<note place="end" xml:id="ftn.1.144"
+                                style="letter-spacing: 2px;">»bališ«</hi>,<note place="end" xml:id="ftn.1.144"
                                 n="191"> Bala, na Kor. im. tudi <hi rend="italic">banka</hi>
                                 (Zilja), <hi rend="italic">fantora</hi> (Rož).</note> pisano
                             pobarvano nevestino skrinjo s kolovratom.</p>
@@ -4412,14 +4412,14 @@
                             najbližjo gostilno, kjer na račun nevestinega spremljevalca popivajo,
                             nazadnje pa z glasbo pridejo ponjo. Na poti domov se mladi par zavrti v
                             veži gostilne, kjer že stojijo muzikanti, ki zaigrajo »štajeriš«, ples,
-                            ljudsko izročilo pravi, da zato, <hi rend="emphasized">da ne bomo
+                            ljudsko izročilo pravi, da zato, <hi style="letter-spacing: 2px;">da ne bomo
                                 poslušali, kako se potem vleče križ</hi>. Ko prispejo domov, sta
                             vhod in vrata zaprta, šele po dolgem besednem boju se hišna vrata
                             odprejo in stara mati ali kdor je pač pripravil obed, ki ga ob vsem
                             obilju še pojedo v hiši, izroči nevesti hlebec kruha, ključ in kokoš, ki
                             jo mora nevesta hitro spustiti. Če kokoš ostane v hiši, to pomeni srečo
                             v zakonu. </p>
-                        <p>V Lesni dolini je bilo v navadi <hi rend="emphasized">»metanje
+                        <p>V Lesni dolini je bilo v navadi <hi style="letter-spacing: 2px;">»metanje
                                 pasu«</hi>.<note place="end" xml:id="ftn.1.135" n="200"> V izv.
                                 „Gürtelwerfen“.</note> Preden so šli v cerkev, je ženin nevesto
                             opasal s srebrnim pasom, hkrati ji je skušal pas vreči čez glavo, kar je
@@ -4429,7 +4429,7 @@
                             naslikajo macolo (kladivo), ki namiguje na njegovo ponesrečeno snubitev.
                             »Dobil je macolo«, je stalno reklo.</p>
                         <p>V času po poroki v nekaterih krajih zgornje Ziljske doline <hi
-                                rend="emphasized">»mečejo sklede«</hi>.<note place="end"
+                                style="letter-spacing: 2px;">»mečejo sklede«</hi>.<note place="end"
                                 xml:id="ftn.1.134" n="201"> V izv. „Schüsselwerfen“.</note> Teden po
                             poroki hodijo fantje od hiše do hiše in prosijo za poškodovano kuhinjsko
                             posodo; če jim je ne dajo prostovoljno, jo skrivoma <pb n="153"
@@ -4496,7 +4496,7 @@
                             polnoči pa »venček dol rajajo«.<note place="end" xml:id="ftn.1.128"
                                 n="207"> V izv. „Kranzlabtanen“.</note>
                         </p>
-                        <p>Zanimiv je <hi rend="emphasized">svatbeni obred vindiških Ziljanov</hi>;
+                        <p>Zanimiv je <hi style="letter-spacing: 2px;">svatbeni obred vindiških Ziljanov</hi>;
                             zanj je značilno, da na poroko prijezdijo, celo vabovec<note place="end"
                                 xml:id="ftn.1.127" n="208"> V izv. „Lader“.</note> se s „Sapo“,<note
                                 place="end" xml:id="ftn.1.126" n="209"> Morda šapelj, ki je sicer
@@ -4597,7 +4597,7 @@
                                 1944, 302; Pavle Zablatnik, <hi rend="italic">Od zibelke do
                                     groba.</hi> Celovec, 1982, 93–94.</note> prespati na klopi. </p>
                         <p>
-                            <hi rend="emphasized">Navade ob smrti</hi>. Posebne so tudi šege, ki jih
+                            <hi style="letter-spacing: 2px;">Navade ob smrti</hi>. Posebne so tudi šege, ki jih
                             ponekod v koroškem hribovju poznajo ob smrti. Ko se bolnik približuje
                             slovesu, prihitijo sosedje, da bi mu pomagali in molili zanj. Prižgejo
                             posvečeno voščeno svečo in z Marjetinim zvončkom<note place="end"
