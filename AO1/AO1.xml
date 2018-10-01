@@ -427,7 +427,7 @@
             <div type="ss3">
                 <pb n="7" xml:id="pb.1.7"/>
                 <head>Avstro-ogrska monarhija v besedi in podobi</head>
-                <p style="body-txt-prvi-odstavek">Knjiga <hi rend="italic">Avstro-ogrska monarhija v
+                <p style="body-txt-prvi-odstavek"><hi rend="gothic larger">K</hi>njiga <hi rend="italic">Avstro-ogrska monarhija v
                         besedi in podobi – Slovenci</hi> je komentiran prevod etnografskih poglavij
                     o Slovencih<note place="end" xml:id="ftn.1.048" n="1"> V tej knjigi so
                         objavljena poglavja o Štajerski, Porabju in Prekmurju ter Koroški, sledijo
@@ -518,7 +518,7 @@
                     monarhije in v njej tudi ozemlja, ki ga je naseljevalo večinoma slovensko
                     prebivalstvo. </p>
                 <p style="body-txt-prvi-odstavek ParaOverride-1">*</p>
-                <p style="body-txt-prvi-odstavek">Zbirka <hi rend="italic">Die
+                <p style="body-txt-prvi-odstavek"><hi rend="gothic larger">Z</hi>birka <hi rend="italic">Die
                         österreichisch-ungarische Monarchie in Wort und Bild</hi> je nastajala v
                     zadnjih dveh desetletjih 19. stoletja na pobudo prestolonaslednika nadvojvode
                     Rudolfa (1858–1889); po njem se delo imenuje tudi Prestolonaslednikovo delo (<hi
@@ -3200,23 +3200,23 @@
                                 tepežkanju.</note> in tepejo odrasle, medtem ko recitirajo: </p>
                         <pb n="112" xml:id="pb.1.112"/>
                         <lg rend="centered">
-                            <l>Veselo šapamo</l>
-                            <l>sveži in zdravi!</l>
-                            <l>Dolgo živite,</l>
-                            <l>zdravi ostanite,</l>
-                            <l>imejte se radi!<note place="end" xml:id="ftn.1.289" n="46"> „Pließen
+                            <l rend="centered">Veselo šapamo</l>
+                            <l rend="centered">sveži in zdravi!</l>
+                            <l rend="centered">Dolgo živite,</l>
+                            <l rend="centered">zdravi ostanite,</l>
+                            <l rend="centered">imejte se radi!<note place="end" xml:id="ftn.1.289" n="46"> „Pließen
                                     lustig / Frisch und g'sund! / Lang löbn, / G'sund bleibn, / Gern
                                     habn!“</note>
                             </l>
                         </lg>
                         <p>Slovenci rečejo:</p>
                         <lg rend="centered">
-                            <l>Šip, šap, Bog daj zdravja in sreče,</l>
-                            <l>da bi bili veseli kot ptič v gozdu,</l>
-                            <l>zdravi kakor riba v vodi,</l>
-                            <l>močni kakor medved v gori,</l>
-                            <l>in da bi imeli toliko otrok,</l>
-                            <l>kolikor je na drevesu vej.<note place="end" xml:id="ftn.1.288" n="47"
+                            <l rend="centered">Šip, šap, Bog daj zdravja in sreče,</l>
+                            <l rend="centered">da bi bili veseli kot ptič v gozdu,</l>
+                            <l rend="centered">zdravi kakor riba v vodi,</l>
+                            <l rend="centered">močni kakor medved v gori,</l>
+                            <l rend="centered">in da bi imeli toliko otrok,</l>
+                            <l rend="centered">kolikor je na drevesu vej.<note place="end" xml:id="ftn.1.288" n="47"
                                     > „Šip, šap, Gott gebe Gesundheit und Glück, / Daß sie wären
                                     fröhlich wie der Vogel im Walde, / Gesund wie die Fische im
                                     Wasser, / Stark wie der Bär im Gehölze, / Und daß sie hätten so
@@ -3865,7 +3865,7 @@
                             spremljavi <pb n="134" xml:id="pb.1.134"/>glasbenikov na lesenem odru
                             brez premora pojejo slovenske »štirivrstičnice«. Prva pesem je verske
                             vsebine in se začne z verzom:</p>
-                        <table type="poem">
+                        <table type="poem" style="font-size: 90%;">
                             <row>
                                 <cell>
                                     <l>Bog daj en dober čas</l>
