@@ -1,0 +1,222 @@
+
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="pub-id"
+         version="3.0"
+         prefix="rendition: http://www.idpf.org/vocab/rendition#">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Pripovedno izročilo Slovencev v Porabju</dc:title>
+      <meta property="rendition:layout">reflowable</meta>
+      <meta property="rendition:spread">auto</meta>
+      <meta refines="#title" property="title-type">main</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator"> Marija Kozar Mukič  Dušan Monika Mukič Dušan Monika Kropej Telban Marija Kozar Mukič  Dušan Mukič Monika Kropej Telban</dc:creator>
+      <meta refines="#creator" property="file-as">
+         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
+            <span class="persName"> Marija Kozar Mukič</span> 
+            <span class="persName"> Dušan Monika Mukič<span class="persName"/> Dušan Monika Kropej Telban</span>
+         </span>
+         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
+            <span class="persName"> Marija Kozar Mukič</span> 
+            <span class="persName"> Dušan Mukič<span class="persName"> Monika Kropej Telban</span>
+            </span>
+         </span>
+      </meta>
+      <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ethnologists</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ethnology</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">folk literature</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">folk tales</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Matičetov, Milko</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Porabje</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Slovenian folk tradition</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">story-tellers</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">tales</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">etnologi</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">etnologija</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">folklorne pripovedi</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ljudske pripovedke</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ljudsko slovstvo</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Matičetov, Milko</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Porabje</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">povedke</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">pravljičarji</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">slovensko ljudsko izročilo</dc:subject>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">???978-961-05-0105-3</dc:identifier>
+      <meta refines="#pub-id"
+            property="identifier-type"
+            scheme="onix:codelist5">15</meta>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Pripovedno izročilo Slovencev v Porabju /  Marija Kozar Mukič  Dušan Monika Mukič Dušan Monika Kropej Telban Marija Kozar Mukič  Dušan Mukič Monika Kropej Telban</dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založnik ZRC SAZU Založba ZRC zalozba@zrc-sazu.si Novi trg 2, 1000 Ljubljana, SI-SLOVENIA, Izdajatelj Inštitut za slovensko narodopisje, Zanju OtoLuthar Ingrid Slavec Gradišnik, Glavni urednik založbe Pogačnik Aleš</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2018-02-12T12:00:00Z</dc:date>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2019-01-01135321</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
+      <meta name="cover" content="cover-image"/>
+      <meta property="dcterms:modified">2018-10-08T07:35:39Z</meta>
+   </metadata>
+   <manifest>
+      <item href="media/Porabje_FO.jpg"
+            id="cover-image"
+            properties="cover-image"
+            media-type="image/jpeg"/>
+      <item id="css" href="stylesheet.css" media-type="text/css"/>
+      <item id="print.css" href="print.css" media-type="text/css"/>
+      <item href="titlepage.xhtml"
+            id="titlepage"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage1.xhtml"
+            id="titlepage1"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage2.xhtml"
+            id="titlepage2"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepageback.xhtml"
+            id="titlepageback"
+            media-type="application/xhtml+xml"/>
+      <item id="toc"
+            properties="nav"
+            href="toc.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="start" href="index.xhtml" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section1"/>
+      <item href="index-front.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section2"/>
+      <item href="index-front.1_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section4"/>
+      <item href="index-front.1_div.4.xhtml"
+            media-type="application/xhtml+xml"
+            id="section5"/>
+      <item href="index-front.1_div.5.xhtml"
+            media-type="application/xhtml+xml"
+            id="section6"/>
+      <item href="index-front.1_div.6.xhtml"
+            media-type="application/xhtml+xml"
+            id="section7"/>
+      <item href="index-front.1_div.7.xhtml"
+            media-type="application/xhtml+xml"
+            id="section8"/>
+      <item href="index-front.1_div.8.xhtml"
+            media-type="application/xhtml+xml"
+            id="section9"/>
+      <item href="index-body.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section14"/>
+      <item href="index-body.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section271"/>
+      <item href="index-back.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section524"/>
+      <item href="index-back.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section525"/>
+      <item href="index-back.1_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section526"/>
+      <item href="index-back.1_div.4.xhtml"
+            media-type="application/xhtml+xml"
+            id="section527"/>
+      <item href="index-back.1_div.5.xhtml"
+            media-type="application/xhtml+xml"
+            id="section529"/>
+      <item href="image/logoZRCmoder.jpeg" id="image-1" media-type="image/jpeg"/>
+      <item href="media/Porabje_notranja.jpg"
+            id="image-4"
+            media-type="image/jpeg"/>
+      <item href="media/Porabje_zadnja.jpg"
+            id="image-5"
+            media-type="image/jpeg"/>
+      <item href="media/Porabje_CD.jpg" id="image-6" media-type="image/jpeg"/>
+      <item href="media/imageSloPra.png" id="image-7" media-type="image/png"/>
+      <item href="media/imageZRC.jpeg" id="image-8" media-type="image/jpeg"/>
+      <item href="media/emmi.png" id="image-9" media-type="image/png"/>
+      <item href="media/mizks.png" id="image-10" media-type="image/png"/>
+      <item href="media/F19.jpg" id="image-12" media-type="image/jpeg"/>
+      <item href="media/F23.jpg" id="image-13" media-type="image/jpeg"/>
+      <item href="media/F33.jpg" id="image-14" media-type="image/jpeg"/>
+      <item href="media/Porabske CD.jpg" id="image-15" media-type="image/jpeg"/>
+      <item href="media/F36.jpg" id="image-17" media-type="image/jpeg"/>
+      <item href="media/F54.jpg" id="image-22" media-type="image/jpeg"/>
+      <item href="media/F59.jpg" id="image-24" media-type="image/jpeg"/>
+      <item href="media/F84.jpg" id="image-26" media-type="image/jpeg"/>
+      <item href="media/F112.jpg" id="image-28" media-type="image/jpeg"/>
+      <item href="media/F160.jpg" id="image-33" media-type="image/jpeg"/>
+      <item href="media/F165.jpg" id="image-34" media-type="image/jpeg"/>
+      <item href="media/F181.jpg" id="image-35" media-type="image/jpeg"/>
+      <item href="media/F209.jpg" id="image-39" media-type="image/jpeg"/>
+      <item href="media/F290.jpg" id="image-47" media-type="image/jpeg"/>
+      <item href="media/F331.jpg" id="image-51" media-type="image/jpeg"/>
+      <item href="media/F345.jpg" id="image-52" media-type="image/jpeg"/>
+      <item href="media/F349.jpg" id="image-53" media-type="image/jpeg"/>
+      <item href="media/F353.jpg" id="image-54" media-type="image/jpeg"/>
+      <item href="media/F356.jpg" id="image-55" media-type="image/jpeg"/>
+      <item href="media/F358.jpg" id="image-56" media-type="image/jpeg"/>
+      <item href="media/F360.jpg" id="image-57" media-type="image/jpeg"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="titlepage1" linear="yes"/>
+      <itemref idref="titlepage2" linear="yes"/>
+      <itemref idref="start" linear="yes"/>
+      <itemref idref="section1" linear="yes"/>
+      <itemref idref="section2" linear="yes"/>
+      <itemref idref="section4" linear="yes"/>
+      <itemref idref="section5" linear="yes"/>
+      <itemref idref="section6" linear="yes"/>
+      <itemref idref="section7" linear="yes"/>
+      <itemref idref="section8" linear="yes"/>
+      <itemref idref="section9" linear="yes"/>
+      <itemref idref="section14" linear="yes"/>
+      <itemref idref="section271" linear="yes"/>
+      <itemref idref="section524" linear="yes"/>
+      <itemref idref="section525" linear="yes"/>
+      <itemref idref="section526" linear="yes"/>
+      <itemref idref="section527" linear="yes"/>
+      <itemref idref="section529" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
+   </spine>
+   <guide>
+      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" title="Start" href="index.xhtml"/>
+      <reference type="text" href="index-front.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.2.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.3.xhtml" title="VSEBINA"/>
+      <reference type="text" href="index-front.1_div.4.xhtml" title="Predgovor"/>
+      <reference type="text"
+                 href="index-front.1_div.5.xhtml"
+                 title="Porabski Slovenci in njihov jezik"/>
+      <reference type="text"
+                 href="index-front.1_div.6.xhtml"
+                 title="Porabsko pripovedno izročilo Milka Matičetovega"/>
+      <reference type="text" href="index-front.1_div.7.xhtml" title="Pripovedovalci"/>
+      <reference type="text"
+                 href="index-front.1_div.8.xhtml"
+                 title="Seznam pripovedovalcev"/>
+      <reference type="text"
+                 href="index-body.1_div.1.xhtml"
+                 title="Pripovedi v porabskem narečju"/>
+      <reference type="text"
+                 href="index-body.1_div.2.xhtml"
+                 title="Pripovedi v knjižnem jeziku"/>
+      <reference type="text" href="index-back.1_div.1.xhtml" title="Opombe"/>
+      <reference type="text"
+                 href="index-back.1_div.2.xhtml"
+                 title="Seznam pravljičnih tipov"/>
+      <reference type="text"
+                 href="index-back.1_div.3.xhtml"
+                 title="Slovarček manj znanih porabskih in madžarskih besed"/>
+      <reference type="text"
+                 href="index-back.1_div.4.xhtml"
+                 title="Szlovén mesemondók 2"/>
+      <reference type="text"
+                 href="index-back.1_div.5.xhtml"
+                 title="Slovene storytellers 2 Narrative Tradition of Slovenes Living in Porabje / Rába-vidék. Folktales and Legends on Milko Matičetov’s Sound Recordings"/>
+      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
+   </guide>
+</package>
