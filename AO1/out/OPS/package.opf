@@ -6,61 +6,64 @@
    <metadata xmlns:dcterms="http://purl.org/dc/terms/"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xmlns:opf="http://www.idpf.org/2007/opf">
-      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Avstro-ogrska monarhija v besedi in podobi – Slovenci 1.</dc:title>
       <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:spread">auto</meta>
-      <meta refines="#title" property="title-type">main</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator"> Ingrid Slavec Gradišnikin Monika Kropej Telban</dc:creator>
-      <meta refines="#creator" property="file-as">
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name"> Ingrid Slavec Gradišnik</span>in<span xmlns="http://www.w3.org/1999/xhtml" class="name"> Monika Kropej Telban</span>
-      </meta>
-      <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
-      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">19. st.</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Avstro-Ogrska</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">domoznanstvo</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">etnografija</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">habsburška monarhija</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Koroška</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ljudska kultura</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">materialna kultura</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">narodopisje</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Porabje</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Prekmurje</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Slovenci</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">slovenska ljudska kultura</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">slovensko ljudsko izročilo</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">slovstvena folklora</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Štajerska</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">19th century</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">area studies</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Austria-Hungary</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Carinthia</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ethnography</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">folk culture</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Habsburg monarchy</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">literary folklore</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">material culture</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Porabje</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Prekmurje</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Slovenes</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Slovenian folk culture</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Slovenian folk tradition</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Styria</dc:subject>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Avstro-ogrska monarhija v besedi in podobi – Slovenci 1.</dc:title>
+      <meta refines="#title1" property="title-type">main</meta>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title2">Štajerska, Porabje in Prekmurje, Koroška</dc:title>
+      <meta refines="#title2" property="title-type">subtitle</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator1">Monika Kropej Telban</dc:creator>
+      <meta refines="#creator1" property="file-as">Kropej Telban, Monika</meta>
+      <meta refines="#creator1" property="role" scheme="marc:relators">edt</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator2">Ingrid Slavec Gradišnik</dc:creator>
+      <meta refines="#creator2" property="file-as">Slavec Gradišnik, Ingrid</meta>
+      <meta refines="#creator2" property="role" scheme="marc:relators">edt</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">sl</dc:language>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">19. st.</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Avstro-Ogrska</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">domoznanstvo</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">etnografija</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">habsburška monarhija</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Koroška</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">ljudska kultura</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">materialna kultura</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">narodopisje</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Porabje</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Prekmurje</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Slovenci</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">slovenska ljudska kultura</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">slovensko ljudsko izročilo</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">slovstvena folklora</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Štajerska</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">19th century</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">area studies</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Austria-Hungary</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Carinthia</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">ethnography</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">folk culture</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Habsburg monarchy</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">literary folklore</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">material culture</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Porabje</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Prekmurje</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Slovenes</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Slovenian folk culture</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Slovenian folk tradition</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Styria</dc:subject>
       <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">???978-961-05-0105-3</dc:identifier>
       <meta refines="#pub-id"
             property="identifier-type"
             scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Avstro-ogrska monarhija v besedi in podobi – Slovenci 1. /  Ingrid Slavec Gradišnikin Monika Kropej Telban</dc:description>
-      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založnik ZRC SAZU Založba ZRC zalozba@zrc-sazu.si Novi trg 2, 1000 Ljubljana, SI-SLOVENIA, Izdajatelj Inštitut za slovensko narodopisje, Zanju Oto Luthar Ingrid Slavec Gradišnik, Glavni urednik založbe Pogačnik Aleš</dc:publisher>
-      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2016-07-12T12:00:00Z</dc:date>
-      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2019-01-01135321</dc:date>
-      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Avstro-ogrska monarhija v besedi in podobi – Slovenci je komentiran prevod etnografskih poglavij o Slovencih iz knjižne zbirke Die österreichisch-ungarische Monarchie in Wort und Bild , ki je nastajala v zadnjih dveh desetletjih 19. stoletja na pobudo prestolonaslednika nadvojvode Rudolfa (1858–1889) kot domoznanska zbirka z enciklopedičnimi ambicijami. Izhajala je v nemški in madžarski redakciji, po snopičih, ki so zvezani v 24 oz. 21 knjigah, izdanih na Dunaju in v Budimpešti. Vsebina je v vseh razporejena v enotnem zaporedju poglavij o pokrajinskih značilnostih, predzgodovini, zgodovini, narodopisju, glasbi, književnosti, arhitekturi, slikarstvu in kiparstvu, obrti in gospodarskem življenju. Cilj dela je bila enakovredna predstavitev vseh narodov dvojne monarhije, ki bi prispevala h krepitvi in spoštovanju »različnosti v enosti«. V tej knjigi so objavljena poglavja o Štajerski, Porabju in Prekmurju ter Koroški, spremljajo jih komentarji o značaju zbirke in o obravnavah slovenske narodopisne podobe, materialne kulture ter pripovednega in pesemskega izročila. Druga knjiga (Kranjska in Primorje) je izšla leta 2018.</dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ZRC SAZU</dc:publisher>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2019-07-05T17:10:14.565+02:00</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2016, 2019 ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-10-08T09:24:18Z</meta>
+      <meta property="dcterms:modified">2019-07-05T15:10:14Z</meta>
    </metadata>
    <manifest>
-      <item href="media/AO1_1.jpg"
+      <item href="image/AO1_1.jpg"
             id="cover-image"
             properties="cover-image"
             media-type="image/jpeg"/>
@@ -111,9 +114,10 @@
             media-type="application/xhtml+xml"
             id="section43"/>
       <item href="image/logoZRCmoder.jpeg" id="image-1" media-type="image/jpeg"/>
-      <item href="media/AO1_2.jpg" id="image-4" media-type="image/jpeg"/>
-      <item href="media/AO1_3.jpg" id="image-5" media-type="image/jpeg"/>
-      <item href="media/AO1_4.jpg" id="image-6" media-type="image/jpeg"/>
+      <item href="image/AO1_2.jpg" id="image-4" media-type="image/jpeg"/>
+      <item href="image/AO1_3.jpg" id="image-5" media-type="image/jpeg"/>
+      <item href="image/AO1_4.jpg" id="image-6" media-type="image/jpeg"/>
+      <item href="image/logoZRCmoder.jpg" id="image-7" media-type="image/jpeg"/>
       <item href="image/predlist1.jpg" id="image-8" media-type="image/jpeg"/>
       <item href="image/vezni.jpg" id="image-9" media-type="image/jpeg"/>
       <item href="image/Slika_1_GRAY.jpg" id="image-10" media-type="image/jpeg"/>

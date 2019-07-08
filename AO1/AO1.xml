@@ -6,11 +6,13 @@
                 <title type="main" level="m" xml:lang="sl">Avstro-ogrska monarhija v besedi in
                     podobi – Slovenci 1.</title>
                 <title type="sub" xml:lang="sl">Štajerska, Porabje in Prekmurje, Koroška</title>
-                <editor role="Uredili">
+                <editor>
                     <persName type="edt">
                         <forename>Monika</forename>
                         <surname>Kropej Telban</surname>
                     </persName>
+                </editor>
+                <editor>
                     <persName type="edt">
                         <forename>Ingrid</forename>
                         <surname>Slavec Gradišnik</surname>
@@ -181,13 +183,13 @@
     </teiHeader>
     <facsimile>
         <surface xml:id="front_out">
-            <graphic url="media/AO1_1.jpg"/>
+            <graphic url="image/AO1_1.jpg"/>
         </surface>
         <surface xml:id="covers">
-            <graphic url="media/AO1_1.jpg"/>
-            <graphic url="media/AO1_2.jpg"/>
-            <graphic url="media/AO1_3.jpg"/>
-            <graphic url="media/AO1_4.jpg"/>
+            <graphic url="image/AO1_1.jpg"/>
+            <graphic url="image/AO1_2.jpg"/>
+            <graphic url="image/AO1_3.jpg"/>
+            <graphic url="image/AO1_4.jpg"/>
         </surface>
     </facsimile>
     <text>
@@ -198,7 +200,7 @@
                     <name>
                         <forename>Ingrid</forename>
                         <surname>Slavec Gradišnik</surname>
-                    </name>in<name>
+                    </name> in <name>
                         <forename>Monika</forename>
                         <surname>Kropej Telban</surname>
                     </name>
@@ -221,10 +223,10 @@
                     </note>
                 </docEdition>
                 <docImprint>
-                    <publisher>ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC<figure>
-                            <graphic url="image/logoZRCmoder.jpeg"/>
-                        </figure>
-                    </publisher>
+                    <publisher>ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC</publisher>
+                    <figure>
+                        <graphic url="image/logoZRCmoder.jpg"/>
+                    </figure>
                     <placeName>Ljubljana</placeName>
                     <date>2019</date>
                 </docImprint>
@@ -300,7 +302,7 @@
                         et al.]. - 1. izd., 1. natis. - Ljubljana : Založba ZRC, ZRC SAZU, 2016</p>
                     <p>Prevod dela: Die österreichisch-ungarische Monarchie in Wort und Bild</p>
                     <p>ISBN 978-961-254-913-8</p>
-                    <p>284965376</p>
+                    <p><ref target="https://plus.si.cobiss.net/opac7/bib/284965376">284965376</ref></p>
                 </div>
             </div>
             <div type="title">
