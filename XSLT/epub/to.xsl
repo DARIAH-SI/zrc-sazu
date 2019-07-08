@@ -7,7 +7,7 @@
   xpath-default-namespace="http://www.tei-c.org/ns/1.0">
 
   <!-- import https://raw.githubusercontent.com/TEIC/Stylesheets/dev/epub3/tei-to-epub3.xsl -->
-  <xsl:import href="../../../publikacije-XSLT/Stylesheets-master/epub3/tei-to-epub3.xsl"/>
+  <xsl:import href="../../../../pub-XSLT/tei-xsl-7.47.0/xml/tei/stylesheet/epub3/tei-to-epub3.xsl"/>
 
   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="stylesheet" type="stylesheet">
     <desc>
@@ -705,12 +705,33 @@ height: </xsl:text>
             <body>
               <div style="text-align: left; font-size: larger">
                 <h2>Information about this book</h2>
-                <xsl:for-each select="/*/tei:teiHeader/tei:fileDesc">
+                <!--<xsl:for-each select="/*/tei:teiHeader/tei:fileDesc">
                   <xsl:apply-templates mode="metadata"/>
                 </xsl:for-each>
                 <xsl:for-each select="/*/tei:teiHeader/tei:encodingDesc">
                   <xsl:apply-templates mode="metadata"/>
+                </xsl:for-each>-->
+                <!-- Glede na zahteve ZRC-SAZU je drugačno procesiranje podatkov iz teiHeader za to stran kot pa pri prvotni TEI pretvorbi -->
+                <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl">
+                  <div style="text-align: left; font-size: larger;">
+                    <h3>
+                      <xsl:apply-templates select="tei:edition"/>
+                    </h3>
+                    <!-- povezljivost s front bi bilo potrebno še doreči, zato začasno dajem to samo pri potencialno prvo procesiranih podatkih o predhodnih izdajah -->
+                    <xsl:if test="position() = 1">
+                      <xsl:for-each select="ancestor-or-self::tei:TEI/tei:text/tei:front//tei:div[@type='CIP']">
+                        <div class="box">
+                          <xsl:apply-templates/>
+                          <xsl:for-each select=" ancestor::tei:TEI/tei:facsimile/tei:surface[@xml:id='covers']/tei:graphic">
+                            <xsl:sort select="@url"/>
+                            <img src="{@url}" alt="" class="graphic" style="height: 5cm;" />
+                          </xsl:for-each>
+                        </div>
+                      </xsl:for-each>
+                    </xsl:if>
+                  </div>
                 </xsl:for-each>
+                
               </div>
             </body>
           </html>
@@ -902,8 +923,7 @@ height: </xsl:text>
     <xsl:call-template name="getgraphics"/>
 
   </xsl:template>
-
-
+  
   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
     <desc>V pagebrake odstranim oblikovanje: dodano besedilo [page ]</desc>
   </doc>
@@ -1311,6 +1331,274 @@ height: </xsl:text>
         </ul>
       </xsl:otherwise>
     </xsl:choose>
+  </xsl:template>
+  
+  <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+    <desc>teiHeader metadata to metadata in OPF file</desc>
+    <param name="author"></param>
+    <param name="printAuthor"></param>
+    <param name="printAuthor"></param>
+    <param name="coverImageOutside"></param>
+  </doc>
+  <xsl:template name="opfmetadata">
+    <xsl:param name="author"/>
+    <xsl:param name="printAuthor"/>
+    <xsl:param name="coverImageOutside"/>
+    <xsl:attribute name="prefix">
+      <xsl:text>rendition: http://www.idpf.org/vocab/rendition#</xsl:text>
+    </xsl:attribute>
+    <metadata xmlns="http://www.idpf.org/2007/opf"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:dcterms="http://purl.org/dc/terms/" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns:opf="http://www.idpf.org/2007/opf">
+      <!--<dc:title id="title">
+        <xsl:sequence select="tei:generateSimpleTitle(.)"/>
+      </dc:title>-->
+      <xsl:choose>
+        <xsl:when test="$filePerPage='true'">
+          <meta property="rendition:layout">pre-paginated</meta>
+          <meta property="rendition:orientation">auto</meta>
+          <meta property="rendition:spread">both</meta>
+        </xsl:when>
+        <xsl:otherwise>
+          <meta property="rendition:layout">reflowable</meta>
+          <meta property="rendition:spread">auto</meta>
+        </xsl:otherwise>
+      </xsl:choose>
+      <!--<meta refines="#title" property="title-type">main</meta>-->
+      <!-- dodam svoje procesiranje za title, ki je usklajen z navodili ZRC-SAZU -->
+      <xsl:if test="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='main']">
+        <dc:title id="title1">
+          <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='main']">
+            <xsl:value-of select="normalize-space(.)"/>
+            <xsl:if test="following-sibling::tei:title[@type='main']">
+              <xsl:text> / </xsl:text>
+            </xsl:if>
+          </xsl:for-each>
+        </dc:title>
+        <meta refines="#title1" property="title-type">main</meta>
+      </xsl:if>
+      <xsl:if test="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='short']">
+        <meta refines="#title1" property="file-as">
+          <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='short']">
+            <xsl:value-of select="normalize-space(.)"/>
+            <xsl:if test="following-sibling::tei:title[@type='main']">
+              <xsl:text> / </xsl:text>
+            </xsl:if>
+          </xsl:for-each>
+        </meta>
+      </xsl:if>
+      <xsl:if test="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='sub']">
+        <dc:title id="title2">
+          <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='sub']">
+            <xsl:value-of select="normalize-space(.)"/>
+            <xsl:if test="following-sibling::tei:title[@type='sub']">
+              <xsl:text> / </xsl:text>
+            </xsl:if>
+          </xsl:for-each>
+          <xsl:variable name="partTitle">
+            <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='part']">
+              <xsl:value-of select="normalize-space(.)"/>
+              <xsl:if test="following-sibling::tei:title[@type='part']">
+                <xsl:text> / </xsl:text>
+              </xsl:if>
+            </xsl:for-each>
+          </xsl:variable>
+          <xsl:variable name="volumneTitle">
+            <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='volumne']">
+              <xsl:value-of select="normalize-space(.)"/>
+              <xsl:if test="following-sibling::tei:title[@type='volumne']">
+                <xsl:text> / </xsl:text>
+              </xsl:if>
+            </xsl:for-each>
+          </xsl:variable>
+          <xsl:variable name="descTitle">
+            <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='desc']">
+              <xsl:value-of select="normalize-space(.)"/>
+              <xsl:if test="following-sibling::tei:title[@type='desc']">
+                <xsl:text> / </xsl:text>
+              </xsl:if>
+            </xsl:for-each>
+          </xsl:variable>
+          <xsl:if test="string-length($partTitle) gt 0">
+            <xsl:value-of select="concat('. ',$partTitle)"/>
+          </xsl:if>
+          <xsl:if test="string-length($volumneTitle) gt 0">
+            <xsl:value-of select="concat('. ',$volumneTitle)"/>
+          </xsl:if>
+          <xsl:if test="string-length($descTitle) gt 0">
+            <xsl:value-of select="concat('. ',$descTitle)"/>
+          </xsl:if>
+        </dc:title>
+        <meta refines="#title2" property="title-type">subtitle</meta>
+      </xsl:if>
+      
+      <!--<dc:creator id="creator">
+        <xsl:sequence select="if ($printAuthor !='') then $printAuthor
+          else 'not recorded'"/>
+      </dc:creator>
+      <meta refines="#creator" property="file-as">
+        <xsl:sequence select="if ($author !='') then $author
+          else 'not recorded'"/>
+      </meta>
+      <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>-->
+      <!-- dam procesiranje editor in author v skladu z zahtevami ZRC-SAZU -->
+      <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author | ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:editor">
+        <xsl:variable name="creatorPosition" select="position()"/>
+        <xsl:variable name="besedilo">
+          <xsl:apply-templates mode="besedilo"/>
+        </xsl:variable>
+        <dc:creator id="creator{$creatorPosition}">
+          <xsl:value-of select="normalize-space($besedilo)"/>
+        </dc:creator>
+        <meta refines="#creator{$creatorPosition}" property="file-as">
+          <xsl:for-each select=".//tei:surname">
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+              <xsl:text> </xsl:text>
+            </xsl:if>
+          </xsl:for-each>
+          <xsl:if test=".//tei:forename">
+            <xsl:text>, </xsl:text>
+          </xsl:if>
+          <xsl:for-each select=".//tei:forename">
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+              <xsl:text> </xsl:text>
+            </xsl:if>
+          </xsl:for-each>
+        </meta>
+        <xsl:if test="tei:persName/@type">
+          <meta refines="#creator{$creatorPosition}" property="role" scheme="marc:relators">
+            <xsl:value-of select="tei:persName/@type"/>
+          </meta>
+        </xsl:if>
+      </xsl:for-each>
+      
+      <!--<dc:language>
+        <xsl:call-template name="generateLanguage"/>
+      </dc:language>-->
+      <!-- jezikovna koda v skladu z zahtevami ZRC-SAZU -->
+      <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:profileDesc/tei:langUsage/tei:language">
+        <dc:language>
+          <xsl:value-of select="@ident"/>
+        </dc:language>
+      </xsl:for-each>
+      
+      <xsl:call-template name="generateSubject"/>
+      
+      <!-- template generateID izpiše prvi TEI/teiHeader/fileDesc/publicationStmt/idno[1], zahteva ZRC-SAZU pa je, da se upoštevata vrednosti @tylpe in @subtype -->
+      <dc:identifier id="pub-id">
+        <!--<xsl:call-template name="generateID"/>-->
+        <xsl:value-of select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:idno[@type='ISBN'][@subtype='epub']"/>
+      </dc:identifier>
+      <meta refines="#pub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+      
+      <!-- zahteva ZRC-SAZU: v dc:description je vedno vrednost teiheader/profileDesc/abstract, zato odstranim originalno TEI procesiranje -->
+      <!--<dc:description>
+        <xsl:sequence select="tei:generateSimpleTitle(.)"/>
+        <xsl:text> / </xsl:text>
+        <xsl:value-of select="$author"/>
+      </dc:description>-->
+      <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:profileDesc/tei:abstract">
+        <xsl:variable name="besedilo">
+          <xsl:apply-templates mode="besedilo"/>
+        </xsl:variable>
+        <dc:description>
+          <xsl:if test="@xml:lang">
+            <xsl:attribute name="xml:lang">
+              <xsl:value-of select="@xml:lang"/>
+            </xsl:attribute>
+          </xsl:if>
+          <xsl:value-of select="normalize-space($besedilo)"/>
+        </dc:description>
+      </xsl:for-each>
+      
+      <!--<dc:publisher>
+        <xsl:sequence select="tei:generatePublisher(.,$publisher)"/>
+      </dc:publisher>-->
+      <!-- specifično procesiranje publisher glede na zahteve ZRC-SAZU -->
+      <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:publisher/tei:orgName">
+        <dc:publisher>
+          <xsl:value-of select="normalize-space(text()[1])"/>
+        </dc:publisher>
+      </xsl:for-each>
+      
+      <!-- Po pravilih http://www.idpf.org/epub/30/spec/epub30-publications.html je lahko samo en dc:date metapodatek, zato je originalno TEI procesiranje lahko napačno -->
+      <!--<xsl:for-each select="tei:teiHeader/tei:profileDesc/tei:creation/tei:date[@notAfter]">
+        <dc:date id="creation">
+          <xsl:value-of select="@notAfter"/>
+        </dc:date>
+      </xsl:for-each>
+      <xsl:for-each select="tei:teiHeader/tei:fileDesc/tei:sourceDesc//tei:date[@when][1]">
+        <dc:date id="original-publication">
+          <xsl:value-of select="@when"/>
+        </dc:date>
+      </xsl:for-each>
+      <dc:date id="epub-publication">
+        <xsl:sequence select="replace(tei:generateDate(.)[1],'[^0-9\-]+','')"/>
+      </dc:date>-->
+      
+      <dc:date id="epub-publication">
+        <xsl:value-of select="current-dateTime()"/>
+      </dc:date>
+      
+      <!--<dc:rights>
+        <xsl:call-template name="generateLicence"/>
+      </dc:rights>-->
+      <!-- generiranje avtorske pravice v skladu z zahtevo ZRC-SAZU -->
+      <xsl:for-each select="ancestor-or-self::tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability/tei:p[contains(.,'©') or contains(.,'CC')]">
+        <dc:rights>
+          <xsl:value-of select="normalize-space(.)"/>
+        </dc:rights>
+      </xsl:for-each>
+      
+      <xsl:if test="not($coverImageOutside='')">
+        <meta name="cover" content="cover-image"/>
+      </xsl:if>	
+      <meta property="dcterms:modified">
+        <xsl:sequence select="tei:whatsTheDate()"/>
+      </meta>
+    </metadata>
+  </xsl:template>
+  
+  <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+    <desc>Procesira besedilo child elementov tako, da so presledki tudi med parent in child text()</desc>
+  </doc>
+  <xsl:template match="node()" mode="besedilo" xml:space="preserve">
+      <xsl:copy>
+          <xsl:apply-templates select="node()" mode="besedilo"/>
+      </xsl:copy>
+  </xsl:template>
+  
+  <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+    <desc>[epub] Set subject</desc>
+  </doc>
+  <xsl:template name="generateSubject">
+    <!-- ne vem, kje dobijo to variablo $subject: mogoče lahko to vrednost daš kot parameter? -->
+    <xsl:if test="not($subject='')">
+      <dc:subject>
+        <xsl:value-of select="$subject"/>
+      </dc:subject>
+    </xsl:if>
+    <xsl:call-template name="generateSubjectHook"/>
+    <xsl:for-each select="tei:teiHeader/tei:profileDesc/tei:textClass/tei:keywords/tei:term">
+      <!-- ZRC-SAZU bi upporabljal to možnost, vendar je potrebno dodati še @xml:lang -->
+      <dc:subject>
+        <xsl:if test="@xml:lang">
+          <xsl:attribute name="xml:lang">
+            <xsl:value-of select="@xml:lang"/>
+          </xsl:attribute>
+        </xsl:if>
+        <xsl:value-of select="."/>
+      </dc:subject>
+    </xsl:for-each>
+    <xsl:for-each select="tei:teiHeader/tei:profileDesc/tei:textClass/tei:keywords/tei:list/tei:item">
+      <dc:subject>
+        <xsl:value-of select="."/>
+      </dc:subject>
+    </xsl:for-each>
   </xsl:template>
   
 
