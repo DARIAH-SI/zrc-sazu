@@ -28,7 +28,7 @@
                 <funder><note>???Pretvorbo je omogočila Javna agencija za knjigo iz naslova razpisa
                         za leto 2019.</note></funder>
                 <sponsor><note>ZRC SAZU, Inštitut za kulturno zgodovino, Založba ZRC<figure>
-                            <graphic url="image/logoZRCmoder.jpeg"/>
+                            <graphic url="media/logoZRCmoder.jpg"/>
                         </figure></note></sponsor>
             </editionStmt>
             <publicationStmt>
@@ -123,7 +123,7 @@
     </teiHeader>
     <facsimile>
         <surface xml:id="front_out" type="covers">
-            <graphic n="1001" url="media/Osebnosti.png"/>
+            <graphic n="1001" url="media/Osebnosti.jpg"/>
         </surface>
     </facsimile>
     <text>
@@ -289,7 +289,7 @@
                 <docAuthor>Mojca Kreft </docAuthor>
                 <head type="main">JOŽE BABIČ</head>
                 <figure>
-                    <graphic url="01.png"/>
+                    <graphic url="media/01.png"/>
                     <head type="sub"><hi rend="bold">Babič, Jože</hi>, režiser, igralec, dramaturg
                         (* Povžane, 13. februar 1917 – † Ljubljana, 10. maj 1996)</head>
                 </figure>
@@ -870,7 +870,7 @@
                 <docAuthor>Silva Bandelj, Bojana Bajec</docAuthor>
                 <head type="main">ZOFIJA BORŠTNIK ZVONARJEVA</head>
                 <figure>
-                    <graphic url="02.png"/>
+                    <graphic url="media/02.png"/>
                     <head type="sub"><hi rend="bold">Borštnik Zvonarjeva, Zofija</hi>, igralka (*
                         Ljubljana, 15. maj 1868 – † Zagreb, 3. december 1948)</head>
                 </figure>
@@ -1513,7 +1513,7 @@
                 <docAuthor>Melita Forstnerič Hajnšek</docAuthor>
                 <head type="main">META HOČEVAR</head>
                 <figure>
-                    <graphic url="03.png"/>
+                    <graphic url="media/03.png"/>
                     <head type="sub"><hi rend="bold">Hočevar, Meta</hi>, scenografka, kostumografka,
                         režiserka (* Ljubljana, 22. januar 1942)</head>
                 </figure>
@@ -2082,7 +2082,7 @@
                 <docAuthor>Jernej Novak</docAuthor>
                 <head type="main">RUDI KOSMAČ</head>
                 <figure>
-                    <graphic url="04.png"/>
+                    <graphic url="media/04.png"/>
                     <head type="sub"><hi rend="bold">Kosmač, Rudi</hi>, igralec, gledališki pedagog
                         (* Dovje, 23. junij 1932 – † Ljubljana, 29. september 1981)</head>
                 </figure>
@@ -2790,7 +2790,7 @@
                 <docAuthor>Primož Jesenko</docAuthor>
                 <head type="main">JERNEJ LORENCI</head>
                 <figure>
-                    <graphic url="05.png"/>
+                    <graphic url="media/05.png"/>
                     <head type="sub"><hi rend="bold">Lorenci, Jernej</hi>, gledališki režiser in
                         pedagog (* Maribor, 17. 12. 1973)</head>
                 </figure>
@@ -3736,7 +3736,7 @@
                 <docAuthor>Peter Rak</docAuthor>
                 <head type="main">MARKO MANDIĆ</head>
                 <figure>
-                    <graphic url="06.png"/>
+                    <graphic url="media/06.png"/>
                     <head type="sub"><hi rend="bold">Mandić, Marko</hi>, gledališki in filmski
                         igralec (* Slovenj Gradec, 8. junij 1974)</head>
                 </figure>
@@ -4007,7 +4007,7 @@
                 <docAuthor>Tea Rogelj</docAuthor>
                 <head type="main">JETTE OSTAN VEJRUP</head>
                 <figure>
-                    <graphic url="07.png"/>
+                    <graphic url="media/07.png"/>
                     <head type="sub"><hi rend="bold">Ostan Vejrup, Jette</hi>, igralka (* Gørding,
                         Danska, 27. julij 1962)</head>
                 </figure>
@@ -5061,7 +5061,7 @@
                 <docAuthor>Blaž Lukan</docAuthor>
                 <head type="main">TOMAŽ PANDUR</head>
                 <figure>
-                    <graphic url="08.png"/>
+                    <graphic url="media/08.png"/>
                     <head type="sub"><hi rend="bold">Pandur, Tomaž, </hi>gledališki režiser (*
                         Maribor, 19. februar 1963 – † Skopje, 12. april 2016)</head>
                 </figure>
@@ -6314,7 +6314,7 @@
                 <docAuthor>Darka Zvonar Predan</docAuthor>
                 <head type="main">DUŠA POČKAJ</head>
                 <figure>
-                    <graphic url="09.png"/>
+                    <graphic url="media/09.png"/>
                     <head type="sub"><hi rend="bold">Počkaj, Duša</hi>, igralka (* Lendava, 16.
                         november 1924 – † Ljubljana, 24. junij 1982)</head>
                 </figure>
@@ -7070,7 +7070,7 @@
                 <docAuthor>Saša Pavček</docAuthor>
                 <head type="main">JERNEJ ŠUGMAN</head>
                 <figure>
-                    <graphic url="10.png"/>
+                    <graphic url="media/10.png"/>
                     <head type="sub"><hi rend="bold">Šugman, Jernej</hi>, gledališki in filmski
                         igralec, prvak SNG Drama Ljubljana (* Ljubljana, 23. december 1968 – †
                         Podljubelj, 10. december 2017)</head>
@@ -7719,7 +7719,7 @@
                 <docAuthor>Tone Partljič</docAuthor>
                 <head type="main">ARNOLD TOVORNIK</head>
                 <figure>
-                    <graphic url="11.png"/>
+                    <graphic url="media/11.png"/>
                     <head type="sub"><hi rend="bold">Tovornik, Arnold</hi>, gledališki in filmski
                         igralec (* Selnica ob Dravi, 13. marec 1916 – † Maribor, 4. junij
                         1976)</head>
@@ -8249,7 +8249,7 @@
                 <docAuthor>Neža Zajc</docAuthor>
                 <head type="main">DANE ZAJC</head>
                 <figure>
-                    <graphic url="12.png"/>
+                    <graphic url="media/12.png"/>
                     <head type="sub"><hi rend="bold">Zajc, Dane</hi>, pesnik, dramatik (* Zg.
                         Javorščica, 28. oktober 1929 – † Golnik, 20. oktober 2005)</head>
                 </figure>
@@ -9490,7 +9490,7 @@
                 <docAuthor>Bojan Anđelković</docAuthor>
                 <head type="main">DRAGAN ŽIVADINOV</head>
                 <figure>
-                    <graphic url="13.png"/>
+                    <graphic url="media/13.png"/>
                     <head type="sub"><hi rend="bold">Živadinov, Dragan</hi>, gledališki režiser,
                         retrogardist, postgravitacijski umetnik (* Ilirska Bistrica, 24. januar
                         1960) </head>

@@ -34,7 +34,7 @@
                 <funder><note>???Pretvorbo je omogočila Javna agencija za knjigo iz naslova razpisa
                         za leto 2019.</note></funder>
                 <sponsor><note>ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC<figure>
-                            <graphic url="image/logoZRCmoder.jpeg"/>
+                            <graphic url="image/logoZRCmoder.jpg"/>
                         </figure></note></sponsor>
             </editionStmt>
             <publicationStmt>
@@ -207,7 +207,7 @@
             <div type="halftitle">
                 <pb n="[1]" xml:id="pb.1"/>
                 <figure>
-                    <graphic n="1001" url="media/zborzbirk_logo.jpeg" rend="align(right)"/>
+                    <graphic n="1001" url="media/zborzbirk_logo.jpg" rend="align(right)"/>
                 </figure>
                 <p><hi rend="bold">Fiabe resiane <lb/> Rezijanske pravljice <lb/> Pravice po
                         rozajanskin</hi></p>
@@ -378,9 +378,6 @@
                         <cell>13.12.1962, T 122A</cell>
                         <cell/>
                     </row>
-                    <row>
-                        <cell/>
-                    </row>
                 </table>
             </div>
             <div type="foreword">
@@ -498,10 +495,12 @@
         <body>
             <div type="ss1">
                 <div type="ss2" xml:lang="it" xml:id="FRS1" corresp="#REP1">
-                    <head><ref target="media/01FR.mp3"><figure>
-                                <graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/>
-                            </figure></ref><pb n="7" xml:id="pb.7"/><hi rend="bold">1</hi> Il
+                    <pb n="7" xml:id="pb.7"/>
+                    <head><hi rend="bold">1</hi> Il
                         castello di Bombavello</head>
+                    <figure>
+                        <media url="media/01FR.mp3" mimeType="audio/mpeg"/>
+                    </figure>
                     <opener>Pasqua Di Lenardo — Paska Dulica</opener>
                     <p>C’era una volta un principe, il figlio di un re. Allora questo principe andò
                         a caccia su una riviera e, dopo aver camminato un bel po’, arrivò in un
@@ -847,10 +846,12 @@
                         la città sventolavano le bandiere e così la storia è finita.</p>
                 </div>
                 <div type="ss2" xml:lang="it" xml:id="FRS2" corresp="#REP2">
-                    <head><ref target="media/02FR.mp3"><figure>
-                                <graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/>
-                            </figure></ref><pb n="17" xml:id="pb.17"/><hi rend="bold">2</hi> Quella
+                    <pb n="17" xml:id="pb.17"/>
+                    <head><hi rend="bold">2</hi> Quella
                         del pesce</head>
+                    <figure>
+                        <media url="media/02FR.mp3" mimeType="audio/mpeg"/>
+                    </figure>
                     <opener>Edda Di Lenardo Krukiž</opener>
                     <p>Allora racconto quella del pesce. C’era un pescatore che aveva tre figlie e
                         andava sempre a pesca ma un giorno non riuscì a pescare proprio nulla.</p>
@@ -1023,9 +1024,11 @@
                         vicino a sua madre, alla moglie e al bambino.</p>
                 </div>
                 <div type="ss2" xml:lang="it" xml:id="FRS3" corresp="#REP3">
-                    <head><ref target="media/03FR.mp3"><figure>
-                                <graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/>
-                            </figure></ref><pb n="22" xml:id="pb.22"/><hi rend="bold">3</hi></head>
+                    <pb n="22" xml:id="pb.22"/>
+                    <head><hi rend="bold">3</hi></head>
+                    <figure>
+                        <media url="media/03FR.mp3" mimeType="audio/mpeg"/>
+                    </figure>
                     <p>Il marito, la moglie e il diavolo</p>
                     <p>Marcellina Madotto — Ćikarïnawa</p>
                     <p>C’erano una volta un marito e una moglie che avevano dodici bambini e l’uomo,
@@ -1118,10 +1121,12 @@
                         finita tanto che il diavolo se ne andò senza portarsi via il bambino.</p>
                 </div>
                 <div type="ss2" xml:lang="it" xml:id="FRS4" corresp="#REP4">
-                    <head><ref target="media/04FR.mp3"><figure>
-                                <graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/>
-                            </figure></ref><pb n="25" xml:id="pb.25"/><hi rend="bold">4</hi> L’uomo
+                    <pb n="25" xml:id="pb.25"/>
+                    <head><hi rend="bold">4</hi> L’uomo
                         che andò a vendere i buoi al mercato</head>
+                    <figure>
+                        <media url="media/04FR.mp3" mimeType="audio/mpeg"/>
+                    </figure>
                     <opener>Valentina Pielich — Tïna Wajtawa</opener>
                     <p>C’era una volta un uomo che aveva dei buoi molto belli e disse alla
                         moglie:</p>
@@ -1196,10 +1201,12 @@
                         sapere di quale santa donna si trattasse, così nessuno andò più lassù.</p>
                 </div>
                 <div type="ss2" xml:lang="it" xml:id="FRS5" corresp="#REP5">
-                    <head><ref target="media/05FR.mp3"><figure>
-                                <graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/>
-                            </figure></ref><pb n="28" xml:id="pb.28"/><hi rend="bold">5</hi>
+                    <pb n="28" xml:id="pb.28"/>
+                    <head><hi rend="bold">5</hi>
                         Gardiniza e la formica</head>
+                    <figure>
+                        <media url="media/05FR.mp3" mimeType="audio/mpeg"/>
+                    </figure>
                     <opener>Vito Chinese Hoģin</opener>
                     <p>C’era una donna anziana che viveva fuori dal paese e per attingere l’acqua
                         doveva percorrere molta strada prima raggiungere un luogo lontano, molto
@@ -1256,10 +1263,12 @@
                         gardiniza. E adesso la storia è finita.</p>
                 </div>
                 <div type="ss2" xml:lang="it" xml:id="FRS6" corresp="#REP6">
-                    <head><ref target="media/06FR.mp3"><figure>
-                                <graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/>
-                            </figure></ref><pb n="30" xml:id="pb.30"/><hi rend="bold">6</hi> La
+                    <pb n="30" xml:id="pb.30"/>
+                    <head><hi rend="bold">6</hi> La
                         volpe che voleva misurare il monte Stožje</head>
+                    <figure>
+                        <media url="media/06FR.mp3" mimeType="audio/mpeg"/>
+                    </figure>
                     <opener>Anna Di Battista Fefawa</opener>
                     <p>C’era una volta la volpe che non sapeva come procurarsi la carne per i suoi
                         piccoli. Dunque un giorno partì e, dopo aver camminato a lungo, vide un
@@ -1299,10 +1308,12 @@
                         Così non si saprà mai quanto è alta quella montagna.</p>
                 </div>
                 <div type="ss2" xml:lang="it" xml:id="FRS7" corresp="#REP7">
-                    <head><ref target="media/07FR.mp3"><figure>
-                                <graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/>
-                            </figure></ref><pb n="32" xml:id="pb.32"/><hi rend="bold">7</hi> A casa,
+                    <pb n="32" xml:id="pb.32"/>
+                    <head><hi rend="bold">7</hi> A casa,
                         a casa Bruna, Maura!</head>
+                    <figure>
+                        <media url="media/07FR.mp3" mimeType="audio/mpeg"/>
+                    </figure>
                     <opener>Maria Paletti Rozaljina</opener>
                     <p>C’era una volta una donna anziana, una del nostro paese, che a Carnizza aveva
                         uno stavolo dove teneva le mucche, il maiale, i vitelli, le pecore, le capre

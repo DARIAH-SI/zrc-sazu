@@ -6,54 +6,53 @@
    <metadata xmlns:dcterms="http://purl.org/dc/terms/"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xmlns:opf="http://www.idpf.org/2007/opf">
-      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Pripovedno izročilo Slovencev v Porabju</dc:title>
       <meta property="rendition:layout">reflowable</meta>
       <meta property="rendition:spread">auto</meta>
-      <meta refines="#title" property="title-type">main</meta>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator"> Marija Kozar Mukič  Dušan Monika Mukič Dušan Monika Kropej Telban Marija Kozar Mukič  Dušan Mukič Monika Kropej Telban</dc:creator>
-      <meta refines="#creator" property="file-as">
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName"> Marija Kozar Mukič</span> 
-            <span class="persName"> Dušan Monika Mukič<span class="persName"/> Dušan Monika Kropej Telban</span>
-         </span>
-         <span xmlns="http://www.w3.org/1999/xhtml" class="name">
-            <span class="persName"> Marija Kozar Mukič</span> 
-            <span class="persName"> Dušan Mukič<span class="persName"> Monika Kropej Telban</span>
-            </span>
-         </span>
-      </meta>
-      <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
-      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ethnologists</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ethnology</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">folk literature</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">folk tales</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Matičetov, Milko</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Porabje</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Slovenian folk tradition</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">story-tellers</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">tales</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">etnologi</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">etnologija</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">folklorne pripovedi</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ljudske pripovedke</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ljudsko slovstvo</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Matičetov, Milko</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Porabje</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">povedke</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">pravljičarji</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">slovensko ljudsko izročilo</dc:subject>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Pripovedno izročilo Slovencev v Porabju</dc:title>
+      <meta refines="#title1" property="title-type">main</meta>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title2">Pravljice in povedke z zvočnih posnetkov Milka Matičetovega</dc:title>
+      <meta refines="#title2" property="title-type">subtitle</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator1">Marija Kozar Mukič</dc:creator>
+      <meta refines="#creator1" property="file-as">Kozar Mukič, Marija</meta>
+      <meta refines="#creator1" property="role" scheme="marc:relators">edt</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator2">Dušan Mukič</dc:creator>
+      <meta refines="#creator2" property="file-as">Mukič, Dušan</meta>
+      <meta refines="#creator2" property="role" scheme="marc:relators">edt</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator3">Monika Kropej Telban</dc:creator>
+      <meta refines="#creator3" property="file-as">Kropej Telban, Monika</meta>
+      <meta refines="#creator3" property="role" scheme="marc:relators">edt</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">sl</dc:language>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">ethnologists</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">ethnology</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">folk literature</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">folk tales</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Matičetov, Milko</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Porabje</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Slovenian folk tradition</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">story-tellers</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">tales</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">etnologi</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">etnologija</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">folklorne pripovedi</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">ljudske pripovedke</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">ljudsko slovstvo</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Matičetov, Milko</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Porabje</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">povedke</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">pravljičarji</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">slovensko ljudsko izročilo</dc:subject>
       <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">???978-961-05-0105-3</dc:identifier>
       <meta refines="#pub-id"
             property="identifier-type"
             scheme="onix:codelist5">15</meta>
-      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Pripovedno izročilo Slovencev v Porabju /  Marija Kozar Mukič  Dušan Monika Mukič Dušan Monika Kropej Telban Marija Kozar Mukič  Dušan Mukič Monika Kropej Telban</dc:description>
-      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založnik ZRC SAZU Založba ZRC zalozba@zrc-sazu.si Novi trg 2, 1000 Ljubljana, SI-SLOVENIA, Izdajatelj Inštitut za slovensko narodopisje, Zanju OtoLuthar Ingrid Slavec Gradišnik, Glavni urednik založbe Pogačnik Aleš</dc:publisher>
-      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="original-publication">2018-02-12T12:00:00Z</dc:date>
-      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2019-01-01135321</dc:date>
-      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">V knjigi so zbrane porabske pravljice in povedke, ki jih je leta 1970 posnel Milko Matičetov na magnetofonske trakove. Gradivo je več desetletij neobjavljeno ležalo v arhivu Inštituta za slovensko narodopisje ZRC SAZU v Ljubljani. Šele s pomočjo porabskih strokovnjakov, ki narečne govore dobro poznajo in obvladajo, jih je bilo mogoče pripraviti za natis. Predstavljenih je 238 pripovednih enot, prepisanih v poenostavljeno narečno transkripcijo in prestavljenih v knjižno slovenščino. Vsa besedila so objavljena tudi v knjižnem jeziku, dve pripovedi pa sta kot primer prepisani v fonetični dialektološki transkripciji. Dodana je zgoščenka s tonskimi posnetki trinajstih pravljic in povedk v obeh različicah porabskega narečja (števanovskem in gornjeseniškem). V uvodnem delu so spremne študije, v katerih je predstavljen razvoj pripovedne kulture porabskih Slovencev, njihov jezik ter pripovedovalci, ki so Milku Matičetovemu pripovedovali pravljice in povedke. Opozorjeno je na razlike med posameznimi krajevnimi govori, na koncu pa je dodan še slovarček porabskega besedja in povezava na mednarodne pravljičnime tipe. Knjiga ohranja porabsko pripovedno izročilo, obenem pa oživlja porabsko narečje in ga približuje mladim.</dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">In this book are published folktales and legends from Porabje / Rába-vidék which were recorded in 1970 by Milko Matičetov on magnetic tapes. The material has been for many decades stored in the archive of the Institute of Slovenian Ethnology ZRC SAZU in Ljubljana. It was only with the help of the experts from Porabje, well-versed in these dialects, that it was possible to publish the recordings. Presented are 238 narrative units, transcribed from tapes in a simplified dialectal transcript. All of the texts are also published in the standard Slovenian language. Two narratives are transcribed in the phonetic dialectological transcription. Added is CD with the recordings of 13 folktales in both varieties of Rába dialect (from Apátistvánfalva and Felsoszölnök district). The introductory section includes studies addressing the development of the narrative culture of Slovenes in Porabje, their language and brief history, as well as a presentation of the storytellers who had narrated these folktales and legends to Milko Matičetov. The folktales have been included in the international database, in accordance with the existing scientific international typology, and are therefore available for further comparative research. This book preserves narrative tradition of Slovenes in Rába-vidék, and is of particular importance to young people, who often no longer speak in the vernacular language.</dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ZRC SAZU</dc:publisher>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2019-07-11T14:45:33.346+02:00</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2017, 2018, 2019 ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC</dc:rights>
       <meta name="cover" content="cover-image"/>
-      <meta property="dcterms:modified">2018-10-08T07:35:39Z</meta>
+      <meta property="dcterms:modified">2019-07-11T12:45:33Z</meta>
    </metadata>
    <manifest>
       <item href="media/Porabje_FO.jpg"
@@ -132,31 +131,56 @@
             id="image-5"
             media-type="image/jpeg"/>
       <item href="media/Porabje_CD.jpg" id="image-6" media-type="image/jpeg"/>
-      <item href="media/imageSloPra.png" id="image-7" media-type="image/png"/>
+      <item href="media/imageSloPra.jpg" id="image-7" media-type="image/jpeg"/>
       <item href="media/imageZRC.jpeg" id="image-8" media-type="image/jpeg"/>
-      <item href="media/emmi.png" id="image-9" media-type="image/png"/>
-      <item href="media/mizks.png" id="image-10" media-type="image/png"/>
+      <item href="media/emmi.jpg" id="image-9" media-type="image/jpeg"/>
+      <item href="media/mizks.jpg" id="image-10" media-type="image/jpeg"/>
       <item href="media/F19.jpg" id="image-12" media-type="image/jpeg"/>
       <item href="media/F23.jpg" id="image-13" media-type="image/jpeg"/>
       <item href="media/F33.jpg" id="image-14" media-type="image/jpeg"/>
-      <item href="media/Porabske CD.jpg" id="image-15" media-type="image/jpeg"/>
-      <item href="media/F36.jpg" id="image-17" media-type="image/jpeg"/>
-      <item href="media/F54.jpg" id="image-22" media-type="image/jpeg"/>
-      <item href="media/F59.jpg" id="image-24" media-type="image/jpeg"/>
-      <item href="media/F84.jpg" id="image-26" media-type="image/jpeg"/>
-      <item href="media/F112.jpg" id="image-28" media-type="image/jpeg"/>
-      <item href="media/F160.jpg" id="image-33" media-type="image/jpeg"/>
-      <item href="media/F165.jpg" id="image-34" media-type="image/jpeg"/>
-      <item href="media/F181.jpg" id="image-35" media-type="image/jpeg"/>
-      <item href="media/F209.jpg" id="image-39" media-type="image/jpeg"/>
-      <item href="media/F290.jpg" id="image-47" media-type="image/jpeg"/>
-      <item href="media/F331.jpg" id="image-51" media-type="image/jpeg"/>
-      <item href="media/F345.jpg" id="image-52" media-type="image/jpeg"/>
-      <item href="media/F349.jpg" id="image-53" media-type="image/jpeg"/>
-      <item href="media/F353.jpg" id="image-54" media-type="image/jpeg"/>
-      <item href="media/F356.jpg" id="image-55" media-type="image/jpeg"/>
-      <item href="media/F358.jpg" id="image-56" media-type="image/jpeg"/>
-      <item href="media/F360.jpg" id="image-57" media-type="image/jpeg"/>
+      <item href="media/01-Skladba1.mp3" id="image-1" media-type="audio/mpeg"/>
+      <item href="media/02-Skladba2.mp3" id="image-2" media-type="audio/mpeg"/>
+      <item href="media/F36.jpg" id="image-15" media-type="image/jpeg"/>
+      <item href="media/03-Skladba3.mp3" id="image-3" media-type="audio/mpeg"/>
+      <item href="media/04-Skladba4.mp3" id="image-4" media-type="audio/mpeg"/>
+      <item href="media/05-Skladba5.mp3" id="image-5" media-type="audio/mpeg"/>
+      <item href="media/06-Skladba6.mp3" id="image-6" media-type="audio/mpeg"/>
+      <item href="media/F54.jpg" id="image-16" media-type="image/jpeg"/>
+      <item href="media/07-Skladba7.mp3" id="image-7" media-type="audio/mpeg"/>
+      <item href="media/F59.jpg" id="image-17" media-type="image/jpeg"/>
+      <item href="media/08-Skladba8.mp3" id="image-8" media-type="audio/mpeg"/>
+      <item href="media/F84.jpg" id="image-18" media-type="image/jpeg"/>
+      <item href="media/09-Skladba9.mp3" id="image-9" media-type="audio/mpeg"/>
+      <item href="media/F112.jpg" id="image-19" media-type="image/jpeg"/>
+      <item href="media/10-Skladba10.mp3" id="image-10" media-type="audio/mpeg"/>
+      <item href="media/11-Skladba11.mp3" id="image-11" media-type="audio/mpeg"/>
+      <item href="media/12-Skladba12.mp3" id="image-12" media-type="audio/mpeg"/>
+      <item href="media/13-Skladba13.mp3" id="image-13" media-type="audio/mpeg"/>
+      <item href="media/F160.jpg" id="image-20" media-type="image/jpeg"/>
+      <item href="media/F165.jpg" id="image-21" media-type="image/jpeg"/>
+      <item href="media/F181.jpg" id="image-22" media-type="image/jpeg"/>
+      <item href="media/01-Skladba1.mp3" id="image-14" media-type="audio/mpeg"/>
+      <item href="media/02-Skladba2.mp3" id="image-15" media-type="audio/mpeg"/>
+      <item href="media/03-Skladba3.mp3" id="image-16" media-type="audio/mpeg"/>
+      <item href="media/F209.jpg" id="image-23" media-type="image/jpeg"/>
+      <item href="media/04-Skladba4.mp3" id="image-17" media-type="audio/mpeg"/>
+      <item href="media/05-Skladba5.mp3" id="image-18" media-type="audio/mpeg"/>
+      <item href="media/06-Skladba6.mp3" id="image-19" media-type="audio/mpeg"/>
+      <item href="media/07-Skladba7.mp3" id="image-20" media-type="audio/mpeg"/>
+      <item href="media/08-Skladba8.mp3" id="image-21" media-type="audio/mpeg"/>
+      <item href="media/09-Skladba9.mp3" id="image-22" media-type="audio/mpeg"/>
+      <item href="media/10-Skladba10.mp3" id="image-23" media-type="audio/mpeg"/>
+      <item href="media/F290.jpg" id="image-24" media-type="image/jpeg"/>
+      <item href="media/11-Skladba11.mp3" id="image-24" media-type="audio/mpeg"/>
+      <item href="media/12-Skladba12.mp3" id="image-25" media-type="audio/mpeg"/>
+      <item href="media/13-Skladba13.mp3" id="image-26" media-type="audio/mpeg"/>
+      <item href="media/F331.jpg" id="image-25" media-type="image/jpeg"/>
+      <item href="media/F345.jpg" id="image-26" media-type="image/jpeg"/>
+      <item href="media/F349.jpg" id="image-27" media-type="image/jpeg"/>
+      <item href="media/F353.jpg" id="image-28" media-type="image/jpeg"/>
+      <item href="media/F356.jpg" id="image-29" media-type="image/jpeg"/>
+      <item href="media/F358.jpg" id="image-30" media-type="image/jpeg"/>
+      <item href="media/F360.jpg" id="image-31" media-type="image/jpeg"/>
       <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
    </manifest>
    <spine toc="ncx">

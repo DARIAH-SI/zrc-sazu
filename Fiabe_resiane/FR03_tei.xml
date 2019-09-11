@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" level="m" xml:lang="it">Fiabe resiane</title>
+                <title type="main" level="m" xml:lang="sl">Rezijanske pravljice</title>
+                <title type="main" level="m" xml:lang="Resian">Pravice po rozajanskina</title>
+                <editor>
+                    <persName type="edt">
+                        <forename>Milko</forename>
+                        <surname>Matičetov</surname>
+                    </persName>
+                </editor>
+                <editor>
+                    <persName type="edt">
+                        <forename>Roberto</forename>
+                        <surname>Dapit</surname>
+                    </persName>
+                </editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>E-knjiga v vseh pogledih reproducira prvi natis prve tiskane izdaje
+                    (2014).</edition>
+                <respStmt>
+                    <resp>Tehnična urednika</resp>
+                    <persName type="edt">
+                        <forename>Aleš</forename>
+                        <surname>Pogačnik</surname>
+                    </persName>
+                    <persName type="edt">
+                        <forename>Andrej</forename>
+                        <surname>Pančur</surname>
+                    </persName>
+                </respStmt>
+                <funder><note>Pretvorbo je omogočila Javna agencija za knjigo iz naslova razpisa
+                        za leto 2019.</note></funder>
+                <sponsor><note>ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC<figure>
+                            <graphic url="image/logoZRCmoder.jpg"/>
+                        </figure></note></sponsor>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <respons locus="name">
+                        <desc>Založnik</desc>
+                    </respons>
+                    <orgName ref="https://www.zrc-sazu.si">ZRC SAZU</orgName>
+                    <orgName>Založba ZRC <email>zalozba@zrc-sazu.si</email>
+                        <address>
+                            <addrLine>Novi trg 2, 1000 Ljubljana, SI-SLOVENIA</addrLine>
+                        </address></orgName>
+                </publisher>
+                <authority>
+                    <term>Izdajatelj</term>
+                    <orgName>Inštitut za slovensko narodopisje</orgName></authority>
+                <authority>
+                    <term>Zanju</term>
+                    <persName type="drt"><forename>Oto</forename><surname>Luthar</surname>
+                    </persName><persName type="rth">
+                        <forename>Ingrid</forename>
+                        <surname>Slavec Gradišnik</surname>
+                    </persName></authority>
+                <authority>
+                    <term>Glavni urednik založbe</term>
+                    <persName type="edt"><surname>Pogačnik</surname>
+                        <forename>Aleš</forename></persName></authority>
+                <pubPlace>Ljubljana</pubPlace>
+                <date when="2019-01-01T13:53:21Z">2019</date>
+                <availability status="restricted">
+                    <p>© 2014, 2018, 2019 ZRC SAZU, Inštitut za slovensko narodopisje, Založba
+                        ZRC</p>
+                    <p xml:lang="sl">Vse pravice pridržane. Noben del te izdaje ne sme biti
+                        reproduciran, shranjen ali prepisan v katerikoli obliki oz. na katerikoli
+                        način, bodisi elektronsko, mehansko, s fotokopiranjem ali kako drugače, brez
+                        predhodnega pisnega dovoljenja imetnikov avtorskih pravic.</p>
+                    <p xml:lang="en">All rights reserved. No part of this publication may be
+                        reproduced, stored in a retrieval system or transmitted, in any form or by
+                        any means, electronic, mechanical, photocopying, recording or otherwise,
+                        without the prior permission of the publisher.</p>
+                </availability>
+                <idno type="ISBN" subtype="epub">978-961-05-0207-4</idno>
+                <idno type="COBISS.ID" subtype="epub">300951296</idno>
+                <idno type="price" subtype="epub">2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="M"><edition><ref target="https://zalozba.zrc-sazu.si/p/1230">Prva
+                    tiskana izdaja</ref></edition>
+                    <figure>
+                        <graphic n="1005" url="media/FR_FO.jpg"/>
+                        <graphic n="1006" url="media/FR_FI.jpg"/>
+                        <graphic n="1007" url="media/FR_BO.jpg"/>
+                        <graphic n="1008" url="media/FR_BI.jpg"/>
+                        <graphic n="1009" url="media/FR_CD.jpg"/>
+                    </figure>
+                    <date when="2014-07-21T12:00:00Z">julij 2014</date>
+                    <idno type="ISBN">978-961-254-689-2</idno>
+                    <idno type="COBISS" subtype="id">273531392</idno>
+                    <idno type="ISBN" subtype="pdf">978-961-05-0134-3 (pdf)</idno>
+                    <idno type="COBISS" subtype="id">297051904</idno>
+                    <bibl type="DC:SOURCE">Milko Matičetov, Roberto Dapit (ur.), 2014: Fiabe resiane.
+                        Dall'archivio dell'Istituto di etnologia slovena ZRC SAZU e dalla raccolta
+                        privata di Roberto Dapit / Rezijanske pravljice. Iz arhiva Inštituta za
+                        slovensko narodopisje ZRC SAZU in privatne zbirke Roberta Dapita / Pravice po
+                        rozajanskin. ZRC SAZU, Založba ZRC: Ljubljana.</bibl></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract xml:lang="sl">
+                <p> Predstavljenih je sedem rezijanskih pravljic: na zgoščenki v govorjeni besedi po
+                    magnetofonskih posnetkih akademika Milka Matičetovega, v knjigi pa v slovenskem
+                    in italijanskem prevodu. Eno izmed pravljic je nedavno posnel Roberto Dapit v
+                    Liščacih v Reziji (Italija), in je vključena v ta izbor zato, da bi pokazali,
+                    kako ljudsko pripovedništvo v Reziji še naprej živi. Pravljice, ki jih lahko
+                    poslušamo na tej zgoščenki, so bile zbrane iz arhivskih posnetkov in
+                    pripovedovane v vseh glavnih rezijanskih jezikovnih področjih oz. predstavljajo
+                    štiri različne govorne skupine rezijanskega narečja območij Solbice, Osojan,
+                    Bile in Njive. Delo je nastalo v okviru bilateralnega projekta ZBORZBIRK
+                    Kulturna dediščina v zbirkah med Alpami in Krasom.</p>
+            </abstract>
+            <abstract xml:lang="en">
+                <p> Presented are seven folktales from Resia in northern Italy with a strong Slovene
+                    minority. On CD are presented narratives which have been recorded on magnetic
+                    tape by Academician Milko Matičetov. Translations from the Resian dialect in
+                    Slovene and in Italian language are published in accompanying book. One folk
+                    tale was recently recorded by Roberto Dapit in the Resian village of
+                    Lischiazze/Liščaci, and has been included in the collection to illustrate
+                    contemporary Resian narrative tradition. The tales recorded on the compact disk
+                    represent four different language groups of the Resian dialect, namely that of
+                    Stolvizza/Solbica, Oseacco/Osojane, San Giorgio/Bila, and Gniva/Njiva. This work
+                    was done within the project Zborzbirk.</p>
+            </abstract>
+            <langUsage>
+                <language ident="sl" usage="100">slovenski</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="http://udcdata.info/">
+                    <term>398.2(439.111=163.6)</term>
+                </classCode>
+                <keywords scheme="http://cobiss.si">
+                    <term xml:lang="sl">etnologija</term>
+                    <term xml:lang="sl">folkloristika</term>
+                    <term xml:lang="sl">Italija</term>
+                    <term xml:lang="sl">ljudske pravljice</term>
+                    <term xml:lang="sl">ljudske živalske pravljice</term>
+                    <term xml:lang="sl">ljudsko slovstvo</term>
+                    <term xml:lang="sl">povedke</term>
+                    <term xml:lang="sl">Rezija</term>
+                    <term xml:lang="sl">Slovenci</term>
+                    <term xml:lang="sl">slovenske ljudske pravljice</term>
+                    <term xml:lang="sl">slovstvena folklora</term>
+                    <term xml:lang="sl">ustno slovstvo</term>
+                    <term xml:lang="sl">živalske pravljice</term>
+                    <term xml:lang="en">animal fairy tales</term>
+                    <term xml:lang="en">animal folk fairytales</term>
+                    <term xml:lang="en">ethnology</term>
+                    <term xml:lang="en">folk fairytales</term>
+                    <term xml:lang="en">folk literature</term>
+                    <term xml:lang="en">folklore research</term>
+                    <term xml:lang="en">Italy</term>
+                    <term xml:lang="en">literary folklore</term>
+                    <term xml:lang="en">oral literature</term>
+                    <term xml:lang="en">Resia</term>
+                    <term xml:lang="en">Sloveneian folk fairy tales</term>
+                    <term xml:lang="en">Slovenes</term>
+                    <term xml:lang="en">tales</term>
+
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change><date>9. 10. 2018</date><name>Aleš Pogačnik</name><p>pretvorba v TEI datoteko
+                    (pdf via word)</p></change>
+            <change><date>16. 7. 2019</date><name>Andrej Pančur</name>
+                <p>prva pretvorba v epub datoteko</p></change>
+            <change><date>26. 8. 2019</date><name>Monika Kropej Telban</name><p>korektura epub datoteke</p></change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface xml:id="front_out">
+            <graphic n="1005" url="media/FR_FO.jpg"/>
+        </surface>
+        <surface xml:id="covers">
+            <graphic n="1005" url="media/FR_FO.jpg"/>
+            <graphic n="1006" url="media/FR_FI.jpg"/>
+            <graphic n="1007" url="media/FR_BO.jpg"/>
+            <graphic n="1008" url="media/FR_BI.jpg"/>
+            <graphic n="1009" url="media/FR_CD.jpg"/>
+        </surface>
+    </facsimile>
+    <text><front><titlePage facs="#front_out" type="ebook"><docTitle><titlePart>Fiabe resiane</titlePart><titlePart>Rezijanske pravljice</titlePart><titlePart>Pravice po rozajanskin</titlePart></docTitle><docAuthor><name>
+<persName><forename>Milko</forename><surname>Matičetov</surname></persName>
+<persName><forename>Roberto</forename><surname>Dapit</surname></persName></name></docAuthor><docEdition><note>
+<p>E-knjiga v vseh pogledih reproducira prvi natis prve tiskane izdaje (2014).</p>
+<p rend="CIP">Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani.<lb/><lb/>Pretvorbo je omogočila Javna agencija za knjigo iz naslova razpisa za leto 2019.</p>
+<p><ref target="http://COBISS.SI">COBISS.SI</ref>-ID=<ref target="https://plus.si.cobiss.net/opac7/bib/300951296" >300951296</ref><lb/> ISBN 978-961-05-0207-4 (epub)</p></note></docEdition><docImprint>
+<publisher>ZRC SAZU, Založba ZRC</publisher>
+<placeName>Ljubljana</placeName><date>2019</date></docImprint></titlePage>
+<div type="halftitle">
+<pb n="[1]" xml:id="pb.1"/><figure><graphic n="1001" url="media/zborzbirk_logo.jpg" rend="align(right)"/></figure>
+<p><hi rend="bold">Fiabe resiane <lb/> Rezijanske pravljice <lb/> Pravice po rozajanskin</hi></p>
+<p>Milko Matičetov, Roberto Dapit</p>
+<p>Dall'archivio dell'Istituto di etnologia slovena ZRC SAZU e dalla raccolta privata di Roberto Dapit <lb/>Iz arhiva Inštituta za slovensko narodopisje ZRC SAZU in privatne zbirke Roberta Dapita</p><figure><graphic n="1002" url="media/FESR_logo.jpg" rend="align(right)"/></figure></div>
+<div type="colophon">
+<p>
+<pb n="[2]" xml:id="pb.2"/><hi rend="bold">Fiabe resiane / Rezijanske pravljice / Pravice po rozajanskin</hi></p>
+<p><hi rend="italic">Registrazioni / Posnela: </hi>Milko Matičetov, Roberto Dapit</p>
+<p><hi rend="italic">Pubblicato da / Izdala: </hi>Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti, Inštitut za slovensko narodopisje</p>
+<p><hi rend="italic">Per l'Istituto / Zanj: </hi>Ingrid Slavec Gradišnik</p>
+<p><hi rend="italic">e / in </hi> Università degli Studi di Udine, Dipartimento di Lingue e Letterature Straniere</p>
+<p><hi rend="italic">Per il Dipartimento / Zanj: </hi>Sergio Cappello</p>
+<p><hi rend="italic">Premessa, scelta del materiale sonoro e traduzioni / Spremno besedilo, izbor zvočnega gradiva in prevod: </hi>Roberto Dapit, Monika Kropej</p>
+<p><hi rend="italic">Elaborazione dei documenti sonori / Zvočna obdelava: </hi>Peter Vendramin</p>
+<p><hi rend="italic">Progetto grafico e impaginazione / Oblikovanje in prelom: </hi>Jernej Kropej</p>
+<p><hi rend="italic">Tiratura / Naklada: </hi>500</p>
+<p><hi rend="italic">Editore / Založila: </hi>Založba ZRC</p>
+<p><hi rend="italic">Per l'editore / Zanjo: </hi>Aleš Pogačnik</p>
+<p><hi rend="italic">Immagine di copertina / Slika na ovitku: </hi>Zvonko Čoh, Grdinica</p>
+<div type="CIP">
+<p>CIP - Kataložni zapis o publikaciji</p>
+<p>Narodna in univerzitetna knjižnica, Ljubljana</p>
+<p>398.2(450.365=163.6)(02.053.2)</p>
+<p>FIABE resiane [Zvočni posnetek] = Rezijanske pravljice = Pravice po rozajanskin / [posnela] Milko Matičetov, Roberto Dapit. - Ljubljana : Založba ZRC, 2014</p>
+<p>ISBN 978-961-254-689-2</p>
+<p>1. Vzp. stv. nasl. 273531392</p></div></div>
+<div type="contents">
+<pb n="3" xml:id="pb.3"/>
+<head>Indice <lb/>Kazalo</head><table><row><cell><hi rend="bold">Premessa</hi></cell><cell><ref target="#pb.4">4</ref></cell></row><row><cell><hi rend="bold">Spremna beseda</hi></cell><cell><ref target="#pb.5">5</ref></cell></row><row><cell><hi rend="bold">1 Il castello di Bombavello</hi></cell><cell><ref target="#pb.7">7</ref></cell></row><row><cell><hi rend="bold">Grad Bombavelo</hi></cell><cell><ref target="#pb.35">35</ref></cell></row><row><cell>Pasqua Di Lenardo — Paska Dulica, Oseacco / Osojane,</cell><cell/></row><row><cell>Milko Matičetov, 17. 2. 1966, T 28A; ATU 313</cell><cell/></row><row><cell><hi rend="bold">2 Quella del pesce</hi></cell><cell><ref target="#pb.17">17</ref></cell></row><row><cell><hi rend="bold">Ta od ribe</hi></cell><cell><ref target="#pb.44">44</ref></cell></row><row><cell>Edda Di Lenardo Krukiž, Milko Matičetov, 5. 10. 1968, Graz,</cell><cell/></row><row><cell>T 42 A, B; ATU 425</cell><cell/></row><row><cell><hi rend="bold">3 Il marito, la moglie e il diavolo</hi></cell><cell><ref target="#pb.22">22</ref></cell></row><row><cell><hi rend="bold">Mož, baba in hudič</hi></cell><cell><ref target="#pb.49">49</ref></cell></row><row><cell>Marcellina Madotto Ćikarïnawa, Oseacco / Osojane,</cell><cell/></row><row><cell>Milko Matičetov, 13. 12. 1964, T 18B; ad ATU 810B*</cell><cell/></row><row><cell><hi rend="bold">4 L'uomo che andò a vendere i buoi al mercato</hi></cell><cell><ref target="#pb.25">25</ref></cell></row><row><cell><hi rend="bold">Mož, ki je prodal vole</hi></cell><cell><ref target="#pb.52">52</ref></cell></row><row><cell>Valentina Pielich — Tïna Wajtawa, Stolvizza / Solbica,</cell><cell/></row><row><cell>Milko Matičetov, 10. 6. 1967, Pordenone, T 38A</cell><cell/></row><row><cell><hi rend="bold">5 Gardiniza e la formica</hi></cell><cell><ref target="#pb.28">28</ref></cell></row><row><cell><hi rend="bold">Grdina in mravljica</hi></cell><cell><ref target="#pb.54">54</ref></cell></row><row><cell>Vito Chinese Hoģin, Oseacco / Osojane, Milko Matičetov,</cell><cell/></row><row><cell>13. 12. 1964, T 18B; ad ATU 2015 o ATU 212</cell><cell/></row><row><cell><hi rend="bold">6 La volpe che voleva misurare il monte Stožje</hi></cell><cell><ref target="#pb.30">30</ref></cell></row><row><cell><hi rend="bold">Lisica, ki je hotela zmeriti goro Stožje</hi></cell><cell><ref target="#pb.56">56</ref></cell></row><row><cell>Anna Di Battista Fefawa, Lischiazze / Lišćaca, Roberto Dapit,</cell><cell/></row><row><cell>10. 1. 2008</cell><cell/></row><row><cell><hi rend="bold">7 A casa, a casa Bruna, Maura!</hi></cell><cell><ref target="#pb.32">32</ref></cell></row><row><cell><hi rend="bold">Domov, domov Bruna, Maura!</hi></cell><cell><ref target="#pb.58">58</ref></cell></row><row><cell>Maria Paletti Rozaljina, San Giorgio / Bila, Milko Matičetov,</cell><cell/></row><row><cell>13.12.1962, T 122A</cell><cell/></row><row><cell/></row></table></div>
+<div type="foreword">
+<head xml:id="PIt">
+<pb n="4" xml:id="pb.4"/><ref target="#PIt">Premessa</ref></head>
+<p>Del ricco tesoro dei racconti resiani abbiamo scelto sette storie che riflettono la varietà del patrimonio di narrativa popolare a Resia, dove vive una comunità che continua una tradizione conservatasi praticamente fino ai nostri giorni.</p><p>I racconti e gli altri testi di tradizione orale dell'archivio resiano, conservato presso l'Istituto di entologia slovena del Centro di ricerca sicentifica dell'Accademia slovena delle scienze e delle arti di Ljubljana, sono stati registrati su nastro magnetico negli anni sessanta e settanta dello scorso secolo dall'accademico dr. Milko Matičetov. Grazie alle sue straordinarie capacità di ricerca sul campo e di interazione con i portatori della tradizione, è riuscito a ottenere dai resiani dei meravigliosi racconti che possiamo definire vere e proprie perle di narrativa popolare. Una delle storie, la numero 6, è stata invece raccolta di recente da Roberto Dapit a Lischiazze e, inserita in questo contesto, vorrebbe dar prova di come la narrativa di tradizione orale a Resia continui a esistere. Nonostante sia opinione comune che stiamo assistendo al suo epilogo – e ciò vale del resto per tutta la tradizione orale – almeno i testi qui presentati testimonierebbero il contrario.</p>
+<p>Le storie che possiamo ascoltare nella presente raccolta di registrazioni d'archivio sono state narrate nelle principali aree linguistiche resiane. Ciò consente anche di udire le quattro principali parlate resiane di Stolvizza, Oseacco, San Giorgio e Gniva.</p>
+<p>Analogamente abbiamo cercato di tenere in considerazione la diversità dei racconti popolari resiani sul piano dei contenuti scegliendo innanzi tutto due fiabe fantastiche: la prima è intitolata <hi rend="italic">Il castello di Bombavello </hi>(n. 1), che possiamo associare al tipo internazionale <hi rend="italic">La fuga magica / The Magic Flight </hi>ATU 313; la seconda è <hi rend="italic">Quella del pesce </hi>(n. 2), identificabile nel tipo <hi rend="italic">Amore e Psiche </hi>/ <hi rend="italic">The Search for the Lost Husband </hi>ATU 425. Abbiamo inserito anche una fiaba sul diavolo che nei racconti resiani si manifesta di frequente e appare come protagonista della fiaba n. 3, <hi rend="italic">Il marito, la moglie e il diavolo</hi>, diffusa a livello internazionale e classificabile nel tipo <hi rend="italic">Il bambino venduto al diavolo / The Youth Sold to the Devil </hi>ATU 810B*. Il diavolo appare anche nel racconto n. 4, <hi rend="italic">L'uomo che andò a vendere i buoi al mercato</hi>, e presta aiuto a una veggente che però è in grado di indovinare quanto è accaduto all'uomo soltanto con l'ausilio del demonio e alla fine viene smascherata. Tra le numerose favole e storie di
+<pb n="5" xml:id="pb.5"/>animali che caratterizzano il repertorio resiano ne abbiamo scelte due e precisamente <hi rend="italic">Gardiniza e la formica </hi>(n. 5) associabile al tipo <hi rend="italic">La capra che non vuole andare a casa </hi>/ <hi rend="italic">The Goat Who Would Not Go Home </hi>ATU 2015 (oppure <hi rend="italic">La capra bugiarda </hi>/ <hi rend="italic">The Lying Goat </hi>ATU 212) e <hi rend="italic">La volpe che voleva misurare il monte Stožje</hi>, n. 6. Della faticosa esistenza che i resiani conducevano nell'epoca del sistema economico agropastorale ci viene riferito nella storia n. 7, intitolata <hi rend="italic">A casa, a casa, Bruna, Maura! </hi>In essa si narra di come una donna dall'alpeggio sia stata ricondotta a valle assieme ai suoi animali dopo la caduta della prima neve.</p><p>Il nostro auspicio è che questo piccolo tesoro, che tramanda i sette racconti sia nella veste sonora che scritta, possa ridare vita alle storie narrate ormai mezzo secolo fa, permettendone la diffusione all'interno della comunità resiana o di altre comunità linguistiche, essendo ora apparse in più lingue. Del resto, come spesso ama ricordare Milko Matičetov, le fiabe per loro natura non conoscono frontiere.</p><byline>Roberto Dapit, Monika Kropej</byline></div>
+<div type="foreword">
+<head xml:id="Psl"><ref target="#PIt">Spremna beseda</ref></head>
+<p>Iz bogate zakladnice rezijanskih pravljic smo izbrali teh sedem, da bi z njimi predstavili pestrost ljudskega pripovedništva v Reziji, kjer živi skupnost, ki govori slovensko narečje in je ohranila svoj jezik ter izročilo skozi stoletja do današnjih dni.</p>
+<p>Pravljice in drugo rezijansko ustno izročilo, ki ga hrani Inštitut za slovensko narodopisje Znanstvenoraziskovalnega centra Slovenske akademije znanosti in umetnosti v Ljubljani, je na magnetofonske trakove posnel akademik dr. Milko Matičetov v šestdesetih in sedemdesetih letih minulega stoletja. Zahvaljujoč njegovi izjemni raziskovalni nadarjenosti – bil je mojster terenskega dela – je uspel iz ljudi izvabiti najlepše pravljice in povedke, lahko bi rekli kar prave bisere ljudskega pripovedništva. Eno izmed pravljic (št. 6) pa je nedavno posnel Roberto Dapit v Liščacih, in je vključena v ta izbor zato, da bi pokazali, kako ljudsko pripovedništvo v Reziji še naprej živi. Čeprav prevladuje mnenje, da smo priče njenemu epilogu – kar naj bi veljalo za vso ustno izročilo – vsaj tukaj predstavljene pripovedi tega ne izražajo.</p>
+<p>
+<pb n="6" xml:id="pb.6"/>Pravljice, ki jih lahko poslušamo na tej zgoščenki, so bile zbrane iz arhivskih posnetkov in pripovedovane v vseh glavnih rezijanskih jezikovnih področjih oz. predstavljajo štiri različne govorne skupine rezijanskega narečja: Solbice, Osojan, Bile in Njive.</p>
+<p>Prav tako smo skušali nakazati vsebinsko raznolikost rezijanskih ljudskih priavljic, zato smo izbrali dve čudežni pravljici, prva je pravljica <hi rend="italic">Grad Bombavelo </hi>(št. 1), ki se uvršča v mednarodni pravljični tip <hi rend="italic">Čudežni beg </hi>/ <hi rend="italic">The Magic Flight </hi>ATU 313; druga pa je pravljica <hi rend="italic">Ta od ribe </hi>(št. 2), ki ohranja spomin na antični mit <hi rend="italic">Amor in Psihe </hi>/ <hi rend="italic">The Search for the Lost Husband </hi>ATU 425. Vključili smo tudi pripovedi o hudiču, ki pogosto nastopa v rezijanskih pravljicah in povedkah, tokrat se pojavi kot protagonist v zgodbi <hi rend="italic">Mož, baba in hudič </hi>(št. 3), ki je prav tako mednarodno razširjena in jo uvrščamo k pravljičnemu tipu <hi rend="italic">Otrok prodan vragu / The Youth Sold to the Devil </hi>ATU 810B*. Vrag nastopa tudi v pravljici <hi rend="italic">Mož, ki je prodal vole </hi>(št. 4), kjer pomaga vedeževalki, ki rešuje zagonetke le z njegovo pomočjo, a jo pri tem razkrinkajo. Izmed številnih rezijanskih basni in živalskih pravljic smo izbrali dve, in sicer o <hi rend="italic" >Grdinici in mravljici </hi>(št. 5), ki bi jo lahko uvrstili v mednarodni tip <hi rend="italic">Koza, ki noče domov </hi>/ <hi rend="italic">The Goat Who Would Not Go Home </hi>ATU 2015 (oz. <hi rend="italic">Lažniva koza </hi>/ <hi rend="italic">The Lying Goat </hi>ATU 212) in pa živalsko pravljico <hi rend="italic">Lisica, ki je hotela zmeriti goro Stožje </hi>(št. 6). Življenje v tistih časih, ko so bili ljudje tod še odvisni od trdega kmečkega dela, pa nam pričara povedka <hi rend="italic">Domov, domov, Bruna Maura! </hi>(št. 7), ki pripoveduje, kako se je žena, ki je čuvala krave in živino na planini, komaj rešila pred snežnim metežem in se s pomočjo svojih sinov vrnila nazaj v dolino.</p>
+<p>Naša želja je, da bi s tem malim zakladom sedmih rezijanskih pripovedi v zvočni in pisni obliki, ponovno obudil k življenju pravljice, ki so jih pripovedovali pred petdesetimi leti, in da bi omogočili njihovo prepoznavnost znotraj rezijanske skupnosti, kakor tudi med drugimi jezikovnimi skupinami. Zato smo jih tudi predstavili v smislu sentence, ki jo je pogosto uporabljal Milko Matičetov: pravljice že po svoji naravi ne poznajo meja.</p><byline>Monika Kropej, Roberto Dapit</byline></div></front><body>
+<div type="ss1">
+<div type="ss2" xml:lang="it" xml:id="FR1" corresp="#REP1">
+    <head><ref target="#REP1"><figure><q><ref target="media/01FR.mp3"><graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/></ref></q></figure></ref>
+<pb n="7" xml:id="pb.7"/><hi rend="bold">1</hi> Il castello di Bombavello</head><opener>Pasqua Di Lenardo — Paska Dulica</opener>
+<p>C’era una volta un principe, il figlio di un re. Allora questo principe andò a caccia su una riviera e, dopo aver camminato un bel po’, arrivò in un punto da cui vide qualcosa volare nell’aria: erano tre fanciulle che volavano e, arrivate sulla riva, si spogliarono, mentre lui andò a nascondersi perché non lo vedessero. Tolti i vestiti rimasero in costume da bagno: due posarono il vestito nello stesso posto e una lo posò da un’altra parte. Dopo essersi tuffate nell’acqua, si misero a nuotare come pesci e il principe stava ad osservarle. Quando si furono allontanate abbastanza, il principe andò sulla riva a prendere il vestito della fanciulla che lo aveva lasciato in disparte e scappò via con il vestito. Allora disse:</p>
+<p>“Eh, quando ritorneranno indietro voglio proprio vedere cosa faranno, cosa indosserà quella senza il vestito”.</p>
+<p>Rimasero a lungo nell’acqua, forse un’ora e, dopo aver fatto il bagno, ritornarono sulla riva ma soltanto due ritrovarono subito il vestito, quelle che lo avevano messo insieme, mentre quella che lo aveva lasciato in disparte andò a cercarlo senza però riuscire a trovarlo.</p>
+<p>“Povera me” disse, “e adesso come posso ritornare a casa senza vestito!?”</p>
+<p>“Ma chi può averlo preso, guarda bene, forse l’hai messo da qualche parte, continua a cercare!”</p>
+<p>“Ah no” disse, “l’ho messo qui ma il vestito non c’è”.</p>
+<p>“Povera me, l’hanno portato via” disse, “di sicuro è stato qualcuno, e adesso come posso ritornare a casa con voi?”</p>
+<p>“Ascolta” dissero, “tu stai qui e noi due andiamo a casa a prenderti un altro vestito!”</p>
+<p>Le altre due allora si vestirono e con quei vestiti potevano volare; quella senza vestito rimase lì, mentre le altre due volarono via. Dopo che se ne furono andate dalla spiaggia, il principe si avvicinò alla ragazza che era seduta in riva al mare e stava piangendo. Quando si accorse di lui, disse:</p>
+<p>“Sei stato forse tu a nascondermi il vestito, me l’hai portato via? Ma chi sei?” disse.</p>
+<p>
+<pb n="8" xml:id="pb.8"/>Lui replicò:</p>
+<p>“Sono il principe, il figlio del re” disse, “ti ho preso io il vestito, ma” disse, “ora io e te ci sposeremo e tu mi seguirai!”</p>
+<p>“Ma come!” esclamò e alla fine, sentendo che era principe, disse: </p><p>“Ebbene sì” disse.</p>
+<p>Allora prima di avviarsi, lui prese di nuovo il vestito che le aveva nascosto e disse:</p>
+<p>“Adesso dobbiamo andare a sposarci!”</p>
+<p>Sicché partirono e quando arrivarono dal re per fargli conoscere la fanciulla, il principe annunciò che l’avrebbe sposata. Il re ne fu contento e disse:</p>
+<p>“Ebbene sposala!”</p>
+<p>Insomma il vecchio era d’accordo e così si sposarono. Un giorno però il principe ricevette un telegramma dall’America, dove viveva un suo nipote, e questo nipote doveva sposarsi, tanto che al principe – che sarebbe stato suo zio – mandò l’invito di raggiungerlo laggiù:</p>
+<p>“Dunque” disse “siccome ho ricevuto il telegramma, adesso devo partire per l’America”.</p>
+<p>Allora disse a sua madre:</p>
+<p>“Ora dovete mostrarle tutti i nostri beni, dove abbiamo le terre, la casa, le camere, tutto, dovete mostrare a mia moglie proprio tutto, perché non ha mai visto quello che possediamo. Erano già trascorse due settimane dal matrimonio e lei ancora non sapeva nulla:</p>
+<p>“Va bene” disse la madre.</p>
+<p>“Le mostrerete tutto ciò che è in casa, tutti i mobili, proprio tutto, ma” disse lui, “vedete questo comò, soltanto ciò che è dentro questo cassetto non dovete mostrale, tutto il resto sì”.</p>
+<p>“D’accordo” rispose lei.</p>
+<p>Allora il principe partì per l’America e nel frattempo la madre iniziò a mostrare alla nuora tutto ciò che possedevano: le terre, la dimora, insomma tutti i loro possedimenti. Quando arrivarono davanti al comò pensò:</p>
+<p>‘Adesso’ disse fra sé, ‘avendole mostrato tutto ciò che possediamo in casa, dirà che non voglio mostrarle il comò e i cassetti’ pensò, ‘chissà cosa dirà, si chiederà il perché di questo’.</p>
+<p>Allora andò ad aprire anche quel cassetto e disse:</p>
+<p>“Cos’è in fondo” disse, “lo aprirò lo stesso, così vede anche ciò che è lì dentro”.</p>
+<p>
+<pb n="9" xml:id="pb.9"/>Così aprì anche quel cassetto e nel cassetto c’era un bellissimo vestito. </p><p>“Oh” disse, “che bel vestito” e aggiunse, “di chi sarà mai questo vestito?” disse.</p>
+<p>La sposa disse: “E’ mio”.</p>
+<p>Infatto lo riconobbe subito essendo proprio il vestito che suo marito prima le aveva nascosto e poi messo lì dentro.</p>
+<p>“Oh” disse, “indossalo e fammi vedere come ti sta che non ho mai visto questo vestito”.</p>
+<p>“Beh” replicò la nuora, “perché no, lo indosserò”. </p><p>E così andò a indossare il vestito.</p>
+<p>“Ma come sei bella” disse la regina, “ora che indossi questo vestito, sei proprio bella. Eri bella prima ma ora sei ancora più bella!”</p>
+<p>“Davvero” disse.</p>
+<p>La giovane però era furba e andò alla finestra – la vecchia nemmeno poteva immaginarlo – ma la finestra non aveva sbarre e via! Con il suo bel vestito prese il volo. Volò, volò via lontano fino al castello di Bombavello, che era la sua dimora, e così se ne andò.</p>
+<p>“Povera me” disse la regina, “che cosa mai ho fatto! E quando mio figlio ritornerà – mi aveva avvisato di non aprirle quel cassetto – che cosa gli dirò, ora che ritorna dall’America? Come glielo devo spiegare adesso?”</p>
+<p>Infatti, dopo un po’ di tempo il principe ritornò e, certo, la sua sposa non c’era più, se n’era andata. E quando arrivò, la madre fu costretta a dirgli cosa era accaduto, allora disse:</p>
+<p>“Le ho mostrato tutto e anche questo cassetto, altrimenti mi avrebbe chiesto perché non glielo mostro, e dentro c’era un bel vestito, l’ha indossato ed è volata via”.</p>
+<p>“Ecco, vi avevo detto di non mostrarglielo! Ma cosa avete fatto, avete sbagliato!” esclamò, “adesso se n’è andata e non la rivedrò più, così” disse, “me ne vado anch’io”.</p>
+<p>E andò a sellare due cavalli dicendo: </p><p>“Ora vado!”</p>
+<p>Dopo aver preso i due cavalli disse:</p>
+<p>“Se mi vedrete tornare indietro, bene, altrimenti non aspettatemi!”.</p>
+<p>Sicché il principe partì con i cavalli e di sera giunse in un bosco dove vide una luce lontano lontano. Allora arrivò in quel bosco e lì c’era un… era come un mago. Bussò alla porta della sua casetta, e quello disse:</p>
+<p>
+<pb n="10" xml:id="pb.10"/>“Chi è?” </p><p>L’altro rispose:</p>
+<p>“Sono il principe, il figlio del re!”</p>
+<p>“Ebbene” disse, “se sei il principe ti apro, ma se fossi stato un altro, ti avrei ammazzato”.</p>
+<p>Allora gli aprì ed entrò. Il mago disse: </p><p>“Dove stai andando?” disse.</p>
+<p>“Vado a cercare mia moglie che è andata al castello di Bombavello. Forse voi sapete dove si trova questo castello perché io non so dov’è”.</p>
+<p>“Ma” disse, “io non lo so, potrei però venire a sapere” disse, “dove si trova, perché” aggiunse, “ho degli uccelli che volano dappertutto e quelli potrebbero sapere dov’è”.</p>
+<p>Allora emise un fischio facendo subito radunare lì moltissimi uccelli e chiese a tutti se per caso sapessero dove si trovava questo castello di Bombavello. Ma tutti tacerono perché nessuno sapeva dove si trovasse. Allora l’uomo disse:</p>
+<p>“Voi dovete andare più avanti perché qui non sanno nulla” poi aggiunse, “ce n’è un altro in un bosco più in su, un mago che tiene ogni tipo di animale e lui forse sa qualcosa, visto che possiede animali più grandi”.</p>
+<p>Allora il principe si mise di nuovo in cammino e da lontano vide una luce ma arrivò che era già notte. Viaggiava sempre con i suoi cavalli e quando arrivò sul posto, anche quel mago era già andato a dormire. Di nuovo dovette bussare e anche quello chiese:</p>
+<p>“Chi sei tu che arrivi qui?” </p><p>Anche a questi il giovane rispose:</p>
+<p>“Sono il principe e vi chiedo di alzarvi e aprirmi!”</p>
+<p>Allora si alzò e gli aprì la porta chiedendogli dove fosse diretto. Il principe disse:</p>
+<p>“Vado in cerca del castello di Bombavello e chiedo a voi se sapete dove si trovi perché io non lo so”.</p>
+<p>“Ma” disse, “io ho degli animali che forse sanno qualcosa che io non so” disse.</p>
+<p>Allora anche questo mago si mise a fischiare e giunse una moltitudine di animali, di quelli grandi, insomma stavolta erano proprio bestie grandi. Chiese a questi animali se sapessero dove si trovava quel castello, ma non gli riferirono proprio nulla rispondendo soltanto che nemmeno loro lo sapevano. Il vecchio allora disse:</p>
+<p>
+<pb n="11" xml:id="pb.11"/>“Ecco, nemmeno questi lo sanno”.</p>
+<p>E aggiunse: “Dovete andare più avanti che ce n’è un altro e anche lui ha degli animali. Forse quelli sanno qualcosa”.</p>
+<p>Allora il principe si incamminò e dopo aver attraversato monti e valli arrivò da quell’uomo e questo non era ancora andato a dormire. Infatti era sveglio e gli chiese:</p>
+<p>“Dove sei diretto? Chi sei?” disse. </p><p>Anche a questo ripeté le stesse parole:</p>
+<p>“Sono il principe” disse, “sapete forse dove si trova il castello di Bombavello che sto cercando?”</p>
+<p>L’altro rispose: “Ebbene” disse, “io non lo so ma” aggiunse, “ho delle aquile che forse sanno dove si trova quel castello perché sono continuamente in volo”. </p><p>Allora uscì e anche lui si mise a fischiare facendo arrivare uno stuolo di aquile, erano proprio tante aquile e a tutte chiese se sapessero dove si trovava il castello. Ma nemmeno quelle lo sapevano.</p>
+<p>“Comunque” disse, “ne mancano ancora due” disse, “mancano le due vecchie”.</p>
+<p>Fischiò ancora una volta e arrivarono anche le ultime due. Chiese anche a queste se sapessero dove si trovava il castello di Bombavello”.</p>
+<p>“Eh” dissero, “eravamo proprio ora in quel castello, arriviamo da lì”.</p>
+<p>“Ah sì” disse, “allora” ordinò, “ora condurrete questo principe al castello, se una di voi riuscirà a trasportarlo”.</p>
+<p>Quella più vecchia disse:</p>
+<p>“Lo porterò io ma” disse, “ho bisogno di mangiare carne perché è lontano” poi aggiunse, “e dove posso trovare ora la carne?”</p>
+<p>Allora il principe andò dall’aquila dicendo che, se aveva bisogno di carne, avrebbe ucciso un cavallo, e si chiese se per sfamarsi non fosse sufficiente un cavallo.</p>
+<p>“Beh” disse l’aquila, “allora va bene”.</p>
+<p>Aggiunse però che nel momento in cui non ne avesse avuto abbastanza, l’avrebbe lasciato cadere in aria. Allora il principe andò a uccidere uno dei cavalli e disse:</p>
+<p>“Ne avrai abbastanza di uno? Altrimenti uccido anche l’altro”. </p><p>“No, no” disse l’aquila, “uno basterà”.</p>
+<p>Allora lasciò l’altro cavallo al mago, che era lì, e si mise a tagliare a pezzi la carne per metterla sull’aquila. Poi anche il principe dovette salire sull’aquila
+<pb n="12" xml:id="pb.12"/>che prese il volo con la carne del cavallo, insomma, riusciva a trasportare tutto su di sé. Ogni volta che si voltava con il becco, lui doveva però gettargli in gola un pezzo di carne e così lei continuava a volare, tanto che volò finché, si capisce, non rimase senza carne. Non essendo ancora arrivati, l’aquila aveva fame e se non ci fosse stata più carne, lo avrebbe lasciato precipitare. Stavano per arrivare ma l’aquila era affamata. Allora cosa fece il principe? Si tagliò una coscia e la gettò nella gola dell’aquila affinché potesse cibarsi. Riuscì così a condurlo nelle vicinanze del castello lasciandolo però in un punto un po’ distante, perché proprio non ce la faceva a raggiungerlo. Allora disse:</p>
+<p>“Ti lascio qui”.</p>
+<p>Lo lasciò su un’altura e gli disse:</p>
+<p>“Eccolo là il castello” e glielo indicò, “ma devi andarci quando farà buio e bada a non andarci di giorno!”</p>
+<p>“Va bene” disse lui.</p>
+<p>L’aquila lo lasciò lì e ritorno indietro. Quando si fece buio il principe si avvicinò piano piano, arrivò fino al portone e bussò. Si affacciò proprio sua moglie che lo riconobbe subito e gli disse:</p>
+<p>“Oh” disse, “sei ritornato” disse, “devi entrare quando mio padre sarà andato a coricarsi, perché è ancora sveglio e rischi che vada in collera”.</p>
+<p>Ma suo padre era un mago, il mago più potente di tutti: sapeva tutto. Il principe rispose che avrebbe fatto come diceva lei. Il vecchio allora se ne andò a dormire e lei disse – il principe se ne stava un po’ in disparte – , quando si fu coricato, disse:</p>
+<p>“Vieni che adesso è andato a dormire!”</p>
+<p>E lì vicino c’erano tutte e tre le ragazze che erano volate sulla spiaggia, tutte e tre erano lì. Il vecchio comunque aveva fiuto, del resto era un mago, così si alzò e si trovò davanti il principe, senza però sapere chi fosse. Allora chiese alle figlie:</p>
+<p>“Cosa è venuto a fare questo qui? Cosa vuole, chi è?” </p><p>Allora una disse: “Questo è il principe”.</p>
+<p>“E perché è venuto qui?”</p>
+<p>Il principe disse che era venuto a chiedere una figlia in sposa, e gli chiese di concedergliene una. Quando udì che era il principe disse:</p>
+<p>“Beh” disse il mago, “perché no! Gli concederò una figlia. Però” disse, “deve compiere tre lavori”.</p>
+<p>L’altro gli promise di farlo se sarebbe stato capace. Allora il giorno dopo il mago accompagnò il principe in un bosco, aveva un bosco molto molto
+<pb n="13" xml:id="pb.13"/>grande, gli consegnò un’accetta e una sega di legno – tutto era di legno, anche il piccone – poi disse:</p>
+<p>“Adesso inizia a tagliare il bosco, entro stasera dovrà essere tutto tagliato con l’accetta di legno e” aggiunse, “devi estrarre anche le radici e mettere tutto in un mucchio, anche la ramaglia, e quando arriverò io, tutto dovrà essere già accatastato. Devi compiere questo lavoro!”</p>
+<p>Il giovane non sapeva nemmeno cosa rispondere. Allora disse: </p><p>“Ebbene, farò come potrò”.</p>
+<p>A mezzogiorno qualcuno doveva portargli il desinare e fu sua moglie a portarglielo – era quella a cui aveva nascosto il vestito – e quando arrivò con il cibo, lui disse:</p>
+<p>“Insomma” disse, “tuo padre ha detto che devo tagliargli il bosco, ma guarda qui che attrezzi mi ha dato: un’accetta e una sega di legno. Come posso lavorare con questi attrezzi!?”</p>
+<p>Lei allora rispose:</p>
+<p>“Tu bada a mangiare, il resto è affar mio”.</p>
+<p>Lui mangiò e quando fu sera, trovò tutto accatastato, tutto tagliato. Era stata lei che… insomma anche lei era una maga e in un istante il bosco era tutto tagliato. Fu solo opera di lei che aveva usato l’accetta e così quando la sera arrivò il padre, vedendo il lavoro, disse:</p>
+<p>“Oh,” disse, “adesso va bene”.</p>
+<p>Era soddisfatto che il bosco fosse tagliato: “Sì, hai portato a termine il primo lavoro,” e aggiunse, “domani però devi farmene un altro”.</p>
+<p>“Va bene”.</p>
+<p>Il mago possedeva un grande lago e disse: </p><p>“Domani devi prosciugarmi il lago!”</p>
+<p>Allora gli consegnò un mestolo forato e gli consegnò anche un setaccio dicendogli:</p>
+<p>“Ecco, per stasera deve essere tutto secco!”</p>
+<p>“Sì, sì, d’accordo”.</p>
+<p>Sapete bene che con un mestolo forato… e così:</p>
+<p>“Ahimè, anche questo lavoro mi tocca fare!” disse il principe.</p>
+<p>E così, quandò fu mezzogiorno, sua moglie gli portò di nuovo il desinare. Arrivata lì, lui disse:</p>
+<p>“Guarda un po’ qui” disse, “devo prosciugare il lago ma guarda che attrezzi mi ha consegnato”.</p>
+<p>
+<pb n="14" xml:id="pb.14"/>Lei rispose:</p>
+<p>“Tu bada a mangiare!”</p>
+<p>Mentre lui mangiava, lei prese una bacchetta e con quella bacchetta batté tre volte nel lago prosciugandolo, poi disse:</p>
+<p>“Vedi adesso che è tutto asciutto, lo vedi?” </p><p>Quando arrivò l’uomo, il mago insomma, disse:</p>
+<p>“Oh” disse, “mi hai compiuto anche questo lavoro. Ecco, ora va proprio bene,” disse, “ma adesso devi compierne ancora uno”.</p>
+<p>Si trattava però del lavoro più difficile che potesse esistere. Così il terzo giorno, lei sapeva anche questo, eh sì, la maga, sua moglie, sapeva anche questo, disse:</p>
+<p>“Ascoltami bene, domani ti aspetta il lavoro più difficile. Mio padre dice che metterà ognuna di noi figlie in una cassa così che ognuna si troverà in una cassa, una cassa da morto, ma” disse, “le casse saranno tutte uguali, una identica all’altra” e precisò, “tu dovrai sceglierne una e ti capiterà che non saprai quale scegliere. Ebbene” disse, “devi scegliere la cassa su cui si poserà una piccola mosca, lì dentro ci sarò io, devi scegliere quella”.</p>
+<p>Il giorno dopo il vecchio costruì tre casse, in ognuna mise una figlia e poi disse loro:</p>
+<p>“Che non vi venga in mente di parlare, nemmeno fiatare,” disse, “dovete stare ferme ferme ferme lì dentro” disse, “così sceglierà quella che vuole”.</p>
+<p>Allora lo chiamò e gli disse:</p>
+<p>“Ecco qui, scegli adesso la figlia che vuoi!”</p>
+<p>Ma le casse erano tutte uguali, una identica all’altra. Il principe rimase a lungo a guardare perché si trovavano in una stanza buia. Allora il mago vedendolo così ripeté:</p>
+<p>“Scegli, adesso devi sceglierne una, perché stai tanto a guardare!?” disse. </p><p>Essendo le casse una uguale all’altra, non sapeva proprio quale scegliere, intanto però prendeva tempo. Finalmente vide una piccola mosca camminare sopra la cassa che si trovava in mezzo. Il vecchio non se n’era accorto e il principe allora disse:</p>
+<p>“Ecco, scelgo questa”.</p>
+<p>Il vecchio allora pensò fra sé: ‘Mi porta via sempre la più bella’. Ma in effetti era la moglie del principe con cui era già d’accordo e così disse:</p>
+<p>“Scelgo questa”. </p><p>“Bene”.</p>
+<p>
+<pb n="15" xml:id="pb.15"/>Ma il vecchio non era affatto contento: il principe gli aveva portato via la figlia più bella.</p>
+<p>E comunque disse:</p>
+<p>“Se hai scelto così” disse, “prenditi questa!”</p>
+<p>“Allora” disse, “celebreremo le nozze ma non qui, festeggeremo nel mio paese” disse il principe, “e vi parteciperete anche voi naturalmente”.</p>
+<p>“Certo” rispose il padre. Ma non era affatto contento che gli avesse portato via proprio quella figlia e, mentre se ne andava via, meditava di ucciderlo subito, prima che arrivasse a casa. La maga, la moglie del principe, comunque lo sapeva e disse:</p>
+<p>“Anche se non sei sicuro che ti voglia uccidere” disse, “stasera alle undici dobbiamo andarcene”.</p>
+<p>C’erano le finestre senza sbarre, sapete, quelle di ferro, e disse: </p><p>“Lasciamo che intanto vada a dormire!”</p>
+<p>Allora il vecchio andò a coricarsi e loro due si avvicinarono alla finestra.</p>
+<p>Lei gli disse che aveva indossato il vestito che vola e così:</p>
+<p>“Ti aggrapperai a me e quando saranno le undici, ce ne andremo”.</p>
+<p>Allora quando… – il vecchio però era astuto e aveva fiutato l’imbroglio – quando furono le undici di sera lei andò alla finestra e via! Così presero il volo e volarono via oltre le montagne, poi lei gli disse:</p>
+<p>“Ogni tanto devi girarti e quando vedi una nebbia, quando vedi una nebbia che ci insegue, avvertimi”.</p>
+<p>Insomma volarono a lungo oltrepassando boschi e montagne. Lui, che stava aggrappato a lei, ogni tanto si girava:</p>
+<p>“Guardi se arriva la nebbia, la vedi?” diceva lei. </p><p>“No”.</p>
+<p>“Vedi qualcosa?”</p>
+<p>“No” diceva sempre di no.</p>
+<p>Ma quando giunsero quasi in cima a una montagna, lei disse: </p><p>“Vedi qualcosa?”</p>
+<p>“Sì” disse, “adesso la nebbia è dietro di noi”. </p><p>“Ecco” disse, “è mio padre che ci sta inseguendo”. </p><p>Lei continuò:</p>
+<p>“Prendi questa manciata di sale e quando si avvicina, gettala nella nebbia”.</p>
+<p>Sicché quando la nebbia giunse proprio vicino, lui vi gettò dentro il sale e tutto si trasformò in montagne. Si capisce che il vecchio, dovendo attraver
+<pb n="16" xml:id="pb.16"/>sare tutte quelle montagne, rimaneva indietro, mentre loro due guadagnavano strada e continuavano a volare. E mentre volavano via di nuovo lontano, lui continuava a voltarsi indietro:</p>
+<p>“Vedi ancora qualcosa che ci segue? Lo vedi?”</p>
+<p>“No, no”.</p>
+<p>Intanto loro due si allontanavano. </p><p>“Vedi qualcosa?”</p>
+<p>Il principe disse: “Sì, sta arrivando di nuovo la nebbia, è ancora dietro di noi”.</p>
+<p>Lei disse allora:</p>
+<p>“Prendi ancora questa manciata di sale e gettagliela contro quando sarà vicino!”</p>
+<p>Allora quando fu proprio vicino, gettò il sale nella nebbia e tutto si trasformò in bosco, tutto era bosco. E mentre lui tentava di attraversare di nuovo il bosco, chissà dove si trovavano loro due!</p>
+<p>Così guadagnarono ancora strada e di nuovo si allontanarono assai. Da lì fino al luogo dove dimorava il principe, la nebbia non li inseguì più, sapete, perché ormai non poteva più raggiungerli. Il vecchio probabilmente perse tempo vagando per i boschi mentre ai due giovani, una volta arrivati alla dimora del principe, non rimase che festeggiare felici e contenti: in tutta la città sventolavano le bandiere e così la storia è finita.</p></div>
+<div type="ss2" xml:lang="it" xml:id="FR2" corresp="#REP2">
+    <head><ref target="#REP2"><figure><q><ref target="media/02FR.mp3"><graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/></ref></q></figure></ref>
+<pb n="17" xml:id="pb.17"/><hi rend="bold">2</hi> Quella del pesce</head><opener>Edda Di Lenardo Krukiž</opener>
+<p>Allora racconto quella del pesce. C’era un pescatore che aveva tre figlie e andava sempre a pesca ma un giorno non riuscì a pescare proprio nulla.</p>
+<p>“Ahimè” disse, “care figliole, non so come potremo tirare avanti. Domani provo ancora una volta ad andare a pesca, altrimenti siamo costretti a chiedere la carità perché non abbiamo proprio nulla da mangiare in casa”.</p>
+<p>“Va bene, padre, forse domani pescherete qualcosa”.</p>
+<p>Così andò a pescare e rimase tutto il giorno in mare, ma la nassa era vuota, nessun pesce vi era rimasto imprigionato. Disse:</p>
+<p>“Ebbene, in nome di Dio, getterò ancora una volta la nassa e forse prenderò qualcosa”.</p>
+<p>E tutto d’un tratto tirò su un bel pesce, molto grosso, lo portò a casa e disse: </p><p>“Oh, figlie mie, mi è capitata una grande fortuna, ho catturato un grosso pesce, molto molto grosso!”</p>
+<p>“Bene padre, bene”.</p>
+<p>“Domani, tu che sei la più grande” disse, “andrai a venderlo”. </p><p>“D’accordo” rispose. E la mattina seguente disse: “Padre, lo porto a vendere”.</p>
+<p>Era la figlia maggiore che per portarlo lo mise nella nassa e poi si incamminò. Dopo aver camminato a lungo, all’improvviso, lungo la strada il pesce inizò a parlare, disse:</p>
+<p>“Gettatemi di nuovo in mare che vi coprirò d'oro e d'argento!”</p>
+<p>La povera ragazza si spaventò e corse a casa: “Padre, padre ho paura!”</p>
+<p>“Ma cosa è successo?”</p>
+<p>“Il pesce parla!”</p>
+<p>“Suvvia, sei matta o cosa!?”</p>
+<p>“Maria, ecco, portalo tu il pesce allora”. “Sì, padre, datemelo pure”.</p>
+<p>Ci andò anche la seconda figlia e, quando arrivò in mezzo al ponte, il pesce iniziò a parlare:</p>
+<p>
+<pb n="18" xml:id="pb.18"/>“Gettatemi di nuovo in mare che vi coprirò d’oro e d’argento!”</p>
+<p>Anche questa figlia ritornò a casa tutta spaventata e disse: “Padre, il pesce parla!”</p>
+<p>“Cosa? Non è possibile! Allora Anna, prendi tu il pesce e portalo a vendere!”</p>
+<p>Era la figlia più giovane.</p>
+<p>Quando anche lei giunse sul ponte, il pesce ripeté:</p>
+<p>“Gettatemi di nuovo in mare che vi coprirò d’oro e d’argento!” </p><p>Ritornò a casa e disse:</p>
+<p>“Padre, il pesce parla anche a me”.</p>
+<p>“Va bene, allora gettiamolo di nuovo in mare!”</p>
+<p>Sicché lo gettarono di nuovo in mare e così tirarono fuori un mucchio d’ oro e d’argento. Ma nella nassa c’ era di nuovo il pesce e disse:</p>
+<p>“Ecco, adesso vi ho dato i soldi, sistematevi la casa, compratemi una vasca d’oro e versatemi ogni giorno acqua fresca, così resterò con voi”.</p>
+<p>Insomma, il padre era felice, erano diventati ricchi; infatti si comprarono una casa e la sistemarono; al pesce comprarono una vasca d’ oro e così rimase molto tempo a casa loro. Un giorno il padre andò a cambiargli l’acqua e il pesce gli parlò:</p>
+<p>“Ascoltate padre, chiedete alla figlia maggiore se vuole sposarmi”. </p><p>“Sì, glielo chiederò”.</p>
+<p>Andò allora dalla figlia maggiore e le chiese:</p>
+<p>“Ascolta figlia, il pesce mi ha chiesto se vuoi prenderlo in sposo”.</p>
+<p>“Suvvia padre, siete diventato matto? Vado piuttosto sul tetto e mi butto giù”.</p>
+<p>Allora ritornò dal pesce a riferirgli: </p><p>“Cosa ha detto?”</p>
+<p>“Ha detto che piuttosto sale sul tetto e si butta giù”. </p><p>“Chiedete allora alla figlia media”.</p>
+<p>Il padre andò così dalla seconda figlia:</p>
+<p>“Maria, il pesce mi ha chiesto se vuoi prenderlo in sposo”. </p><p>“Ma siete pazzo, piuttosto mi butto dalla finestra”.</p>
+<p>E così ritornò dal pesce: “Niente, ha detto che piuttosto si butta dalla finestra”.</p>
+<p>“Beh, allora andate dalla più giovane”. Andò dalla più giovane:</p>
+<p>
+<pb n="19" xml:id="pb.19"/>“Senti un po’, il pesce mi ha chiesto se vuoi prenderlo in sposo”. </p><p>“Il pesce?” esclamò lei.</p>
+<p>“Sì!”</p>
+<p>“Sapete padre, il pesce ci ha aiutati, ora abbiamo una casa, abbiamo dei soldi: io mi sposerò con il pesce”.</p>
+<p>“Ma sarà stregato! Perché parla quel pesce?”</p>
+<p>“Io comunque sposerò quel pesce”.</p>
+<p>Difatti sposò il pesce, tanto che arrivò il prete, li benedisse e poi andarono a dormire. E il pesce stava vicino a lei sulla sedia.</p>
+<p>Infine, dato che il prete era venuto a benedirli, diventarono marito e moglie. Tutti però la deridevano, anche le sorelle, soltanto il padre era dell’idea che magari era vero quanto sua figlia pensava. Sicché andò a dormire e prese con sé una sedia, prese la vasca con il pesce e se lo tenne accanto. Allo scoccare della mezzanotte un bell’uomo si presentò alla porta e lei prese paura.</p>
+<p>L’uomo disse: “Non devi avere paura, sono io, il pesce. Sono vittima di un incantesimo e non posso vedere la luce del sole. Posso stare vicino a te soltanto di notte e tu comunque sei mia moglie”.</p>
+<p>Lei era felice perché si piacevano molto. Erano le tre di notte passate, il sole stava per sorgere e lui si trasformò di nuovo in pesce. E aggiunse: “Non essere triste, stasera ci vedremo di nuovo”.</p>
+<p>In fin dei conti lei era contenta e trascorsero così molti mesi. La ragazza aveva una zia che un giorno andò a farle visita. La zia disse:</p>
+<p>“Insomma, cara figliola, hai sposato un pesce e malgrado ciò sei così felice, ma come puoi essere felice se hai un pesce per marito!?”</p>
+<p>“Un pesce? Ah zia, non è un pesce, a mezzanotte si trasforma in un bell’uomo!”</p>
+<p>“Come fai a sapere che è bello, l’hai visto?”</p>
+<p>“No, non mi è consentito, perché lui non può vedere la luce”.</p>
+<p>“Ma come sei sciocca! Prendi una candela, accendila, mettila in una pignatta e nascondila. Quando si sarà addormentato accanto a te, tu alzati piano piano senza farti sentire, prendi la candela e così potrai vedere che aspetto ha”.</p>
+<p>“Ebbene sì, avete ragione” e andò via.</p>
+<p>Quando l’uomo ritornò da lei di nuovo si amarono, poi si addormentarono. Mentre lui dormiva lei allora si alzò, prese la candela e lo illuminò.</p>
+<p>“Ah, moglie mia, che avete fatto, così non ci vedremo mai più!” e scomparve.</p>
+<p>
+<pb n="20" xml:id="pb.20"/>Infatti non era né nella vasca né vicino a lei: se n’ era ritornato nel mare. Non c’ era più.</p>
+<p>La donna, fuori di sé, stava per impazzire ma attendeva un figlio e l’indomani andò da suo padre e gli disse:</p>
+<p>“Padre mio caro, sorelle mie care, avrò un figlio da mio marito. Ho fatto quello che mi aveva detto la zia e ho acceso una candela per poter vedere com’ era: era bello come il sole ma ora è scomparso e se riuscirò a trovare mio marito, allora ci rivedremo, altrimenti mai più”.</p>
+<p>Così salutò tutti e se ne andò. Camminando lungo la riva continuava a chiamarlo, ma da nessuna parte sentì la sua voce, né da nessuna parte vide il pesce. Difatti il povero pesce era di nuovo nel mare ma non stava affatto bene perché tutti gli altri pesci sapevano che non era uno di loro. Tutti volevano divorarlo e così scontava questa pena ingiusta dove poteva.</p>
+<p>Sicché la donna continuò a camminare fin quando arrivò in un altro luogo ancora e lì chiese alla regina se sarebbe potuta rimanere con lei fino alla nascita del bambino.</p>
+<p>“Sì” rispose la regina.</p>
+<p>E così il tempo trascorse e naque un maschietto. La regina voleva loro bene e per accudire il bambino le concesse una governante. Il bambino dormiva in una cameretta e anche la madre aveva la propria; sicché quando scoccò la mezzanotte il marito si affacciò alla porta e si avvicinò alla culla, poi prese il bambino e iniziò a cullarlo dicendo:</p>
+<p>“Dormi, dormi figlioletto mio, <lb/>che le campane non suonino, <lb/>che le luci non si accendano, <lb/>che i galli non cantino, <lb/>vorrei stare sempre a cullarti!”</p>
+<p>E continuò in questo modo fino al sorgere del sole, poi depose il bambino nella culla e se ne andò.</p>
+<p>Andò avanti così per molto molto tempo, finché un giorno la governante disse alla regina ciò che aveva sentito nella camera del bambino:</p>
+<p>“Ma non può essere vero!”</p>
+<p>“Sì invece, regina”.</p>
+<p>Allora la regina andò dalla donna, le raccontò il fatto come riferitole dalla governante e decisero che quella notte sarebbero rimaste lì ad ascoltare.</p>
+<p>“D’accordo!” dissero.</p>
+<p>
+<pb n="21" xml:id="pb.21"/>Suonata la mezzanotte, le porte si aprirono, il marito si avvicinò alla culla e, come vi ho già detto, vi rimase fino al sorgere del sole, poi lo depose nella culla e scomparve.</p>
+<p>La donna scoppiò in lacrime. La regina allora ordinò che tutti i galli fossero uccisi, che nessuna campana dovesse suonare e nessuna luce dovesse accendersi. Così rimasero ad ascoltare quello che sarebbe successo: nessuna campana suonò più, al mattino nessun gallo cantò più e nessuna luce doveva accendersi.</p>
+<p>“Adesso,” dissero, “staremo a vedere cosa succederà stanotte”.</p>
+<p>E così, allo scoccare della mezzanotte, l’uomo di nuovo entrò e si avvicinò alla culla, prese il bambino e iniziò a cantare:</p>
+<p>“Dormi, dormi figlioletto mio, <lb/>che i galli non cantino, <lb/>che le luci non si accendano, <lb/>che le campane non suonino, <lb/>vorrei stare sempre a cullarti!”</p>
+<p>E nessun gallo cantò, nessuna luce si accese, nessuna campana suonò finché il sole non sorse. Ebbe ancora la forza di mettere il bambino nella culla e poi si accasciò sul letto addormentandosi. Dormì tre notti e tre giorni e quando si svegliò, si trovò da solo nella camera. Allora andò da lui la regina, che non lo conosceva, e lui le disse:</p>
+<p>“Ascoltate regina, voi avevate un bambino che improvvisamente si perse”. </p><p>“Sì”.</p>
+<p>“Madre, guardate, quel bambino sono io. La donna che vive da voi è mia moglie e il bambino che cullavo è mio figlio. Adesso lo sapete, ritorniamo indietro a dire che sono salvo e che mio figlio mi ha salvato: la fortuna del mio futuro!”</p>
+<p>Così tutti si misero in cammino e arrivarono a casa, dal padre di lei, il quale però conosceva soltanto sua figlia:</p>
+<p>“Ecco, padre, ti presento mio marito e mio figlio”.</p>
+<p>Quando le sorelle sentirono ciò, quella che aveva detto che si sarebbe gettata giù dalla casa, andò sul tetto e vi si gettò giù; quella che aveva detto che si sarebbe gettata dalla finestra, che non voleva sposare il pesce, si gettò dalla finestra. Sicché furono felici di essere potuti ritornare e di rimanere tutti insieme. E lui, il pesce, visse di nuovo vicino a sua madre, alla moglie e al bambino.</p></div>
+<div type="ss2" xml:lang="it" xml:id="FR3" corresp="#REP3">
+    <head><ref target="#REP3"><figure><q><ref target="media/03FR.mp3"><graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/></ref></q></figure></ref>
+<pb n="22" xml:id="pb.22"/><hi rend="bold">3 </hi> Il marito, la moglie e il diavolo </head><opener>Marcellina Madotto — Ćikarïnawa</opener>
+<p>C’erano una volta un marito e una moglie che avevano dodici bambini e l’uomo, si capisce, era povero dato che avevano così tanti figli. Per avere almeno un po’ di companatico andava a pesca nei ruscelli ma la moglie di nuovo rimase incinta, aspettava di nuovo un bambino. Il marito però ancora non ne sapeva nulla perché lei aveva paura di dirglielo avendo già dodici figli, più lei tredici e lui quattordici, più quello che sarebbe nato. Preferiva tacere per non recar dispiacere anche a suo marito. Allora l’uomo, un giorno, ritornando dalla pesca, si trovò davanti un elegante signore. Questo signore lo salutò e gli chiese:</p>
+<p>“Dove siete stato?”</p>
+<p>L’uomo rispose: “Sono venuto a pescare qualche pesce per dare un po’ di companatico ai bambini” e aggiunse, “non posso lavorare da nessuna parte perché da nessuna parte c’è lavoro e abbiamo tanti bambini, non sappiamo come fare per sopravvivere!”</p>
+<p>Siccome l’uomo si lamentava, il signore gli disse: “Se siete d’accordo, vi darò io i soldi che vi servono ma dovete promettermi una cosa che non sapete di avere in casa”.</p>
+<p>“Ma come” disse, “io non so di qualcosa che ho in casa!?”</p>
+<p>“Comunque” disse, “voi non lo sapete ma se me lo promettete” disse, “vi riempirò di denaro”.</p>
+<p>“Beh” disse, “allora ve la darò” disse.</p>
+<p>“Dunque” replicò il signore, “mi farò vivo fra un anno e un giorno”. </p><p>Sicché gli diede molto denaro e l’uomo ritornò a casa tutto orgoglioso, consegnò a sua moglie i pesci e rovesciò i soldi sul tavolo dicendo: “Ecco, va’ a comprare di ogni cosa un po’ per sfamare almeno i piccoli che qui” disse, “non mangiamo mai abbastanza”.</p>
+<p>La donna chiese: “Dove hai rubato questi soldi?” </p><p>Lui rispose: “Non li ho rubati!”</p>
+<p>“Ma, caro mio” disse, “dove nascondevi tutti questi soldi se non ne hai mai avuti: hai ucciso qualcuno, oppure sei stato a rubare da qualche parte? Li hai trovati o cosa?”</p>
+<p>
+<pb n="23" xml:id="pb.23"/>L’uomo replicò: “Non ho né ucciso né rubato né li ho trovati” disse, “ritornando indietro dalla pesca ho incontrato un signore distinto che mi ha salutato e mi ha chiesto dove vado. Io gli ho raccontato come stanno le cose, che vado a pesca per sfamare i nostri figli e mi sono lamentato della nostra condizione. Lui mi ha detto che mi avrebbe dato molti soldi se gli avessi promesso una cosa che non sapevo di avere in casa” disse, “ma io so tutto quello che ho in casa. Alla fine gliel’ho promessa e lui mi ha dato i soldi”.</p>
+<p>“Accidenti” disse lei, “ma sai che sono di nuovo incinta?”</p>
+<p>L’uomo si colpì la testa con i pugni mettendosi a piangere: “Perdio” disse, “ma perché non me l’hai detto?”</p>
+<p>“Mah” disse, “non volevo dirtelo per evitare di affliggere anche te”. </p><p>Lui replicò: “Che dobbiamo fare allora?”</p>
+<p>“Beh” disse lei, “zitto tu che è affar mio, lascia pure che venga” e aggiunse, “è sicuramente il diavolo”.</p>
+<p>Intanto il tempo trascorreva finché giunse il nono mese e naque un maschietto. Allora naque questo maschietto ma, trascorso un anno e un giorno, videro quel signore presentarsi all’uscio: era venuto a prendersi il bambino.</p>
+<p>La moglie gli disse: “Vi daremo il bambino, però dovete rispondere a tre indovinelli”.</p>
+<p>Allora il diavolo disse: “Va bene”.</p>
+<p>Così la donna andò su in camera, portò giù una gerla di lana nera e una gerla di lana bianca dicendo:</p>
+<p>“Ecco qui, ora andate giù al ruscello: questa deve diventare bianca e quest’altra nera!”</p>
+<p>Il diavolo allora prese prima quella nera e si mise a lavarla, la lavò talmente tanto e talmente tanto nel ruscello che più la lavava e più questa lana diventava nera.</p>
+<p>“Ah, dannata donna” disse, “guarda qui, la lana diventa sempre più nera!”</p>
+<p>Allora riportò a casa la lana e disse: “Cara padrona, questa lana io non riesco a lavarla. Datemi l’altra”.</p>
+<p>Il diavolo, con la sua lunga lunga coda arrotolata, ritornò giù al ruscello con la lana bianca per lavarla, però più la lavava e la sbatteva, più la lana diventava bianca:</p>
+<p>“Ma insomma” diceva il diavolo guardando su la donna, “è mai possibile che non riesca a indovinare queste cose io!?”</p>
+<p>Ritornò su e disse: “Questa cosa io non riesco a farla diventare nera!”</p>
+<p>
+<pb n="24" xml:id="pb.24"/>Lì era rimasto solo il marito, perché la moglie era andata nella stalla. Lì si sciolse i capelli, lasciandoli cadere lungo il corpo, e si spogliò. Prima però aveva avvisato il marito che il diavolo avrebbe dovuto indovinare quale animale ci fosse nella stalla.</p>
+<p>“Se riuscite a indovinare, potete portare via il piccolo, ma se non indovinerete, il bambino resterà con noi” disse il marito.</p>
+<p>“Sì, sì” disse il diavolo, “accompagnatemi nella stalla a vedere di che animale si tratta!”</p>
+<p>E andarono nella stalla. Insomma la donna aveva lasciato cadere la chioma all’indietro e sul davanti le scendevano delle lunghe trecce. Il diavolo non faceva che guardare:</p>
+<p>“Ma cosa può essere questo” disse, “come è fatto, non ho mai visto un animale simile: ha le mammelle davanti che penzolano, di dietro ha la coda e davanti o di dietro la barba. Ma come è fatto?” disse. “Io… tenetevi il bambino e tenetevi tutte le ragioni che” aggiunse, “non ho mai visto una bestia simile, pur avendo attraversato tutte le montagne, non ho mai visto una bestia simile!”</p>
+<p>Ciò che non riesce a fare il diavolo, riesce la donna e così la storia è finita tanto che il diavolo se ne andò senza portarsi via il bambino.</p></div>
+<div type="ss2" xml:lang="it" xml:id="FR4" corresp="#REP4">
+    <head><ref target="#REP4"><figure><q><ref target="media/04FR.mp3"><graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/></ref></q></figure></ref>
+<pb n="25" xml:id="pb.25"/><hi rend="bold">4</hi> L’uomo che andò a vendere i buoi al mercato</head><opener>Valentina Pielich — Tïna Wajtawa</opener>
+<p>C’era una volta un uomo che aveva dei buoi molto belli e disse alla moglie:</p>
+<p>“Domani è giorno di mercato e andrò a vendere i buoi.”</p>
+<p>Così ci andò e riuscì a guadagnare un bel gruzzolo di soldi. Quando fece ritorno, portò i soldi nella stanza dove c’era la madia in cui si conservava la farina – sapete come erano le madie di un tempo dove si teneva la farina. Sicché li nascose proprio nella farina ma in quella casa avevano una fantesca e allevavano dei maiali. Il mattino seguente la donna si alzò di buon ora, prima del padrone, e velocemente prese della farina per cuocere ai maiali il pastone – o non so quale altra cosa – e glielo portò, sicché i maiali mangiarono la farina con tutto il portafoglio. La mattina, quando l’uomo si alzò, prima di tutto andò a guardare nella madia, ma aprendola non trovò più il portafoglio e disse:</p>
+<p>“Qui” disse, “sono venuti i ladri ieri sera e mi hanno rubato il portafoglio” disse, “oppure è stata la serva a rubarmelo: c’è qualcosa che non va!”</p>
+<p>La fantesca diceva di non essere stata lei, lui insisteva di sì ma lei continuava a negare.</p>
+<p>“Allora sapete cosa faccio? Non mi resta che andare su dalla donna santa, che quella donna santa tutto sa e saprà anche dove sono finiti i soldi!”</p>
+<p>Allora il povero uomo decise di partire e iniziò a salire sulla montagna dove viveva la donna santa. Quando arrivò su, lei era accanto al fuoco con una corona attorno al collo talmente lunga che arrivava fino giù a terra e si preparava a recitare il rosario. Lui la salutò e lei rispose:</p>
+<p>“Come mai voi da queste parti?”</p>
+<p>“Ahimè” disse, “ieri” disse, “ho venduto i buoi” disse, “ho portato i soldi a casa” aggiunse, “e li ho messi al sicuro” disse, “ma adesso,” continuò, “non riesco a più trovare i soldi da nessuna parte. Voi, voi sapete forse dirmi chi è stato a prenderli?” Infine aggiunse: “Io mi ammazzo, se non trovo quei soldi”.</p>
+<p>
+<pb n="26" xml:id="pb.26"/>Allora la donna disse:</p>
+<p>“Io” disse, “non posso dirvelo ora, dovete ritornare prima a casa!”</p>
+<p>“Come a casa” disse, “non potete dirmelo subito?!”</p>
+<p>“No” disse lei, “soltanto fra un’ora o due” disse, “saprò dirvi qualcosa. Voi,” disse, “andate pure a casa e poi ritornate su”.</p>
+<p>Allora l’uomo pensò:</p>
+<p>‘Accidenti, mi tocca ritornare a casa!’</p>
+<p>Lì dietro però c’era un capanno, sapete, era come una specie di ricovero, e pensò di nascondersi lì dentro affinché la donna non lo vedesse.</p>
+<p>“Ebbene” replicò, “io scendo giù a casa” disse, “ma quando fra due o tre ore ritorno su” disse, “dovrete darmi una risposta”.</p>
+<p>“Certo” rispose la donna.</p>
+<p>Invece lui si nascose lì vicino e dopo un po’ di tempo, forse un quarto d’ora o mezz’ora, sentì dei rumori e vide la donna uscire di casa tutta arruffata fischiando talmente forte da rompergli i timpani, dato che lui si trovava in quel capanno – non so come si chiama – in quel ricovero.</p>
+<p>“Perbacco” disse, “è un brutto segno!”</p>
+<p>La donna si fermò un attimo per accertarsi che nessuno la vedesse: non c’era nessuno, allora si mise di nuovo a fischare ancora più forte di prima.</p>
+<p>“Qui” disse, “le cose si mettono male” pensò l’uomo. “Beh,” disse, “staremo a vedere cosa succede!”</p>
+<p>Dopo che la donna ebbe fischiato nuovamente, sentì uno scalpitio e arrivò un caprone.</p>
+<p>“Quale è il problema di cui mi devi parlare” chiese, “che la prima volta che hai fischiato mi trovano oltre nove montagne, la seconda volta” disse, “mi trovavo oltre cinque montagne e ora” disse, “la terza volta sono arrivato qui?”</p>
+<p>“Mah, le cose stanno così e così:” disse lei, “ieri” continuò, “un uomo ha venduto i buoi e” disse, “li ha portati a casa mettendoli al sicuro ma ora non trova più i soldi da nessuna parte! Devi sapermi a dire chi glieli ha rubati”.</p>
+<p>Lui allora rispose: “Quando verrà su, ditegli che il maiale, quello medio – in quella casa allevavano maiali e la fantesca dopo essersi alzata, aveva messo la farina nel trogolo – il maiale, quello medio, li ha nello stomaco, tutti quanti, come quando li aveva guadagnati”.</p>
+<p>Allora l’uomo, sentendo ciò, non volle più ritornare dalla donna ma scese subito a casa attraverso il bosco. Andò a prendere il coltello per uccidere il
+<pb n="27" xml:id="pb.27"/>maiale e dopo averlo squartato ne estrasse il portafoglio ancora intero. Poi andò a raccontare in tutto il circondario di quella donna santa che chiamava il diavolo per sapere chi fosse stato a rubare. Ecco, così è stato e adesso la storia è finita. Allora si venne a sapere di quale santa donna si trattasse, così nessuno andò più lassù.</p></div>
+<div type="ss2" xml:lang="it" xml:id="FR5" corresp="#REP5">
+    <head><ref target="#REP5"><figure><q><ref target="media/05FR.mp3"><graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/></ref></q></figure></ref>
+<pb n="28" xml:id="pb.28"/><hi rend="bold">5</hi> Gardiniza e la formica</head><opener>Vito Chinese Hoģin</opener>
+<p>C’era una donna anziana che viveva fuori dal paese e per attingere l’acqua doveva percorrere molta strada prima raggiungere un luogo lontano, molto lontano. Un giorno cadde la neve, la donna prese i secchi e andò ad attingere l’acqua. Quando ritornò a casa vide qualcosa dietro il focolare e disse:</p>
+<p>“Chi sei tu là dietro il focolare? Esci da casa mia che abito io qui!” </p><p>Ma la gardina mostrava i denti.</p>
+<p>“Va’ fuori di qui altrimenti vado a cercare rinforzi!”</p>
+<p>Ma la gardina non aveva intenzione di andarsene, dietro il focolare stava al calduccio e continuava a mostrare i denti. La povera donna andò a cercare degli uomini che la aiutassero ma non riuscirono a cacciarla fuori. Andò allora a chiedere aiuto al cervo, all’orso, al lupo, insomma mise insieme tutte le forze possibili che iniziarono a picchiare la gardina lì dentro in casa, ma niente da fare. Giacché nemmeno questi ci riuscirono, ognuno se ne andò per la sua strada lasciando lì la vecchia che, piangendo, si mise a vagare fra gli abeti nella neve.</p>
+<p>Lì c’era la formica: “Perché mai piangete padrona?”</p>
+<p>La vecchia rispose: “Non dovrei forse piangere che ho la gardiniza in casa?”</p>
+<p>“Oh” disse la formica, “se è solo per questo, verrò io a cacciarla fuori!”</p>
+<p>Sentendo ciò la vecchia, nonostante fosse così afflitta, si mise a ridere, si mise proprio a ridere: “Ma come, se ho chiamato non so quanti uomini che l’hanno picchiata con forche e badili, eppure non ha voluto andarsene! Come puoi cacciarla via tu che sei la più piccola?”</p>
+<p>“Non preoccupatevi, in un attimo la gardiniza sarà cacciata fuori, mostratemi soltanto dove abitate.”</p>
+<p>Sicché andò su a casa. Arrivata su, la formica stette ad osservare dall’uscio la gardiniza che si riscaldava dietro il focolare. Ma come ci sarebbe riuscita la formica? Eppure pian pianino salì prima sulla sedia piccola e poi su quella grande arrivando così dietro il focolare. Risalita sotto le gonne, punse la gardiniza nel sedere e quella balzò sulla sedia piccola.</p>
+<p>
+<pb n="29" xml:id="pb.29"/>“Povera me” disse la vecchietta, “prima era dietro il focolare, adesso è addirittura saltata sulla sedia!”</p>
+<p>Poi piano piano la formica girandole intorno si avvicinò e la punse di nuovo nel sedere: l’altra spiccò un salto sulla sedia grande.</p>
+<p>La vecchietta disse: “Prima era solo sulla sedia piccola, ora è su quella grande, ma chi riuscirà mai a cacciarla fuori?”</p>
+<p>Così la formica piano piano si avvicinò alla gardiniza e la punse nel sedere facendola balzare sulla madia.</p>
+<p>Allora la vecchietta esclamò: “Ancora peggio, adesso è sulla madia!”</p>
+<p>Comunque la formica piano piano, con la sua santa calma, si arrampicò di nuovo su e la punse ancora nel sedere: spiccò un salto fino sulla mensola. Quando fu sulla mensola, dove teneva i cocci, saltandoci sopra ruppe tutte le scodelle che, un tempo, erano di terracotta. La formica allora continuò ad andare piano piano su e giù, su e giù fin quando arrivò in cima pungenola di nuovo nel sedere: la gardiniza spiccò un salto finendo sull’uscio. Ah, la vecchietta che si trovava lì fuori era tutta felice di vedere la gardina sull’uscio, ma questa cercava di ritornare dietro il focolare. Veloce allora la formica scese giù e la punse ancora nel sedere facendola saltare in un profondo dirupo così che si ruppe il dente grande e, precipitando nel burrone, morì. Così la vecchietta fu contenta di aver cacciato fuori la gardiniza. E adesso la storia è finita.</p></div>
+<div type="ss2" xml:lang="it" xml:id="FR6" corresp="#REP6">
+    <head><ref target="#REP6"><figure><q><ref target="media/06FR.mp3"><graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/></ref></q></figure></ref>
+<pb n="30" xml:id="pb.30"/><hi rend="bold">6</hi> La volpe che voleva misurare il monte Stožje</head><opener>Anna Di Battista Fefawa</opener>
+<p>C’era una volta la volpe che non sapeva come procurarsi la carne per i suoi piccoli. Dunque un giorno partì e, dopo aver camminato a lungo, vide un gatto. Lo chiamò ma il gatto non volle andare giù dalla volpe perché aveva paura. La volpe allora gli disse:</p>
+<p>“Vieni giù che non ti faccio niente” e poi aggiunse, “si dovrebbe misurare quella montagna là perché nessuno sa quanto è alta, ma” disse, “non possiamo farlo noi due da soli”.</p>
+<p>E continuò dicendo:</p>
+<p>“Tu lassù,” disse, “vedi se puoi convincere il gallo”.</p>
+<p>Allora il gatto andò dal gallo e se lo maneggiò ben bene finché riuscì a convincerlo ad andarci insieme. Ma la volpe disse:</p>
+<p>“Dobbiamo incamminarci stasera per essere lassù domattina, perché se ci andiamo domani, arriviamo in cima troppo stanchi per ritornare giù misurando la montagna”.</p>
+<p>“Va bene” risposero. E così partirono la sera. Il gatto, bello sazio, e il gallo camminavano davanti ma la volpe rimaneva indietro perché la salita le aveva proprio mozzato il fiato. Ebbene quando arrivarono in cima disse:</p>
+<p>“Povera me” disse la volpe, “io mi metto a dormire qui, sotto questa roccia e tu gatto” disse, “dove ti metti?”</p>
+<p>“Raccolgo un po’ di foglie secche e mi ci corico dentro”.</p>
+<p>E il gallo disse: “Io vado su quell’albero e dopo che avrò cantato tre volte, alzatevi che iniziamo a lavorare”.</p>
+<p>“Bene” risposero.</p>
+<p>Ma la volpe non si addormentò affatto perché aspettava soltanto che il gallo cantasse. Allora appena lo sentì cantare la prima volta, andò piano piano verso di lui per sentire bene in che punto cantava. Sicché quando cantò per la terza volta, riuscì a vedere dov’era, e intanto anche il gatto udì che il gallo cantava. Quando però il gallo scese a terra, poverino, la volpe lo afferrò.</p>
+<p>
+<pb n="31" xml:id="pb.31"/>Si era stabilito che la volpe avrebbe scritto quanto è alta la montagna, il gatto – che era il geometra, visto tiene la coda sempre per aria – avrebbe dovuto misurarla, mentre il gallo – che ha il becco – avrebbe fatto i buchi per piantarvi i picchetti e poter così misurare la montagna fino ai piedi. Ma quando il gatto vide che la volpe si stava mangiando il gallo, arrotolò la coda e se ritornò giù a gambe levate. Così non si saprà mai quanto è alta quella montagna.</p></div>
+<div type="ss2" xml:lang="it" xml:id="FR7" corresp="#REP7">
+    <head><ref target="#REP7"><figure><q><ref target="media/07FR.mp3"><graphic n="1099" url="media/FR_CD.jpg" width="1cm" height="1cm"/></ref></q></figure></ref>
+<pb n="32" xml:id="pb.32"/><hi rend="bold">7</hi> A casa, a casa Bruna, Maura!</head><opener>Maria Paletti Rozaljina</opener>
+<p>C’era una volta una donna anziana, una del nostro paese, che a Carnizza aveva uno stavolo dove teneva le mucche, il maiale, i vitelli, le pecore, le capre e anche le galline: teneva lì tutto il suo bestiame. Ebbene, sapete, invece di ricondurre le bestie a valle per la festa della Madonna di settembre, come noi diciamo per l’otto settembre, vi rimase fino al tardo autunno. Lassù era ormai sola e lasciava pascolare le mucche ovunque, a destra e a sinistra.</p>
+<p>Le mucche infatti le davano ancora molto latte perché mangiavano l’ultima erba in malga, sapete. Così il tempo passava e giunse il mese di ottobre che la donna era sempre lassù a Carnizza. Allora sapete, una sera mentre filava la lana avvolgendola in matasse, alla luce di un lanternino tutto crepato e scrostato, insomma mentre filava la lana, sentì una voce gridare da un po’ più lontano:</p>
+<p>“A casa, a casa Minia, a casa Bruna, Maura!”</p>
+<p>La voce gridava il nome delle mucche che si chiamavano appunto Bruna e l’altra Maura.</p>
+<p><hi rend="italic">E lei era Minia.</hi></p>
+<p>Sì, lei si chiamava Minia.</p>
+<p>Allora la donna – si sapeva che non aveva paura di niente e di nessuno – rispose gridando:</p>
+<p>“Finisco ancora questo gomitolo, poi vado a dormire!”</p>
+<p>Dopo aver terminato l’ultimo gomitolo infatti andò a dormire ma il mattino seguente, quando si alzò, era caduta talmente tanta neve che le arrivava fino al ginocchio e non poteva nemmeno entrare nella stalla. Fu costretta, povera donna, a mettersi a spalare la neve almeno per entrare e dar da mangiare alle mucche. Una addirittura aveva appena partorito. Giù al paese aveva molti figli, ne aveva sei, e quando si accorsero che era caduta la neve – infatti cadde fino qui in paese anche se solo un pochino –, si immaginarono quanta ne era caduta lassù a Carnizza che è più in alto. Lo sapete, dato che ci siete stato anche voi.</p>
+<p>
+<pb n="33" xml:id="pb.33"/>Sicché presero con sé delle gerle di ogni tipo, quelle grandi, quelle piccole e altre ancora, poi andarono su. Dovettero mettersi gli stivali e, una volta arrivati su, trovarono la donna in lacrime. Allora uno prese il maiale, l’altro dovette prendere su le galline, l’altro ancora raccogliere gli attrezzi e uno la donna stessa. Così, dopo aver messo la catena al collo delle mucche, si incamminarono verso casa. Giù in paese la gente diceva: “Beh, è conciata bene quella donna lassù!” La donna comunque era già ritornata giù, ma non era ritornata giù al paese, bensì nello stavolo che avevano qui oltre il fiume, dove hanno poi ricoverato anche le mucche. Da lì la donna fece ritorno al paese quasi a Natale e così la storia è finita.</p>
+<pb n="34" xml:id="pb.34"/></div></div>
+<div type="ss1">
+<div type="ss2" xml:lang="sl" xml:id="REP1" corresp="#FR1">
+<pb n="35" xml:id="pb.35"/>
+<head><ref target="#FR1"><hi rend="bold">1</hi> Grad Bombavelo</ref></head><opener>Pasqua Di Lenardo — Paska Dulica</opener>
+<p>Nekoč je bil nek princ, sin nekega kralja. Tedaj je šel ta princ na lov na obrežje in potem, ko je nekaj časa hodil, je prišel na neko točko, od koder je videl, da nekaj prihaja po zraku. Bile so tri deklice, ki so letele, prišle so na obalo in so si slekle obleko, on pa je šel in se je skril, da ga ne bi videle. Imele so kopalke in so se slekle: dve sta odložili obleki na isti prostor, ena pa jo je odložila ločeno. Medtem ko so se kopale v vodi in so plavale kot ribe, jih je princ opazoval. Ko so se že dovolj oddaljile, je šel princ na obalo in vzel obleko tiste deklice, ki jo je odložila posebej. In si je rekel:</p>
+<p>“Prav zanima me, kaj bodo naredile, ko se vrnejo, in kaj bo oblekla ta brez obleke”.</p>
+<p>Ostale so dolgo v vodi, morda eno uro. Potem pa, ko so se skopale, so se vrnile nazaj, toda le dve sta takoj našli obleko. Tisti dve, ki sta jo pustili skupaj, tretja pa, ki jo je pustila posebej, jo je šla iskat, toda zastonj.</p>
+<p>“Ojme,” reče, “in zdaj, kako naj se vrnem domov brez obleke?”</p>
+<p>“Ma, kdo jo je vzel, dobro poglej, morda si jo kam dala, išči povsod!”</p>
+<p>“Ah no,” reče, “položila sem jo sem, vendar obleke ni.”</p>
+<p>“Uboga jaz, odnesli so mi jo,” toži, “zagotovo je bil nekdo, kako naj se zdaj z vama vrnem domov?”</p>
+<p>“Ah,” pravita, “poslušaj, ti ostani tukaj, midve pa greva domov in ti prineseva drugo obleko!”</p>
+<p>Onidve se oblečeta in to je bila obleka, s katero se je dalo leteti, ma ona je ostala na obali, ni imela več obleke, tako sta drugi dve odleteli. Potem, ko sta odšli, se ji je približal princ, deklica pa je sedela na obali ob morju in je jokala. In ko ga je videla, mu je rekla:</p>
+<p>“Ojme, ali si mi ti skril obleko, si mi jo vzel? Kdo si?” pravi.</p>
+<p>On odgovori: “Jaz sem princ, kraljevi sin,” pravi, “jaz sem ti vzel obleko, toda,” pravi, “zdaj se bova ti in jaz poročila in ti mi boš sledila!”</p>
+<p>“Ojme,” pravi, ko je slišala, da je princ, “dobro,” je rekla, “da.” </p><p>Tedaj sta šla. On je vzel obleko, ki jo je skril, in reče:</p>
+<p>
+<pb n="36" xml:id="pb.36"/>“Zdaj se morava poročiti!”</p>
+<p>In sta šla, in ko sta prišla tja, kjer je živel kralj, mu sin predstavi dekle in pravi, da se bosta poročila.</p>
+<p>Kralj je bil zadovoljen in reče: “Poroči se z njo!”</p>
+<p>Skratka kralj je bil zadovoljen in sta se poročila.</p>
+<p>Nekega dne pa je prejel princ telegram iz Amerike, kjer je živel njegov nečak in ta nečak se je nameraval oženiti, zato mu je poslal vabilo, naj se mu pridruži, saj je bil njegov stric.</p>
+<p>“Beh,” pravi, “moram iti v Ameriko, ker sem dobil telegram.” </p><p>Tedaj je rekel svoji materi, on pravi:</p>
+<p>“Zdaj morate pokazati vse naše premoženje, kje imamo zemljo, hišo, sobe, vse, prav vse morate pokazati moji ženi, ker ni še nikoli videla tega, kar imamo. Pretekla sta že dva tedna od poroke, pa ona ne ve nič.”</p>
+<p>“Dobro,” pravi mati.</p>
+<p>“Ma,” pravi, “morate pokazati vse v hiši, vse pohištvo, prav vse, razen,” pravi, “vidite ta predalnik? Nikoli ne smete pokazati tega, kar je v tem predalniku, vse ostalo pa lahko.”</p>
+<p>“Prav,” je rekla, da ja.</p>
+<p>Tedaj princ je šel v Ameriko in med tem časom je začela mati kazati snahi vse, kar so imeli: vso zemljo in dom, skratka vse, kar so imeli. Ko sta prišli pred predalnik, je pomislila:</p>
+<p>“Ma, zdaj sem ji pokazala vse kar imamo v hiši in naj ji zdaj rečem, da ji nočemo pokazati tega predalnika in teh zabojčkov? Kdo ve, kaj bo rekla, spraševala se bo, zakaj ji prav tega nočem pokazati.”</p>
+<p>Tedaj je šla tja, da bi odprla še ta predalnik, in reče:</p>
+<p>“Kaj neki je to?” pravi, “odprla bom vseeno, da bo videla, kaj je notri.” </p><p>Tako je odprla tudi ta predalnik in v predalu je bila čudovita obleka. “Oh,” pravi, “kako lepa obleka!” In doda: “Od koga je ta obleka?”</p>
+<p>“Moja,” je rekla nevesta, ki je takoj spoznala obleko, bila je prav tista, ki jo je skril njen mož in spravil sem notri.</p>
+<p>“Oh,” ji reče, “obleči jo, hočem videti, kako ti stoji ta obleka.”</p>
+<p>“Dobro,” je rekla, “zakaj ne, oblekla jo bom.”</p>
+<p>In je šla, da si obleče obleko.</p>
+<p>“Ojme,” je rekla ona, “kako si lepa, ko imaš oblečeno to obleko, zelo lepa. Bila si lepa že prej, toda zdaj si še lepša.”</p>
+<p>
+<pb n="37" xml:id="pb.37"/>“Zares,” pravi.</p>
+<p>Toda žena je bila prebrisana in je šla k oknu. Stara si ni mogla niti misliti – no in okno ni imelo niti pregrade niti rešetk – ona je lepo vzletela z obleko in letela, letela do gradu Bombavelo, ki je bil njen dom, in tako je odšla.</p>
+<p>“Uboga jaz,” reče kraljica, “ma kaj sem naredila? In ko se vrne moj sin, zabičal mi je, da ne smem pokazati tega predalnika, kaj naj mu rečem, ko se bo vrnil iz Amerike? Kako naj mu to razložim?”</p>
+<p>Čez nekaj časa se je princ vrnil in seveda, nejgove žene ni bilo, je odšla. In ko je prišel, mu je mati morala povedati, kaj se je zgodilo, torej je rekla:</p>
+<p>“Pokazala sem ji vse, in sem ji pokazala tudi tisti predalnik, sicer bi me vprašala, zakaj ji ga ne pokažem. In notri je bila lepa obleka, oblekla si jo je in je odletela.”</p>
+<p>“Beh, sem vam rekel, da ji tega ne smete pokazati! Ma kaj ste naredili!” pravi, “zdaj je odšla in ne bom je več videl,” pravi, “zdaj bom šel tudi jaz!”</p>
+<p>In je šel, da bo osedlal dva konja in reče: </p><p>“Zdaj grem!”</p>
+<p>Potem, ko je osedlal dva konja reče:</p>
+<p>“Če pridem, pridem, če ne, me ne čakajte.”</p>
+<p>In tako je princ odšel s konjema v gozd, kjer je v daljavi zagledal neko luč, bil je večer. Tedaj je prišel v ta gozd, kjer je živel nekdo, ki je bil kot en čarovnik. Potrka na vrata, bila je neka kočica, in se oglasi:</p>
+<p>“Kdo je?”</p>
+<p>On odgovori: “Jaz sem, princ, kraljevi sin!”</p>
+<p>“Dobro,” reče, “če si princ, ti bom odprl, če bi bil nekdo drug, bi te ubil.” </p><p>Tedaj mu odpre in on vstopi. Reče:</p>
+<p>“Kam si namenjen?”</p>
+<p>“Grem iskat mojo ženo, ki je odšla v grad Bombavelo. Morda vi veste, kje je ta grad, kajti jaz tega ne vem.”</p>
+<p>“Ma,” pravi, “jaz ne vem, lahko pa ugotovim kje je,” pravi, “imam ptiče, ki letajo povsod in morda oni vedo, kje je.”</p>
+<p>Je šel ta, in je zažvižgal in je takoj prišlo veliko ptičev. In je vprašal ptiče, če morda vedo, kje je ta grad Bombavelo. Toda vsi so bili tiho. Nihče ni vedel, kje je. Tedaj je rekel ta človek:</p>
+<p>“Morate iti še naprej, kajti tukaj ne vedo nič,” pravi, “tam gori je še en drug čarovnik v gozdu in on ima vse vrste živali, morda bo on vedel kaj, ker ima velike živali.”</p>
+<p>
+<pb n="38" xml:id="pb.38"/>Tedaj je princ zopet šel in je zopet zagledal daleč, daleč eno luč, in je prišel, ko je bila noč, vedno s svojimi konji. Vendar, ko je prišel na ta kraj, je tudi ta čarovnik šel že spat. In ponovno potrka.</p>
+<p>Tudi ta reče: “Kdo si ti, ki si prišel sem?”</p>
+<p>Tudi temu reče: “Sem princ in vas prosim, da vstanete in mi odprete.”</p>
+<p>Tedaj je vstal, mu odprl vrata in ga je vprašal, kam je namenjen. Princ mu reče:</p>
+<p>“Grem iskat grad Bombavelo in vas sprašujem, ali veste kje je, kajti jaz tega ne vem.”</p>
+<p>“Ma,” reče, “jaz imam živali, ki bodo morda vedele kaj več kot jaz.”</p>
+<p>Torej je tudi ta čarovnik začel žvižgati. Je prišlo toliko živali, velikih živali. Skratka tokrat so bile res velike živali. Vpraša te živali, če morda vedo, kje je ta grad. Pa so molčale, in so rekle, da one ne vedo. Starec zdaj reče:</p>
+<p>“Tako, tudi ti ne vedo!” in doda: “Morate iti naprej, tam je še eden, ki ima tudi živali, morda bo ta kaj vedel.”</p>
+<p>Tedaj je princ spet šel in je prehodil gore, nazadnje pa je spet prišel k temu možu, ki še ni šel spat, bil je buden in je rekel:</p>
+<p>“Kam si namenjen? kdo si?” pravi.</p>
+<p>Tudi temu reče: “Sem princ,” pravi, “ali morda veste, kje je grad Bombavelo, ki ga iščem?”</p>
+<p>Oni: “Beh,” je rekel, da “jaz ne vem, toda,” reče, “imam orle, morda bodo oni vedeli, kje je ta grad, ker stalno letajo.”</p>
+<p>Tedaj je šel ven in tudi on je začel žvižgati. Prišlo je toliko orlov in vse je vprašal, če vedo, kje je ta grad. Toda tudi oni niso vedeli.</p>
+<p>“Vendar pa,” pravi, “manjkata še dva,” pravi, “manjkata dva stara.” Zažvižga še enkrat in priletita še ta dva zadnja. Vpraša tudi ta dva, če vesta, kje je grad Bombavelo.”</p>
+<p>“Eh,” sta rekla, “ravno danes sva bila v tem gradu, prihajava od tam.”</p>
+<p>“Oh,” pravi, “tako?” Pravi, “potem morata odpeljati tega princa na grad, če ga bo kateri od vaju lahko odnesel tja.”</p>
+<p>Starejši je rekel:</p>
+<p>“Ga bom jaz odnesel, toda,” pravi, “moram jesti meso, ker je daleč,” je rekel, “ma, kje bom zdaj našel meso?”</p>
+<p>Tedaj je šel princ k orlu in mu je rekel, da če potrebuje meso, bo ubil konja. Vpraša ga, če bo dovolj, da ga nasiti, da ubije le enega konja.</p>
+<p>“Beh,” pravi orel, “tako bo dobro.”</p>
+<p>
+<pb n="39" xml:id="pb.39"/>Vendar pa doda, da v trenutku, ko ne bo imel dovolj mesa, ga bo spustil, da bo padel na tla.</p>
+<p>Tedaj je princ šel, da bi ubil enega od konj in ga vpraša: </p><p>“Ali imaš dovolj enega, drugače ubijem še drugega?”</p>
+<p>“Ne, ne,” pravi orel, “eden bo dovolj.”</p>
+<p>Tedaj je pustil drugega konja čarovniku in je razsekal meso na kose, da bi ga naložil na orla.</p>
+<p>Zdaj spleza še princ na orla, tedaj orel vzleti in nese tudi meso na hrbtu, skratka nesel je vse skupaj. Vsakič, ko se je obrnil, mu je moral dati kos mesa v grlo in letel je in letel, dokler ni ugotovil, da mesa več ni. Toda tedaj nista še prispela. Orel je bil lačen in bi ga spustil, če mu ne bi dal mesa. Bila sta blizu, toda orel je bil lačen. Tedaj kaj stori princ? Odreže si kos stegna od svoje noge in mu ga da v grlo, da ga je nahranil. Uspel ga je prinesti v bližino gradu, toda pustil ga je še daleč proč, ker ni mogel priti dlje. Tedaj reče:</p>
+<p>“Zdaj te pustim tukaj.”</p>
+<p>Ga pusti na enem klancu in reče:</p>
+<p>“Tam je grad!” in mu je pokazal, “toda moraš iti tja, ko se bo naredila noč. Glej, da ne boš šel podnevi!”</p>
+<p>“Prav,” reče on.</p>
+<p>Orel se je vrnil nazaj in njega je pustil tam. Ko se je stemnilo, se je princ približal počasi, počasi in je prišel do vrat, potrkal je in odprla mu je prav njegova žena. Takoj ga je spoznala in mu je rekla:</p>
+<p>“Oh,” reče, “si se vrnil! Moraš vstopiti, ko bo šel moj oče spat, ker zdaj je še buden, drugače te bo preklel”.</p>
+<p>Njen oče je bil čarovnik, najmočnejši čarovnik od vseh. Tedaj ji je rekel, da bo storil tako, kot mu je naročila. Stari je šel spat in ona mu reče – on je bil malo zadaj – in ko je ded šel spat, je ona rekla:</p>
+<p>“Pojdi noter, ker je šel spat!”</p>
+<p>In tam so bile vse tri deklice, ki so bile priletele tja na obalo, vse tri hčere. Toda dedu je to dišalo, ne, ker je bil čarovnik. In spet je vstal ded in je zalotil princa, toda on ni vedel, kaj za eden je to bil, tedaj je vprašal hčere:</p>
+<p>“Kdo je prišel delat to tukaj? Kaj hoče, kdo je?” Tedaj je ena rekla, da: “To je princ.”</p>
+<p>In: “Beh, da zakaj je prišel?”</p>
+<p>On je rekel, da on je prišel prosit eno hčer za ženo, če mu jo hoče dati, to hčer. Ko je slišal, da je princ:</p>
+<p>
+<pb n="40" xml:id="pb.40"/>“Beh,” je rekel čarovnik, “zakaj pa ne. Hočem dati eno hčer, toda,” je rekel, “mora mi narediti tri naloge, tri dela.”</p>
+<p>Dobro, je rekel, da bo naredil on, če bo mogel.</p>
+<p>Tedaj, drugi dan je čarovnik šel tja in je spremil princa v nek gozd. Tam je bil nek gozd zelo zelo velik. In mu je dal sekiro iz lesa, žago iz lesa, vse je bilo iz lesa, tudi kramp. In mu reče:</p>
+<p>“Zdaj začni sekati gozd, zvečer mora biti posekan ves gozd s to leseno sekiro” in tako “in moraš izkopati tudi korenine in spraviti vse na kup, in ko pridem, mora biti vse pospravljeno. Moraš opraviti to delo!”</p>
+<p>Beh, on ni vedel niti kaj naj odgovori. Je rekel: “Dobro, bom obdelal, kolikor bom mogel.”</p>
+<p>Tedaj, ko je bilo opoldne, nekdo mu je moral nesti hrano. Prinesla mu jo je njegova žena – ta, ki ji je skril obleko – tedaj, ko mu prinese jesti, ji reče:</p>
+<p>“No tako,” je rekel, “tvoj oče je rekel, da mu moram posekati gozd in poglej, kakšno orodje mi je dal: leseno sekiro in žago. Dobro, kaj naj počnem s tem?”</p>
+<p>Ona je rekla: “Ti molči in jej, to je moja skrb!”</p>
+<p>In on je jedel. In ko je bil večer, je bilo vse pospravljeno, posekan gozd. In ona je vzela to sekiro v roko. Tedaj dobro, Ko je prišel njen oče in je videl, da je opravljeno delo, reče:</p>
+<p>“Oh,” pravi, “no dobro.”</p>
+<p>Bil je zadovoljen, da je bil gozd posekan in da je opravil prvo nalogo. In reče: “Opravil si prvo delo, jutri pa mi moraš narediti še eno.”</p>
+<p>“Prav.”</p>
+<p>Čarovnik je imel veliko jezero in reče: </p><p>“Jutri mi moraš izsušiti to jezero!”</p>
+<p>In mu je dal eno kuhalnico z luknjicami in sito in mu je rekel: </p><p>“No, zvečer mora biti vse suho!”</p>
+<p>“Dobro, bom že.”</p>
+<p>Tedaj saj veste, s to kuhalnico z luknjicami … in dosti … “Ojme, pa še to delo!” je rekel.</p>
+<p>In tako, ko je prišel poldan, mu je njegova žena prinesla jesti, tedaj mu je prinesla.</p>
+<p>On reče: “No, glej,” je rekel, “moram izsušiti jezero in glej kakšno orodje mi je dal.”</p>
+<p>Ona reče: “Nič ne govori, samo jej!”</p>
+<p>
+<pb n="41" xml:id="pb.41"/>Medtem ko je on jedel, je ona vzela eno šibo in s to šibo je trikrat udarila po jezeru in jezero se je posušilo.</p>
+<p>“Vidiš, zdaj se je célo posušilo, vidiš.”</p>
+<p>Ko je prišel mož, skratka čarovnik, je rekel:</p>
+<p>“Oh,” reče, “pa mi je naredil še to delo. Vse gre gladko,” in doda, “jutri moraš izvršiti še eno delo.”</p>
+<p>Toda to je bilo najtežje delo, kar jih je. Torej tretji dan, ona je vedela, ah da, je bila čarovnica, njegova žena, je vedela tudi to in reče:</p>
+<p>“Dobro me poslušaj, jutri te čaka najtežje delo. Moj oče pravi, da bo dal vsako od nas treh hčera v eno krsto, tako bo vsaka od nas imela eno krsto, toda,” pravi “krste bodo vse enake, ena taka kot druga,” pravi, “ti boš moral izbrati eno in ne boš vedel katero, toda,” pravi, “izbrati boš moral krsto, na katero bo sedla ena majhna majhna muhica, notri bom jaz, izbrati moraš prav to.”</p>
+<p>Naslednji dan je čarovnik postavil tri krste in je dal v vsako eno od svojih hčera in jim reče:</p>
+<p>“Da vam ne bi prišlo na pamet, da bi govorile in tudi ne dihale,” pra vi, “morate biti mirne, mirne, mirne tu notri,” pravi, “tako naj izbere katero hoče!”</p>
+<p>Pokliče ga in mu reče:</p>
+<p>“Tako, zdaj izbiraj hčerko, ki jo hočeš!”</p>
+<p>Toda krste so bile vse iste, ena takšna kot druga. On je gledal nekaj časa.</p>
+<p>To je bilo v eni temni sobi. Tedaj je čarovnik, videč ga, ponovil: “Zberi, moraš izbrati eno, kaj tako gledaš?” je rekel.</p>
+<p>Toda krste so bile vse enake, ena taka kot druga, ni vedel, katero naj izbere, ma je čakal. Končno zagleda, da sede na srednjo krsto ena mala muha. Ded tega ni videl. Je rekel:</p>
+<p>“Takole, to bom izbral.”</p>
+<p>Pa je mislil ded pri sebi: ‘Vedno mi odpelje najlepšo’. V resnici je bila prinčeva žena s katero je bil že dogovorjen in zato reče:</p>
+<p>“To bom izbral.”</p>
+<p>“Dobro.”</p>
+<p>Toda ded ni bil zadovoljen. Princ mu je odpeljal najlepšo hčerko. </p><p>Kljub temu reče:</p>
+<p>“Če si jo izbral,” reče, “jo odpelji.”</p>
+<p>“Tedaj,” je rekel, “bomo naredili ohcet, toda ne tukaj, naredili jo bomo v moji deželi,” reče princ, “morate pa priti tudi vi!”</p>
+<p>
+<pb n="42" xml:id="pb.42"/>“Ja,” odgovori oče. Ma ni bil zadovoljen, da mu je odpeljal to hčerko. Tedaj je šel tja in je imel namen, skratka nameraval ga je ubiti takoj, še preden bo prišel v hišo. In čarovnica, prinčeva žena je to vedela in je rekla:</p>
+<p>“Ti ne veš, toda namerava te ubiti,” je rekla, “danes zvečer, ko bo ura enajst, morava oditi.”</p>
+<p>In so imeli okna brez rešetk, saj veste, tistih iz železa. In je rekla: “Počakajva, da gre spat!”</p>
+<p>Tedaj, ko je šel spat, ta ded, sta šla onadva k oknu. Ona je rekla, da je oblekla obleko, ki leti.</p>
+<p>“In ti, ti se me oprimi, in ko bo ura enajst, midva greva.”</p>
+<p>Tedaj, stari je bil zvit, to mu je dišalo. Ko je bila ura enajst ponoči, sta onadva odšla k oknu in proč! Tedaj je šlo, letela sta in letela prek gora in ona mu je rekla:</p>
+<p>“Vsake toliko časa se ozri, in ko boš videl eno meglo, mi moraš reči, ko bo šla ena megla zadaj.”</p>
+<p>In sta letela daleč in sta preletela gozdove in gore. Vsake toliko se je ozrl ta na njej.</p>
+<p>“Ojme, ali boš gledal, če gre kakšna megla, vidiš kaj?” je ona rekla. </p><p>“Ne.”</p>
+<p>“Vidiš kaj?”</p>
+<p>“Ne,” reče, da ne.</p>
+<p>Pa, ko sta prišla skoraj že na neko goro, ona reče: </p><p>“Vidiš kaj?”</p>
+<p>“Ja,” je rekel, “tam gre ena megla za nama.”</p>
+<p>“Eh,” pravi, “to je moj oče, ki naju zasleduje.” Ona je rekla: “Vzemi to pest soli, in ko bo megla prišla blizu, vrzi to pest soli v meglo!”</p>
+<p>Je prišla že blizu megla in on je vrgel pest soli v meglo: tedaj se je vse spremenilo v gore. Beh, gore, ki jih je moral prečkati tisti ded, se ve, da je ostal zadaj, medtem ko sta onadva nadaljevala pot in letela naprej. In znova sta letela zelo daleč. On se je še naprej oziral nazaj.</p>
+<p>“Vidiš kaj, ali spet kaj gre? Vidiš?” </p><p>Reče: “Ne, ne.”</p>
+<p>Tedaj sta prišla že zelo daleč. </p><p>“Vidiš kaj?”</p>
+<p>Je rekel, da: “Ja, spet gre megla, je spet tu zadaj.”</p>
+<p>Ona je rekla, da: “Na, vzemi spet to pest soli. Vrzi jo vanjo, ko bo zelo blizu.”</p>
+<p>
+<pb n="43" xml:id="pb.43"/>Tedaj, ko je prišla zelo blizu, tedaj je spet vrgel sol v to meglo: tedaj se je vse spremenilo v gozdove. Vse je bilo gozd. Toda preden je on prehodil ta gozd, kje sta bila že onadva?</p>
+<p>Spet sta nadaljevala pot in znova sta se zelo oddaljila. In ko sta prišla tja, kjer je on živel, ju megla ni več zasledovala, veste, kajti ni ju mogla več dohiteti. Tisti ded se je zamudil, ko je prečkal gozd.</p>
+<p>Mlada dva pa sta tako prišla do prinčevega dvorca. Tedaj so bili vsi zadovoljni, so naredili slavje. Po vsem mestu so razobesili zastave in tako je zgodbe konec.</p></div>
+<div type="ss2" xml:lang="sl" xml:id="REP2" corresp="#FR2">
+<pb n="44" xml:id="pb.44"/>
+<head><ref target="#FR2"><hi rend="bold">2</hi> Ta od ribe</ref></head><opener>Edda Di Lenardo Krukiž</opener>
+<p>Tedaj bom povedala to od ribe.</p>
+<p>Je bil en ribič, ki je imel tri hčere. In je vedno hodil lovit ribe, toda nekega dne ni ulovil prav nobene.</p>
+<p>“Ojme,” on reče, “lepe moje hčerkice, ne vem, kaj bo. Jutri bom šel še enkrat lovit, drugače bomo morali iti beračit, ker nimamo prav nič za jesti pri hiši.”</p>
+<p>“Dovolj, oče, dobro, morda bo jutri kaj.”</p>
+<p>In je šel, ves dan je bil tam na morju in je lovil ribe, toda vrša je bila prazna, nič ni prišlo noter. In je rekel:</p>
+<p>“Beh, v imenu Boga, vrgel bom še enkrat mrežo noter preden grem domov, morda pa bo kaj. In je potegnil vse naenkrat ven, in je bila ena velika, velika riba. In jo je nesel domov in reče:</p>
+<p>“Ojme, lepe moje hčerkice, sem imel veliko, veliko srečo, sem ulovil eno veliko, veliko ribo!”</p>
+<p>“Dobro, dobro, oča, dobro!”</p>
+<p>“Zjutraj, ti, ta velika,” reče on, “jo boš nesla prodat.”</p>
+<p>“Dobro,” odgovori. In drugo jutro reče: “Oča, jo bom šla prodat.”</p>
+<p>To je bila starejša hči, jo je dala v mrežo, da jo bo nesla in je šla, in je šla, tam po poti. Kar je tam na poti, kar naenkrat riba začela govoriti in reče:</p>
+<p>“Vrzite me spet noter v morje, pa vam bom dala zlata in srebra!” </p><p>Uboga hči se je ustrašila, tekla je nazaj:</p>
+<p>“Oča, oča, jaz se bojim!”</p>
+<p>“Pa kaj je, kaj imaš?”</p>
+<p>“Riba govori!”</p>
+<p>“Beh, ti si nora, ali kaj!?”</p>
+<p>“Marija, na, ti odnesi ribo.”</p>
+<p>“Da, oče, dajte mi jo sem.”</p>
+<p>Je šla, pa ko je prišla do srede mosta, je začela riba govoriti: </p><p>“Vrzite me spet noter v morje, pa vam bom dala zlata in srebra!”</p>
+<p>
+<pb n="45" xml:id="pb.45"/>Tudi ta hčerka se je ustrašila in se je vrnila k hiši, reče: </p><p>“Oče, riba govori!”</p>
+<p>“Beh, kaj, to ne more biti. Tedaj jo vzemi ti, Ana, nesi ti ribo na prodaj.”</p>
+<p>To je bila najmlajša hči. Pa tudi, ko je ta prišla na sredo mostu, riba spet reče:</p>
+<p>“Vrzite me noter v morje! Pa vam bom dala zlata in srebra!” Se je obrnila ta k hiši, in je rekla:</p>
+<p>“Oče, riba govori tudi meni.”</p>
+<p>“Dobro, torej, jo bomo vrgli spet v morje!”</p>
+<p>So jo vrgli ponovno v morje in so potegnili ven veliko zlata in srebra. Toda v mreži je bila ponovno riba in reče:</p>
+<p>“No, zdaj sem vam dala denar, uredite si hišo, kupite mi eno zlato skledo in mi dajte vsak dan svežo vodo, tedaj bom ostala pri vas.”</p>
+<p>Tako, oče je bil zadovoljen, so bili bogati, so si kupili hišo, uredili so jo in ribi so kupili zlato skledo.</p>
+<p>In riba je bila kar nekaj časa pri njih. Nekega dne, ko ji je oča zamenjal vodo, je riba spregovorila, reče:</p>
+<p>“Čujte, oča, vprašajte starejšo hčerko, če bi me hotela vzeti?”</p>
+<p>“Ja, bom vprašal.”</p>
+<p>Stopi torej do starejše hčerke in reče:</p>
+<p>“Čuješ, ti hčerka, riba me je vprašala, bi jo ti hotela vzeti?”</p>
+<p>“Pa, oče, ali ste nori? Rajši grem tja na streho in skočim dol.” </p><p>Dobro, je šel k ribi, da ji pove.</p>
+<p>“Kaj je rekla?”</p>
+<p>“Beh, ona je rekla, da bi rajši šla tja na hišo in skočila dol.”</p>
+<p>“Beh, vprašajte ta srednjo.”</p>
+<p>Je šel k drugi hčerki: “Marija, riba me je vprašala, če bi jo hotela vzeti za moža?”</p>
+<p>“Ma, ali ste zmešani, raje se vržem skozi okno.” </p><p>In tako je šel tja k ribi in rekel:</p>
+<p>“Nič ni, je rekla, da se raje vrže skozi okno.”</p>
+<p>“Eh, v redu.”</p>
+<p>“Beh, tedaj, pojdite k najmlajši.”</p>
+<p>“Je šel k najmlajši: “Ej, čuješ, riba me je vprašala, če bi jo hotela vzeti?”</p>
+<p>“Ribo?” ona vpraša.</p>
+<p>“Ja!”</p>
+<p>
+<pb n="46" xml:id="pb.46"/>“Veste kaj, oča, riba nam je pomagala, imamo hišo, imamo denar, bom vzela ribo.”</p>
+<p>“To bo začarano. Zakaj ta riba govori?”</p>
+<p>“Jaz bom vzela ribo.”</p>
+<p>Dovolj. Vzela je ribo, prišel je duhovnik, ju blagoslovil in sta bila mož in žena. Dobro. Vsi so se ji smejali, sestre, le oče si je mislil, da je to zelo resno, kar dela hči. Dobro, je šla spat in je vzela stol s seboj, vzela je tudi skledico z ribo in jo je dala tja k sebi. Ko je bila polnoč, je odbila ura polnoč, je prišel en lepi mož skozi vrata. Ona se je prestrašila. On reče:</p>
+<p>“Nikar se ne boj, ker to sem jaz, riba. Sem začaran in ne smem videti sonca in šele ko je noč, sem tu pri tebi in ti si moja žena.”</p>
+<p>In ona vesela, zadovoljna, sta se imela rada. To je bilo ob treh zjutraj, ko je sonce vzhajalo, in on je spet postal riba. In ji je rekel:</p>
+<p>“Ne bodi žalostna, zvečer se spet vidiva.” </p><p>Dobro, ona je bila zadovoljna.</p>
+<p>In tako je minilo kar nekaj mesecev in hčerka je imela tudi eno teto in ta je prišla k njej, da bi jo videla. In reče teta:</p>
+<p>“No, daj no, lepa moja hčerkica, ti si vzela eno ribo za moža in si tako vesela. Kako moreš biti tako vesela, ko imaš pa ribo za moža?”</p>
+<p>“Ha, ribo, teta, to ni riba, o polnoči se spremeni v lepega, lepega moža!”</p>
+<p>“Kako veš, da je lep, ali si ga videla?”</p>
+<p>“Ne, nisem ga videla, on ne sme videti luči.”</p>
+<p>“Ojme, ta je zmešana! Vzemi eno svečo, jo prižgi in jo daj notri v en lonec in ga skrij, in ko bo spal pri tebi, tedaj počasi vstani, da te ne sliši in vzemi svečo in poglej ga, pa boš videla, kakšen je.”</p>
+<p>“Dobro bom, imate prav.” In je šla.</p>
+<p>Ko je prišel mož k njej, sta se zopet ljubila, potem sta zaspala. Medtem, ko je on spal je ona vstala, vzela svečo in ga osvetlila.</p>
+<p>“Ojme, lepa moja žena, kaj si naredila, nikoli več se ne bova videla!” In je izginil.</p>
+<p>Ni ga bilo več v skledi, ni ga bilo več pri njej, on je šel spet v morje. Ga ni bilo več.</p>
+<p>Tedaj ona, je bila vsa iz sebe, je skoraj znorela, ona je že pričakovala njegovega otroka. In je šla k očetu in mu je rekla:</p>
+<p>“Lepi moj oča, lepe moje sestre, jaz bom imela enega otročiča od mojega moža in jaz sem naredila to, kar mi je rekla moja teta, sem mu posvetila s svečo
+<pb n="47" xml:id="pb.47"/>in sem videla, kakšen je, je bil lep kot sonce in se je zbudil in ne vem, če bom še kdaj našla mojega moža, ali se bova še kdaj videla ali nikoli več.”</p>
+<p>Tako se je poslovila od vseh. In je šla vzdolž obrežja, je šla za vodo in ga je klicala, toda nikjer ni slišala njegovega glasu in nikjer ni videla ribe. In uboga riba tu v morju, kjer je spet bila, se ni imela dobro: vse ribe so vedele, da to ni riba, vse so jo hotele pojesti. In tako je prestajala svojo nezasluženo kazen, kot je mogla.</p>
+<p>In ta žena je šla, šla in je prišla do nekega drugega kraja. Tam je šla vprašat kraljico, če bi lahko ostala pri njej in počakala, dokler ne bo rodila otroka.</p>
+<p>“Da.”</p>
+<p>In ko je prišel čas, je rodila sina in kraljica jo je imela rada in ji je dala pestunjo, da ji je čuvala otroka. In otrok je spal sam v svoji sobici in tako tudi njegova mama. In ko je udarilo polnoč, je prišel mož skozi vrata tja k zibelki in je vzel otroka ven in ga je začel zibati in je govoril:</p>
+<p>“Spi, spi, sinek moj!<lb/> Če bi zvonovi ne zvonili, luči ne gorele,<lb/> petelini ne peli,<lb/> zmerom zibat bi te htel!”</p>
+<p>In to je trajalo, dokler ni vzšlo sonce. Tedaj je položil otroka spet v zibelko in je šel.</p>
+<p>Tako je šlo naprej mnogo, dolgo časa, dokler ni nekega dne pestunja povedala kraljici to, kar je slišala v otrokovi sobi.</p>
+<p>“Pa saj to ne more biti.” </p><p>Reče: “Je, kraljica.”</p>
+<p>Tedaj je šla kraljica k ženi in ji je povedala to, kar je poročala pestunja. In so se dogovorile, da bodo poslušale, kaj se bo zgodilo naslednjo noč.</p>
+<p>“Se strinjamo!” so rekle.</p>
+<p>Prišla je polnoč, je spet udarilo, so se odprla vrata, prišel je mož noter k zibelki, in kot sem vam že rekla, dokler ni vzšlo sonce, ga je imel tam v zibelki in ga je zibal.</p>
+<p>Žena je začela jokati. Kraljica je rekla, da morajo pobiti vse peteline, niti en zvon ne sme zvoniti, niti en petelin kikirikati in nobena luč se ne sme prižgati. In tako so ostale in poslušale, kaj se bo zgodilo.</p>
+<p>Noben zvon ni več zvonil, noben petelin več zjutraj kikirikal in nobena luč se ni smela prižgati.</p>
+<p>
+<pb n="48" xml:id="pb.48"/>“Zdaj,” so rekle, “bomo videle, kaj se bo zgodilo to noč.”</p>
+<p>In tako, ko je ponovno odbilo polnoč, je mož spet prišel k zibelki, vzel otroka in pel:</p>
+<p>“Spi, spi, sinek moj!<lb/> Če bi zvonovi ne zvonili, luči ne gorele,<lb/>petelini ne peli,<lb/> zmerom zibat bi te htel!”</p>
+<p>In niti en petelin ni zakikirikal, niti ena luč ni zagorela, niti en zvon ni zazvonil in tudi sonce ni vstalo. Imel je še vedno toliko moči, da je položil otroka v zibelko in se je je vlegel v posteljo in zaspal. Spal je tri noči in tri dni, ko se je zbudil, se je znašel sam v sobi. Tedaj je prišla do njega kraljica, ni ga poznala. In on ji reče:</p>
+<p>“Čujte, no, kraljica, vi ste imeli enega sinčka, ki je nenadno izginil?”</p>
+<p>“Ja.”</p>
+<p>“Vidite, mati, tisti sin, to sem jaz.”</p>
+<p>In ta žena, ki je tam pri vas, to je moja žena. In tisti sinček, ki sem ga zibal, ta je moj. Tako, da veste in zdaj se vrnimo domov, da povem, da sem rešen, in da me je moj sin rešil: sreča moje prihodnosti.”</p>
+<p>In tako so se vsi podali na pot.</p>
+<p>So prišli tja k hiši njenega očeta, toda oče je prepoznal samo svojo hčerko. </p><p>“Vidiš, oče, naj ti predstavim mojega moža in mojega sina.”</p>
+<p>Ko so sestre to slišale, je tista, ki je rekla, da se raje vrže dol s hiše, splezala na streho in se je vrgla doli; tista pa, ki je rekla, da se bo vrgla skozi okno, ker se noče poročiti z ribo, se je vrgla skozi okno. In tako je to bilo. So bili srečni, da so prišli in so ostali vsi skupaj. In on, ta riba, je ponovno živel s svojo materjo, poleg svoje žene in otroka.</p></div>
+<div type="ss2" xml:lang="sl" xml:id="REP3" corresp="#FR3">
+<pb n="49" xml:id="pb.49"/>
+<head><ref target="#FR3"><hi rend="bold">3</hi> Mož, baba in hudič</ref></head><opener>Marcellina Madotto — Ćikarïnawa</opener>
+<p>Nekoč sta bila mož in žena in sta imela dvanajst otrok in možek, se ve, je bil ubogi, ko je imel toliko otrok. Torej je šel k potoku ribe lovit, da bi imel vsaj malo prigrizka in žena je spet nosila pod srcem, spet je bila noseča. In mož ni vedel, ker se je bala povedati, saj sta imela že dvanajst otrok, potem ona trinajsta in on štirinajsti in potem ta, ki ga bo še rodila. Raje je molčala, da ga ne bi užalostila. Tedaj mož, ki je šel na ribolov, zagleda prihajati lepega moža in ta gospod ga pozdravi in mu reče:</p>
+<p>“Kje ste bili?”</p>
+<p>On reče: “Sem šel, da bi ujel nekaj rib, da bi dal otrokom nekaj hrane,” pravi, “nikjer se ne da delati, ker nikjer ni dela, pa imamo toliko otrok. Ne vemo, kako bomo preživeli.”</p>
+<p>Ker je mož samo tarnal, mu gospod reče: “Če se strinjate, vam dam jaz ves denar, ki ga rabite, toda morate mi obljubiti, da mi boste dali nekaj, kar ne veste, da imate v hiši.”</p>
+<p>“Kako,” je rekel, “jaz vem za vse, kar imam v hiši.”</p>
+<p>“Vendar,” pravi gospod, “vi ne veste, toda če mi obljubite,” pravi, “vam bom dal mnogo denarja.”</p>
+<p>“Beh,” pravi, “vam bom dal,” je rekel.</p>
+<p>“Torej,” odgovori gospod, “se vrnem čez leto in dan”.</p>
+<p>Tedaj mu da denar in možek se vrne domov. Ves vesel izroči svoji ženi ribe in strese denar na mizo rekoč: “Na, teci kupit vsake stvari po malo, da bodo otroci siti, kajti,” pravi, “nikoli ne jemo dovolj.”</p>
+<p>Žena pravi: “Kje si ukradel te denarje?” </p><p>On odgovori: “Nisem jih ukradel.”</p>
+<p>“Ma, daj no, lepi moj,” pravi, “kje si dobil toliko denarja, če ga nisi nikoli imel, ali si ubil koga ali si ga kje našel ali kaj?”</p>
+<p>Mož reče: “Nisem niti ubil, niti ukradel, niti našel,” pravi, “ko sem se vračal od ribolova, sem srečal nekega finega gospoda, ki me je pozdravil in me je vprašal, kam grem. Povedal sem mu, kako stvari stojijo, da sem šel ribarit,
+<pb n="50" xml:id="pb.50"/>da bi dal jesti našim otrokom in sem se malo potožil. On mi je rekel, da mi bo dal mnogo denarja, če mu obljubim eno reč, za katero ne vem, da jo imam pri hiši,” pravi. “Jaz pa vem za vse, kar imam pri hiši. Nazadnje sem mu obljubil in on mi je dal denar.”</p>
+<p>“Jojmene,” je rekla, “ali ne veš, da spret nosim?”</p>
+<p>Se udari mož po čelu in se začne jokati: “Dobri Bog,” pravi, “pa zakaj mi nisi tega povedala?”</p>
+<p>“Pa,” reče, “nisem ti hotela povedati, da ne bi razžalostila še tebe.” </p><p>On odgovori: “Kaj naj storiva?”</p>
+<p>“Beh,” pravi ona, “bodi miren, to je moja skrb, “pusti, da pride,” pravi, “sigurno je vrag.”</p>
+<p>Tako mineva čas, dokler ne pride deveti mesec in rodi tega fantiča.</p>
+<p>Ko je minilo leto in dan, vidijo, da prihaja ta gospod k vratom. Tedaj je prišel po sinčka.</p>
+<p>Žena mu reče: “Dali vam bomo sinka, vendar nam morate odgovoriti na tri uganke.”</p>
+<p>Hudič je rekel: “Prav.”</p>
+<p>Tedaj je ona šla v sobo in je prinesla en koš črne volne in en koš bele volne in mu je rekla:</p>
+<p>“Tako, zdaj pa pojdite k potoku: ta mora postati bela in ta črna!”</p>
+<p>Hudič je vzel najprej črno volno in jo je začel prati. Pral jo je tako zelo, tako zelo pri potoku, prav zares močno, toda bolj ko jo je pral, bolj je postajala črna.</p>
+<p>“Hm, prekleta ženska!” pravi, “poglej sem, volna postaja vedno bolj črna!”</p>
+<p>Tedaj prinese nazaj k hiši volno in reče: “Moja draga gospa, te volne ne morem oprati. Dajte mi drugo.”</p>
+<p>Vrnil se je vrag z velikim zavihanim repom z belo volno k potoku in je toliko pral tam notri, je pral in tolkel volno po kamnih, vendar je ostala volna bela.</p>
+<p>“Ma, glej,” je rekel vrag, ko se je vrnil k ženi, “tega ne morem rešiti, te reči! Te stvari ne morem narediti črne!”</p>
+<p>V hiši je ostal mož v sobi, medtem pa je šla žena v hlev. Tam si je spustila lase, da so ji padli prek telesa, potem se je slekla. Pred tem je naročila možu, naj pripelje hudiča, da bo uganil, kakšno žival imajo v hlevu.</p>
+<p>“Če uspete uganiti, lahko vzamete malega, če pa ne boste uganili, bo mali ostal pri hiši,” reče mož.</p>
+<p>
+<pb n="51" xml:id="pb.51"/>“Da, da,” pravi hudič, “odpeljite me v hlev, da vidim to žival!”</p>
+<p>Šla sta v hlev. Žena je imela dolge lase počesane navzdol in velike dolge kite spredaj. In hudič je tako gledal: “Ma, kaj je to,” pravi, “kako je narejeno, nikoli še nisem videl podobne živali, ima dojke spredaj, ki visijo, zadaj ima rep, ima brado spredaj ali zadaj, ma, kako je narejena?” Pravi, “kar obdržite sinka in obdržite vso pamet, toda,” pravi, “jaz nisem še nikoli videl take živali, pa čeprav sem prehodil vse gore, toda take zveri še nisem videl!”</p>
+<p>Kar ni mogel narediti hudič, je naredila žena. In zgodbe je konec. Tedaj, hudič je šel in je pustil otročiča.</p></div>
+<div type="ss2" xml:lang="sl" xml:id="REP4" corresp="#FR4">
+<pb n="52" xml:id="pb.52"/>
+<head><ref target="#FR4"><hi rend="bold">4</hi> Mož, ki je prodal vole</ref></head><opener>Valentina Pielich — Tyna Wajtawa</opener>
+<p>Bil je nek mož, ki je imel lepe lepe vole in je rekel ženi: </p><p>“Jutri je sejem in jaz grem tja na sejem prodajat vole.”</p>
+<p>In je šel in mu je uspelo zaslužiti lep kupček denarja, in ko se je vračal, je nesel denar v sobo, ga položil v krušno omaro, to so bile te stare omare, kjer so imeli moko notri. Skrije denar prav med moko.</p>
+<p>Toda v tej hiši so imeli deklo in gojili so prasce. Naslednji dan je dekla zelo zgodaj vstala, prej kot gospodar, in je lepo vzela moko, da bi skuhala prascem krop ali pa neko drugo jed. Odnesla jo je prascem in prasci so pojedli moko z mošnjičkom vred. Zjutraj, ko je mož vstal, je bila prva stvar, ki jo je storil, da je šel pogledat v omaro, toda ko jo je odprl, ni našel več mošnjička. On reče:</p>
+<p>“Sem,” pravi, “so prišli lopovi včeraj zvečer in so mi ukradli denar,” pravi, “ali pa ga je ukradla dekla. Tukaj je ena reč!”</p>
+<p>Dekla je rekla, da ni bila ona, on pa je trdil, da je bila, ona spet, da ne. “Tedaj veste kaj bom naredil? Ne ostane mi drugega, kot da grem k sveti ženi, ki vse ve in bo tudi vedela, kje je končal denar!”</p>
+<p>Tako se je ubogi mož odločil, da bo šel, in je začel plezati na goro, kjer je živela sveta žena. In ko je prišel gor, je sedela pri ognjišču z dolgim rožnim vencem okoli vratu, dolgim do tal in se je pripravljala, da bo odžebrala rožni venec.</p>
+<p>Pozdravi jo in ona mu odgovori: </p><p>“Kaj pa vi tukaj?”</p>
+<p>“Ojme,” pravi, “prodal sem vole,” pravi, “odnesel sem denar v hišo,” reče, “in sem ga dal na varno,” in nadaljuje, “ma, sedaj denarja več ne najdem nikjer. Vi, vi mi boste znali povedati, kdo ga je vzel.” In potem doda: “Ubil se bom, če ne najdem tega denarja.”</p>
+<p>Tedaj je ona rekla: “Jaz,” pravi, “ne morem vam povedati takoj. Morate se najprej vrniti domov!”</p>
+<p>“Kako domov,” pravi, “ali mi ne morete povedati takoj?!”</p>
+<p>
+<pb n="53" xml:id="pb.53"/>“Ne,” pravi ona, “čez eno uro ali dve vam bom že lahko povedala. Vi,” pravi, “pojdite domov in se potem vrnite sem.”</p>
+<p>Tedaj si je mož mislil: “Presneto, vrnem naj se domov!” Tam zadaj je bila ena kočica, veste, kot nekakšno zavetje in si je zmislil, da se bo tja skril, da ga ne bi videla.</p>
+<p>“Beh,” je rekel, “jaz grem nazaj domov, za dve tri ure,” pravi on, “ali boste tedaj znali kaj odgovoriti?”</p>
+<p>“Seveda,” je odgovorila žena.</p>
+<p>Namesto tega pa se je skril v kočico. Čez kratek čas, morda je minilo četrt ure, morda pol, je zaslišal nek hrup tam notri in zagleda, kako je ženska prišla vsa skuštrana ven. Zažvižgala je tako močno, da je skoraj oglušel, ta, ki je bil v kočici, – vi boste vedeli, kako se temu reče: kolibica.</p>
+<p>“Šment,” pravi, “to je slabo znamenje!”</p>
+<p>Žena se za trenutek ustavi, potlej se prepriča, da jo nihče ne gleda. Nikogar ni bilo. Potem začne znova žvižgati še glasneje kot prej.</p>
+<p>“Tukaj,” pravi, “to je slabo!” je pomislil. “Ej,” je rekel, “bomo videli, kaj je to za ena reč!”</p>
+<p>Ona je še enkrat zažvižgala, zasliši eno kopitanje in je prišel en kozel. </p><p>“Kaj je za ena reč?” reče on, “kaj mi imaš za povedati,” pravi, “prvič, ko si mi žvižgala, sem se znašel za devetimi gorami in drugič,” pravi, “sem se znašel za drugimi petimi gorami in zdaj,” pravi, “tretjič, sem prišel sem.”</p>
+<p>“Stvari so take in take,” pravi ona. “Včeraj je nek mož prodal vole in,” pravi, “je prinesel denar domov in ga je dal na varno, toda denarja ne najde nikjer! Moraš mi povedati, kdo ga je ukradel.”</p>
+<p>On reče: “Ko bo prišel, mu recite, da je prasec, tisti srednji – ker pri tisti hiši imajo prasce – in dekla je dala moko v korito in prasec, ta srednji, ima denar v trebuhu, vse, kar je mož zaslužil.”</p>
+<p>Tedaj se mož, ko je to slišal, ni hotel več vrniti v hišo k ženi, ampak se je hitro spustil dol po gozdu in je dospel v hišo. Šel je po nož da bi zaklal prasca in potem, ko ga je zaklal, mu je vzel ven cel mošnjiček, takšen kot je bil.</p>
+<p>Tedaj je on povedal po vsej deželi, kakšna je ta sveta žena, ki kliče vraga, da bi ugotovila, kdo je kradel.</p>
+<p>Tako je to bilo, zgodba je končana. Tedaj so vsi vedeli, kakšna je ta sveta žena in nihče več ni šel tja.</p></div>
+<div type="ss2" xml:lang="sl" xml:id="REP5" corresp="#FR5">
+<pb n="54" xml:id="pb.54"/>
+<head><ref target="#FR5"><hi rend="bold">5</hi> Grdina in mravljica</ref></head><opener>Vito Chinese Hoģin</opener>
+<p>Nekoč je bila neka stara žena, ki je živela izven vasi in je morala hoditi daleč po vodo, daleč, zares zelo, zelo daleč. In je zapadel sneg. Žena je vzela vedro in je šla po vodo. Ko se je vrnila domov, zagleda nekaj za ognjiščem in reče:</p>
+<p>“Kdo si ti, tam zadaj za ognjiščem? Pojdi takoj iz moje hiše, jaz stanujem tukaj!”</p>
+<p>Toda grdina je pokazala zobe.</p>
+<p>“Pojdi ven, drugače grem iskat okrepitve!”</p>
+<p>He, grdina ni imela namena zapustiti hiše, stala je za ognjiščem na toplem in je še naprej kazala zobe. Ojme, uboga žena je šla iskat ljudi, da bi ji pomagali. Toda niso je uspeli vreči ven. Tedaj je šla iskat jelena, medveda, volka, skratka strnili so sile, pritisnili na grdino tam notri v hiši, toda niso uspeli. Ko so videli, da ne zmorejo, je vsak odšel po svoji poti, pustivši tam staro ženo, ki je hodila jokajoč med smrekami v snegu.</p>
+<p>Tam pa je bila mravljica: “Zakaj jočete gospa?”</p>
+<p>Stara žena odgovori: “Ali ne smem jokati, ko pa imam grdinico v hiši?”</p>
+<p>“Oh,” reče mravljica, “če je samo to, jo bom jaz vrgla ven!”</p>
+<p>Ko je to slišala, se je žena začela smejati: “Kako neki? Poklicala sem že ne vem koliko ljudi, ki so jo tolkli z vilami in lopatami, pa ni hotela oditi. Kako jo boš ugnala ti, ko si tako majcena?”</p>
+<p>“Ne skrbite, v trenutku bo grdinica zunaj. Pokažite mi samo, kje stanujete.”</p>
+<p>Tedaj sta šli k hiši. Ko sta prišli tja, je mravljica pokukala skozi vrata in zagledala grdinico, ki se je grela za ognjiščem. Toda kako bo uspela mravljica. Pa vendar je šla počasi, počasi na majhen sedež, od tam na veliki sedež in potem za ognjišče. Splezala je gori po krilu in pičila grdinico v rit in ta je skočila na mali stol.</p>
+<p>“Ojme,” je rekla ženica, “prej je bila za ognjiščem, sedaj je celo skočila na sedež!”</p>
+<p>
+<pb n="55" xml:id="pb.55"/>Počasi, počasi, se mravljica obrne okoli, se ji približala in jo ponovno piči v rit. Zdaj skoči grdina na veliki sedež.</p>
+<p>Ženica reče: “Prej je bila samo na malem stolu, zdaj je že na velikem! Kdo le jo bo uspel vreči ven?”</p>
+<p>Počasi, počasi, se mravljica približa grdinici in jo piči v rit, da skoči na krušno skrinjo.</p>
+<p>Ženica reče: “To je še slabše, zdaj je na krušni skrinji!”</p>
+<p>Vendar mravljica se počasi, počasi, s svojo sveto mirnostjo, vzpne gori in grdino ponovno piči v rit: skočila je na polico. Tedaj, ko je bila na polici, je pobila vse posode, ki so bile iz gline, kakršne so uporabljali v tistih časih. Mravljica pa je šla počasi, počasi gori in doli, in ko je prišla na vrh, jo je spet pičila tja v rit in ona je skočila ven na prag. Ah, ženica je bila tam zunaj vsa vesela, ko je videla grdino pri vhodu, toda ta se je hotela vrniti za ognjišče. Hitro je mravljica splezala gor in jo še enkrat pičila v rit. Poskočila je grdina taja, kjer je bil prepad, si zlomila veliki zob in se zvrnila čez rob ter umrla.</p>
+<p>Tako je bila ženica zadovoljna, da je vrgla ven iz hiše grdinico. In zdaj je zgodbe konec.</p></div>
+<div type="ss2" xml:lang="sl" xml:id="REP6" corresp="#FR6">
+<pb n="56" xml:id="pb.56"/>
+<head><ref target="#FR6"><hi rend="bold">6</hi> Lisica, ki je hotela zmeriti goro Stožje</ref></head><opener>Anna di Battista Fefawa</opener>
+<p>Nekoč je bila lisica, ki ni vedela, kako bi si priskrbela meso za svoje mladiče. Tako je nekega dne šla in je hodila, hodila, hodila, dokler ni srečala mačke. Poklicala jo je, toda mačka ni hotela iti dol k lisici, ker se je bala. Lisica ji reče:</p>
+<p>“Pridi dol, nič ti ne bom storila.”</p>
+<p>Tedaj lisica še reče: “Treba je zmeriti to goro tam, ker nihče ne ve, kako je visoka, toda,” pravi, “ne moreva jo zmeriti sami.” In nadaljuje rekoč: “Ti, tamle gori,” pravi, “poglej, če lahko pregovoriš petelina.”</p>
+<p>Tako je šla mačka tja gor in je petelina dobro zmešala, dobro, dobro, dokler se ni strinjal tudi petelin, da gredo skupaj. Tedaj je lisica rekla:</p>
+<p>“Moramo dobro hoditi ta večer, da bomo zjutraj že gori, kajti, če bomo šli jutri, bomo prišli na vrh preveč utrujeni, da bi lahko izmerili goro, na poti navzdol.”</p>
+<p>“Dobro,” sta odgovorila. In tako so se odpravili zvečer. Mačka, ki je bila sita, in pa petelin sta šla naprej. Lisica tam zadaj, pa je komaj hodila za njima, je sopihala, da je skoraj spustila dušo.</p>
+<p>In ko so prišli na vrh, reče: “Uboga jaz,” pravi lisica, “jaz bom šla spat sem, pod ta kamen; in ti mačka,” pravi, “kam boš šla ti?”</p>
+<p>“Nabrala bom nekaj suhega listja in bom legla notri.”</p>
+<p>In petelin reče: “Jaz bom šel na to drevo, in ko bom trikrat zakikirikal, vstanita, da bomo začeli delati.”</p>
+<p>“Dobro,” sta odgovorili lisica in mačka.</p>
+<p>Toda lisica ni zaspala, ker je čakala na to, da bo petelin zapel. Tedaj, komaj ga je zaslišala zapeti, je zlezla gor, tiho, tiho, da bi dobro slišala, kje poje. Ko je zapel tretjič, ji je uspelo videti, kje je. Tedaj pa je že tudi mačka slišala, da petelin poje. V trenutku, ko se je petelin spustil na zemljo, ubožec, ga je lisica zgrabila.</p>
+<p>Dogovorjeno je bilo, da bo lisica napisala, kako visoka je gora; mačka naj bi bila geometer, ker drži rep vselej visoko v zrak, ona bi morala meriti. In
+<pb n="57" xml:id="pb.57"/>petelin bi delal jame, kamor bi zasadili palice, ker on ima kljun, veš. Tako bi lahko zmerili célo goro do vznožja.</p>
+<p>Toda, ko je mačka videla, da je lisica pojedla petelina, je zasukala rep in se je vrnila dol hitrih nog. Tako ne bomo nikoli vedeli, kako visoka je ta gora.</p></div>
+<div type="ss2" xml:lang="sl" xml:id="REP7" corresp="#FR7">
+<pb n="58" xml:id="pb.58"/>
+<head><ref target="#FR7"><hi rend="bold">7</hi> Domov, domov Bruna, Maura!</ref></head><opener>Maria Paletti Rozaljina</opener>
+<p>Bila je nekoč ena stara žena v naši vasi. In je imela planino tam gori na Karnici, je imela kočo, kjer je imela krave in prasca in teleta in ovce in koze in tudi kokoši. Vso živino je imela. Ampak, veste, namesto, da bi prignala živino domov za malo mašo – kot pravimo, za septembrsko Marijo – je ona čakala pozno v jesen. In tam gori je bila ona sama in je spustila krave vsepovsod, na desno in na levo. Krave so ji dajale mnogo mleka, ker so jedle zadnjo travo – otavo, veste.</p>
+<p>Tako je čas minil in prišel je mesec oktober in ona je bila še vedno tam gori na Karnici. In tako, veste, en večer je predla volno, je predla štrene in je imela malo svetilko, razbito in okrušeno. Je predla volno in malo stran je vpilo:</p>
+<p>“Domov, domov Minija, domov, domov Bruna, Mavra!”</p>
+<p>Je vpilo, ker ona je imela kravi, ki jima je bilo ime Bruna in drugi Maura. </p><p>In ona, ta stara, je bila Minija.</p>
+<p>In, seveda, ona se ni bala ničesar, je zavpila:</p>
+<p>“Hej, končam še ta klobčič, potem bom že šla spat!”</p>
+<p>Tedaj je končala še eno kodeljo in potem je šla spat. In zjutraj, ko je vstala, je bilo snega do kolena in ona ni mogla niti stopiti do hleva. Uboga ženska je morala kidati sneg, vsaj toliko, da je mogla hoditi krave nahranit in celo ena krava se je komaj otelila.</p>
+<p>Doli v vasi je imela mnogo sinov, imela je šest sinov. In ko so oni videli, da je padel sneg tudi doli v vasi, kaj je bilo šele gori na Karnici! To veste, saj ste bili gori tudi vi. To je bilo visoko! Tedaj so vzeli koše vseh vrst, velike in male koše in so šli gor. Morali so obuti škornje. In ko so prišli gor, je baba jokala. Oni so si zadegali: eden prasca, eden je vzel kokoši, eden je moral vzeti orodje in eden je nesel babo. Potem so dali verigo kravam okoli vratov in so se odpravili domov. In doma so ljudje govorili:</p>
+<p>“Hej, je v hudih težavah žena tam gori.”</p>
+<p>
+<pb n="59" xml:id="pb.59"/>Toda žena se ni vrnila v dolino, ampak se je ustavila v koči, ki so jo imeli tostran reke, tja so tudi prignali krave. Od tod je prišla žena domov šele, ko je bil že skoraj božič.</p>
+<p>Tako, zdaj je konec.</p></div></div></body><back>
+<div type="covers" corresp="back_out">
+<p>ZRC SAZU, Raziskovalna postaja Nova Gorica • Università degli Studi di Udine • Goriški muzej Kromberk Nova Gorica • Občina Kobarid • Občina Brda • Občina Kanal ob Soči • Gornjesavski muzej Jesenice • Comune di Lusevera • Comune di Taipana • Comune di Pulfero • Inštitut za slovensko kulturo Istituto per la cultura slovena</p>
+<p><hi rend="bold"> FIABE RESIANE <lb/>REZIJANSKE PRAVLJICE <lb/>PRAVICE PO ROZAJANSKIN</hi></p><table><row><cell><hi rend="bold">1.</hi></cell><cell><hi rend="bold">Il castello di Bombavello / Grad Bombavelo</hi></cell><cell><hi rend="bold">28:20</hi></cell></row><row><cell/><cell>Pasqua Di Lenardo — Paska Dulica</cell></row><row><cell><hi rend="bold">2.</hi></cell><cell><hi rend="bold">Quella del pesce / Ta od ribe</hi></cell><cell><hi rend="bold">14:38</hi></cell></row><row><cell/><cell>Edda Di Lenardo Krukiž</cell></row><row><cell><hi rend="bold">3.</hi></cell><cell><hi rend="bold">Il marito, la moglie e il diavolo / Mož, baba in hudič</hi></cell><cell><hi rend="bold">6:38</hi></cell></row><row><cell/><cell>Marcellina Madotto Ćikarïnawa</cell></row><row><cell><hi rend="bold">4.</hi></cell><cell><hi rend="bold">L'uomo che andò a vendere i buoi al mercato / Mož, ki je prodal vole</hi></cell><cell><hi rend="bold">4:04</hi></cell></row><row><cell/><cell>Valentina Pielich — Tïna Wajtawa</cell></row><row><cell><hi rend="bold">5.</hi></cell><cell><hi rend="bold">Gardiniza e la formica / Grdina in mravljica</hi></cell><cell><hi rend="bold">5:16</hi></cell></row><row><cell/><cell>Vito Chinese Hoģin</cell></row><row><cell><hi rend="bold">6.</hi></cell><cell><hi rend="bold">La volpe che voleva misurare il monte Stožje / Lisica, ki je hotela zmeriti goro Stožje</hi></cell><cell><hi rend="bold">3:10</hi></cell></row><row><cell/><cell>Anna Di Battista Fefawa</cell></row><row><cell><hi rend="bold">7.</hi></cell><cell><hi rend="bold">A casa, a casa Bruna, Maura! / Domov, domov Bruna, Maura!</hi></cell><cell><hi rend="bold">3:34</hi></cell></row><row><cell/><cell>Maria Paletti Rozaljina</cell></row></table>
+<p><hi rend="italic"> Projekt sofinanciran v okviru Programa čezmejnega sodelovanja Slovenija-Italija 2007-2013 iz sredstev Evropskega sklada za regionalni razvoj in nacionalnih sredstev. Progetto finanziato nell'ambito del Programma per la Cooperazione Transfrontaliera Italia-Slovenia 2007-2013, dal Fondo europeo di sviluppo regionale e dai fondi nazionali.</hi></p><table><row><cell><figure><graphic n="1003" url="media/RS_logo.jpg"/></figure></cell><cell><figure><graphic n="1004" url="media/RI_logo.jpg"/></figure></cell></row></table></div></back></text>
+
+</TEI>

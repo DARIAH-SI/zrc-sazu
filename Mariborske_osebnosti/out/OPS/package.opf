@@ -1,0 +1,210 @@
+
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="pub-id"
+         version="3.0"
+         prefix="rendition: http://www.idpf.org/vocab/rendition#">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:opf="http://www.idpf.org/2007/opf">
+      <meta property="rendition:layout">reflowable</meta>
+      <meta property="rendition:spread">auto</meta>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Mariborske osebnosti</dc:title>
+      <meta refines="#title1" property="title-type">main</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator1">Martina Ratej</dc:creator>
+      <meta refines="#creator1" property="file-as">Ratej, Martina</meta>
+      <meta refines="#creator1" property="role" scheme="marc:relators">edt</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">sl</dc:language>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">biografije</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Maribor</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">kulturna zgodovina</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">zborniki</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">znamenite osebnosti</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">famous personalities</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">biography</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">collective volume</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">cultural history</dc:subject>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">???978-961-05-0105-3</dc:identifier>
+      <meta refines="#pub-id"
+            property="identifier-type"
+            scheme="onix:codelist5">15</meta>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Osnovna intenca za oblikovanje imaginarne skupine osebnosti, ki je ne povezuje niti čas niti področje ustvarjanja, temveč edinole mesto Maribor, je želja po oblikovanju podpornega okolja Novemu slovenskemu biografskemu leksikonu. Opazna slabša zastopanost osebnosti iz širšega mariborskega prostora v Slovenskem biografskem leksikonu, ki je izhajal med letoma 1925 in 1991, je posledica velikih družbenih pretresov v mariborskem mikroprostoru 20. stoletja, ki so povzročali povečano fluktuacijo prebivalstva, pa tudi hoten ali nehoten izbris celotnih skupin ljudi, če omenimo zgolj nemško skupnost ali ruske emigrante v Mariboru. Pričujoča besedila biografskih študij skušajo odpreti pogled na bolj ali manj pozabljene ljudi, ki so se rodili v Mariboru ali so v njem ustvarjali, nekateri vse življenje, drugim pa je bilo mesto le ena od življenjskih postaj. Obravnava najmlajše osebnosti tokratnega nabora, baletnega plesalca in koreografa Edwarda Cluga, želi biti opomnik, da je edino relevantno zgodovinopisje tisto, ki verodostojno odraža stvarnost tako, da neprenehoma vzpostavlja komunikacijo s sedanjostjo.</dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ZRC SAZU</dc:publisher>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2019-07-16T19:40:56.137+02:00</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2019 ZRC SAZU, Inštitut za kulturno zgodovino, Založba ZRC</dc:rights>
+      <meta name="cover" content="cover-image"/>
+      <meta property="dcterms:modified">2019-07-16T17:40:56Z</meta>
+   </metadata>
+   <manifest>
+      <item href="media/Mariborske.png"
+            id="cover-image"
+            properties="cover-image"
+            media-type="image/jpeg"/>
+      <item id="css" href="stylesheet.css" media-type="text/css"/>
+      <item id="print.css" href="print.css" media-type="text/css"/>
+      <item href="titlepage.xhtml"
+            id="titlepage"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage1.xhtml"
+            id="titlepage1"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepageback.xhtml"
+            id="titlepageback"
+            media-type="application/xhtml+xml"/>
+      <item id="toc"
+            properties="nav"
+            href="toc.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="start" href="index.xhtml" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section1"/>
+      <item href="index-front.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section2"/>
+      <item href="index-front.1_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section5"/>
+      <item href="index-front.1_div.4.xhtml"
+            media-type="application/xhtml+xml"
+            id="section6"/>
+      <item href="index-front.1_div.5.xhtml"
+            media-type="application/xhtml+xml"
+            id="section7"/>
+      <item href="index-body.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section8"/>
+      <item href="index-body.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section22"/>
+      <item href="index-body.1_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section28"/>
+      <item href="index-body.1_div.4.xhtml"
+            media-type="application/xhtml+xml"
+            id="section34"/>
+      <item href="index-body.1_div.5.xhtml"
+            media-type="application/xhtml+xml"
+            id="section53"/>
+      <item href="index-body.1_div.6.xhtml"
+            media-type="application/xhtml+xml"
+            id="section62"/>
+      <item href="index-body.1_div.7.xhtml"
+            media-type="application/xhtml+xml"
+            id="section67"/>
+      <item href="index-body.1_div.8.xhtml"
+            media-type="application/xhtml+xml"
+            id="section81"/>
+      <item href="index-body.1_div.9.xhtml"
+            media-type="application/xhtml+xml"
+            id="section94"/>
+      <item href="index-body.1_div.10.xhtml"
+            media-type="application/xhtml+xml"
+            id="section110"/>
+      <item href="index-body.1_div.11.xhtml"
+            media-type="application/xhtml+xml"
+            id="section117"/>
+      <item href="index-body.1_div.12.xhtml"
+            media-type="application/xhtml+xml"
+            id="section129"/>
+      <item href="index-body.1_div.13.xhtml"
+            media-type="application/xhtml+xml"
+            id="section138"/>
+      <item href="index-body.1_div.14.xhtml"
+            media-type="application/xhtml+xml"
+            id="section153"/>
+      <item href="index-body.1_div.15.xhtml"
+            media-type="application/xhtml+xml"
+            id="section173"/>
+      <item href="index-body.1_div.16.xhtml"
+            media-type="application/xhtml+xml"
+            id="section181"/>
+      <item href="index-back.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section195"/>
+      <item href="media/logoZRCmoder.jpeg" id="image-1" media-type="image/jpeg"/>
+      <item href="media/01.png" id="image-3" media-type="image/png"/>
+      <item href="media/02.png" id="image-4" media-type="image/png"/>
+      <item href="media/03.png" id="image-5" media-type="image/png"/>
+      <item href="media/04.png" id="image-6" media-type="image/png"/>
+      <item href="media/05.png" id="image-7" media-type="image/png"/>
+      <item href="media/06.png" id="image-8" media-type="image/png"/>
+      <item href="media/07a.png" id="image-9" media-type="image/png"/>
+      <item href="media/07b.png" id="image-10" media-type="image/png"/>
+      <item href="media/07c.png" id="image-11" media-type="image/png"/>
+      <item href="media/07d.png" id="image-12" media-type="image/png"/>
+      <item href="media/07e.png" id="image-13" media-type="image/png"/>
+      <item href="media/08.png" id="image-14" media-type="image/png"/>
+      <item href="media/09.png" id="image-15" media-type="image/png"/>
+      <item href="media/10.png" id="image-16" media-type="image/png"/>
+      <item href="media/11.png" id="image-17" media-type="image/png"/>
+      <item href="media/12.png" id="image-18" media-type="image/png"/>
+      <item href="media/13.png" id="image-19" media-type="image/png"/>
+      <item href="media/14.png" id="image-20" media-type="image/png"/>
+      <item href="media/15.png" id="image-21" media-type="image/png"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="titlepage1" linear="yes"/>
+      <itemref idref="start" linear="yes"/>
+      <itemref idref="section1" linear="yes"/>
+      <itemref idref="section2" linear="yes"/>
+      <itemref idref="section5" linear="yes"/>
+      <itemref idref="section6" linear="yes"/>
+      <itemref idref="section7" linear="yes"/>
+      <itemref idref="section8" linear="yes"/>
+      <itemref idref="section22" linear="yes"/>
+      <itemref idref="section28" linear="yes"/>
+      <itemref idref="section34" linear="yes"/>
+      <itemref idref="section53" linear="yes"/>
+      <itemref idref="section62" linear="yes"/>
+      <itemref idref="section67" linear="yes"/>
+      <itemref idref="section81" linear="yes"/>
+      <itemref idref="section94" linear="yes"/>
+      <itemref idref="section110" linear="yes"/>
+      <itemref idref="section117" linear="yes"/>
+      <itemref idref="section129" linear="yes"/>
+      <itemref idref="section138" linear="yes"/>
+      <itemref idref="section153" linear="yes"/>
+      <itemref idref="section173" linear="yes"/>
+      <itemref idref="section181" linear="yes"/>
+      <itemref idref="section195" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
+   </spine>
+   <guide>
+      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" title="Start" href="index.xhtml"/>
+      <reference type="text" href="index-front.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.2.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.3.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.4.xhtml" title="Kazalo"/>
+      <reference type="text" href="index-front.1_div.5.xhtml" title="PREDGOVOR"/>
+      <reference type="text" href="index-body.1_div.1.xhtml" title="EDWARD CLUG"/>
+      <reference type="text" href="index-body.1_div.2.xhtml" title="MARA ČEPIČ"/>
+      <reference type="text" href="index-body.1_div.3.xhtml" title="ERIKA DRUZOVIĆ"/>
+      <reference type="text" href="index-body.1_div.4.xhtml" title="MILENA GODINA"/>
+      <reference type="text"
+                 href="index-body.1_div.5.xhtml"
+                 title="LAVOSLAV GREGOREC"/>
+      <reference type="text" href="index-body.1_div.6.xhtml" title="SERGEJ KAPRALOV"/>
+      <reference type="text" href="index-body.1_div.7.xhtml" title="RODBINA KHISL"/>
+      <reference type="text" href="index-body.1_div.8.xhtml" title="JOŽEF KLIČEK"/>
+      <reference type="text" href="index-body.1_div.9.xhtml" title="DANILO KOMAVLI"/>
+      <reference type="text"
+                 href="index-body.1_div.10.xhtml"
+                 title="MARIJAN KRAMBERGER"/>
+      <reference type="text" href="index-body.1_div.11.xhtml" title="AMAND RAK"/>
+      <reference type="text" href="index-body.1_div.12.xhtml" title="FRAN ROSINA"/>
+      <reference type="text" href="index-body.1_div.13.xhtml" title="IGOR ROSINA"/>
+      <reference type="text" href="index-body.1_div.14.xhtml" title="MILOŠ VAUHNIK"/>
+      <reference type="text"
+                 href="index-body.1_div.15.xhtml"
+                 title="KAREL VERSTOVŠEK"/>
+      <reference type="text" href="index-body.1_div.16.xhtml" title="IVAN VOMER"/>
+      <reference type="text"
+                 href="index-back.1_div.1.xhtml"
+                 title="Dodatek Vrata nepovrata (epos): Pesmi o teti Mari"/>
+      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
+   </guide>
+</package>

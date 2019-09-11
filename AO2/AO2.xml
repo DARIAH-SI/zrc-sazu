@@ -6,11 +6,13 @@
                 <title type="main" level="m" xml:lang="sl">Avstro-ogrska monarhija v besedi in
                     podobi – Slovenci 2.</title>
                 <title type="sub" xml:lang="sl">Kranjska, Primorje</title>
-                <editor role="Uredili">
+                <editor>
                     <persName type="edt">
                         <forename>Monika</forename>
                         <surname>Kropej Telban</surname>
                     </persName>
+                </editor>
+                <editor>
                     <persName type="edt">
                         <forename>Ingrid</forename>
                         <surname>Slavec Gradišnik</surname>
@@ -37,7 +39,7 @@
                 </funder>
                 <sponsor>
                     <note>ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC<figure>
-                            <graphic url="image/logoZRCmoder.jpeg"/>
+                            <graphic url="image/logoZRCmoder.jpg"/>
                         </figure>
                     </note>
                 </sponsor>
@@ -89,16 +91,21 @@
                         any means, electronic, mechanical, photocopying, recording or otherwise,
                         without the prior permission of the publisher.</p>
                 </availability>
-                <idno type="ISBN" subtype="epub">???978-961-05-0105-3</idno>
-                <idno type="COBISS.ID" subtype="epub">???123456789</idno>
-                <idno type="price" subtype="epub">15</idno>
+                <idno type="ISBN" subtype="epub">978-961-05-0206-7</idno>
+                <idno type="COBISS.ID" subtype="epub">300945664</idno>
+                <idno type="price" subtype="epub">19</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="M">
                     <edition>
                         <ref target="https://zalozba.zrc-sazu.si/p/1405">Prva tiskana izdaja</ref>
                     </edition>
+                    <figure><graphic url="image/AO2_1.jpg"/>
+                    <graphic url="image/AO2_2.jpg"/>
+                    <graphic url="image/AO2_3.jpg"/>
+                        <graphic url="image/AO2_4.jpg"/></figure>
                     <date when="2018-04-17T12:00:00Z">april 2018</date>
+                    
                     <idno type="ISBN">978-961-05-0072-8</idno>
                     <idno type="COBISS" subtype="id">294217984</idno>
                     <bibl type="DC:SOURCE">Monika Kropej Telban in Ingrid Slavec Gradišnik (ur.),
@@ -163,13 +170,13 @@
     </teiHeader>
     <facsimile>
         <surface xml:id="front_out">
-            <graphic url="media/AO2_1.jpg"/>
+            <graphic url="image/AO2_1.jpg"/>
         </surface>
         <surface xml:id="covers">
-            <graphic url="media/AO2_1.jpg"/>
-            <graphic url="media/AO2_2.jpg"/>
-            <graphic url="media/AO2_3.jpg"/>
-            <graphic url="media/AO2_4.jpg"/>
+            <graphic url="image/AO2_1.jpg"/>
+            <graphic url="image/AO2_2.jpg"/>
+            <graphic url="image/AO2_3.jpg"/>
+            <graphic url="image/AO2_4.jpg"/>
         </surface>
     </facsimile>
     <text>
@@ -193,18 +200,18 @@
                     <note>
                         <p>E-knjiga v vseh pogledih reproducira prvi natis prve tiskane izdaje
                             (2018); malenkostno drugače je razporejeno slikovno
-                            gradivo.<lb/>????Pretvorbo je omogočila Javna agencija za knjigo.</p>
+                            gradivo.<lb/>Pretvorbo je omogočila Javna agencija za knjigo iz naslova razpisa za leto 2019.</p>
                         <p rend="CIP">Kataložni zapis o publikaciji (CIP) pripravili v Narodni in
                             univerzitetni knjižnici v Ljubljani.<lb/>
                             <ref target="http://COBISS.SI">COBISS.SI</ref>-ID=<ref
-                                target="https://plus.si.cobiss.net/opac7/bib/293610240"
-                                >???293610240</ref>
-                            <lb/> ????ISBN 978-961-05-0062-9 (epub)</p>
+                                target="https://plus.si.cobiss.net/opac7/bib/300945664"
+                                >300945664</ref>
+                            <lb/>ISBN 978-961-05-0206-7 (epub)</p>
                     </note>
                 </docEdition>
                 <docImprint>
                     <publisher>ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC<figure>
-                            <graphic url="image/logoZRCmoder.jpeg"/>
+                            <graphic url="image/logoZRCmoder.jpg"/>
                         </figure>
                     </publisher>
                     <placeName>Ljubljana</placeName>
@@ -439,12 +446,17 @@
                             <ref target="#pb.2.307">307</ref>
                         </cell>
                     </row>
+                    <row>
+                        <cell><hi rend="bold"><ref target="#dodatek">Dodatno, v tiskani knjigi objavljeno gradivo</ref></hi></cell>
+                        <cell>
+                        </cell>
+                    </row>
                 </table>
             </div>
             <div type="ss3">
                 <pb n="7" xml:id="pb.2.7"/>
                 <head>Uredniška opomba</head>
-                <p style="body-txt-prvi-odstavek">Drugi del izdaje prevodov narodopisnih besedil iz
+                <p><hi rend="gothic larger">D</hi>rugi del izdaje prevodov narodopisnih besedil iz
                         <hi rend="italic">Avstro-ogrske monarhije v besedi in podobi – Slovenci</hi>
                     predstavlja Kranjsko, Kočevje in Primorsko. S prevodi poglavij o Slovencih v teh
                     kronskih deželah tako zaokrožamo celostno predstavitev življenja Slovencev iz
@@ -515,11 +527,11 @@
                                 Bild: Kärnten und Krain. [Bd. 8]. Erstes Heft.</hi> Dunaj, 1891,
                             87–96.</note>
                     </head>
-                    <byline>Emil Zuckerkandl</byline>
+                    <docAuthor>Emil Zuckerkandl</docAuthor>
                     <figure>
                         <graphic n="sk001" url="image/Kr-Physische_087_GRAY.jpg"/>
                     </figure>
-                    <p style="body-txt-prvi-odstavek">Prebivalci kronske dežele <hi
+                    <p><hi rend="gothic larger">P</hi>rebivalci kronske dežele <hi
                             style="letter-spacing: 2px;">Koroške</hi> so praviloma videti kot slabše
                         prehranjeni ljudje tršate postave. Kolikor je to mogoče razbrati s seznama
                         nabornikov, so po velikosti podobni Solnograjcem, in so tako približno v
@@ -803,13 +815,13 @@
                                     und Krain. [Bd. 8]. Erstes Heft.</hi> Dunaj, 1891,
                                 353–378.</note>
                         </head>
-                        <byline>Wilhelm Urbas</byline>
+                        <docAuthor>Wilhelm Urbas</docAuthor>
                         <figure>
                             <graphic n="sk007" url="image/Kr-Volkskunde_353_GRAY.jpg"/>
                             <head>Pokrivala: ženska avba, moška polhovka in ženski pas (Jurij
                                 Šubic)</head>
                         </figure>
-                        <p style="body-txt-prvi-odstavek">Slovenci s Kranjskega, četudi istega
+                        <p><hi rend="gothic larger">S</hi>lovenci s Kranjskega, četudi istega
                             plemena, vendarle niso povsem enaki. V Alpah živeči Gorenjec ni le
                             krepak in energičen, temveč tudi inteligenten in vedoželjen; na vinskih
                             goricah ob Krki veselo životari Dolenjec, ki je navadno šibkejši, a bolj
@@ -1189,7 +1201,7 @@
                             pel njegov najpriljubljenejši pesnik Vodnik. In da je bil z vsem srcem
                             vdan tudi prednikom vladarske rodbine, je nemalokrat dokazal na bojišču,
                             tako da je Koseski (psevdonim za Vesel) upravičeno lahko zapisal:</p>
-                        <table type="poem">
+                        <table type="poem" style="font-size: 90%;">
                             <row>
                                 <cell>
                                     <l>»Hrast se omaja in hrib, zvestoba Slovencev ne
@@ -1360,7 +1372,7 @@
                             preprosteje, v različnih delih dežele se kažejo tudi marsikatere
                             različice.</p>
                         <figure>
-                            <graphic n="sk012" url="image/Kr-Volkskunde_367_GRAY.png"/>
+                            <graphic n="sk012" url="image/Kr-Volkskunde_367_GRAY.jpg"/>
                             <head>Belokranjca (Jurij Šubic)</head>
                         </figure>
                         <p>Splošna navada je, da moški, ki se želi poročiti, pošlje naprej <hi
@@ -1683,11 +1695,14 @@
                             <graphic n="sk018" url="image/Kr-Volkskunde_377_GRAY.jpg"/>
                             <head>Samski na pepelnično sredo vlečejo ploh (Jurij Šubic)</head>
                         </figure>
-
+                        <figure>
+                            <graphic n="sk018a" url="image/Kr-Physische-a_096_GRAY.jpg"/>
+                            <head>Ljudske noše s Kranjske (Jurij Šubic)</head>
+                        </figure>
                     </div>
                     <div type="ss3">
                         <pb n="(58)" xml:id="pb.2.58"/>
-                        <pb n="(59)" xml:id="pb.2.59"/>
+                                                <pb n="(59)" xml:id="pb.2.59"/>
                         <head>Miti, povedke in ljudske pesmi Slovencev<note place="foot"
                                 xml:id="pftn.2.99" n="*">Prevod poglavja Zur Volksunde: Mythen,
                                 Sagen und Volkslieder der Slovenen. Iz: <hi rend="italic">Die
@@ -1695,8 +1710,8 @@
                                     und Krain. [Bd. 8]. Erstes Heft.</hi> Dunaj, 1891,
                                 378–388.</note>
                         </head>
-                        <byline>Johann Scheinigg</byline>
-                        <p style="body-txt-prvi-odstavek">Pri kranjskih Slovencih pravljice in
+                        <docAuthor>Johann Scheinigg</docAuthor>
+                        <p><hi rend="gothic larger">P</hi>ri kranjskih Slovencih pravljice in
                             povedke, dvoje le po obliki različnih izdelkov ustvarjalnega ljudskega
                             duha, vsebujejo obilico mitoloških nazorov, ostankov starega poganskega
                             verovanja v bogove. Značilno je, da je zmagoslavno krščanstvo svojo moč
@@ -1793,9 +1808,9 @@
                             niti v nebesa niti v pekel. Sem sodi tudi pesem o <hi style="letter-spacing: 2px;"
                                 >lepi Vidi</hi>, ki jo je v daljno Španijo odpeljal zamorec, žaluje
                             za svojimi dragimi:</p>
-                        <lg rend="centered">
-                            <l>Vida vsak dan je pri oknu stala,</l>
-                            <l>se po sinku, oču, mož’ jokala.<note place="end" xml:id="ftn.2.081"
+                        <lg>
+                            <l rend="centered">Vida vsak dan je pri oknu stala,</l>
+                            <l rend="centered">se po sinku, oču, mož’ jokala.<note place="end" xml:id="ftn.2.081"
                                     n="3"> V izv. „Vida steht am Fenster alle Tage, / Weint um
                                     Vater, Kind und Mann mit Klage.“ Slov. prevod: France Prešeren,
                                     Od lepe Vide, 1832; po ljudskih pesmih o lepi Vidi. (Več: Karel
@@ -1972,7 +1987,7 @@
                             Mateju vsebuje odzvene pripovedke o Ojdipu. Novejše legende so v službi
                             Marijinega kulta. Poleg tega pa je legendarno pesništvo razvilo skoraj
                             popoln kanon morale, kakor jo je ljudstvu vtisnilo krščanstvo.</p>
-                        <p>Naposled<hi style="letter-spacing: 2px;"> živalske pravljice </hi>pripovedujejo o
+                        <p>Naposled <hi style="letter-spacing: 2px;">živalske pravljice</hi> pripovedujejo o
                             volitvah kralja (<hi rend="italic">župana</hi>), o <hi rend="italic"
                                 >kraljiču</hi>, ki je z zvijačo v letenju prekosil štorkljo in celo
                             samega <pb n="68" xml:id="pb.2.68"/>orla,<note place="end"
@@ -2287,8 +2302,8 @@
                         <p>Očarljive so številne pomanjševalnice, ki se pogosto kar kopičijo:</p>
                         <lg>
                             <l>Zdaj kaj stori Alenčica</l>
-                            <l>Sestrica svojga Gregica?</l>
-                            <l>Pokaže černi kiti dve,</l>
+                            <l>Sestrica svojga Gregica?</l></lg>
+                            <lg><l>Pokaže černi kiti dve,</l>
                             <l>Dva lepa bela cuzika.<note place="end" xml:id="ftn.2.053" n="31"> V
                                     izv. „Was tat darauf Alenka sein (Alenčica), /Alenka, Gregors
                                     Schwesterlein? // Sie zeigt schön schwarze Zäpfchen zwei./Sie
@@ -2323,9 +2338,9 @@
                             </l>
                         </lg>
                         <p>ali: </p>
-                        <lg rend="centered">
-                            <l>Sedem let sem čakala,</l>
-                            <l>sedem ga bom žal’vala.<note place="end" xml:id="ftn.2.051" n="33"> V
+                        <lg>
+                            <l rend="centered">Sedem let sem čakala,</l>
+                            <l rend="centered">sedem ga bom žal’vala.<note place="end" xml:id="ftn.2.051" n="33"> V
                                     izv. „Geharret Hab' ich sieben Jahr, / Trauern will ich sieben
                                     Jahr.“</note>
                             </l>
@@ -2374,8 +2389,8 @@
                                     und Krain. [Bd. 8]. Erstes Heft.</hi> Dunaj, 1891,
                                 417–429.</note>
                         </head>
-                        <byline>Karl Julius Schröer</byline>
-                        <p style="body-txt-prvi-odstavek">Kočevska deželica na Kranjskem leži v
+                        <docAuthor>Karl Julius Schröer</docAuthor>
+                        <p><hi rend="gothic larger">K</hi>očevska deželica na Kranjskem leži v
                             skalnati, težko dostopni pokrajini. Že oktobra se tam začne hladna zima
                             in pomlad se pojavi šele sredi maja! Nobena zimska setev ne uspe,
                             zadovoljiti se morajo s poletno. Največji del dežele je gozdnat kras, ki
@@ -2443,7 +2458,7 @@
                             okolišu ležijo. Podeljujemo – mu – pravico, da imenuje primerne
                             duhovnike. Izdano na našem gradu v Vidmu 1. maja 1363.«</p>
                         <figure>
-                            <graphic n="sk023" url="image/Kr-Volkskunde_418_GRAY.png"/>
+                            <graphic n="sk023" url="image/Kr-Volkskunde_418_GRAY.jpg"/>
                             <head>Veliki pečat mesta Kočevje (1471) [80]</head>
                         </figure>
                         <figure>
@@ -2925,15 +2940,6 @@
                             <l>dviga in spušča perilo, lepo pere.</l>
                         </lg>
                         <lg>
-                            <pb n="95" xml:id="pb.2.95"/>
-                            <l>S prsta gospodič prstan potegne:</l>
-                            <l>Vzemi ga, lepa Primorka!</l>
-                            <l>Jaz nisem lepa Primorka, </l>
-                            <l>plenice perem!</l>
-                            <l>Nato jo posadita na malo ladjico</l>
-                            <l>in odpeljeta čez širno morje.</l>
-                        </lg>
-                        <lg>
                             <l>Na morju tam priplava ladjica, </l>
                             <l>v njej sedita dva gospodiča.</l>
                             <l>Dobro jutro, lepa Primorka,</l>
@@ -2942,6 +2948,15 @@
                             <l>dobrih juter je pri meni malo.</l>
                         </lg>
                         <lg>
+                            <pb n="95" xml:id="pb.2.95"/>
+                            <l>S prsta gospodič prstan potegne:</l>
+                            <l>Vzemi ga, lepa Primorka!</l>
+                            <l>Jaz nisem lepa Primorka, </l>
+                            <l>plenice perem!</l>
+                            <l>Nato jo posadita na malo ladjico</l>
+                            <l>in odpeljeta čez širno morje.</l>
+                        </lg>
+                                                <lg>
                             <l>Ti prav tako si lepa Primorka, </l>
                             <l>lepa, mlada Primorka.</l>
                             <l>V roko je vzela robček</l>
@@ -2989,18 +3004,14 @@
                     </div>
                     <div type="ss3">
                         <pb n="(97)" xml:id="pb.2.97"/>
-                        <head>Slovenska literatura<note place="foot" xml:id="rftn.2.04" n="*">Prevod
+                        <head><ref target="sk030">Slovenska literatura</ref><note place="foot" xml:id="rftn.2.04" n="*">Prevod
                                 poglavja Die slowenische Literatur. Iz: <hi rend="italic">Die
                                     österreichisch-ungarische Monarchie in Wort und Bild: Kärnten
                                     und Krain. [Bd. 8]. Erstes Heft.</hi> Dunaj, 1891,
                                 429–448.</note>
                         </head>
-                        <byline>Gregor Krek</byline>
-                        <figure>
-                            <graphic n="sk030" url="image/Kr-Volkskunde_429_GRAY.jpg"/>
-                            <head>(Rudolf Bernt)</head>
-                        </figure>
-                        <p style="body-txt-prvi-odstavek">Tako kakor drugi deli široko razvejenega
+                        <docAuthor>Gregor Krek</docAuthor>
+<p><hi rend="gothic larger">T</hi>ako kakor drugi deli široko razvejenega
                             slovanskega plemena so tudi Slovenci na poti krščanstva začeli
                             uporabljati fonetično pisavo in s tem so se jim potencialno odprla tudi
                             vrata literature. Sicer so imeli neko figurativno pisavo, čeprav, strogo
@@ -3655,17 +3666,13 @@
                     </div>
                     <div type="ss3">
                         <pb n="(123)" xml:id="pb.2.123"/>
-                        <head>Ljudsko gospodarstvo na kranjskem<note place="foot" xml:id="rftn.2.05"
+                        <head><ref target="sk038">Ljudsko gospodarstvo na Kranjskem</ref><note place="foot" xml:id="rftn.2.05"
                                 n="*">Razdelek Volkswirtschafliches Leben, ki ga je redigiral Karl
                                 Menger, vsebuje tri poglavja: 1. o kmetijstvu, gozdarstvu, lovu in
                                 ribolovu; 2. rudarstvu in metalurgiji; 3. industriji, trgovini in
                                 prometu.</note>
                         </head>
-                        <figure>
-                            <graphic n="sk038" url="image/Kr-Volkskunde_475_GRAY_RAZSIRJENA.png"/>
-                            <head>(Rudolf Bernt)</head>
-                        </figure>
-                        <byline>Redigiral Karl Menger</byline>
+                                                <byline>Redigiral Karl Menger</byline>
                         <pb n="(124)" xml:id="pb.2.124"/>
                         <div type="ss4">
                             <pb n="(125)" xml:id="pb.2.125"/>
@@ -3676,8 +3683,8 @@
                                         Kärnten und Krain. [Bd. 8]. Erstes Heft.</hi> Dunaj, 1891,
                                     475–491.</note>
                             </head>
-                            <byline>Gustav Pirc</byline>
-                            <p style="body-txt-prvi-odstavek">Raznovrstnost oblikovanosti tal kakor
+                            <docAuthor>Gustav Pirc</docAuthor>
+                            <p><hi rend="gothic larger">R</hi>aznovrstnost oblikovanosti tal kakor
                                 tudi različne podnebne razmere, ki so posledica geografskega
                                 položaja in razgibanosti ozemlja, so na Kranjskem razlog za tako
                                 različno uporabo tal kot le v malokateri deželi Avstrije. Na
@@ -4258,15 +4265,15 @@
                                         Wort und Bild: Kärnten und Krain. [Bd. 8]. Erstes Heft.</hi>
                                     Dunaj, 1891, 492–500.</note>
                             </head>
-                            <byline>Johann Novák</byline>
-                            <p style="body-txt-prvi-odstavek">Čeprav se marljivost rudarja in
+                            <docAuthor>Johann Novák</docAuthor>
+                            <p><hi rend="gothic larger">Č</hi>eprav se marljivost rudarja in
                                 metalurga na Kranjskem ne more tako dobro uresničiti kakor na
                                 ugodnejših območjih monarhije, kjer je bila narava še radodarnejša,
                                 ima rudarstvo v gospodarstvu te kronske dežele vendarle zelo
                                 pomembno vlogo in po svoji rudarsko-železarski industriji Kranjska
                                 med avstrijskimi deželami nikakor ni na zadnjem mestu. </p>
                             <p>Medtem ko avstrijsko rudarstvo, razen solin, zaposluje vsega skupaj
-                                104.588 delavcev,<note place="end" xml:id="ftn.2.152" n="17"> (Op. v
+                                104.588 delavcev,<note place="end" xml:id="ftn.2.152" n="1"> (Op. v
                                     izv.) Statistični podatki se nanašajo na leto 1886.</note> torej
                                 0,48 odstotka prebivalstva, v tej panogi najde na Kranjskem trajni
                                 zaslužek 3028 delavcev, to je 0,64 odstotka prebivalcev; rudarska
@@ -4304,7 +4311,7 @@
                                 prekašata le Španija in Kalifornija. Produkcija živega srebra
                                 Kranjske, pri kateri je zaposlenih 1500 delavcev, je leta 1886
                                 dosegla pomembno količino 5412,8 metrskih stotov<note place="end"
-                                    xml:id="ftn.2.151" n="18"> Utežna mera, im. tudi cent, kvintal,
+                                    xml:id="ftn.2.151" n="2"> Utežna mera, im. tudi cent, kvintal,
                                     za100 kg.</note> ali 15.690 steklenic, medtem ko je svetovna
                                 produkcija prispevala 100.200 steklenic, tako da je kranjski delež
                                 nič manj kakor 15,6 odstotkov. Vrednost pridobljenega živega srebra
@@ -4315,7 +4322,7 @@
                                 srebra (5001 metrski stot) ima že dolgo slavni, svetovno znani
                                 državni metalurški obrat v Idriji, preostanek pa pripada obema
                                 novejšima združbama v Litiji in Sv. Ani pri Tržiču.<note place="end"
-                                    xml:id="ftn.2.150" n="19"> V izv. Littai, St. Anna bei
+                                    xml:id="ftn.2.150" n="3"> V izv. Littai, St. Anna bei
                                     Neumarktel.</note>
                             </p>
                             <p>Da bi prišel v Idrijo, mora popotnik zapustiti vlak na postaji južne
@@ -4352,7 +4359,7 @@
                                 rudarski praznik. </p>
                             <p>Cesar Maksimiljan je leta 1509 naročil graditev jaškov na lastne
                                 stroške in potem, ko je družbena rudniška posest postopno propadla,
-                                je erar<note place="end" xml:id="ftn.2.149" n="20"> Država kot
+                                je erar<note place="end" xml:id="ftn.2.149" n="4"> Država kot
                                     lastnik premoženja.</note> leta 1575 sprožil trgovska pogajanja
                                 z družbami gospodarskih podjetnikov, ki so se končala leta 1579,
                                 tako da je bil od leta 1580 ves idrijski rudnik voden samo še v
@@ -4448,7 +4455,7 @@
                                 poskrbljeno za bolniško in starostno oskrbo delavcev in njihovih
                                 družinskih članov. Rudnik na lastne stroške vzdržuje petletno
                                 osnovno šolo, s katero so povezane gospodinjska šola<note
-                                    place="end" xml:id="ftn.2.148" n="21"> V izv. Industrieschule,
+                                    place="end" xml:id="ftn.2.148" n="5"> V izv. Industrieschule,
                                     vrsta šole, nastala na Češkem v drugi polovici 18. stoletja, za
                                     otroke iz nižjih družbenih plasti, da bi jih izobrazili za delo
                                     in pozneje za poklic v razvijajoči se industrijski družbi; dečki
@@ -4463,7 +4470,7 @@
                                 <head>Rudarsko mesto Idrija (Ladislaus Benesch) [153]</head>
                             </figure>
                             <p>Rudnik živega srebra Sv. Ana leži v Lajbu<note place="end"
-                                    xml:id="ftn.2.147" n="22"> V izv. Loiblthal. T. i. Šentanski
+                                    xml:id="ftn.2.147" n="6"> V izv. Loiblthal. T. i. Šentanski
                                     rudnik v zaselku Lajb pri Podljubjelju.</note> na nadmorski
                                 višini 800 metrov hriba Ostrog pri kraju Tržič. Že v letih od 1761
                                 do 1770 so tu prvič poskusno kopali rudo, prizadevno so nadaljevali
@@ -4487,10 +4494,10 @@
                                 globini 43,8 metra izsledili mogočno 22,9 metra dolgo in še ne
                                 poglobljeno plast premoga. </p>
                             <p>Pridobivanje svinčeve rude je v treh rudarskih obratih, Litiji,<note
-                                    place="end" xml:id="ftn.2.146" n="23"> V izv. Littai.</note>
+                                    place="end" xml:id="ftn.2.146" n="7"> V izv. Littai.</note>
                                 Podkraju in Savi, doseglo skupno količino 12.948 metrskih stotov, od
                                 tega je talilnica v Litiji pridobila 8192 metrskih stotov, cinkarna
-                                v Zagorju<note place="end" xml:id="ftn.2.145" n="24"> V izv. Zagor.
+                                v Zagorju<note place="end" xml:id="ftn.2.145" n="8"> V izv. Zagor.
                                     Raibl, Auronzo, Bleiburg.</note> (kot stranski produkt) pa 39
                                 merskih stotov svinca v skupni vrednosti 110.387 goldinarjev, to je
                                 10,2 odstotka celotne avstrijske produkcije svinca, čeprav je Litija
@@ -4520,7 +4527,7 @@
                                 26,3 odstotkov vse produkcije v Avstriji. Žal potrebno rudo v deželi
                                 za zdaj pridobivajo le v povsem neznatni količini (228 metrskih
                                 stotov), drugo pa dobivajo iz Rablja, Auronza in Pliberka.<note
-                                    place="end" xml:id="ftn.2.144" n="25"> V izv. Raibl, Auronzo,
+                                    place="end" xml:id="ftn.2.144" n="9"> V izv. Raibl, Auronzo,
                                     Bleiburg. Auronzo di Cadore (provinca Belluno) je kraj v
                                     Benečiji.</note>
                             </p>
@@ -4537,7 +4544,7 @@
                                 produkcija na Kranjskem zgolj 102.271 metrskih stotov, to je le 1,2
                                 odstotka skupne produkcije. <pb n="157" xml:id="pb.2.157"/>Železova
                                 ruda so večinoma siderit, nato limonit,<note place="end"
-                                    xml:id="ftn.2.143" n="26"> V izv. Rasensteine.</note> pizolit in
+                                    xml:id="ftn.2.143" n="10"> V izv. Rasensteine.</note> pizolit in
                                 glinasti železovec in le v neznatnem delu hematitove ali limonitove
                                 rudnine. Pri pridobivanju železove rude je v 6 rudnikih zaposlenih
                                 244 rudarjev, pridobljeno rudo talijo v 6 talilnicah z 9 plavži, od
@@ -4570,7 +4577,7 @@
                                 naplavinah pridobivajo rjavi in glinasti železnjak.</p>
                             <p>Nikakor ne smemo pozabiti omeniti mineralne posebnosti Kranjske,
                                 boksita, ki je po nahajališču imenovan tudi boksit iz Bohinja.<note
-                                    place="end" xml:id="ftn.2.142" n="27"> V izv. Wocheinit.</note>
+                                    place="end" xml:id="ftn.2.142" n="11"> V izv. Wocheinit.</note>
                                 Ta ruda – čista glinica – se v tleh nahaja kot usedlina v špranjah
                                 in lijakih apneniških Julijskih Alp, pridobivajo jo rudarsko, jo
                                 izvažajo ter se uporablja kot material za pridobivanje pripravkov iz
@@ -4584,7 +4591,7 @@
                                 in zlasti železarne ob zgornjem toku Save imajo odlično, čudovito in
                                 še daleč ne izrabljeno vodno energijo. </p>
                             <p>Za bolniško in starostno oskrbo delavcev obstaja 9 rudarskih
-                                    blagajn<note place="end" xml:id="ftn.2.141" n="28"> Im. tudi
+                                    blagajn<note place="end" xml:id="ftn.2.141" n="12"> Im. tudi
                                     bratovske skladnice.</note> s premoženjem 241.088 goldinarjev,
                                 ki 358 zavarovanim delavcem, 502 vdovam in 324 sirotam letno
                                 izplačajo 63.000 goldinarjev. </p>
@@ -4598,20 +4605,21 @@
                                         Monarchie in Wort und Bild: Kärnten und Krain. [Bd. 8].
                                         Erstes Heft.</hi> Dunaj, 1891, 500–508.</note>
                             </head>
-                            <p style="body-txt-prvi-odstavek">Kranjska je zaradi geografske lege,
+                            <docAuthor>Johann Murnik</docAuthor>
+                            <p><hi rend="gothic larger">K</hi>ranjska je zaradi geografske lege,
                                 pomembne vodne energije in razmeroma poceni delovne sile izredno
                                 primerna za razvoj industrije. Tudi prebivalstvo se je od nekdaj
                                 živahno zanimalo za industrijo in trgovino. Že v času rimske oblasti
                                 so na Gorenjskem obstajali železarski obrati, na Dolenjskem izdelava
                                 sukna; v 9. stoletju je bilo v loški okolici<note place="end"
-                                    xml:id="ftn.2.140" n="29"> V okolici Škofje Loke.</note>
+                                    xml:id="ftn.2.140" n="1"> V okolici Škofje Loke.</note>
                                 razširjeno izdelovanje lodna in platna, trgovina s kranjskimi
                                 železarskimi izdelki in tkaninami v Italijo pa je cvetela že v 12.
                                 stoletju. V 13. in 14. stoletju so se v Železnikih<note place="end"
-                                    xml:id="ftn.2.139" n="30"> V izv. Eisern.</note> in Tržiču
+                                    xml:id="ftn.2.139" n="2"> V izv. Eisern.</note> in Tržiču
                                 živahno ukvarjali z železarstvom, v 16. stoletju je Ljubljana imela
                                 steklarno, Fužine pri Ljubljani<note place="end" xml:id="ftn.2.138"
-                                    n="31"> V izv. Kaltenbrunn bei Laibach.</note> pa pomemben mlin
+                                    n="3"> V izv. Kaltenbrunn bei Laibach.</note> pa pomemben mlin
                                 in žago; jeklo iz Save je bilo že v tistem času daleč naokoli
                                 poznano kot najboljše. V istem času so fužine obratovale tudi v
                                 Kamniku. V Ljubljani so v 17. stoletju zgradili papirnico, tovarno
@@ -4620,7 +4628,7 @@
                                 izdelovali nizozemske in beneške čipke. Nastali sta tudi zvonarna in
                                 tobačna tovarna. Usnjarska industrija je bila razširjena v Ložu,
                                 Tržiču in Šmartnem pri Litiji,<note place="end" xml:id="ftn.2.137"
-                                    n="32"> V izv. Laas, Neumarktl, St. Martin bei Littai.</note> v
+                                    n="4"> V izv. Laas, Neumarktl, St. Martin bei Littai.</note> v
                                 Vipavi je delovala tovarna sukna in papirja. V 18. stoletju je bilo
                                 v Ljubljani 14 tovarn sukna, od katerih je bila ena deželna, druga
                                 pa je zaposlovala približno 1000 delavcev. V istem obdobju so v
@@ -4880,13 +4888,13 @@
                                     und Bild: Küstenland und Dalmatien. [Bd. 11]. Zweites Heft.</hi>
                                 Dunaj, 1891, 153–160.</note>
                         </head>
-                        <byline>Emil Zuckerkandl in Karl Vipauz</byline>
+                        <docAuthor>Emil Zuckerkandl in Karl Vipauz</docAuthor>
                         <figure>
-                            <graphic n="sk050" url="image/K_-Physisch_153_GRAY.png"/>
+                            <graphic n="sk050" url="image/K_-Physisch_153_GRAY.jpg"/>
                             <head>Čiča (moški in ženska) in Slovenka iz okolice Trsta (Hugo
                                 Charlemont)</head>
                         </figure>
-                        <p style="body-txt-prvi-odstavek">V Primorju – zajema Gorico, Gradiško,<note
+                        <p><hi rend="gothic larger">V</hi> Primorju – zajema Gorico, Gradiško,<note
                                 place="end" xml:id="ftn.2.179" n="1"> Ital. Gradisca d'Isonzo,
                                 Gradiška ob Soči.</note> mesto Trst z zaledjem in Istro z njenimi
                             otoki –, ki ga na jugu obliva Jadransko morje, drugod pa nanj mejijo in
@@ -5107,9 +5115,10 @@
 
                     </div>
                     <div type="ss3">
+                        <pb n="(183)" xml:id="pb.2.183"/>
                         <head>K narodopisju Primorja<lb/>Ljudsko življenje na Goriškem in
                             Gradiškem</head>
-                        <byline>Franz grof Coronini-Cromberg</byline>
+                        <docAuthor>Franz grof Coronini-Cromberg</docAuthor>
                         <figure>
                             <graphic n="sk056" url="image/K_-Volkskunde_161_GRAY.jpg"/>
                             <head>Kmečki nevestin voz (Janez Šubic)</head>
@@ -5121,7 +5130,7 @@
                                     10, Zweites Heft] Das Küstenland (Görz, Gradiska, Triest und
                                     Istrien).</hi> Dunaj, 1891, 161–190.</note>
                         </head>
-                        <p style="body-txt-prvi-odstavek">Dežela, o katere prebivalcih naj bi tu
+                        <p><hi rend="gothic larger">D</hi>ežela, o katere prebivalcih naj bi tu
                             poročali, ne zbudi pozornosti le s tem, da kljub skromni razsežnosti
                             nosi dve imeni. Tudi sicer preseneča z raznovrstnostjo pojavov, da, z
                             bogastvom nasprotij, ki jih ponuja tako površnemu gledalcu kakor
@@ -5618,12 +5627,12 @@
                             priljubljene hruške.</p>
                         <p>Ko je nekoč pri opravljanju svoje dolžnosti ždel visoko na drevesu, se je
                             približala stara čarovnica in mu zaklicala:</p>
-                        <lg rend="centered">
-                            <l>Tonetto Busetto</l>
-                            <l>Gettami un peretto</l>
-                            <l>Con la tua manina d'oro;</l>
-                            <l>Sii benedetto</l>
-                            <l>Mio bel tesoro.</l>
+                        <lg>
+                            <l rend="centered">Tonetto Busetto</l>
+                            <l rend="centered">Gettami un peretto</l>
+                            <l rend="centered">Con la tua manina d'oro;</l>
+                            <l rend="centered">Sii benedetto</l>
+                            <l rend="centered">Mio bel tesoro.</l>
                         </lg>
                         <p>»Etko Buzetko, vrzi mi hruško s svojo zlato ročico; bodi blagoslovljen,
                             lepi moj zaklad!« Etko, ki je bil dobrega srca, je starki vrgel hruško
@@ -5886,7 +5895,7 @@
                             pogumno skačejo skoz plapolajoče zublje. Ta prizor ima pogosto predigro
                             prejšnji večer in se največkrat ponovi na samo šentjanževo in v
                             pojemajočem obsegu v nekaj naslednjih večerih. </p>
-                        <p>Omembe vredne so vsekakor še<hi style="letter-spacing: 2px;"> ženitovanjske
+                        <p>Omembe vredne so vsekakor še <hi style="letter-spacing: 2px;">ženitovanjske
                                 šege</hi>. Na dan poroke nekdo od bolj oddaljenih svojcev na vozu z
                             volovsko vprego, ki ne sme biti last nevestinih staršev ali sorojencev,
                             odpelje nevestino balo v ženinovo hišo, tako da lahko vse pripravijo za
@@ -6039,7 +6048,7 @@
                             omenimo eno od njih, ki izvira iz Ronzine – Ročinja – v srednji Soški
                             dolini: </p>
                         <pb n="218" xml:id="pb.2.218"/>
-                        <table type="poem">
+                        <table type="poem" style="font-size: 90%;">
                             <row>
                                 <cell>
                                     <l> Lahko noč</l>
@@ -6285,7 +6294,7 @@
                             <graphic n="sk064" url="image/K_-Volkskunde_188_GRAY.jpg"/>
                             <head>Furlanke ob vodnjaku na vleko (Janez Šubic)</head>
                         </figure>
-                        <table type="poem">
+                        <table type="poem" style="font-size: 90%;">
                             <row>
                                 <cell>
                                     <l>Andiam tre anni a Pola </l>
@@ -6323,7 +6332,7 @@
                             <note place="end" xml:id="ftn.2.183" n="46"> V izv. Friaulische
                                 Dorfgesang.</note>
                         </p>
-                        <table type="poem">
+                        <table type="poem" style="font-size: 90%;">
                             <row>
                                 <cell>
                                     <l> Lis fantatis</l>
@@ -6499,7 +6508,7 @@
                                 Seufzer aus der Ferne! / Was wird aus der Liebe dein? / Willst die
                                 Treue du mir halten, / Soll sie dir gehalten sein.</note>
                         </p>
-                        <table type="poem">
+                        <table type="poem" style="font-size: 90%;">
                             <row>
                                 <cell>
                                     <l>Dekleta</l>
@@ -6665,20 +6674,19 @@
                             ribič iz Gradeža rad sanjaje zapoje, ko po opravljenem delu v svetli
                             mesečni noči privesla do mesteca in misli na ljubo, ki ga čaka v
                             pristanu:</p>
-                        <table type="poem">
+                        <table type="poem" style="font-size: 90%;">
                             <row>
                                 <cell>
-                                    <l>Canzone gradese</l>
+                                    <l rend="centered">Canzone gradese</l>
                                 </cell>
                                 <cell>
-                                    <l>Ljudska pesem iz Gradeža<note place="end" xml:id="ftn.2.180"
+                                    <l rend="centered">Ljudska pesem iz Gradeža</l><note place="end" xml:id="ftn.2.180"
                                             n="49">V izv. Volksklied aus Grado: Lisette schau, der
                                             Mond gießt rein / Auf die Lagune Silberschein, / Es ruht
                                             die See, sein Wölkchen hier, / Fährst in der Gondel du
                                             mit mir? // Das Lüftchen, das im West ersteht, / Dein
                                             schönes Antlitz sanft umweht, / Und kost die blonden
                                             Locken dir. / Lisette, fährst du wohl mit mir?</note>
-                                    </l>
                                 </cell>
                             </row>
                             <row>
@@ -6765,8 +6773,8 @@
                                     Zweites Heft] Das Küstenland (Görz, Gradiska, Triest und
                                     Istrien).</hi> Dunaj, 1891, 190–197.</note>
                         </head>
-                        <byline>Peter Tomasin</byline>
-                        <p style="body-txt-prvi-odstavek">Najbližja okolica Trsta, njegovo območje
+                        <docAuthor>Peter Tomasin</docAuthor>
+                        <p><hi rend="gothic larger">N</hi>ajbližja okolica Trsta, njegovo območje
                             ali teritorij, kakor to imenujemo dandanes, je bila v srednjem veku le
                             skromno naseljena. Velik del je bil pokrit z obširnimi hrastovimi
                             gozdovi, ki se v najstarejših občinskih statutih mesta imenujejo <hi
@@ -6996,8 +7004,8 @@
                                     Küstenland (Görz, Gradiska, Triest und Istrien).</hi> Dunaj,
                                 1891, 208–230.</note>
                         </head>
-                        <byline>Alois Spinčić</byline>
-                        <p style="body-txt-prvi-odstavek">Istrski Slovani so povečini Hrvati, ki na
+                        <docAuthor>Alois Spinčić</docAuthor>
+                        <p><hi rend="gothic larger">I</hi>strski Slovani so povečini Hrvati, ki na
                             vzhodu mejijo na rodovne tovariše v sosednjih provincah; v
                             severozahodnem delu Istre pa živijo sorodni Slovenci, ki mejijo na svoje
                             brate na Kranjskem, Goriškem in Tržaškem.</p>
@@ -7049,7 +7057,7 @@
                             uporabljalo. </p>
                         <pb n="235" xml:id="pb.2.235"/>
                         <figure>
-                            <graphic n="sk067" url="image/K_-Volkskunde_209_GRAY.png"/>
+                            <graphic n="sk067" url="image/K_-Volkskunde_209_GRAY.jpg"/>
                             <head>Podeželska hiša iz okolice Pazina (Paul Joanowits)</head>
                         </figure>
                         <p>Podobnosti v razvoju in poimenovanju naselij, vsaj vasi in zaselkov,
@@ -7071,7 +7079,7 @@
                                 Upravitelji, nadzorniki.</note> jih hvalijo kot miroljubne, zveste,
                             zmerne, zlasti pa kot pridne, marljive in spretne poljedelce.</p>
                         <figure>
-                            <graphic n="sk068" url="image/K_-Volkskunde_211_GRAY.png"/>
+                            <graphic n="sk068" url="image/K_-Volkskunde_211_GRAY.jpg"/>
                             <head>Ovčji pastir z območja Vodnjana (Paul Joanowits) [237]</head>
                         </figure>
                         <p>Ne dosti prej kot nazadnje omenjeni Hrvati se je iz svoje domovine – med
@@ -7737,7 +7745,7 @@
                         <pb n="(261)" xml:id="pb.2.261"/>
                         <head>O književnosti v Trstu in Istri</head>
                         <figure>
-                            <graphic n="sk074" url="image/K_-Literatur_231_GRAY.png"/>
+                            <graphic n="sk074" url="image/K_-Literatur_231_GRAY.jpg"/>
                         </figure>
                         <head>Slovanski jezik in književnost<note place="foot" xml:id="rftn.2.13"
                                 n="*">Prevod poglavja Slavische Sprache und Literatur. Iz: <hi
@@ -7745,8 +7753,8 @@
                                     und Bild. [Bd. 10, Zweites Heft] Das Küstenland (Görz, Gradiska,
                                     Triest und Istrien).</hi> Dunaj, 1891, 231–249.</note>
                         </head>
-                        <byline>Anton Klodić von Sabladoski</byline>
-                        <p style="body-txt-prvi-odstavek">Istra, čeprav je tako majhna, spada v
+                        <docAuthor>Anton Klodić von Sabladoski</docAuthor>
+                        <p><hi rend="gothic larger">I</hi>stra, čeprav je tako majhna, spada v
                             etnografskem pogledu med najzanimivejše dežele avstro-ogrske monarhije.
                             Deželico napolnjujejo delčki dveh slovanskih in dveh romanskih plemen,
                             kakor jih je drugega ob drugem naplavila ali potisnila skupaj mogočna
@@ -8564,11 +8572,8 @@
                                 Monarchie in Wort und Bild. Bd. 2: Übersichtsband, 1. Abtheilung:
                                 Naturgeschichtlicher Theil.</hi> Wien, 1887, 5–17.</note>
                     </head>
-                    <byline>Nadvojvoda Rudolf</byline>
-                    <figure>
-                        <graphic n="sk078" url="image/_bersicht_001_GRAY.png"/>
-                    </figure>
-                    <p style="body-txt-prvi-odstavek">Avstro-ogrska monarhija kljub nekaterim dobrim
+                    <docAuthor>Nadvojvoda Rudolf</docAuthor>
+                    <p><hi rend="gothic larger">A</hi>vstro-ogrska monarhija kljub nekaterim dobrim
                         preddelom pogreša etnografsko delo, ki na ravni sodobnega znanstvenega
                         raziskovanja in s pomočjo dopolnjujočih umetniških reprodukcij, hkrati
                         spodbujajoče in poučno ponuja vseobsegajočo splošno podobo naše domovine in
@@ -8588,9 +8593,7 @@
                         je njegova individualnost v znanstveni literaturi monarhije našla ustrezno
                         razumevanje in priznanje; hkrati pa ga bo to spodbudilo, da bo iskalo svoje
                         duhovno težišče v Avstro-Ogrski.</p>
-                    <figure>
-                        <graphic n="sk079" url="image/_bersicht_002_GRAY.jpg"/>
-                    </figure>
+                   
                     <p>Zato je še posebej v naši očetnjavi zelo pomembno gojiti etnografijo in njene
                         pomožne vede, ker te neodvisno od vseh nezrelih teorij in strankarskih
                         strasti zbirajo gradivo, iz katerega lahko izhajata objektivna primerjava in
@@ -8604,9 +8607,7 @@
                         so neovrednotena obležala v učenih strokovnih <pb n="(293)"
                             xml:id="pb.2.293"/>listih in periodičnem časopisju ali so, žal, vse
                         prepogosto odromala v publikacije iz tujine.</p>
-                    <figure>
-                        <graphic n="sk080" url="image/_bersicht_003_GRAY.jpg"/>
-                    </figure>
+                    
                     <p>Zato se vsiljuje zamisel, da bi to bogato, za nas še neizkoriščeno gradivo v
                         Avstro-Ogrski povezali in s tem omogočili nastanek dela, ki bi v mejah te
                         monarhije upošteval znanstveno in umetniško samozavest posamičnih narodov, v
@@ -8620,10 +8621,7 @@
                         opisala drago skupno očetnjavo ter <pb n="(294)" xml:id="pb.2.294"/>povabila
                         bralstvo na potovanje po širni, širni deželi, med večjezičnimi narodi sredi
                         nenehno se spreminjajočih podob. </p>
-                    <figure>
-                        <graphic n="sk081" url="image/_bersicht_004_GRAY.jpg"/>
-                    </figure>
-                    <p>Dunaj, čudovito velemesto z razkošnimi zgradbami, s staro stolnico svetega
+                                        <p>Dunaj, čudovito velemesto z razkošnimi zgradbami, s staro stolnico svetega
                         Štefana, simbolom stoletne veličine v svojem središču, je, ležeč ob mogočni
                         reki Donavi, obdan z vencem očarljivih hribov, z vinsko trto blagoslovljenih
                         gričev in šumečih gozdov, med plodovitima ravninama – tako lep, tako
@@ -8641,10 +8639,7 @@
                         spredaj cvetoča dežela, prepredena z Donavo, posejana z bogatimi mesti in
                         vasmi. Pred nami se dviga Solnograd, staro škofovsko mesto s sivimi hišami
                         in cerkvami, umetnostni spomenik prejšnjih časov.</p>
-                    <figure>
-                        <graphic n="sk082" url="image/_bersicht_005_GRAY.jpg"/>
-                    </figure>
-                    <p>Gore so vedno višje. Pred nami leži skalni grad Tirolske; ledeniki, prastari
+                                       <p>Gore so vedno višje. Pred nami leži skalni grad Tirolske; ledeniki, prastari
                         gorski masivi, severna vegetacija na eni, južna vročina na drugi strani Alp;
                         ustavimo se na Predarlskem, na bregu lepega Bodenskega jezera. Sledeč
                         pogorju se najprej vzdolž bleščeče zasnežene verige Tur podamo na čudovito
@@ -8661,10 +8656,7 @@
                         zdaj gre navzdol med številnimi otoki ob obrežju veličastno lepe Dalmacije
                         vse do čudovitega Kotorskega zaliva, kjer se kot mogočen mejnik dviguje
                         resnično veličasten gorski masiv Črne gore.</p>
-                    <figure>
-                        <graphic n="sk083" url="image/_bersicht_006_GRAY.jpg"/>
-                    </figure>
-                    <p>Naš pogled se zazre proti severu. Moravska, bogata dežela z ljubkim gričevjem
+                                        <p>Naš pogled se zazre proti severu. Moravska, bogata dežela z ljubkim gričevjem
                         je za nami, in pred nami razprostrta leži Češka, premožna visoka planota,
                         obdana z vencem gozdnatega pogorja; naš pogled razveseljujejo jelkovi in
                         smrekovi gozdovi, šumeči potoki, z ribami bogate reke, lepo obdelane, močno
@@ -8678,9 +8670,7 @@
                         globoko zarezane reke in veletoke, ki se vijejo proti severu, dospemo do
                         gozdnate, majhne mejne dežele, lepe Bukovine, ki ustvarja prehod med mogočno
                         gorsko verigo Karpatov in neskončno sarmatsko ravnino.</p>
-                    <figure>
-                        <graphic n="sk084" url="image/_bersicht_007_GRAY.jpg"/>
-                    </figure>
+                   
                     <p>Od tam pa naprej na območje svete Štefanove krone,<note place="end"
                             xml:id="ftn.2.342" n="4"> Poimenovanje za območje ogrskega kraljestva,
                             imenovano po apostolskem kralju Štefanu I. Ogrskem. Krono, ki je
@@ -8700,9 +8690,7 @@
                         pokrajin v čudovit reški zaliv,<note place="end" xml:id="ftn.2.341" n="5">
                             Kvarnerski zaliv.</note> od tod pa med slavonskimi nižinami mimo
                         hribovja gozdnate Fruške gore ob Savi znova k Donavi. </p>
-                    <figure>
-                        <graphic n="sk085" url="image/_bersicht_008_GRAY.jpg"/>
-                    </figure>
+                   
                     <p>Levo čudovita ravnina, desno visoko srbsko obrežje; naprej pa gremo med
                         čedalje bolj strmimi gorskimi masivi vse do Železnih vrat, kjer se naš
                         mogočni veletok prebija skoz ostre čeri. Mimo Mehadije, starih rimskih
@@ -8721,9 +8709,7 @@
                         monarhijo, tako veliko in lepo, tako bogato z naravnimi lepotami, tako
                         raznovrstno po vrstah<note place="end" xml:id="ftn.2.339" n="7"> Mišljene so
                             rastlinske vrste.</note> in favni.</p>
-                    <figure>
-                        <graphic n="sk086" url="image/_bersicht_009_GRAY.jpg"/>
-                    </figure>
+                   
                     <p>Galicija s svojimi severovzhodnimi vrstami, severna Češka s srednjeevropsko
                         favno, največji del Alp, Karpati, madžarska pusta, južna Tirolska in
                         Dalmacija s pravo južno vegetacijo – vse to, ta raznovrstnost je združena v
@@ -8753,10 +8739,7 @@
                         barvito mešanico, tu so še Šlezijci germanskega plemena, pa tisti
                         slovanskega izvira, Poljaki v Galiciji in Rusini se izmenjujejo v
                         spreminjajočem se zaporedju.</p>
-                    <figure>
-                        <graphic n="sk087" url="image/_bersicht_010_GRAY.jpg"/>
-                    </figure>
-                    <pb n="(301)" xml:id="pb.2.301"/>
+                                        <pb n="(301)" xml:id="pb.2.301"/>
                     <p>In zdaj je na vrsti Ogrska, madžarska Ogrska s tako živahnim ljudskim
                         življenjem, Sekeljci, svojevrstno sorodno pleme; potem Slovaki s severa,
                         Romani, potomci starih Rimljanov, Srbi in Hrvati in manjša ljudstva, ki
@@ -8765,9 +8748,7 @@
                         sosednjimi ljudstvi, deloma pa so ohranili posebnost svoje rase,
                         razkropljeni po skoraj vsej monarhiji; Cigani kot potujoče ljudstvo in
                         glasbeniki ter navsezadnje stalni prebivalci madžarskih vasi. </p>
-                    <figure>
-                        <graphic n="sk088" url="image/_bersicht_011_GRAY.jpg"/>
-                    </figure>
+                  
                     <p>Vsa ta ljudstva in plemena, posamični tipi, tako različna narečja in navade,
                         način življenja, bivališča, viri zaslužka, njihovi prazniki, razvedrila in
                         navade, stare noše in orožje, njihova izobrazba, narodno pesništvo, njihov
@@ -8785,9 +8766,7 @@
                         posamična ljudstva, kako so si Germani priborili svoje dežele, Slovani na
                         jugu, Čehi na severu, kako so Madžari pod Arpadovim vodstvom prek Karpatov
                         vdrli v bogato nižino.</p>
-                    <figure>
-                        <graphic n="sk089" url="image/_bersicht_012_GRAY.jpg"/>
-                    </figure>
+                    
                     <p>Sledijo dolga obdobja; sreča in nesreča, boji in burni časi; in tu vidimo,
                         kako se nizajo drug ob drugega, ljudstvo za ljudstvom, dežela za deželo,
                         čedalje tesneje se stiskajo plemena, moč jih združuje v interesno skupnost
@@ -8802,17 +8781,15 @@
                         delo, in to delo naj domovini in tujini pokaže, kako bogato duhovno moč
                         imamo v vseh deželah in ljudstvih in kako so se vsa povezala v lepo
                         stvaritev, ki naj krepi samozavest in moč splošne ljubezni do očetnjave. </p>
-                    <figure>
-                        <graphic n="sk090" url="image/_bersicht_013_GRAY.jpg"/>
-                    </figure>
+                    
                     <p>In tako kakor se bodo v nadaljevanju tega dela druga za drugo vrstile dežele,
                         bodo k sodelovanju pritegnjeni vedno novi sodelavci in novi umetniki iz
                         njihovih domačih dežel; ti se bodo svojim predhodnikom pridružili z enako
                         predanostjo in nezmanjšanim navdušenjem, in ko bo delo po letih dokončano,
                         se bo predstavilo kot spomenik duhovne ustvarjalne moči sodobnosti, kot
                         spomenik za vso prihodnost, kot:</p>
-                    <lg rend="centered">
-                        <l>»Avstro-Ogrska v besedi in podobi.«</l>
+                    <lg>
+                        <l rend="centered">»Avstro-Ogrska v besedi in podobi.«</l>
                     </lg>
                     <pb n="(304)" xml:id="pb.2.304"/>
 
@@ -8825,8 +8802,8 @@
                 <div type="ss3">
                     <pb n="(307)" xml:id="pb.2.307"/>
                     <head>Za krepitev samozavesti in moč splošne ljubezni do domovine</head>
-                    <byline>Janez Bogataj</byline>
-                    <p style="body-txt-prvi-odstavek">Pisanje o pomenu in obsegu slovenske
+                    <docAuthor>Janez Bogataj</docAuthor>
+                    <p><hi rend="gothic larger">P</hi>isanje o pomenu in obsegu slovenske
                         zastopanosti v monumentalnem enciklopedičnem domoznanskem delu <hi
                             rend="italic">Avstro-ogrska monarhija v besedi in podobi (Die
                             österreichisch-ungarische Monarchie in Wort und Bild)</hi> ni pomembno
@@ -9119,7 +9096,71 @@
 
                 </div>
             </div>
-        </body>
+            <div type="ss1"  xml:id="dodatek">
+                <head>Dodatno, v tiskani knjigi objavljeno gradivo</head>
+                <p>Nekatera poglavja tiskane knjige odpirajo ilustracije, ki obrobljajo besedilo. Tako je oblikovan tudi celoten <ref target="#pb.2.91">uvod Nadvojvode Rudolfa</ref>. Bolj kot vsebinsko so pomembne grafično, zato jih navajamo v tem, za e-knjigo dodanem poglavju.</p>
+            </div>
+            <figure><head>Slika v tiskani knjigi na strani <ref target="#pb.2.97">97</ref>:</head>
+                    <graphic n="sk030" url="image/Kr-Volkskunde_429_GRAY.jpg"/>
+                   <figDesc>(Rudolf Bernt)</figDesc>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.123">123</ref>:</head>
+                <graphic n="sk038" url="image/Kr-Volkskunde_475_GRAY_RAZSIRJENA.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.291">291</ref>:</head>
+                <graphic n="sk078" url="image/_bersicht_001_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.292">292</ref>:</head>
+                <graphic n="sk079" url="image/_bersicht_002_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.293">293</ref>:</head>
+                <graphic n="sk080" url="image/_bersicht_003_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.294">294</ref>:</head>
+                <graphic n="sk081" url="image/_bersicht_004_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.295">295</ref>:</head>
+                <graphic n="sk082" url="image/_bersicht_005_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.296">296</ref>:</head>
+                <graphic n="sk083" url="image/_bersicht_006_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.297">297</ref>:</head>
+                <graphic n="sk084" url="image/_bersicht_007_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.298">298</ref>:</head>
+                <graphic n="sk085" url="image/_bersicht_008_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.299">299</ref>:</head>
+                <graphic n="sk086" url="image/_bersicht_009_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.300">291</ref>:</head>
+                <graphic n="sk087" url="image/_bersicht_010_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.301">301</ref>:</head>
+                <graphic n="sk088" url="image/_bersicht_011_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.302">302</ref>:</head>
+                <graphic n="sk089" url="image/_bersicht_012_GRAY.jpg"/>
+            </figure>
+            <figure>
+                <head>Slika v tiskani knjigi na strani <ref target="#pb.2.303">303</ref>:</head>
+                <graphic n="sk090" url="image/_bersicht_013_GRAY.jpg"/>
+            </figure>
+                    </body>
         <back>
             <div type="covers" corresp="back_out">
                 <p>Za zgodovino slovenske etnološke vede predstavljajo poglavja o Slovencih v

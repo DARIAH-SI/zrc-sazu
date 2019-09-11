@@ -39,7 +39,7 @@
                 </funder>
                 <sponsor>
                     <note>ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC<figure>
-                            <graphic url="image/logoZRCmoder.jpeg"/>
+                            <graphic url="image/logoZRCmoder.jpg"/>
                         </figure>
                     </note>
                 </sponsor>
@@ -91,15 +91,21 @@
                         any means, electronic, mechanical, photocopying, recording or otherwise,
                         without the prior permission of the publisher.</p>
                 </availability>
-                <idno type="ISBN" subtype="epub">???978-961-05-0105-3</idno>
-                <idno type="COBISS.ID" subtype="epub">???123456789</idno>
-                <idno type="price" subtype="epub">15</idno>
+                <idno type="ISBN" subtype="epub">978-961-05-0205-0</idno>
+                <idno type="COBISS.ID" subtype="epub">300929792</idno>
+                <idno type="price" subtype="epub">19</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="M">
                     <edition>
                         <ref target="https://zalozba.zrc-sazu.si/p/1405">Prva tiskana izdaja</ref>
                     </edition>
+                    <figure>
+                        <graphic url="image/AO1_1.jpg"/>
+                        <graphic url="image/AO1_2.jpg"/>
+                        <graphic url="image/AO1_3.jpg"/>
+                        <graphic url="image/AO1_4.jpg"/>
+                    </figure>
                     <date when="2016-07-12T12:00:00Z">julij 2016</date>
                     <idno type="ISBN">978-961-254-913-8</idno>
                     <idno type="COBISS" subtype="id">284965376</idno>
@@ -213,13 +219,14 @@
                     <note>
                         <p>E-knjiga v vseh pogledih reproducira prvi natis prve tiskane izdaje
                             (2016); malenkostno drugače je razporejeno slikovno
-                            gradivo.<lb/>????Pretvorbo je omogočila Javna agencija za knjigo.</p>
+                            gradivo.<lb/>Pretvorbo je omogočila Javna agencija za knjigo iz naslova
+                            razpisa za leto 2019.</p>
                         <p rend="CIP">Kataložni zapis o publikaciji (CIP) pripravili v Narodni in
                             univerzitetni knjižnici v Ljubljani.<lb/>
                             <ref target="http://COBISS.SI">COBISS.SI</ref>-ID=<ref
-                                target="https://plus.si.cobiss.net/opac7/bib/293610240"
-                                >???293610240</ref>
-                            <lb/> ????ISBN 978-961-05-0062-9 (epub)</p>
+                                target="https://plus.si.cobiss.net/opac7/bib/300929792"
+                                >300929792</ref>
+                            <lb/>ISBN 978-961-05-0205-0 (epub)</p>
                     </note>
                 </docEdition>
                 <docImprint>
@@ -302,7 +309,8 @@
                         et al.]. - 1. izd., 1. natis. - Ljubljana : Založba ZRC, ZRC SAZU, 2016</p>
                     <p>Prevod dela: Die österreichisch-ungarische Monarchie in Wort und Bild</p>
                     <p>ISBN 978-961-254-913-8</p>
-                    <p><ref target="https://plus.si.cobiss.net/opac7/bib/284965376">284965376</ref></p>
+                    <p><ref target="https://plus.si.cobiss.net/opac7/bib/284965376"
+                        >284965376</ref></p>
                 </div>
             </div>
             <div type="title">
@@ -344,7 +352,7 @@
                         </cell>
                     </row>
                     <row>
-                        <cell> Ljudsko življenje, šege in povedke Slovencev / Franz Hubad</cell>
+                        <cell> Življenje, šege in povedke Slovencev / Franz Hubad</cell>
                         <cell>
                             <ref target="#pb.1.31">31</ref>
                         </cell>
@@ -368,7 +376,7 @@
                         </cell>
                     </row>
                     <row>
-                        <cell> Vendi v Zalski in Žalski županiji / Valentin Bellosics</cell>
+                        <cell> Vendi v Zalski in Železni županiji / Valentin Bellosics</cell>
                         <cell>
                             <ref target="#pb.1.83">83</ref>
                         </cell>
@@ -429,7 +437,7 @@
             <div type="ss3">
                 <pb n="7" xml:id="pb.1.7"/>
                 <head>Avstro-ogrska monarhija v besedi in podobi</head>
-                <p style="body-txt-prvi-odstavek"><hi rend="gothic larger">K</hi>njiga <hi rend="italic">Avstro-ogrska monarhija v
+                <p><hi rend="gothic larger">K</hi>njiga <hi rend="italic">Avstro-ogrska monarhija v
                         besedi in podobi – Slovenci</hi> je komentiran prevod etnografskih poglavij
                     o Slovencih<note place="end" xml:id="ftn.1.048" n="1"> V tej knjigi so
                         objavljena poglavja o Štajerski, Porabju in Prekmurju ter Koroški, sledijo
@@ -519,8 +527,8 @@
                     razumeti namen in domet veličastne besedne in likovne upodobitve avstro-ogrske
                     monarhije in v njej tudi ozemlja, ki ga je naseljevalo večinoma slovensko
                     prebivalstvo. </p>
-                <p style="body-txt-prvi-odstavek ParaOverride-1">*</p>
-                <p style="body-txt-prvi-odstavek"><hi rend="gothic larger">Z</hi>birka <hi rend="italic">Die
+                <ab type="milestone" style="text-align:center">*</ab>
+                <p><hi rend="gothic larger">Z</hi>birka <hi rend="italic">Die
                         österreichisch-ungarische Monarchie in Wort und Bild</hi> je nastajala v
                     zadnjih dveh desetletjih 19. stoletja na pobudo prestolonaslednika nadvojvode
                     Rudolfa (1858–1889); po njem se delo imenuje tudi Prestolonaslednikovo delo (<hi
@@ -588,54 +596,53 @@
                     vidike. Izčrpno želi zaobseči celoto. V splošnem delo velja za eno zadnjih
                     velikih »zgodb cesarstva« in se žanrsko uvršča v nekakšno enciklopedično
                     domoznanstvo. </p>
-                <p style="body-txt-prvi-odstavek ParaOverride-1">*</p>
-                <p style="body-txt-prvi-odstavek">Enciklopedični žanr ima v Evropi dolgo tradicijo,
-                    vsaj od humanizma, če že ne od srednjeveških enciklopedij.<note place="end"
-                        xml:id="ftn.1.038" n="11"> Srednjeveške enciklopedije so bile zasnovane
-                        različno (abecedno, tematsko ali kronološko), vendar so ne glede na takšno
-                        ali drugačno zasnovo zaželele zaobseči in urediti vse znanje o tedaj
-                        poznanem svetu, opirale pa so se tako na antične vire kakor srednjeveško
-                        širjenje obzorja, najpogosteje utemeljeno na tedanji filozofsko-religiozni
-                        podobi sveta. </note> Novoveška enciklopedistika je temeljila na »opisu
-                    celot z nizanjem opisov njenih delov,« na načelu opisovanja z vidika osrednje
-                    ravni, ki je določila posamične dele in jih podvrgla enotni opisni shemi, hkrati
-                    je s tem poudarila njihovo enakovrednost.<note place="end" xml:id="ftn.1.037"
-                        n="12"> Justin Stagl, Das „Kronprinzenwerk“. Zur Einführung. V: Jurij Fikfak
-                        in Reinhard Johler (ur.), <hi rend="italic">Ethnographie in Serie. Zu
-                            Produktion und Rezeption der „österreichisch-ungarische Monarchie in
-                            Wort und Bild“.</hi> Wien, 2008, 28.</note> Takšne <pb n="13"
-                        xml:id="pb.1.13"/>so bile, na primer, renesančne kozmografije, utemeljene na
-                    geografskem in zgodovinskem gledišču, prizadevale so si raznovrstne pojave v
-                    naravi in človeškem svetu vključiti v skupni okvir, ne glede na to, ali jih je
-                    povezoval koncept skupne zgodovine (biblijske ali evolucijske) ali pa, v zadnji
-                    instanci, zgolj pripadnost človeškemu rodu.<note place="end" xml:id="ftn.1.036"
-                        n="13"> Za zgled lahko služi Sebastiana Münstra <hi rend="italic"
-                            >Cosmographia: beschreibung aller lander</hi> (Basel, 1544), ki ni več
-                        srednjeveška <hi rend="italic">mapa mundi,</hi> temveč podoba »naravne
-                        zgodovine«: opisuje pokrajine, podnebje in reliefno oblikovanost in je
-                        hkrati zgodovina civilnega, ko govori o prebivalstvu, ureditvi družbe in
-                        navadah ljudi. V portretih okolja in ljudi bralca seznani z mejami vsake
-                        dežele, izvirom imena, topografskimi in političnimi razdelitvami, rekami,
-                        gorami, rodovitnostjo in poljedelskimi pridelki, rastlinstvom in živalstvom,
-                        mesti, omenjeni so pomembni možje, verske občine, univerze. Ne glede na
-                        hibe, ki jih gre pripisati obsegu znanja in iskanju primernih ureditvenih
-                        načel, je bila kozmografija tudi dom etnografije in etnologije. Njen temelj
-                        je študij človeškega ravnanja v njegovem 'položaju'/kraju na zemeljski
-                        površini. Njeno sporočilo pa je, da če želimo razumeti človeštvo v vsej
-                        raznovrstnosti, ga moramo trdno uokviriti v geografijo, zgodovino in šege.
-                        Geografija brez zgodovine ni nič, je brez gibanja; zgodovina brez geografije
-                        pa je kakor mrtvo truplo brez življenja ali gibanja nasploh. – Podoben
-                        vzorec se je na mikroravni opazovanja in opisov posamičnih dežel za potrebe
-                        potovanj oblikoval v apodemiki in zbirkah šeg. Več o tem npr. Margaret T.
-                        Hodgen, <hi rend="italic">Early Anthropology in the Sixteenth and
-                            Seventeenth Centuries.</hi> Philadelphia, 1964; Justin Stagl, <hi
-                            rend="italic">Eine Geschichte der Neugier. Die Kunst des Reisens
-                            1550–1800.</hi> Wien, Köln in Weimar, 2002.</note> Tako kakor
-                    enciklopedije, ki so se sčasoma specializirale (npr. v splošne, biografske,
-                    zgodovinske, regionalne in številne tematske), ima tudi domoznanska produkcija
-                    zelo heterogeno podobo, vendar jo z enciklopedistiko, ki zahteva visoko
-                    strokovno oziroma znanstveno raven obravnave,<note place="end"
-                        xml:id="ftn.1.035" n="14">
+                <ab type="milestone" style="text-align:center">*</ab>
+                <p>Enciklopedični žanr ima v Evropi dolgo tradicijo, vsaj od humanizma, če že ne od
+                    srednjeveških enciklopedij.<note place="end" xml:id="ftn.1.038" n="11">
+                        Srednjeveške enciklopedije so bile zasnovane različno (abecedno, tematsko
+                        ali kronološko), vendar so ne glede na takšno ali drugačno zasnovo zaželele
+                        zaobseči in urediti vse znanje o tedaj poznanem svetu, opirale pa so se tako
+                        na antične vire kakor srednjeveško širjenje obzorja, najpogosteje utemeljeno
+                        na tedanji filozofsko-religiozni podobi sveta. </note> Novoveška
+                    enciklopedistika je temeljila na »opisu celot z nizanjem opisov njenih delov,«
+                    na načelu opisovanja z vidika osrednje ravni, ki je določila posamične dele in
+                    jih podvrgla enotni opisni shemi, hkrati je s tem poudarila njihovo
+                        enakovrednost.<note place="end" xml:id="ftn.1.037" n="12"> Justin Stagl, Das
+                        „Kronprinzenwerk“. Zur Einführung. V: Jurij Fikfak in Reinhard Johler (ur.),
+                            <hi rend="italic">Ethnographie in Serie. Zu Produktion und Rezeption der
+                            „österreichisch-ungarische Monarchie in Wort und Bild“.</hi> Wien, 2008,
+                        28.</note> Takšne <pb n="13" xml:id="pb.1.13"/>so bile, na primer,
+                    renesančne kozmografije, utemeljene na geografskem in zgodovinskem gledišču,
+                    prizadevale so si raznovrstne pojave v naravi in človeškem svetu vključiti v
+                    skupni okvir, ne glede na to, ali jih je povezoval koncept skupne zgodovine
+                    (biblijske ali evolucijske) ali pa, v zadnji instanci, zgolj pripadnost
+                    človeškemu rodu.<note place="end" xml:id="ftn.1.036" n="13"> Za zgled lahko
+                        služi Sebastiana Münstra <hi rend="italic">Cosmographia: beschreibung aller
+                            lander</hi> (Basel, 1544), ki ni več srednjeveška <hi rend="italic">mapa
+                            mundi,</hi> temveč podoba »naravne zgodovine«: opisuje pokrajine,
+                        podnebje in reliefno oblikovanost in je hkrati zgodovina civilnega, ko
+                        govori o prebivalstvu, ureditvi družbe in navadah ljudi. V portretih okolja
+                        in ljudi bralca seznani z mejami vsake dežele, izvirom imena, topografskimi
+                        in političnimi razdelitvami, rekami, gorami, rodovitnostjo in poljedelskimi
+                        pridelki, rastlinstvom in živalstvom, mesti, omenjeni so pomembni možje,
+                        verske občine, univerze. Ne glede na hibe, ki jih gre pripisati obsegu
+                        znanja in iskanju primernih ureditvenih načel, je bila kozmografija tudi dom
+                        etnografije in etnologije. Njen temelj je študij človeškega ravnanja v
+                        njegovem 'položaju'/kraju na zemeljski površini. Njeno sporočilo pa je, da
+                        če želimo razumeti človeštvo v vsej raznovrstnosti, ga moramo trdno
+                        uokviriti v geografijo, zgodovino in šege. Geografija brez zgodovine ni nič,
+                        je brez gibanja; zgodovina brez geografije pa je kakor mrtvo truplo brez
+                        življenja ali gibanja nasploh. – Podoben vzorec se je na mikroravni
+                        opazovanja in opisov posamičnih dežel za potrebe potovanj oblikoval v
+                        apodemiki in zbirkah šeg. Več o tem npr. Margaret T. Hodgen, <hi
+                            rend="italic">Early Anthropology in the Sixteenth and Seventeenth
+                            Centuries.</hi> Philadelphia, 1964; Justin Stagl, <hi rend="italic">Eine
+                            Geschichte der Neugier. Die Kunst des Reisens 1550–1800.</hi> Wien, Köln
+                        in Weimar, 2002.</note> Tako kakor enciklopedije, ki so se sčasoma
+                    specializirale (npr. v splošne, biografske, zgodovinske, regionalne in številne
+                    tematske), ima tudi domoznanska produkcija zelo heterogeno podobo, vendar jo z
+                    enciklopedistiko, ki zahteva visoko strokovno oziroma znanstveno raven
+                        obravnave,<note place="end" xml:id="ftn.1.035" n="14">
                         <hi rend="italic">Avstro-ogrska monarhija v besedi in podobi</hi> se sicer
                         od enciklopedičnih del mdr. loči tudi po tem, da je povsem opuščen
                         znanstveni aparat, npr. navedbe virov in referenčnih del. </note> povezuje
@@ -664,34 +671,37 @@
                     <head>Prestolonaslednik nadvojvoda Rudolf</head>
                 </figure>
                 <pb n="15" xml:id="pb.1.15"/>
-                <quote>Avstro-ogrska monarhija kljub nekaterim dobrim preddelom pogreša etnografsko
-                    delo, ki na ravni sodobnega znanstvenega raziskovanja in s pomočjo dopolnjujočih
-                    umetniških reprodukcij, hkrati spodbujajoče in poučno ponuja vseobsegajočo
-                    splošno podobo naše očetnjave in njenih ljudskih plemen[<note place="end"
-                        xml:id="ftn.1.032" n="17"> V izv. Volksstämme.</note>]. <lb/>Študij v mejah
-                    te monarhije živečih ljudstev[<note place="end" xml:id="ftn.1.031" n="18"> V
-                        izv. Völker.</note>] ni le zelo pomembno polje dejavnosti izobražencev,
-                    temveč ima tudi praktično vrednost za dvig splošne ljubezni do očetnjave. <lb/>Z
-                    rastočim pogledom na odlike in posebnosti posamičnih etnografskih skupin in
-                    njihovo vzajemno in materialno odvisnost se mora bistveno okrepiti občutek
-                    solidarnosti, ki naj povezuje vsa ljudstva naše očetnjave.<lb/>Vsako
-                        ljudstvo[<note place="end" xml:id="ftn.1.030" n="19"> V izv.
-                        Volksgruppe.</note>], ki se po jeziku, šegi in deloma ločenem zgodovinskem
-                    razvoju čuti ločeno od drugih narodnih delov, bo povsem pomirjeno z dejstvom, da
-                    je njena individualnost v znanstveni literaturi monarhije našla ustrezno
-                    razumevanje in priznanje, hkrati pa ga bo to spodbudilo, da bo iskalo svoje
-                    duhovno težišče v Avstro-Ogrski.<note place="end" xml:id="ftn.1.029" n="20">
-                        Ehrherzog Rudolf, Einleitung. V: <hi rend="italic">Die
-                            österreichisch-ungarische Monarchie in Wort und Bild. Bd. 2:
-                            Übersichtsband, 1. Abtheilung: Naturgeschichtlicher Theil.</hi> Wien,
-                        1887, 5–6. Podobno je bilo delo opisano tudi v sklepnem zvezku zbirke: gre
-                        za »celovito podobo« monarhije v »njeni geografiji, arheologiji, zgodovinski
-                        preteklosti, državnemu oblikovanju, ureditvi, njenem ljudskem življenju,
-                        duhovnih prizadevanjih v znanosti, pesništvu, umetniškem in arhitekturnem
-                        delovanju, kmetijski in industrijski dejavnosti, v njeni celotni kulturi.«
-                        (Schlußwort. V: <hi rend="italic">Die österreichisch-ungarische Monarchie in
-                            Wort und Bild. Bd. 24: Croatien und Slavonien.</hi> Wien, 1902, 6).
-                    </note>
+                <quote>
+                    <p>Avstro-ogrska monarhija kljub nekaterim dobrim preddelom pogreša etnografsko
+                        delo, ki na ravni sodobnega znanstvenega raziskovanja in s pomočjo
+                        dopolnjujočih umetniških reprodukcij, hkrati spodbujajoče in poučno ponuja
+                        vseobsegajočo splošno podobo naše očetnjave in njenih ljudskih plemen[<note
+                            place="end" xml:id="ftn.1.032" n="17"> V izv. Volksstämme.</note>].</p>
+                    <p>Študij v mejah te monarhije živečih ljudstev[<note place="end"
+                            xml:id="ftn.1.031" n="18"> V izv. Völker.</note>] ni le zelo pomembno
+                        polje dejavnosti izobražencev, temveč ima tudi praktično vrednost za dvig
+                        splošne ljubezni do očetnjave.</p>
+                    <p>Z rastočim pogledom na odlike in posebnosti posamičnih etnografskih skupin in
+                        njihovo vzajemno in materialno odvisnost se mora bistveno okrepiti občutek
+                        solidarnosti, ki naj povezuje vsa ljudstva naše očetnjave.</p>
+                    <p>Vsako ljudstvo[<note place="end" xml:id="ftn.1.030" n="19"> V izv.
+                            Volksgruppe.</note>], ki se po jeziku, šegi in deloma ločenem
+                        zgodovinskem razvoju čuti ločeno od drugih narodnih delov, bo povsem
+                        pomirjeno z dejstvom, da je njena individualnost v znanstveni literaturi
+                        monarhije našla ustrezno razumevanje in priznanje, hkrati pa ga bo to
+                        spodbudilo, da bo iskalo svoje duhovno težišče v Avstro-Ogrski.<note
+                            place="end" xml:id="ftn.1.029" n="20"> Ehrherzog Rudolf, Einleitung. V:
+                                <hi rend="italic">Die österreichisch-ungarische Monarchie in Wort
+                                und Bild. Bd. 2: Übersichtsband, 1. Abtheilung: Naturgeschichtlicher
+                                Theil.</hi> Wien, 1887, 5–6. Podobno je bilo delo opisano tudi v
+                            sklepnem zvezku zbirke: gre za »celovito podobo« monarhije v »njeni
+                            geografiji, arheologiji, zgodovinski preteklosti, državnemu oblikovanju,
+                            ureditvi, njenem ljudskem življenju, duhovnih prizadevanjih v znanosti,
+                            pesništvu, umetniškem in arhitekturnem delovanju, kmetijski in
+                            industrijski dejavnosti, v njeni celotni kulturi.« (Schlußwort. V: <hi
+                                rend="italic">Die österreichisch-ungarische Monarchie in Wort und
+                                Bild. Bd. 24: Croatien und Slavonien.</hi> Wien, 1902, 6).
+                        </note></p>
                 </quote>
                 <p>Enotna razporeditev poglavij v vseh zvezkih je načeloma omogočala, da bi bili vsi
                     narodi/ljudstva – veliki in majhni – predstavljeni enakovredno in da bi se tako
@@ -746,28 +756,28 @@
                     del v Uvodu ni omenil, opozoril pa je, da je nekaj del o posamičnih »ljudskih
                     plemenih«, le da so ostala razkropljena v učenih strokovnih listih in časopisju
                     ter neuporabljena ali pa so žal prepogosto romala v publikacije v tujini. </p>
-                <p style="body-txt-prvi-odstavek ParaOverride-1">*</p>
-                <p style="body-txt-prvi-odstavek">Nadvojvoda Rudolf je bil deležen široke
-                    humanistične izobrazbe, njegovi učitelji so bili večinoma liberalno usmerjeni:
-                    njegovi glavni nazorski vrednoti sta bili nepristranost in poudarjen
-                    protinacionalizem (in tudi proti antisemitizem), saj je želel monarhijo rešiti
-                    pred propadom z rešitvijo nacionalnih problemov – sovraštvo in zavist med narodi
-                    v monarhiji naj bi zamenjali vzajemni pozornost, naklonjenost in ponos. Justin
-                    Stagl je med drugim opozoril, da je zbirka privzela pogled nepristranosti, vidno
-                    tudi v tem, da je bil namesto oznak ljudstvo in narodov uporabljen termin
-                    »ljudsko pleme« (<hi rend="italic">Volksstamm</hi>).<note place="end"
-                        xml:id="ftn.1.025" n="24"> V smislu, da ima pač vsako ljudstvo svoje
-                        posebnosti, ki naj jih vsako spoštuje tudi pri drugih. Nav. delo, 34.</note>
-                    Rudolf tudi ni želel predstaviti cesarstva po Prochaskovi podobi, temveč so mu
-                    bile izhodišče dežele, ki so bile večinoma etnično mešane, vendar: »Načelo
-                    opisovanja po kronskih deželah je povzdignilo multietnične sovisnosti na
-                    regionalno raven, s tem pa je preprečilo individualizacijo ljudstev.«<note
-                        place="end" xml:id="ftn.1.024" n="25"> Nav. delo, 36.</note> Poleg tega tudi
-                    ni mogla biti ure<pb n="19" xml:id="pb.1.19"/>sničena njegova zamisel, da bi
-                    bilo vsako ljudstvo razkrito »od znotraj«, da bi ga torej predstavili njegovi
-                    učenjaki in umetniki.<note place="end" xml:id="ftn.1.023" n="26"> Takšen načrt
-                        je v osnovi najprej preprečila razdelitev na dve redakciji – na cislajtansko
-                        in translajtansko; redakcija v Budimpešti je npr. v prvem zvezku o Ogrski
+                <ab type="milestone" style="text-align:center">*</ab>
+                <p>Nadvojvoda Rudolf je bil deležen široke humanistične izobrazbe, njegovi učitelji
+                    so bili večinoma liberalno usmerjeni: njegovi glavni nazorski vrednoti sta bili
+                    nepristranost in poudarjen protinacionalizem (in tudi proti antisemitizem), saj
+                    je želel monarhijo rešiti pred propadom z rešitvijo nacionalnih problemov –
+                    sovraštvo in zavist med narodi v monarhiji naj bi zamenjali vzajemni pozornost,
+                    naklonjenost in ponos. Justin Stagl je med drugim opozoril, da je zbirka
+                    privzela pogled nepristranosti, vidno tudi v tem, da je bil namesto oznak
+                    ljudstvo in narodov uporabljen termin »ljudsko pleme« (<hi rend="italic"
+                        >Volksstamm</hi>).<note place="end" xml:id="ftn.1.025" n="24"> V smislu, da
+                        ima pač vsako ljudstvo svoje posebnosti, ki naj jih vsako spoštuje tudi pri
+                        drugih. Nav. delo, 34.</note> Rudolf tudi ni želel predstaviti cesarstva po
+                    Prochaskovi podobi, temveč so mu bile izhodišče dežele, ki so bile večinoma
+                    etnično mešane, vendar: »Načelo opisovanja po kronskih deželah je povzdignilo
+                    multietnične sovisnosti na regionalno raven, s tem pa je preprečilo
+                    individualizacijo ljudstev.«<note place="end" xml:id="ftn.1.024" n="25"> Nav.
+                        delo, 36.</note> Poleg tega tudi ni mogla biti ure<pb n="19"
+                        xml:id="pb.1.19"/>sničena njegova zamisel, da bi bilo vsako ljudstvo
+                    razkrito »od znotraj«, da bi ga torej predstavili njegovi učenjaki in
+                        umetniki.<note place="end" xml:id="ftn.1.023" n="26"> Takšen načrt je v
+                        osnovi najprej preprečila razdelitev na dve redakciji – na cislajtansko in
+                        translajtansko; redakcija v Budimpešti je npr. v prvem zvezku o Ogrski
                         predstavila le Madžare, kakor da tam sploh ne bi živelo nobeno drugo
                         ljudstvo ali narod. </note>
                 </p>
@@ -805,15 +815,18 @@
                     v besedila.</p>
                 <p>Že na prvi pogled je iz vsebine zvezkov razvidno, da je imela skladno s
                     predstavljenimi cilji in zasnovo dela osrednje mesto etnografija. </p>
-                <quote>Zato je še posebej v naši očetnjavi zelo pomembno gojiti etnografijo in njene
-                    pomožne vede, ker te neodvisno od vseh nezrelih teorij in strankarskih strasti
-                    zbirajo gradivo, iz katerega lahko izhajata objektivna primerjava in vrednotenje
-                    različnih ljudstev. <lb/>To se doslej še ni zgodilo ali vsaj ne v nakazani
-                    smeri. <lb/>Ne smemo prikrivati, da je prav v Avstro-Ogrski etnografija precej
-                    manj podprta kakor v Nemčiji, Angliji in Franciji in v zadnjem času tudi v
-                    Rusiji, čeprav imamo najbrž tako kakor v drugih državah enako množico takšnih
-                    specialistov, ki bi bili za to povsem primerni.<note place="end"
-                        xml:id="ftn.1.017" n="32"> Rudolfov Uvod, Nav. delo v op. 20, 6–7.</note>
+                <quote>
+                    <p>Zato je še posebej v naši očetnjavi zelo pomembno gojiti etnografijo in njene
+                        pomožne vede, ker te neodvisno od vseh nezrelih teorij in strankarskih
+                        strasti zbirajo gradivo, iz katerega lahko izhajata objektivna primerjava in
+                        vrednotenje različnih ljudstev.</p>
+                    <p>To se doslej še ni zgodilo ali vsaj ne v nakazani smeri.</p>
+                    <p>Ne smemo prikrivati, da je prav v Avstro-Ogrski etnografija precej manj
+                        podprta kakor v Nemčiji, Angliji in Franciji in v zadnjem času tudi v
+                        Rusiji, čeprav imamo najbrž tako kakor v drugih državah enako množico
+                        takšnih specialistov, ki bi bili za to povsem primerni.<note place="end"
+                            xml:id="ftn.1.017" n="32"> Rudolfov Uvod, Nav. delo v op. 20,
+                            6–7.</note></p>
                 </quote>
                 <p>In njeno snov je postavil na prvo mesto:</p>
                 <quote>Ljudsko življenje in posebnosti ljudstev, kakor so nastale in se ohranile,
@@ -891,27 +904,26 @@
                         in podobe. K vprašanjem o produkciji znanja I. <hi rend="italic"
                             >Traditiones</hi> 37 (2), 2008: 226.</note>
                 </p>
-                <p style="body-txt-prvi-odstavek ParaOverride-1">*</p>
-                <p style="body-txt-prvi-odstavek">Popularna zasnova je poleg samega namena knjižne
-                    zbirke <hi rend="italic">Avstro-ogrska monarhija v besedi in podobi,</hi>
-                    najpogosteje označene z izrazom monumentalna, krojila tudi njen sprejem. Dobro
-                    poldrugo desetletje po tem, ko je izšel zadnji zvezek, je monarhija razpadla.
-                    Kakor franc-jožefinska doba je bila zbirka že ob koncu izhajanja »staromodni
-                        relikt«.<note place="end" xml:id="ftn.1.006" n="43"> Justin Stagl, Nav. delo
-                        v op. 12, 39. </note> V splošnem velja, da je pozabljeno besedilo, in to ne
-                    glede na popularnost cesarske družine na eni strani, na drugi pa mikavno
-                    skrivnostnost Rudolfovega življenja. Že v času izhajanja naj bi bila uspešnejša
-                    (tudi finančno) v avstrijskem delu monarhije, bolje ga je tam sprejel liberalni
-                    kakor katoliški in nemško-nacionalni tisk, na Češkem, Madžarskem in posebej v
-                    Romuniji pa je bil sprejem tako rekoč nikakršen ali izrazito odklonilen. Nasploh
-                    se je tako kakor o njenem pobudniku tudi o zbirki malo vedelo. V zadnjih
-                    desetletjih je bila odkrita v kontekstu zanimanja za Mitteleuropo, ko je bilo
-                    opozorjeno na njen multikulturni značaj, in v postkolonialnem diskurzu o
-                        razlikah.<note place="end" xml:id="ftn.1.005" n="44"> Več o tem: Jurij
-                        Fikfak in Reinhard Johler, Nav. delo v op. 21, 12–13, 18–19. O Rudolfu je na
-                        voljo biografija Brigitte Hamann, <hi rend="italic">Rudolf. Kronprinz und
-                            Rebell.</hi> Wien in München, 1978 (2., predel. izd., Dunaj
-                        2005).</note>
+                <ab type="milestone" style="text-align:center">*</ab>
+                <p>Popularna zasnova je poleg samega namena knjižne zbirke <hi rend="italic"
+                        >Avstro-ogrska monarhija v besedi in podobi,</hi> najpogosteje označene z
+                    izrazom monumentalna, krojila tudi njen sprejem. Dobro poldrugo desetletje po
+                    tem, ko je izšel zadnji zvezek, je monarhija razpadla. Kakor franc-jožefinska
+                    doba je bila zbirka že ob koncu izhajanja »staromodni relikt«.<note place="end"
+                        xml:id="ftn.1.006" n="43"> Justin Stagl, Nav. delo v op. 12, 39. </note> V
+                    splošnem velja, da je pozabljeno besedilo, in to ne glede na popularnost
+                    cesarske družine na eni strani, na drugi pa mikavno skrivnostnost Rudolfovega
+                    življenja. Že v času izhajanja naj bi bila uspešnejša (tudi finančno) v
+                    avstrijskem delu monarhije, bolje ga je tam sprejel liberalni kakor katoliški in
+                    nemško-nacionalni tisk, na Češkem, Madžarskem in posebej v Romuniji pa je bil
+                    sprejem tako rekoč nikakršen ali izrazito odklonilen. Nasploh se je tako kakor o
+                    njenem pobudniku tudi o zbirki malo vedelo. V zadnjih desetletjih je bila
+                    odkrita v kontekstu zanimanja za Mitteleuropo, ko je bilo opozorjeno na njen
+                    multikulturni značaj, in v postkolonialnem diskurzu o razlikah.<note place="end"
+                        xml:id="ftn.1.005" n="44"> Več o tem: Jurij Fikfak in Reinhard Johler, Nav.
+                        delo v op. 21, 12–13, 18–19. O Rudolfu je na voljo biografija Brigitte
+                        Hamann, <hi rend="italic">Rudolf. Kronprinz und Rebell.</hi> Wien in
+                        München, 1978 (2., predel. izd., Dunaj 2005).</note>
                 </p>
                 <p>Drugo vprašanje je – glede na osrednje mesto, ki ga je v obravnavah dežel imelo
                     narodopisje – kakšna je (bila) recepcija v srednjeevropskih <pb n="24"
@@ -960,15 +972,15 @@
                     primerjavah z drugimi slovanskimi in neslovanskimi narodi, kakor tudi na
                     značilnosti slovenskega ozemlja kot stičišča slovanskega, romanskega in
                     germanskega sveta ter alpskega, panonskega in sredozemskega kulturnega območja. </p>
-                <p style="body-txt-prvi-odstavek ParaOverride-1">*</p>
-                <p style="body-txt-prvi-odstavek">Za sklep: Podoba o Slovencih, kakršno je proti
-                    koncu 19. stoletja ubesedilo in upodobilo Prestolonaslednikovo delo, bi bila
-                    celovita, ko bi imeli prevedena tudi druga, ne zgolj narodopisna poglavja o
-                    kronskih deželah, kjer so živeli Slovenci in med njimi tudi drugi narodi. Tudi
-                    presoja zbirke <hi rend="italic">Avstro-ogrska monarhija v besedi in podobi</hi>
-                    bi bila temeljitejša in tehtnejša s kritičnimi komentarji domoznanskih vsebin in
-                    bi jih kompetentno presodili naravoslovci, geografi, ekonomisti, pravniki,
-                    zgodovinarji, umetnostni, literarni in glasbeni zgodovinarji.</p>
+                <ab type="milestone" style="text-align:center">*</ab>
+                <p>Za sklep: Podoba o Slovencih, kakršno je proti koncu 19. stoletja ubesedilo in
+                    upodobilo Prestolonaslednikovo delo, bi bila celovita, ko bi imeli prevedena
+                    tudi druga, ne zgolj narodopisna poglavja o kronskih deželah, kjer so živeli
+                    Slovenci in med njimi tudi drugi narodi. Tudi presoja zbirke <hi rend="italic"
+                        >Avstro-ogrska monarhija v besedi in podobi</hi> bi bila temeljitejša in
+                    tehtnejša s kritičnimi komentarji domoznanskih vsebin in bi jih kompetentno
+                    presodili naravoslovci, geografi, ekonomisti, pravniki, zgodovinarji,
+                    umetnostni, literarni in glasbeni zgodovinarji.</p>
                 <byline>Ingrid Slavec Gradišnik</byline>
 
             </div>
@@ -976,17 +988,17 @@
                 <pb n="(26)" xml:id="pb.1.26"/>
                 <pb n="27" xml:id="pb.1.27"/>
                 <head>Uredniška opomba </head>
-                <p style="body-txt-prvi-odstavek">Prevod narodopisnih poglavij o Slovencih iz <hi
-                        rend="italic">Avstro-ogrske monarhije v besedi in podobi</hi> je bil kljub
-                    prej poljudnemu kakor zapletenemu znanstvenemu jeziku zahteven del priprave te
-                    izdaje. Najtežavnejše je bilo ustrezno prevajanje nemških narečnih, pogosto celo
-                    zelo lokalnih izrazov za poimenovanje kulturnega inventarja, od stavbarstva,
-                    noše, prehrane do šeg in ljudskega pesništva, pripovedništva in verovanja.
-                    Marsikatera od teh sestavin v slovenski etnološki literaturi sploh ni bila
-                    omenjena, še posebej ne tiste, ki so bile značilne za nemško ljudsko kulturo na
-                    avstrijskem Koroškem in so poimenovane s starimi nemškimi izrazi. Le izjemoma je
-                    v izvirniku kdaj v oklepaju navedeno tudi slovensko poimenovanje. Takšne zadrege
-                    smo pojasnili v opombah. </p>
+                <p>Prevod narodopisnih poglavij o Slovencih iz <hi rend="italic">Avstro-ogrske
+                        monarhije v besedi in podobi</hi> je bil kljub prej poljudnemu kakor
+                    zapletenemu znanstvenemu jeziku zahteven del priprave te izdaje. Najtežavnejše
+                    je bilo ustrezno prevajanje nemških narečnih, pogosto celo zelo lokalnih izrazov
+                    za poimenovanje kulturnega inventarja, od stavbarstva, noše, prehrane do šeg in
+                    ljudskega pesništva, pripovedništva in verovanja. Marsikatera od teh sestavin v
+                    slovenski etnološki literaturi sploh ni bila omenjena, še posebej ne tiste, ki
+                    so bile značilne za nemško ljudsko kulturo na avstrijskem Koroškem in so
+                    poimenovane s starimi nemškimi izrazi. Le izjemoma je v izvirniku kdaj v
+                    oklepaju navedeno tudi slovensko poimenovanje. Takšne zadrege smo pojasnili v
+                    opombah. </p>
                 <p>Zahtevno je bilo tudi preverjanje krajevnih imen, ki so v izvirniku dosledno
                     zapisana v nemščini. Krajevna imena v današnjih državnih mejah Slovenije so v
                     prevodu poslovenjena, v opombi smo dodali izvirni zapis. Imena krajev na
@@ -1011,14 +1023,14 @@
         </front>
         <body>
             <div type="ss1">
-                <pb n="(29)" xml:id="pb.1.29"/>
                 <head>AVSTRO-OGRSKA MONARHIJA V BESEDI IN PODOBI</head>
-                <figure>
-                    <graphic n="sl004" url="image/Steiermark_iz_PS_1.jpg"/>
-                </figure>
                 <div type="ss2">
                     <pb n="(30)" xml:id="pb.1.30"/>
                     <head>Štajerska</head>
+                    <pb n="(29)" xml:id="pb.1.29"/>
+                    <figure>
+                        <graphic n="sl004" url="image/Steiermark_iz_PS_1.jpg"/>
+                    </figure>
                     <pb n="(31)" xml:id="pb.1.31"/>
                     <div type="ss3">
                         <head>K narodopisju<lb/>Življenje, šege in povedke Slovencev<note
@@ -1027,23 +1039,23 @@
                                     österreichisch-ungarische Monarchie in Wort und Bild. [Bd. 7]
                                     Steiermark. Zweitest Heft.</hi> Dunaj, 1890, 208–225.</note>
                         </head>
-                        <byline>Franz Hubad</byline>
-                        <p style="body-txt-prvi-odstavek">V južnem delu Štajerske živijo Slovenci.
-                            Prebivalci goratega območja so bolj čokate postave, tisti iz gričevnatih
-                            predelov in ravnice pa so vitkejši. Vsi pa se odlikujejo s poštenim
-                            značajem, gostoljubjem in ustrežljivostjo do tujcev. V najlepši luči se
-                            kažejo tista področja, ki so bolj oddaljena od pomembnih prometnih poti,
-                            saj so prebivalci območij, ki so bližje svetu, navadno bolj zadržani,
-                            opazujejo počasi in skrbno, kajti svet so spoznali bolje in pogosto ne
-                            ravno z najboljše strani. Če trčimo na nezaupanje, smo lahko prepričani,
-                            da je to nasledek slabih izkušenj, ki si jih je človek nabral. Za poduk
-                            večina ni le dovzetna, temveč celo zelo hvaležna, če ga dobi v ustrezni
-                            obliki in na razumljiv način in če učitelj ne gleda preveč zviška na
-                            svoje učence. Od značajskih lastnosti, ki odlikujejo to ljudstvo, sta na
-                            najvišjem mestu poštenost in zmernost; tudi marljivosti mu ni mogoče
-                            odreči, dokler lahko pričakuje, da bo pripeljala do želenega cilja. Ob
-                            izoblikovanem narodnem čutu pa mu manjka strpnosti do drugih ljudstev in
-                            druge veroizpovedi, zna pa prav dobro oceniti, koliko prednosti mu lahko
+                        <docAuthor>Franz Hubad</docAuthor>
+                        <p>V južnem delu Štajerske živijo Slovenci. Prebivalci goratega območja so
+                            bolj čokate postave, tisti iz gričevnatih predelov in ravnice pa so
+                            vitkejši. Vsi pa se odlikujejo s poštenim značajem, gostoljubjem in
+                            ustrežljivostjo do tujcev. V najlepši luči se kažejo tista področja, ki
+                            so bolj oddaljena od pomembnih prometnih poti, saj so prebivalci
+                            območij, ki so bližje svetu, navadno bolj zadržani, opazujejo počasi in
+                            skrbno, kajti svet so spoznali bolje in pogosto ne ravno z najboljše
+                            strani. Če trčimo na nezaupanje, smo lahko prepričani, da je to nasledek
+                            slabih izkušenj, ki si jih je človek nabral. Za poduk večina ni le
+                            dovzetna, temveč celo zelo hvaležna, če ga dobi v ustrezni obliki in na
+                            razumljiv način in če učitelj ne gleda preveč zviška na svoje učence. Od
+                            značajskih lastnosti, ki odlikujejo to ljudstvo, sta na najvišjem mestu
+                            poštenost in zmernost; tudi marljivosti mu ni mogoče odreči, dokler
+                            lahko pričakuje, da bo pripeljala do želenega cilja. Ob izoblikovanem
+                            narodnem čutu pa mu manjka strpnosti do drugih ljudstev in druge
+                            veroizpovedi, zna pa prav dobro oceniti, koliko prednosti mu lahko
                             prineseta znanje tujih jezikov in poznavanje tujcev, vendar pa <pb
                                 n="32" xml:id="pb.1.32"/>se pri tem neizkušen in polizobražen zlahka
                             ujame v napako in se kiti s tujim perjem, da bi s tem pridobil dobro
@@ -1605,15 +1617,15 @@
                                     österreichisch-ungarische Monarchie in Wort und Bild. [Bd. 7]
                                     Steiermark. Zweitest Heft.</hi> Dunaj, 1890, 225–238.</note>
                         </head>
-                        <byline>Josef Šuman</byline>
-                        <p style="body-txt-prvi-odstavek">Slovenci svoj jezik imenujejo <hi
-                                rend="italic">slověnski jezik</hi>. Nemški sosedje mu rečejo
-                            vindiški jezik,<note place="end" xml:id="ftn.1.090" n="1"> V izv. nem.
-                                Windische Sprache.</note> v učenih knjigah tudi novoslovenski jezik.
-                            Vindiški, slovenski, novoslovenski so tri imena za eno in isto stvar.
-                            Vendar vsako od imen ta jezik označuje z drugačnega vidika. Potemtakem
-                            bi bilo primerno najprej povzeti dejstva o vsakem od teh imen, nato pa
-                            okarakterizirati sam jezik. </p>
+                        <docAuthor>Josef Šuman</docAuthor>
+                        <p>Slovenci svoj jezik imenujejo <hi rend="italic">slověnski jezik</hi>.
+                            Nemški sosedje mu rečejo vindiški jezik,<note place="end"
+                                xml:id="ftn.1.090" n="1"> V izv. nem. Windische Sprache.</note> v
+                            učenih knjigah tudi novoslovenski jezik. Vindiški, slovenski,
+                            novoslovenski so tri imena za eno in isto stvar. Vendar vsako od imen ta
+                            jezik označuje z drugačnega vidika. Potemtakem bi bilo primerno najprej
+                            povzeti dejstva o vsakem od teh imen, nato pa okarakterizirati sam
+                            jezik. </p>
                         <p>Ime Vindiš<note place="end" xml:id="ftn.1.089" n="2"> V izv.
                                 Windisch.</note> je izpeljano iz samostalnika Vend.<note place="end"
                                 xml:id="ftn.1.088" n="3"> V izv. Wende.</note> Od 6. do 12. stoletja
@@ -1710,10 +1722,11 @@
                         <pb n="60" xml:id="pb.1.60"/>
                         <p>Zaradi uvedbe slovanske liturgije so zadevne knjige in spise prevajali v
                             slovenščino. Sam Ciril je v ta namen iznašel ali vsaj izpopolnil
-                            slovenskemu jeziku ustrezne fonetične znake, <hi style="letter-spacing: 2px;"
-                                >glagolico</hi>, predhodnico <hi style="letter-spacing: 2px;">cirilice</hi>, in
-                            tako se je v 9. stoletju na moravsko-panonskih tleh razvila popolna
-                            krščanska literatura v slovenskem, torej staroslovenskem jeziku. </p>
+                            slovenskemu jeziku ustrezne fonetične znake, <hi
+                                style="letter-spacing: 2px;">glagolico</hi>, predhodnico <hi
+                                style="letter-spacing: 2px;">cirilice</hi>, in tako se je v 9.
+                            stoletju na moravsko-panonskih tleh razvila popolna krščanska literatura
+                            v slovenskem, torej staroslovenskem jeziku. </p>
                         <p>Spomeniki tega jezika so jezikovno zelo zanimivi in so povedne priče o
                             dejavnosti obeh svetnikov, Cirila in Metoda, v Panoniji in na Moravskem.
                             S svojo posebnostjo namreč dokazujejo, da je liturgični jezik svetega
@@ -2157,23 +2170,22 @@
                                     Wort und Bild. [Bd. 7] Steiermark. Zweites Heft.</hi> Dunaj,
                                 1890, 238–244.</note>
                         </head>
-                        <byline>Emil Zuckerkandl</byline>
-                        <p style="body-txt-prvi-odstavek">Za Štajersko prideta v poštev dve plemeni:
-                            Nemci in Slovenci. Prvi, ki predstavljajo 64 odstotkov celotnega
-                            prebivalstva, naseljujejo celotno Zgornjo in Srednjo Štajersko, drugi pa
-                            le Spodnjo Štajersko, kjer so razen v mestih Maribor, Ptuj in Celje<note
-                                place="end" xml:id="ftn.1.094" n="1"> Nem. Marburg, Pettau,
-                                Cilli.</note> in še nekaterih večjih naseljih večinoma slovenski
-                            prebivalci. </p>
+                        <docAuthor>Emil Zuckerkandl</docAuthor>
+                        <p>Za Štajersko prideta v poštev dve plemeni: Nemci in Slovenci. Prvi, ki
+                            predstavljajo 64 odstotkov celotnega prebivalstva, naseljujejo celotno
+                            Zgornjo in Srednjo Štajersko, drugi pa le Spodnjo Štajersko, kjer so
+                            razen v mestih Maribor, Ptuj in Celje<note place="end"
+                                xml:id="ftn.1.094" n="1"> Nem. Marburg, Pettau, Cilli.</note> in še
+                            nekaterih večjih naseljih večinoma slovenski prebivalci. </p>
                         <p>
-                            <hi style="letter-spacing: 2px;">Nemci</hi> na Štajerskem so mešano ljudstvo,
-                            podobno kakor večina drugih kulturnih ljudstev. Takšen pogled potrjujejo
-                            tako statistični rezultati o barvi oči in las lakor tudi opazne razlike
-                            v obliki lobanje. Po barvi oči in las ločimo pri štajerskih Nemcih med
-                            svetlim in temnim tipom, prvi prevladuje med otroki, drugi med
-                            odraslimi. Med obdobjem odraščanja torej svetla kompleksija<note
-                                place="end" xml:id="ftn.1.093" n="2"> Skladnost barve las, šarenice
-                                in kože.<hi rend="italic"> </hi>
+                            <hi style="letter-spacing: 2px;">Nemci</hi> na Štajerskem so mešano
+                            ljudstvo, podobno kakor večina drugih kulturnih ljudstev. Takšen pogled
+                            potrjujejo tako statistični rezultati o barvi oči in las lakor tudi
+                            opazne razlike v obliki lobanje. Po barvi oči in las ločimo pri
+                            štajerskih Nemcih med svetlim in temnim tipom, prvi prevladuje med
+                            otroki, drugi med odraslimi. Med obdobjem odraščanja torej svetla
+                                kompleksija<note place="end" xml:id="ftn.1.093" n="2"> Skladnost
+                                barve las, šarenice in kože.<hi rend="italic"> </hi>
                             </note> preide v temno, ta prehod pa dokazuje, če ga razlagamo
                             atavistično, da je bila nekoč plavolasa rasa med štajerskimi Nemci
                             zastopana močneje kot v zdajšnjem času in kaže na križanje plavolase
@@ -2286,17 +2298,17 @@
                             Štajerske pretakalo le še malo nepomešane germanske krvi. </p>
                         <pb n="78" xml:id="pb.1.78"/>
                         <p>
-                            <hi style="letter-spacing: 2px;">Slovenci</hi> na Štajerskem so prav tako mešano
-                            ljudstvo. Tudi med Slovenci se poleg rjavolasega tipa uveljavlja
-                            plavolasi; slednji je pogostejši pri otrocih, prvi pri odraslih, in
-                            spreminjanje svetle kompleksije v temno poteka podobno hitro kot pri
-                            Nemcih. Vendar med slovenskimi otroki splošno prevladujejo temnolasi in
-                            modrooki, drugače kakor pri nemških, med katerimi je več plavolasih. Ta
-                            razmerja pa veljajo le na splošno, kajti če gledamo posamične primere,
-                            se za nekatere nemške in slovenske okraje pokažejo skoraj iste
-                            vrednosti. Tako je na primer v slovenskem okraju Brežice<note
-                                place="end" xml:id="ftn.1.091" n="4"> Nem. Rann.</note> enako
-                            število plavolasih in rjavolasih kot v nemškim okraju Oberwölz. Iz
+                            <hi style="letter-spacing: 2px;">Slovenci</hi> na Štajerskem so prav
+                            tako mešano ljudstvo. Tudi med Slovenci se poleg rjavolasega tipa
+                            uveljavlja plavolasi; slednji je pogostejši pri otrocih, prvi pri
+                            odraslih, in spreminjanje svetle kompleksije v temno poteka podobno
+                            hitro kot pri Nemcih. Vendar med slovenskimi otroki splošno prevladujejo
+                            temnolasi in modrooki, drugače kakor pri nemških, med katerimi je več
+                            plavolasih. Ta razmerja pa veljajo le na splošno, kajti če gledamo
+                            posamične primere, se za nekatere nemške in slovenske okraje pokažejo
+                            skoraj iste vrednosti. Tako je na primer v slovenskem okraju
+                                Brežice<note place="end" xml:id="ftn.1.091" n="4"> Nem. Rann.</note>
+                            enako število plavolasih in rjavolasih kot v nemškim okraju Oberwölz. Iz
                             slednjega bi bilo drzno sklepati, da se je tu dogajala germanizacija
                             Slovanov; zdi se, da sprememba svetle kompleksije v temno bolj govori za
                             to, da so Slovenci, enako kakor Nemci, potomci prvotno popolnoma
@@ -2384,6 +2396,7 @@
                         <graphic n="sl016" url="image/Ungarn_iz_PS_Steiermark.jpg"/>
                     </figure>
                     <pb n="(82)" xml:id="pb.1.82"/>
+                    <pb n="83" xml:id="pb.1.83"/>
                     <head>Onstran Donave</head>
                     <div type="ss3">
                         <head>Vendi v Zalski in Železni županiji<note place="foot"
@@ -2406,7 +2419,8 @@
                                 npr. <hi rend="italic">Slovenska krajina</hi> (ur. Vilko Novak).
                                 Beltinci, 1935).</note>
                         </head>
-                        <p style="body-txt-prvi-odstavek">
+                        <docAuthor>Valentin Bellosics</docAuthor>
+                        <p>
                             <hi style="letter-spacing: 2px;">Vende</hi>
                             <note place="end" xml:id="ftn.1.115" n="1"> Nem. Die Wenden. Med
                                 oklepajema zapisani izrazi so iz izvirnika.</note> (pravilneje
@@ -2761,16 +2775,16 @@
                             <l>na zelene travnike.«</l>
                         </lg>
                         <lg>
-                            <l>[»Sinek Martinek,]</l>
-                            <l>Pa ka so delale?«</l>
-                            <l>[»Oh lüba moja mati,]</l>
-                            <l>Rože so bralê.«</l>
-                        </lg>
-                        <lg>
                             <l>»Sinek Martinek,</l>
                             <l>pa ka si delao tami?«</l>
                             <l>»Oh lüba moja mati,</l>
                             <l>žrebeta pasel sem na travici.«</l>
+                        </lg>
+                        <lg>
+                            <l>[»Sinek Martinek,]</l>
+                            <l>Pa ka so delale?«</l>
+                            <l>[»Oh lüba moja mati,]</l>
+                            <l>Rože so bralê.«</l>
                         </lg>
                         <lg>
                             <l>[»Sinek Martinek,]</l>
@@ -2925,12 +2939,12 @@
                                     >Die österreichisch-ungarische Monarchie in Wort und Bild. [Bd.
                                     8] Erstes Heft.</hi> Dunaj, 1891, 97–131.</note>
                         </head>
-                        <byline>Rudolf Waizer in Franz Franzisci</byline>
-                        <p style="body-txt-prvi-odstavek">Čudovito alpsko deželo Koroško naseljujeta
-                            dve narodni skupini, namreč <hi style="letter-spacing: 2px;">Nemci</hi> in <hi
-                                style="letter-spacing: 2px;">Slovenci</hi>.<note place="end" xml:id="ftn.1.334"
-                                n="1"> V tem poglavju avtorja za Slovence večinoma uporabljata izraz
-                                    <hi rend="italic">die</hi>
+                        <docAuthor>Rudolf Waizer in Franz Franzisci</docAuthor>
+                        <p>Čudovito alpsko deželo Koroško naseljujeta dve narodni skupini, namreč
+                                <hi style="letter-spacing: 2px;">Nemci</hi> in <hi
+                                style="letter-spacing: 2px;">Slovenci</hi>.<note place="end"
+                                xml:id="ftn.1.334" n="1"> V tem poglavju avtorja za Slovence
+                                večinoma uporabljata izraz <hi rend="italic">die</hi>
                                 <hi rend="italic">Slovenen</hi>, kar na Koroškem in Štajerskem ni
                                 bilo pogosto v rabi. Večinoma so namreč Slovence imenovali <hi
                                     rend="italic">die</hi>
@@ -3048,10 +3062,10 @@
                             danes redko najti kmete ali kmetice, oblečene v izvirno deželno nošo. –
                             Pred 300 leti je bil na Koroškem zakonski oblačilni red, ki je bil izdan
                             za časa vladavine nadvojvode Karla II. leta 1587 in so ga strogo
-                            upoštevali. Zajemal je <hi style="letter-spacing: 2px;">vse stanove</hi>. V
-                            današnjem času se še najizvirneje oblačijo prebivalci spodnje Zilje.
-                            Fantje nosijo pod klobukom iz mehke polsti, okrašenim s šopkom rož in
-                            peresi ruševca, svileno čepico s cofom,<note place="end"
+                            upoštevali. Zajemal je <hi style="letter-spacing: 2px;">vse
+                            stanove</hi>. V današnjem času se še najizvirneje oblačijo prebivalci
+                            spodnje Zilje. Fantje nosijo pod klobukom iz mehke polsti, okrašenim s
+                            šopkom rož in peresi ruševca, svileno čepico s cofom,<note place="end"
                                 xml:id="ftn.1.312" n="23"> Nem. Zipfelmütze, svilena čepica trikotne
                                 oblike, nosili so jo pod klobukom.</note> okrog vratu pisano svileno
                             ovratno ruto, nato telovnik kričečih barv z okroglimi srebrnimi ali
@@ -3136,19 +3150,19 @@
                                 potem iz njega kuhali žganje.</note> so ponavadi v celoti oblečeni v
                             loden, za klobukom pa nosijo prava peresa ruševca in gamsovo brado. </p>
                         <p>Šege in navade, ki se še dandanes večinoma vključujejo v ciklus različnih
-                            obdobij <hi style="letter-spacing: 2px;">prazničnega leta</hi> dokazujejo, da se
-                            Korošec še dokaj vztrajno drži izročila. Praznično leto se začne z enim
-                            najskrivnostnejših in najsvetejših časov – <hi style="letter-spacing: 2px;">z
-                                božičem</hi>. Sveti večer z božičem je jedro praznika, čas pred
-                            svetim večerom do vključno treh kraljev – imenovan volčje noči<note
-                                place="end" xml:id="ftn.1.298" n="37"> V izv. Rauchnächte, v nem.
-                                tudi Rauhnacht, v slov. dvanajstere noči, divja jaga, kor.
-                                bile.</note> – pa velja za podaljšano praznovanje. V tem času mora
-                            kmet, preden gre k počitku, pogledat še vse ljudi v hiši, v hlevu vso
-                            živino poškropi z blagoslovljeno vodo, kmetica pa obhodi hišo z žarečo
-                            ponvijo, po kateri potrese slanino in kadilo. Hlapci in dekle med
-                            zvonjenjem k molitvi navadno vedežujejo, to pomeni, da ugotavljajo svojo
-                            usodo z vlivanjem svinca, metanjem čevljev čez ramo, z nošenjem
+                            obdobij <hi style="letter-spacing: 2px;">prazničnega leta</hi>
+                            dokazujejo, da se Korošec še dokaj vztrajno drži izročila. Praznično
+                            leto se začne z enim najskrivnostnejših in najsvetejših časov – <hi
+                                style="letter-spacing: 2px;">z božičem</hi>. Sveti večer z božičem
+                            je jedro praznika, čas pred svetim večerom do vključno treh kraljev –
+                            imenovan volčje noči<note place="end" xml:id="ftn.1.298" n="37"> V izv.
+                                Rauchnächte, v nem. tudi Rauhnacht, v slov. dvanajstere noči, divja
+                                jaga, kor. bile.</note> – pa velja za podaljšano praznovanje. V tem
+                            času mora kmet, preden gre k počitku, pogledat še vse ljudi v hiši, v
+                            hlevu vso živino poškropi z blagoslovljeno vodo, kmetica pa obhodi hišo
+                            z žarečo ponvijo, po kateri potrese slanino in kadilo. Hlapci in dekle
+                            med zvonjenjem k molitvi navadno vedežujejo, to pomeni, da ugotavljajo
+                            svojo usodo z vlivanjem svinca, metanjem čevljev čez ramo, z nošenjem
                                 polen,<note place="end" xml:id="ftn.1.297" n="38"> Za več o
                                 vedeževanju v tem času gl. Niko Kuret, <hi rend="italic">Praznično
                                     leto Slovencev 2.</hi> Ljubljana, 1998, 259–262. </note> z
@@ -3174,57 +3188,58 @@
                                 xml:id="ftn.1.295" n="40"> Ital. Camporosso in Valcanale, nem.
                                 Saifnitz.</note> Slovenci pogrnejo mizo s slovenskim prtom, to je z
                             belim lanenim prtom, ki ima rdeče in belo progaste čipke, po sredini pa
-                            rdečo borduro, in nanj položijo <hi style="letter-spacing: 2px;">»mižnjak«</hi>, to
-                            je božični kruh, ter nekaj kadila in žita. To pustijo čez noč na mizi do
-                            poldneva božičnega dne. Na štefanovo<note place="end" xml:id="ftn.1.294"
-                                n="41"> Dan sv. Štefana, 26. decembra.</note> v vsaki vaški cerkvi
-                            blagoslovijo sol in vodo. Štefanova voda in sol sta preverjeni sredstvi
-                            proti hudičevim skušnjavam in proti »urokom«, zato živini dajo sol. Na
-                                šentjanževo<note place="end" xml:id="ftn.1.293" n="42"> Dan sv.
-                                Janeza evangelista, 27. decembra.</note> pijejo z vinom Janezov
-                                blagoslov.<note place="end" xml:id="ftn.1.292" n="43"> Tudi »sv.
-                                Janeza/Janža žegen«, vino se imenuje šentjanževec (nem.
-                                Johanniswein), ker je blagoslovljeno na ta dan. Veljalo je za
-                                obredno praznično pijačo.</note> Na dan nedolžnih otrok gredo nemški
-                            in vindiški otroci s šibo ali s smrekovo ali jelkino vejico (šapelica)
-                            od hiše do hiše in tepežkajo, šapajo<note place="end" xml:id="ftn.1.291"
-                                n="44"> Nem. schappen, šapanje je koroški izraz za tepežkanje.
-                                Šapali so na Zilji, v Rožu, na Gurah in Zgornji Podjuni, drugod – v
-                                Spodnji Podjuni, južno od Drave, okoli Pliberka – pa so otepali.
-                                Skladno s tem so tudi praznik imenovali različno: v Podjuni <hi
-                                    rend="italic">otročje,</hi> na Zilji, v Rožu in na Gurah <hi
-                                    rend="italic">šepeljca, šaplja, šapanje.</hi> Več o tepežkanju
-                                (šapanju, otepanju) na Koroškem gl. Niko Kuret, <hi rend="italic"
-                                    >Praznično leto Slovencev 2.</hi> Ljubljana, 1998, 403–419,
-                                posebej na Koroškem 414–419.</note> ali voščijo: »Frišni bodte,
-                            zdravi bodte!« (slovensko šápati)<note place="end" xml:id="ftn.1.290"
-                                n="45"> „Frisch und g'sund geben“, značilen rek oz. voščilo ob
-                                tepežkanju.</note> in tepejo odrasle, medtem ko recitirajo: </p>
+                            rdečo borduro, in nanj položijo <hi style="letter-spacing: 2px;"
+                                >»mižnjak«</hi>, to je božični kruh, ter nekaj kadila in žita. To
+                            pustijo čez noč na mizi do poldneva božičnega dne. Na štefanovo<note
+                                place="end" xml:id="ftn.1.294" n="41"> Dan sv. Štefana, 26.
+                                decembra.</note> v vsaki vaški cerkvi blagoslovijo sol in vodo.
+                            Štefanova voda in sol sta preverjeni sredstvi proti hudičevim skušnjavam
+                            in proti »urokom«, zato živini dajo sol. Na šentjanževo<note place="end"
+                                xml:id="ftn.1.293" n="42"> Dan sv. Janeza evangelista, 27.
+                                decembra.</note> pijejo z vinom Janezov blagoslov.<note place="end"
+                                xml:id="ftn.1.292" n="43"> Tudi »sv. Janeza/Janža žegen«, vino se
+                                imenuje šentjanževec (nem. Johanniswein), ker je blagoslovljeno na
+                                ta dan. Veljalo je za obredno praznično pijačo.</note> Na dan
+                            nedolžnih otrok gredo nemški in vindiški otroci s šibo ali s smrekovo
+                            ali jelkino vejico (šapelica) od hiše do hiše in tepežkajo, šapajo<note
+                                place="end" xml:id="ftn.1.291" n="44"> Nem. schappen, šapanje je
+                                koroški izraz za tepežkanje. Šapali so na Zilji, v Rožu, na Gurah in
+                                Zgornji Podjuni, drugod – v Spodnji Podjuni, južno od Drave, okoli
+                                Pliberka – pa so otepali. Skladno s tem so tudi praznik imenovali
+                                različno: v Podjuni <hi rend="italic">otročje,</hi> na Zilji, v Rožu
+                                in na Gurah <hi rend="italic">šepeljca, šaplja, šapanje.</hi> Več o
+                                tepežkanju (šapanju, otepanju) na Koroškem gl. Niko Kuret, <hi
+                                    rend="italic">Praznično leto Slovencev 2.</hi> Ljubljana, 1998,
+                                403–419, posebej na Koroškem 414–419.</note> ali voščijo: »Frišni
+                            bodte, zdravi bodte!« (slovensko šápati)<note place="end"
+                                xml:id="ftn.1.290" n="45"> „Frisch und g'sund geben“, značilen rek
+                                oz. voščilo ob tepežkanju.</note> in tepejo odrasle, medtem ko
+                            recitirajo: </p>
                         <pb n="112" xml:id="pb.1.112"/>
-                        <lg rend="centered">
+                        <lg>
                             <l rend="centered">Veselo šapamo</l>
                             <l rend="centered">sveži in zdravi!</l>
                             <l rend="centered">Dolgo živite,</l>
                             <l rend="centered">zdravi ostanite,</l>
-                            <l rend="centered">imejte se radi!<note place="end" xml:id="ftn.1.289" n="46"> „Pließen
-                                    lustig / Frisch und g'sund! / Lang löbn, / G'sund bleibn, / Gern
-                                    habn!“</note>
+                            <l rend="centered">imejte se radi!<note place="end" xml:id="ftn.1.289"
+                                    n="46"> „Pließen lustig / Frisch und g'sund! / Lang löbn, /
+                                    G'sund bleibn, / Gern habn!“</note>
                             </l>
                         </lg>
                         <p>Slovenci rečejo:</p>
-                        <lg rend="centered">
+                        <lg>
                             <l rend="centered">Šip, šap, Bog daj zdravja in sreče,</l>
                             <l rend="centered">da bi bili veseli kot ptič v gozdu,</l>
                             <l rend="centered">zdravi kakor riba v vodi,</l>
                             <l rend="centered">močni kakor medved v gori,</l>
                             <l rend="centered">in da bi imeli toliko otrok,</l>
-                            <l rend="centered">kolikor je na drevesu vej.<note place="end" xml:id="ftn.1.288" n="47"
-                                    > „Šip, šap, Gott gebe Gesundheit und Glück, / Daß sie wären
-                                    fröhlich wie der Vogel im Walde, / Gesund wie die Fische im
-                                    Wasser, / Stark wie der Bär im Gehölze, / Und daß sie hätten so
-                                    viel Kindlein / Als der Baum Ästlein“. Prim. Niko Kuret, <hi
-                                        rend="italic">Praznično leto Slovencev 2.</hi> Ljubljana,
-                                    1998, 416.</note>
+                            <l rend="centered">kolikor je na drevesu vej.<note place="end"
+                                    xml:id="ftn.1.288" n="47"> „Šip, šap, Gott gebe Gesundheit und
+                                    Glück, / Daß sie wären fröhlich wie der Vogel im Walde, / Gesund
+                                    wie die Fische im Wasser, / Stark wie der Bär im Gehölze, / Und
+                                    daß sie hätten so viel Kindlein / Als der Baum Ästlein“. Prim.
+                                    Niko Kuret, <hi rend="italic">Praznično leto Slovencev 2.</hi>
+                                    Ljubljana, 1998, 416.</note>
                             </l>
                         </lg>
                         <p>Za to dobijo darove, to so suhe hruške, orehi, jabolka ali denar. Pri
@@ -3429,11 +3444,11 @@
                                 da se postijo; tj. nekakšen kokošji post, ki jih naj bi v prihodnje
                                 obvaroval pred jastrebi, lisicami idr. sovražniki.</note> in jim
                             pripisujejo zdravilne in čarne učinke.</p>
-                        <p>V <hi style="letter-spacing: 2px;">velikonočni noči</hi> v Labotski dolini kmet med
-                            molitvijo in petjem nabožnih pesmi prižge »velikonočni kres«, ki je
-                            pripravljen iz ogromnih skladovnic lesa. Po hribih in dolinah tedaj
-                            sveti na stotine takšnih velikonočnih plamenov in ponujajo veličasten
-                            prizor, tako lepega kod drugod zlepa ni mogoče opazovati. </p>
+                        <p>V <hi style="letter-spacing: 2px;">velikonočni noči</hi> v Labotski
+                            dolini kmet med molitvijo in petjem nabožnih pesmi prižge »velikonočni
+                            kres«, ki je pripravljen iz ogromnih skladovnic lesa. Po hribih in
+                            dolinah tedaj sveti na stotine takšnih velikonočnih plamenov in ponujajo
+                            veličasten prizor, tako lepega kod drugod zlepa ni mogoče opazovati. </p>
                         <p>Na slovenskem področju med Celovcem in Velikovcem, posebej okrog
                                 Tinj,<note place="end" xml:id="ftn.1.255" n="80">
                                 Tainach/Tinje.</note> gredo po vstajenju kmečki fantje ob pokanju z
@@ -3481,11 +3496,11 @@
                             Mislinjski dolini <pb n="122" xml:id="pb.1.122"/>pa tista na Uršlji
                                 gori.<note place="end" xml:id="ftn.1.250" n="85"> V izv. nem
                                 Mißlingthal, Ursulaberg.</note> Glavna posebnost vseh romarjev tega
-                            dne pa so <hi style="letter-spacing: 2px;">štirje vrhovi</hi>,<note place="end"
-                                xml:id="ftn.1.249" n="86"> Gre za t. i. tek na štiri vrhove (gore)
-                                (nem. Vierberglauf), poznan tudi kot leteča procesija. Šega z
-                                avstrijskega Koroškega ima korenine v poganskih časih in se je
-                                asimilirala in ohranila kot krščansko romanje oz. božjepotna
+                            dne pa so <hi style="letter-spacing: 2px;">štirje vrhovi</hi>,<note
+                                place="end" xml:id="ftn.1.249" n="86"> Gre za t. i. tek na štiri
+                                vrhove (gore) (nem. Vierberglauf), poznan tudi kot leteča procesija.
+                                Šega z avstrijskega Koroškega ima korenine v poganskih časih in se
+                                je asimilirala in ohranila kot krščansko romanje oz. božjepotna
                                 procesija do treh ali štirih cerkvic na vrhu hribov. Poteka na
                                 veliki drugi petek po veliki noči (petek treh žebljev). Božjepotniki
                                 se morajo v dvanajstih urah oz. v eni noči povzpeti na Štalensko
@@ -3626,9 +3641,9 @@
                         <p>Podobno šego najdemo v Ziljskih Alpah. Pastirji postavijo »maje«<note
                                 place="end" xml:id="ftn.1.227" n="108"> Mlaj, nem. Maibaum.</note>
                             in potem z določene razdalje tečejo proti temu cilju. Tisti, ki prvi
-                            priteče, je <hi style="letter-spacing: 2px;">»binkoštni kralj«</hi>, zadnji dobi
-                            kakšen sramotilni vzdevek. Ko se zmrači, postavijo okrog mlaja
-                            skladovnico lesa in jo skupaj z mlajem sežgejo. </p>
+                            priteče, je <hi style="letter-spacing: 2px;">»binkoštni kralj«</hi>,
+                            zadnji dobi kakšen sramotilni vzdevek. Ko se zmrači, postavijo okrog
+                            mlaja skladovnico lesa in jo skupaj z mlajem sežgejo. </p>
                         <pb n="127" xml:id="pb.1.127"/>
                         <p>Vsako leto na nedeljo sv. Trojice<note place="end" xml:id="ftn.1.226"
                                 n="109"> Nedelja po binkoštih, im. tudi <hi rend="italic">trojička
@@ -3651,9 +3666,9 @@
                                 primere in urejanje pravic rudarjev ob nesrečah v rudnikih.</note>
                             in devico z vencem. Z njima odidejo na zgornji trg, kjer stoji iz vej
                             narejena in z listjem pokrita koča, v kateri so se zbrali trški veljaki.
-                            Po tej koči se praznik imenuje tudi praznik v <hi style="letter-spacing: 2px;"
-                                >listnati koči</hi>.<note place="end" xml:id="ftn.1.222" n="113">
-                                Laubhüttenfest.</note>
+                            Po tej koči se praznik imenuje tudi praznik v <hi
+                                style="letter-spacing: 2px;">listnati koči</hi>.<note place="end"
+                                xml:id="ftn.1.222" n="113"> Laubhüttenfest.</note>
                         </p>
                         <p>Ples z obročem traja približno dve uri. Plesalci se postavijo nasproti v
                             dve vrsti in s cvetnimi obroči uprizarjajo četvorkinim podobne figure.
@@ -3668,8 +3683,8 @@
                                 so ga imeli norci. </note> Na ta dan vsak rudar, ki pride ven brez
                             pripasanega kosa usnja, dobi tri udarce in je prisiljen zbežati, da se
                             reši naslednje porcije batin. </p>
-                        <p>Praznik <hi style="letter-spacing: 2px;">svetega Rešnjega telesa</hi> je ljudstvo
-                            poimenovalo »Gottleimastag« ali »Antlasstag«.<note place="end"
+                        <p>Praznik <hi style="letter-spacing: 2px;">svetega Rešnjega telesa</hi> je
+                            ljudstvo poimenovalo »Gottleimastag« ali »Antlasstag«.<note place="end"
                                 xml:id="ftn.1.219" n="116"> Antlasstag, iz. Antlaß, Ablaß (prim op.
                                 77); v slov. im. tudi telovo, četrtek po nedelji sv. Trojice.</note>
                             V krajih Šentvid ob Glini, Sovodenj<note place="end" xml:id="ftn.1.218"
@@ -3686,43 +3701,44 @@
                         <pb n="129" xml:id="pb.1.129"/>
                         <p>V Himmelbergu, Tiffenu in Gnesauu, kjer so strelišča, odkorakajo strelci
                             pod vodstvom svojega vodnika. V Gnesauu po cerkvenem obredu uprizorijo
-                            tako imenovano <hi style="letter-spacing: 2px;">vrtenje zastave</hi>.<note
-                                place="end" xml:id="ftn.1.215" n="120"> V izv. „Fohndrahn“.</note>
-                            Družba strelcev, ki se udeleži praznovanja, se po koncu procesije
-                            postavi v vrsto. Na vodnikove ukaze uprizorijo različne figure. Po
-                            mimohodu v eni in dveh vrstah, po oblikovanju zvezdastih figur in
-                            arabesk, skupina ustvari krog, v sredino stopi zastavonoša in se postavi
-                            z vrtenjem zastave. Vsi z napeto radovednostjo opazujejo umetelnost
-                            zastavonoše, ki mora zastavo obračati tako spretno, da njena konica
-                            nikoli ne zadene ob tla. Prvemu »zastavonoši« sledi drugi, nato tretji
-                            in tako naprej in tisti, ki najbolje opravi svojo nalogo, dobi od
-                            najlepše vaščanke šopek rož. Med »vrtenjem zastave« vodja med gledalci
-                            pobira denar za smodnik za salve. Šega bi utegnila biti ostanek kakšne
-                            stare podeželske igre. </p>
+                            tako imenovano <hi style="letter-spacing: 2px;">vrtenje
+                                zastave</hi>.<note place="end" xml:id="ftn.1.215" n="120"> V izv.
+                                „Fohndrahn“.</note> Družba strelcev, ki se udeleži praznovanja, se
+                            po koncu procesije postavi v vrsto. Na vodnikove ukaze uprizorijo
+                            različne figure. Po mimohodu v eni in dveh vrstah, po oblikovanju
+                            zvezdastih figur in arabesk, skupina ustvari krog, v sredino stopi
+                            zastavonoša in se postavi z vrtenjem zastave. Vsi z napeto radovednostjo
+                            opazujejo umetelnost zastavonoše, ki mora zastavo obračati tako spretno,
+                            da njena konica nikoli ne zadene ob tla. Prvemu »zastavonoši« sledi
+                            drugi, nato tretji in tako naprej in tisti, ki najbolje opravi svojo
+                            nalogo, dobi od najlepše vaščanke šopek rož. Med »vrtenjem zastave«
+                            vodja med gledalci pobira denar za smodnik za salve. Šega bi utegnila
+                            biti ostanek kakšne stare podeželske igre. </p>
                         <p>V noči pred dnevom svetega Rešnjega telesa koroški Slovenci pred hišo
-                            svoje najdražje postavijo <hi style="letter-spacing: 2px;">mlaj</hi>. Zato izberejo
-                            visoke, vitke smreke, ki jih popolnoma olupijo in okrasijo s cvetlicami
-                            in venčki. Na vrh drevesa pritrdijo lesenega petelina in pod petelina
-                            pribijejo leseni sablji v obliki križa. Drevo strogo stražijo, da ne bi
-                            kdo odžagal vrha, kar bi pomenilo sramoto.</p>
+                            svoje najdražje postavijo <hi style="letter-spacing: 2px;">mlaj</hi>.
+                            Zato izberejo visoke, vitke smreke, ki jih popolnoma olupijo in okrasijo
+                            s cvetlicami in venčki. Na vrh drevesa pritrdijo lesenega petelina in
+                            pod petelina pribijejo leseni sablji v obliki križa. Drevo strogo
+                            stražijo, da ne bi kdo odžagal vrha, kar bi pomenilo sramoto.</p>
                         <p>Na predvečer 24. junija in v noči tega dne na vrhovih gora prižigajo
                             solsticijske ognje ali kresove. Fantje in dekleta plešejo okrog ognja in
                             ga tudi preskakujejo, da ne bi dobili vročine in bi lan dobro obrodil.
                             Na kresni večer tudi vedežujejo in nabirajo praprotno seme, s katerimi
                             lahko postaneš neviden. V številnih krajih poleg kresovanja tudi <hi
-                                style="letter-spacing: 2px;">mečejo žareče šibe</hi>,<note place="end"
-                                xml:id="ftn.1.214" n="121"> V izv. „Scheibenschlagen“. Metanje,
-                                proženje žarečih šib oz. <hi rend="italic">šajb</hi>; šibe so v
-                                kresnem ognju razžarjene lesene pravokotne ali okrogle ploščice. Za
-                                podroben opis šege, značilne za Vzhodne Alpe, gl. Niko Kuret, <hi
-                                    rend="italic">Praznično leto Slovencev 1.</hi> Ljubljana, 1998,
-                                391–396. </note>
+                                style="letter-spacing: 2px;">mečejo žareče šibe</hi>,<note
+                                place="end" xml:id="ftn.1.214" n="121"> V izv. „Scheibenschlagen“.
+                                Metanje, proženje žarečih šib oz. <hi rend="italic">šajb</hi>; šibe
+                                so v kresnem ognju razžarjene lesene pravokotne ali okrogle
+                                ploščice. Za podroben opis šege, značilne za Vzhodne Alpe, gl. Niko
+                                Kuret, <hi rend="italic">Praznično leto Slovencev 1.</hi> Ljubljana,
+                                1998, 391–396. </note>
                             <pb n="130" xml:id="pb.1.130"/>tedaj navajajo čutne, pogosto tudi
                             kvantaške stihe. V zgornji (nemški) Ziljski dolini se <hi
-                                style="letter-spacing: 2px;">nobeno dekle</hi> ne sme približati kresu.
-                            Skrivajo se v grmovju, za ograjami, da <hi style="letter-spacing: 2px;"
-                                >prisluškujejo</hi> fantovskim hudomušnostim. Pri Slovencih je
-                            sončni obrat (<hi rend="italic">kres</hi>
+                                style="letter-spacing: 2px;">nobeno dekle</hi> ne sme približati
+                            kresu. Skrivajo se v grmovju, za ograjami, da <hi
+                                style="letter-spacing: 2px;">prisluškujejo</hi> fantovskim
+                            hudomušnostim. Pri Slovencih je sončni obrat (<hi rend="italic"
+                                >kres</hi>
                             <note place="end" xml:id="ftn.1.213" n="122"> V izv. Kreš.</note>) eden
                             največjih praznikov. Beseda <hi rend="italic">kres</hi> izvira iz besede
                                 <hi rend="italic">kresati</hi>,<note place="end" xml:id="ftn.1.212"
@@ -3758,15 +3774,15 @@
                             drugem mestu. </p>
                         <p>Na Koroškem je posebej pomemben »veliki šmaren«<note place="end"
                                 xml:id="ftn.1.209" n="126"> V izv. „der große Frauentag“.</note>
-                                (<hi style="letter-spacing: 2px;">Marijino vnebovzetje</hi>), ko je v mnogih
-                            krajih <hi style="letter-spacing: 2px;">blagoslov zelišč</hi>. V Lesni dolini in
-                            dolini reke Malte se ta dan imenuje tudi »Marijin blagoslov zelišč«.
-                            Vsak kmet na ta dan poveže v šopek devet zelišč, da ga blagoslovi dušni
-                                pastir.<note place="end" xml:id="ftn.1.208" n="127"> Blagoslov
-                                zelišč na veliki šmaren je stara šega in sega v 10. stoletje. Ljudje
-                                so v cerkev prinašali šopke raznih rož in zelišč, duhovnik pa jih je
-                                blagoslovil s posebnim obredom (Niko Kuret, <hi rend="italic"
-                                    >Praznično leto Slovencev 1.</hi> Ljubljana, 1998,
+                                (<hi style="letter-spacing: 2px;">Marijino vnebovzetje</hi>), ko je
+                            v mnogih krajih <hi style="letter-spacing: 2px;">blagoslov zelišč</hi>.
+                            V Lesni dolini in dolini reke Malte se ta dan imenuje tudi »Marijin
+                            blagoslov zelišč«. Vsak kmet na ta dan poveže v šopek devet zelišč, da
+                            ga blagoslovi dušni pastir.<note place="end" xml:id="ftn.1.208" n="127">
+                                Blagoslov zelišč na veliki šmaren je stara šega in sega v 10.
+                                stoletje. Ljudje so v cerkev prinašali šopke raznih rož in zelišč,
+                                duhovnik pa jih je blagoslovil s posebnim obredom (Niko Kuret, <hi
+                                    rend="italic">Praznično leto Slovencev 1.</hi> Ljubljana, 1998,
                                 530–531).</note> Takšni posvečeni šopki pomagajo proti uročitvi in
                                 začaranju<note place="end" xml:id="ftn.1.207" n="128"> V izv. „gegen
                                 das ‚Vermanen‘ und ‚Verzabern‘ des Viehs“.</note> živine, zato nekaj
@@ -3809,12 +3825,13 @@
                             priljubljene ocvrte miške (narejene iz moke, masti in rozin),<note
                                 place="end" xml:id="ftn.1.201" n="134"> Nem. Schmalzmaus.</note> na
                             Zilji mlečno kašo z rozinami.<note place="end" xml:id="ftn.1.200"
-                                n="135"> V izv. „Lunkmus“</note> Žegen je <hi style="letter-spacing: 2px;">na
-                                Zilji </hi>pravi ljudski praznik; v vsaki hiši pečejo »žegnanjske
-                                krofe«<note place="end" xml:id="ftn.1.199" n="136"> Nem.
-                                „Kirchtagskrapfen“, krofi ali flancati, na Zilji tudi kroglice,
-                                spečene iz kvašenega testa, ki jih dajo na <hi rend="italic">čisavo
-                                    župo,</hi> t. i. <hi rend="italic">kriehelči.</hi>
+                                n="135"> V izv. „Lunkmus“</note> Žegen je <hi
+                                style="letter-spacing: 2px;">na Zilji </hi>pravi ljudski praznik; v
+                            vsaki hiši pečejo »žegnanjske krofe«<note place="end" xml:id="ftn.1.199"
+                                n="136"> Nem. „Kirchtagskrapfen“, krofi ali flancati, na Zilji tudi
+                                kroglice, spečene iz kvašenega testa, ki jih dajo na <hi
+                                    rend="italic">čisavo župo,</hi> t. i. <hi rend="italic"
+                                    >kriehelči.</hi>
                             </note> in na večjih domačijah »beraško pecivo«.<note place="end"
                                 xml:id="ftn.1.198" n="137"> Nem. Bettlerzeltn, ploščato pecivo,
                                 podobno preprostim keksom in medenjakom.</note> Cele trume siromakov
@@ -3841,13 +3858,13 @@
                             ležečih domačij na gorskih hrbtih, da »obredejo« »pivske bratce« – pri
                             vsaki hiši, pred katero se ustavijo in zaigrajo eno »vižo«, za njimi
                             narašča truma fantov, s suknjiči čez rame in s klobuki, okrašenimi z
-                            roženkravtom in nageljni. Dekleta <hi style="letter-spacing: 2px;">»zaprosijo«</hi>
-                            takole: nekaj fantov vstopi s steklenico vina v sobo in povabi na častni
-                            ples. Med salvami iz možnarjev se v gostilno selijo »pivski bratci«,
-                            katerim sledi pisana druščina deklet. Tu zdaj zrak valovi. Zrak trepeče
-                            od petja, vriskanja in glasbe. Pred cerkvijo je nenehno živahno;
-                            kramarji hvalijo svojo kramo in pripravljajo svetilke, kajti njihov
-                            posel zares zacveti šele ponoči.</p>
+                            roženkravtom in nageljni. Dekleta <hi style="letter-spacing: 2px;"
+                                >»zaprosijo«</hi> takole: nekaj fantov vstopi s steklenico vina v
+                            sobo in povabi na častni ples. Med salvami iz možnarjev se v gostilno
+                            selijo »pivski bratci«, katerim sledi pisana druščina deklet. Tu zdaj
+                            zrak valovi. Zrak trepeče od petja, vriskanja in glasbe. Pred cerkvijo
+                            je nenehno živahno; kramarji hvalijo svojo kramo in pripravljajo
+                            svetilke, kajti njihov posel zares zacveti šele ponoči.</p>
                         <p>Pri ziljskih Slovencih je v navadi, da se žegnanjsko veselje razvije
                             okrog lipe pred cerkvijo. Na lesenem odru pod lipo sedijo muzikanti. V
                             Sv. Štefanu na Zilji<note place="end" xml:id="ftn.1.196" n="139"> Sankt
@@ -3913,11 +3930,12 @@
                             na pokopališču. Na stare borilne igre Slovencev, kakršne so bile nekdaj
                             v navadi zlasti ob praznikih, ki so povezani s smrtjo, spominja <pb
                                 n="135" xml:id="pb.1.135"/>
-                            <hi style="letter-spacing: 2px;">štehvanje</hi>, ki ga na ta dan uprizarjajo samo
-                            še v vindiški Bistrici in včasih v naselju Trata.<note place="end"
-                                xml:id="ftn.1.192" n="143"> V izv. Windisch-Feistriz, zdaj Feistritz
-                                an der Gail/Bistrica na Zilji; Trata, zdaj Tratten/Pešišče v občini
-                                St. Stefan and der Gail/Štefan na Zilji. </note>
+                            <hi style="letter-spacing: 2px;">štehvanje</hi>, ki ga na ta dan
+                            uprizarjajo samo še v vindiški Bistrici in včasih v naselju Trata.<note
+                                place="end" xml:id="ftn.1.192" n="143"> V izv. Windisch-Feistriz,
+                                zdaj Feistritz an der Gail/Bistrica na Zilji; Trata, zdaj
+                                Tratten/Pešišče v občini St. Stefan and der Gail/Štefan na Zilji.
+                            </note>
                         </p>
                         <p>Na binkoštni ponedeljek popoldne, ko nebo prijazno gleda in se Alpe
                             vsenaokrog svetijo v zlatem sončnem siju, se Trata pri Bistrici napolni
@@ -3938,21 +3956,21 @@
                             drugim natakne na kol. Jezdeci pridrvijo v dirkalnem galopu in jih
                             snamejo z železno palico. Zmagovalca, ki razbije sod z enim silovitim
                             udarcem, devica okinča z venčkom iz umetnih rož. </p>
-                        <p>Nekoliko proč v zgornji Ziljski dolini najdemo <hi style="letter-spacing: 2px;"
-                                >»razbijanje lonca«</hi>, pristno ljudsko igro, ki jo fantje igrajo
-                            že od prastarih časov in poteka vsako leto na drugo oktobrsko nedeljo na
-                            močvirnatem travniku v bližini vasi Dole. Z zvenečim igranjem se fantje
-                            v strnjenih vrstah selijo na travnik, kjer se je utaborilo že veliko
-                            zijal – na čelu je kot zastavonoša nosilec nagrad z gladko pooblano
-                            leseno palico, na kateri so pritrjene različne »nagrade«. Fantje
-                            sklenejo tesen krog okrog zasajene »najboljše palice«<note place="end"
-                                xml:id="ftn.1.189" n="146"> V izv. „Beststock“, ker je na njej
-                                visela prva nagrada. </note> in poznana igra se začne. Cilj je na
-                            kolec pritrjen lonec iz črne gline, premazan z apnom – pravzaprav
-                            ukradena stvar. Na predvečer prireditve fantje pretaknejo dimnice, da bi
-                            kje za hrbtom kake gospodinje, kateri je ta prastara šega dobro poznana,
-                            zvijačno izmaknili nekaj loncev. Denar za nagrado in skupno pijačo
-                            zberejo fantje. </p>
+                        <p>Nekoliko proč v zgornji Ziljski dolini najdemo <hi
+                                style="letter-spacing: 2px;">»razbijanje lonca«</hi>, pristno
+                            ljudsko igro, ki jo fantje igrajo že od prastarih časov in poteka vsako
+                            leto na drugo oktobrsko nedeljo na močvirnatem travniku v bližini vasi
+                            Dole. Z zvenečim igranjem se fantje v strnjenih vrstah selijo na
+                            travnik, kjer se je utaborilo že veliko zijal – na čelu je kot
+                            zastavonoša nosilec nagrad z gladko pooblano leseno palico, na kateri so
+                            pritrjene različne »nagrade«. Fantje sklenejo tesen krog okrog zasajene
+                            »najboljše palice«<note place="end" xml:id="ftn.1.189" n="146"> V izv.
+                                „Beststock“, ker je na njej visela prva nagrada. </note> in poznana
+                            igra se začne. Cilj je na kolec pritrjen lonec iz črne gline, premazan z
+                            apnom – pravzaprav ukradena stvar. Na predvečer prireditve fantje
+                            pretaknejo dimnice, da bi kje za hrbtom kake gospodinje, kateri je ta
+                            prastara šega dobro poznana, zvijačno izmaknili nekaj loncev. Denar za
+                            nagrado in skupno pijačo zberejo fantje. </p>
                         <pb n="137" xml:id="pb.1.137"/>
                         <figure>
                             <graphic n="sl030" url="image/K-Volskunde_117_GRAY.jpg"/>
@@ -4015,30 +4033,31 @@
                             sprejmeta svojo ljubo živino z velikim veseljem in krepak obrok poveže
                             pastirje v veliki hišni izbi. </p>
                         <p>
-                            <hi style="letter-spacing: 2px;">Delovne šege</hi>. Na jedrtino<note place="end"
-                                xml:id="ftn.1.180" n="155"> Nem. Gertrude.</note> (17. marec) se
-                            začnejo dela na polju. Slovenci v Podjuni ob tem času ohranjajo šego, ki
-                            jo imenujejo »vlačenje pluga«. Ta predstavlja uvod v delo na polju.
-                            Hlapci vlečejo plug od hiše do hiše in režejo brazde v zemljo. Zakrinkan
-                            fant vodi vlačilce pluga, medtem ko drugi pobira darove, ki jih skupaj
-                            pojedo in zapijejo. V dolini reke Molne iz vrbovih šib spletejo »setveni
-                            obroč« (»rink«)<note place="end" xml:id="ftn.1.179" n="156"> V izv.
-                                „'Saaring' (Säering)“.</note> in ga položijo v semensko žito;
-                            sejalec jemlje zrnje za setev samo skoz ta obroč. Verjamejo, da bo žito
-                            tako obvarovano pred točo in bo bolje uspevalo. </p>
-                        <p>Ko je pridelek pod streho, se v dolini Molne začne <hi style="letter-spacing: 2px;"
-                                >»mlatev ob luči«</hi>;<note place="end" xml:id="ftn.1.178" n="157">
-                                V izv. „Lichtdreschen“.</note> kmalu po polnoči hiša oživi in
-                            prebivalci alpskih dolin se po <pb n="140" xml:id="pb.1.140"/>kratkem
-                            nočnem počitku zberejo na gumnu, kjer v soju hlevske svetilke
-                            nadaljujejo z monotonim težaškim delom, dokler se ne zdani. Ko gre
-                            mlatev h koncu in pod cepec padajo zadnji snopi, se cepec odvrti
-                            najhitreje, in ko na gumnu izzveni zadnji udarec, vsak mlatič in vsaka
-                            mlatilka hiti obešat cepec na njegovo mesto. Najpočasnejšega pozdravijo
-                            (v dolini zgornje Molne) z veselim vriskom kot »počasneta« in ga v
-                            posmeh okrasijo s slamnatim vencem. Med malico je bilo počasnetovo mesto
-                            pod mizo, in če so ga nazadnje ovešenega s kravjim zvoncem na vrvi
-                            vodili skoz vas, je moral pretrpeti tudi to. </p>
+                            <hi style="letter-spacing: 2px;">Delovne šege</hi>. Na jedrtino<note
+                                place="end" xml:id="ftn.1.180" n="155"> Nem. Gertrude.</note> (17.
+                            marec) se začnejo dela na polju. Slovenci v Podjuni ob tem času
+                            ohranjajo šego, ki jo imenujejo »vlačenje pluga«. Ta predstavlja uvod v
+                            delo na polju. Hlapci vlečejo plug od hiše do hiše in režejo brazde v
+                            zemljo. Zakrinkan fant vodi vlačilce pluga, medtem ko drugi pobira
+                            darove, ki jih skupaj pojedo in zapijejo. V dolini reke Molne iz vrbovih
+                            šib spletejo »setveni obroč« (»rink«)<note place="end"
+                                xml:id="ftn.1.179" n="156"> V izv. „'Saaring' (Säering)“.</note> in
+                            ga položijo v semensko žito; sejalec jemlje zrnje za setev samo skoz ta
+                            obroč. Verjamejo, da bo žito tako obvarovano pred točo in bo bolje
+                            uspevalo. </p>
+                        <p>Ko je pridelek pod streho, se v dolini Molne začne <hi
+                                style="letter-spacing: 2px;">»mlatev ob luči«</hi>;<note place="end"
+                                xml:id="ftn.1.178" n="157"> V izv. „Lichtdreschen“.</note> kmalu po
+                            polnoči hiša oživi in prebivalci alpskih dolin se po <pb n="140"
+                                xml:id="pb.1.140"/>kratkem nočnem počitku zberejo na gumnu, kjer v
+                            soju hlevske svetilke nadaljujejo z monotonim težaškim delom, dokler se
+                            ne zdani. Ko gre mlatev h koncu in pod cepec padajo zadnji snopi, se
+                            cepec odvrti najhitreje, in ko na gumnu izzveni zadnji udarec, vsak
+                            mlatič in vsaka mlatilka hiti obešat cepec na njegovo mesto.
+                            Najpočasnejšega pozdravijo (v dolini zgornje Molne) z veselim vriskom
+                            kot »počasneta« in ga v posmeh okrasijo s slamnatim vencem. Med malico
+                            je bilo počasnetovo mesto pod mizo, in če so ga nazadnje ovešenega s
+                            kravjim zvoncem na vrvi vodili skoz vas, je moral pretrpeti tudi to. </p>
                         <p>Pri sekanju repe na Zilji dekleta, ki oborožena z dolgimi ostrimi noži
                             stojijo okrog velikega štirioglatega lesenega korita in tolčejo po močno
                             dišeči nagrmadeni repi, vabijo mimoidoče k »pihanju repe«<note
@@ -4094,8 +4113,8 @@
                             nepovabljen stopiti v sobo; tako ga zasujejo z zbadljivkami in
                             »natepejo«, da je vesel, če se mu jo posreči pocvirnati. </p>
                         <pb n="142" xml:id="pb.1.142"/>
-                        <p>V dolini reke Gline včasih v sobo prijezdi <hi style="letter-spacing: 2px;"
-                                >»teritveni vitez«</hi>
+                        <p>V dolini reke Gline včasih v sobo prijezdi <hi
+                                style="letter-spacing: 2px;">»teritveni vitez«</hi>
                             <note place="end" xml:id="ftn.1.171" n="164"> V izv. „Brechlritter“.
                                 Pavle Zablatnik (Teritev na Koroškem, <hi rend="italic"
                                     >Traditiones</hi> 3, 1974: 149–153) navaja nekoliko drugačen
@@ -4112,26 +4131,27 @@
                             <note place="end" xml:id="ftn.1.170" n="165"> Naglavna pravokotna ruta.
                             </note> in s poškrobljenim klobukom, okrašenim s slamnatim <hi
                                 rend="italic">lišpom)</hi>. Terice pozdravi z donečim glasom:</p>
-                        <lg rend="centered">
-                            <l>Vse vaše stole in klopi na stran,</l>
-                            <l>teritveni šimelj pride k vam.</l>
-                            <l>Prijezdim zdaj na teritveno gostijo,</l>
-                            <l>pozdravljam mater teritvene neveste in njene goste!</l>
-                            <l>Prek devetih planin prijezdil sem,</l>
-                            <l>Prek globokih jarkov in visokih plotov.<note place="end"
-                                    xml:id="ftn.1.169" n="166"> „Thut's weg enkre Stühl' und Bänk',
-                                    / Der Brechlschimmel kommt zu enk. / Ich reit herein zum
-                                    Brechlfest, / Grüß die Brechlbrautmutter und ihre Gäst'! / Über
-                                    neun Alm reit' ich herein, / Über tiefe Gräben und hohe
+                        <lg>
+                            <l rend="centered">Vse vaše stole in klopi na stran,</l>
+                            <l rend="centered">teritveni šimelj pride k vam.</l>
+                            <l rend="centered">Prijezdim zdaj na teritveno gostijo,</l>
+                            <l rend="centered">pozdravljam mater teritvene neveste in njene
+                                goste!</l>
+                            <l rend="centered">Prek devetih planin prijezdil sem,</l>
+                            <l rend="centered">Prek globokih jarkov in visokih plotov.<note
+                                    place="end" xml:id="ftn.1.169" n="166"> „Thut's weg enkre Stühl'
+                                    und Bänk', / Der Brechlschimmel kommt zu enk. / Ich reit herein
+                                    zum Brechlfest, / Grüß die Brechlbrautmutter und ihre Gäst'! /
+                                    Über neun Alm reit' ich herein, / Über tiefe Gräben und hohe
                                     Zain.“</note>
                             </l>
                         </lg>
                         <p>Mati teritvene neveste, odrezavo dekle, odvrne:</p>
-                        <lg rend="centered">
-                            <l>Če ti teritvena nevesta ni všeč,</l>
-                            <l>čemu prijezdil si s planine?<note place="end" xml:id="ftn.1.168"
-                                    n="167"> „Thut dir die Brechlbraut nit g'falln, / Was reitest
-                                    herab von der Alm?“</note>
+                        <lg>
+                            <l rend="centered">Če ti teritvena nevesta ni všeč,</l>
+                            <l rend="centered">čemu prijezdil si s planine?<note place="end"
+                                    xml:id="ftn.1.168" n="167"> „Thut dir die Brechlbraut nit
+                                    g'falln, / Was reitest herab von der Alm?“</note>
                             </l>
                         </lg>
                         <pb n="143" xml:id="pb.1.143"/>
@@ -4139,21 +4159,21 @@
                             toliko večje je vsesplošno veselo razpoloženje. Ves spor se vrti okrog
                             »teritvene neveste«, košarice, napolnjene s šarkljem, krofi, jabolki in
                             cvetličnimi šopki, ki jo mati teritvene neveste skriva za mizo. </p>
-                        <lg rend="centered">
-                            <l>Če je mati teritvene neveste sveža,</l>
-                            <l>naj čez mizo stopi.<note place="end" xml:id="ftn.1.167" n="168"> „Ist
-                                    die Brechelbrautmutter frisch, / So geht sie über'n
-                                    Tisch.“</note>
+                        <lg>
+                            <l rend="centered">Če je mati teritvene neveste sveža,</l>
+                            <l rend="centered">naj čez mizo stopi.<note place="end"
+                                    xml:id="ftn.1.167" n="168"> „Ist die Brechelbrautmutter frisch,
+                                    / So geht sie über'n Tisch.“</note>
                             </l>
                         </lg>
                         <p>Na ta vitezov poziv dekle vstane in se s košarico na glavi povzpne na
                             mizo. Vitez skoči s kljuseta, prevzame košarico in zakliče
                             muzikantom:</p>
-                        <lg rend="centered">
-                            <l>Muzikanti so iz Črne,</l>
-                            <l>začeli bodo po velikem petku.<note place="end" xml:id="ftn.1.166"
-                                    n="169"> „Spielleut sein d' Schwarzenbacher, / Aufmach'n werd'n
-                                    sie am Charfreitag nacher.“</note>
+                        <lg>
+                            <l rend="centered">Muzikanti so iz Črne,</l>
+                            <l rend="centered">začeli bodo po velikem petku.<note place="end"
+                                    xml:id="ftn.1.166" n="169"> „Spielleut sein d' Schwarzenbacher,
+                                    / Aufmach'n werd'n sie am Charfreitag nacher.“</note>
                             </l>
                         </lg>
                         <p>Muzikanti se ne pustijo dvakrat prositi in zaigrajo »lendler«,<note
@@ -4209,16 +4229,16 @@
                                 pečeno pecivo, podobno flancatom.</note>
                         </p>
                         <p>
-                            <hi style="letter-spacing: 2px;">Šege ob krstu</hi>. Ko se rodi otrok, ga kolikor
-                            je le mogoče hitro, celo v nevihti in neurju, nesejo h krstu v župnijsko
-                            cerkev, četudi oddaljeno več ur hoda, kajti pogana ni dovoljeno imeti
-                            dolgo v hiši. »Mladonedeljski otrok«, to je otrok, ki pride na svet na
-                            nedeljo ob mladi luni, lahko pričakuje veliko sreče. Poleg babice hodi
-                            boter (gotej) ali botra (gotica).<note place="end" xml:id="ftn.1.159"
-                                n="176"> V izv. „Gödl“ in „Gotl“; drugi kor. izrazi za botra so <hi
-                                    rend="italic">koter, kotrc, kotrej,</hi> za botro pa <hi
-                                    rend="italic">kotrca</hi> (Boris Orel, Slovenski ljudski
-                                običaji. V: Rajko Ložar (ur.), <hi rend="italic">Narodopisje
+                            <hi style="letter-spacing: 2px;">Šege ob krstu</hi>. Ko se rodi otrok,
+                            ga kolikor je le mogoče hitro, celo v nevihti in neurju, nesejo h krstu
+                            v župnijsko cerkev, četudi oddaljeno več ur hoda, kajti pogana ni
+                            dovoljeno imeti dolgo v hiši. »Mladonedeljski otrok«, to je otrok, ki
+                            pride na svet na nedeljo ob mladi luni, lahko pričakuje veliko sreče.
+                            Poleg babice hodi boter (gotej) ali botra (gotica).<note place="end"
+                                xml:id="ftn.1.159" n="176"> V izv. „Gödl“ in „Gotl“; drugi kor.
+                                izrazi za botra so <hi rend="italic">koter, kotrc, kotrej,</hi> za
+                                botro pa <hi rend="italic">kotrca</hi> (Boris Orel, Slovenski
+                                ljudski običaji. V: Rajko Ložar (ur.), <hi rend="italic">Narodopisje
                                     Slovencev 1.</hi> Ljubljana, 1944, 270; <hi rend="italic"
                                     >Slovenski etnološki leksikon.</hi> Ljubljana, 2002, 42), tudi
                                     <hi rend="italic">gotej</hi> in <hi rend="italic">goca.</hi>
@@ -4293,16 +4313,16 @@
                             tam pustiti samo tri, namreč tisto, ki je dvomila v Boga, morilca, in
                             tisto, ki se je pregrešila z botrom. </p>
                         <p>
-                            <hi style="letter-spacing: 2px;">Svatbene šege</hi>. Še preden fant doseže starost
-                            vojaškega obveznika, se pridruži drugim fantom v vasi. Ko ima enkrat
-                            čedro, verižico za uro in »trofejo«<note place="end" xml:id="ftn.1.149"
-                                n="186"> V izv. „Schneid“. Nem. Schneid, pogum, odločnost; morda je
-                                mišljen gamsov čop na klobuku kot znak fantovske odraslosti.</note>
-                            na klobuku, mora imeti tudi svojo ljubico, vendar je do poroke še lep
-                            čas, kajti dokler so starši pri močeh, nočejo nič slišati o predaji
-                                domačije.<note place="end" xml:id="ftn.1.148" n="187"> V izv.
-                                „Hamatl“.</note> Ko naposled pride pričakovani dan, zavladata v hiši
-                            radost in veselje. </p>
+                            <hi style="letter-spacing: 2px;">Svatbene šege</hi>. Še preden fant
+                            doseže starost vojaškega obveznika, se pridruži drugim fantom v vasi. Ko
+                            ima enkrat čedro, verižico za uro in »trofejo«<note place="end"
+                                xml:id="ftn.1.149" n="186"> V izv. „Schneid“. Nem. Schneid, pogum,
+                                odločnost; morda je mišljen gamsov čop na klobuku kot znak fantovske
+                                odraslosti.</note> na klobuku, mora imeti tudi svojo ljubico, vendar
+                            je do poroke še lep čas, kajti dokler so starši pri močeh, nočejo nič
+                            slišati o predaji domačije.<note place="end" xml:id="ftn.1.148" n="187">
+                                V izv. „Hamatl“.</note> Ko naposled pride pričakovani dan, zavladata
+                            v hiši radost in veselje. </p>
                         <pb n="148" xml:id="pb.1.148"/>
                         <p>V Labotski dolini in v dolini Jezernice pošlje fant, potem ko je našel
                             dekle, ki mu je všeč, »dva mendirarja prosit«, to pomeni, da za fanta
@@ -4324,10 +4344,10 @@
                                 af's Kranzelpint, af'n Montag af' die Hochzeit.“</note> se glasi
                             njegovo povabilo, ko vstopi v sobo.</p>
                         <p>V dolini Molne pri venčanju pripeljejo na ženinovo domačijo <hi
-                                style="letter-spacing: 2px;">»bališ«</hi>,<note place="end" xml:id="ftn.1.144"
-                                n="191"> Bala, na Kor. im. tudi <hi rend="italic">banka</hi>
-                                (Zilja), <hi rend="italic">fantora</hi> (Rož).</note> pisano
-                            pobarvano nevestino skrinjo s kolovratom.</p>
+                                style="letter-spacing: 2px;">»bališ«</hi>,<note place="end"
+                                xml:id="ftn.1.144" n="191"> Bala, na Kor. im. tudi <hi rend="italic"
+                                    >banka</hi> (Zilja), <hi rend="italic">fantora</hi>
+                                (Rož).</note> pisano pobarvano nevestino skrinjo s kolovratom.</p>
                         <p>Na meji naselja postavijo šrango,<note place="end" xml:id="ftn.1.143"
                                 n="192"> V izv. „Klause“, na Kor. im. tudi <hi rend="italic">muta,
                                     zapenjalca.</hi>
@@ -4335,27 +4355,27 @@
                             zaprto z verigo, kjer v kostume oblečena straža ustavi »bališ« in začne
                             se dramatična burka. </p>
                         <pb n="149" xml:id="pb.1.149"/>
-                        <lg rend="centered">
-                            <l>Kdo prihaja v pozni noči</l>
-                            <l>od vsepovsod k straži naši?<note place="end" xml:id="ftn.1.142"
-                                    n="193"> „Wer kommt bei später Nacht / Allher auf uns're
-                                    Wacht?“</note>
+                        <lg>
+                            <l rend="centered">Kdo prihaja v pozni noči</l>
+                            <l rend="centered">od vsepovsod k straži naši?<note place="end"
+                                    xml:id="ftn.1.142" n="193"> „Wer kommt bei später Nacht / Allher
+                                    auf uns're Wacht?“</note>
                             </l>
                         </lg>
                         <p>zavpije stražar šrange.</p>
-                        <lg rend="centered">
-                            <l>Z blagom dekleta in poročnim razkošjem</l>
-                            <l>prihajamo k straži vaši,<note place="end" xml:id="ftn.1.141" n="194">
-                                    „Mit Zung frauwaar' und Heiratspracht / Kommen wir auf eure
-                                    Wacht.“</note>
+                        <lg>
+                            <l rend="centered">Z blagom dekleta in poročnim razkošjem</l>
+                            <l rend="centered">prihajamo k straži vaši,<note place="end"
+                                    xml:id="ftn.1.141" n="194"> „Mit Zung frauwaar' und
+                                    Heiratspracht / Kommen wir auf eure Wacht.“</note>
                             </l>
                         </lg>
                         <p>odgovori voznik bale.</p>
-                        <lg rend="centered">
-                            <l>To mora biti prepovedano blago,</l>
-                            <l>ker ga ne vozite pri belem dnevu.<note place="end" xml:id="ftn.1.140"
-                                    n="195"> „Das muß verbotne Waare sein, / Weil ihr nit fahrt bei
-                                    Sonnenschein.“</note>
+                        <lg>
+                            <l rend="centered">To mora biti prepovedano blago,</l>
+                            <l rend="centered">ker ga ne vozite pri belem dnevu.<note place="end"
+                                    xml:id="ftn.1.140" n="195"> „Das muß verbotne Waare sein, / Weil
+                                    ihr nit fahrt bei Sonnenschein.“</note>
                             </l>
                         </lg>
                         <p>Tako se napleta dialog z vse večjo živahnostjo. Ob tem pa turski veter
@@ -4414,9 +4434,9 @@
                             najbližjo gostilno, kjer na račun nevestinega spremljevalca popivajo,
                             nazadnje pa z glasbo pridejo ponjo. Na poti domov se mladi par zavrti v
                             veži gostilne, kjer že stojijo muzikanti, ki zaigrajo »štajeriš«, ples,
-                            ljudsko izročilo pravi, da zato, <hi style="letter-spacing: 2px;">da ne bomo
-                                poslušali, kako se potem vleče križ</hi>. Ko prispejo domov, sta
-                            vhod in vrata zaprta, šele po dolgem besednem boju se hišna vrata
+                            ljudsko izročilo pravi, da zato, <hi style="letter-spacing: 2px;">da ne
+                                bomo poslušali, kako se potem vleče križ</hi>. Ko prispejo domov,
+                            sta vhod in vrata zaprta, šele po dolgem besednem boju se hišna vrata
                             odprejo in stara mati ali kdor je pač pripravil obed, ki ga ob vsem
                             obilju še pojedo v hiši, izroči nevesti hlebec kruha, ključ in kokoš, ki
                             jo mora nevesta hitro spustiti. Če kokoš ostane v hiši, to pomeni srečo
@@ -4498,18 +4518,19 @@
                             polnoči pa »venček dol rajajo«.<note place="end" xml:id="ftn.1.128"
                                 n="207"> V izv. „Kranzlabtanen“.</note>
                         </p>
-                        <p>Zanimiv je <hi style="letter-spacing: 2px;">svatbeni obred vindiških Ziljanov</hi>;
-                            zanj je značilno, da na poroko prijezdijo, celo vabovec<note place="end"
-                                xml:id="ftn.1.127" n="208"> V izv. „Lader“.</note> se s „Sapo“,<note
-                                place="end" xml:id="ftn.1.126" n="209"> Morda šapelj, ki je sicer
-                                ženski naglavni okras, po Pleteršniku (iz bav. schappel) venček iz
-                                mirte ali drugih cvetlic, prepleten z zlatimi bleščicami.</note>
-                            pozlačenim vencem, ki krasi klobuk, pojavi na konju in pred hišnimi
-                            vrati izvede svoje povabilo; dajo mu hlebec kruha, da si odreže od njega
-                            krajec, kot je v Ziljski dolini na splošno šega, da vsakemu gostu, ki
-                            vstopi v sobo, ponudijo hlebec kruha in nož. Pri prevažanju nevestine
-                            skrinje je mogoče sklepati o njenem premoženjskem stanju, saj je njena
-                            oprema in vse, kar prinaša v zakon, razstavljeno na vozu. </p>
+                        <p>Zanimiv je <hi style="letter-spacing: 2px;">svatbeni obred vindiških
+                                Ziljanov</hi>; zanj je značilno, da na poroko prijezdijo, celo
+                                vabovec<note place="end" xml:id="ftn.1.127" n="208"> V izv.
+                                „Lader“.</note> se s „Sapo“,<note place="end" xml:id="ftn.1.126"
+                                n="209"> Morda šapelj, ki je sicer ženski naglavni okras, po
+                                Pleteršniku (iz bav. schappel) venček iz mirte ali drugih cvetlic,
+                                prepleten z zlatimi bleščicami.</note> pozlačenim vencem, ki krasi
+                            klobuk, pojavi na konju in pred hišnimi vrati izvede svoje povabilo;
+                            dajo mu hlebec kruha, da si odreže od njega krajec, kot je v Ziljski
+                            dolini na splošno šega, da vsakemu gostu, ki vstopi v sobo, ponudijo
+                            hlebec kruha in nož. Pri prevažanju nevestine skrinje je mogoče sklepati
+                            o njenem premoženjskem stanju, saj je njena oprema in vse, kar prinaša v
+                            zakon, razstavljeno na vozu. </p>
                         <pb n="155" xml:id="pb.1.155"/>
                         <p>Poročni dan sam ponuja barvito sliko. Poglejmo še enkrat mladoporočenca v
                             prazničnem okrasju. Nevesta se prikaže v običajni ziljski noši, s
@@ -4599,27 +4620,27 @@
                                 1944, 302; Pavle Zablatnik, <hi rend="italic">Od zibelke do
                                     groba.</hi> Celovec, 1982, 93–94.</note> prespati na klopi. </p>
                         <p>
-                            <hi style="letter-spacing: 2px;">Navade ob smrti</hi>. Posebne so tudi šege, ki jih
-                            ponekod v koroškem hribovju poznajo ob smrti. Ko se bolnik približuje
-                            slovesu, prihitijo sosedje, da bi mu pomagali in molili zanj. Prižgejo
-                            posvečeno voščeno svečo in z Marjetinim zvončkom<note place="end"
-                                xml:id="ftn.1.120" n="215"> V izv. nem. Margarethenglöcklein.</note>
-                            nenehno zvonijo pod posteljo, pod mizo in klopjo (zgornja Ziljska
-                            dolina); pravijo, da tako daleč kakor se sliši zven zvončka, hudič nima
-                            moči, in ko umirajoči odide, ga med zvončkljanjen trikrat obhodijo;
-                            potem ga umijejo z blagoslovljeno vodo, dajo na pare, <pb n="158"
-                                xml:id="pb.1.158"/>pokrijejo z mrliškim prtom (kos lanenega platna)
-                            in od glave do pete ovijejo s sukneno nitjo, ki jo pritrdijo s tremi
-                            križčki, ki so jih naredili iz tankih rdečih voščenih sveč. Posoda z
-                            blagoslovljeno vodo, ki je služila za umivanje mrliča, ne sme ostati v
-                            hiši, temveč jo je treba »zavreči«. Nazadnje preminulemu vtaknejo v žep
-                            še nekaj blagoslovljenih cvetnonedeljskih mačic in postavijo poleg njega
-                            posodo s kropilno vejico, lesen križ h glavi in lučko, ki je niso smeli
-                            čistiti. Zvečer se soba spet napolni z ljudmi, ki so prišli »vahtat«
-                            mrliča. Vso noč molijo ali pojejo. Proti polnoči »vahtarjem« ponudijo
-                            žganje in kavo, da ostanejo budni, kajti kjer nekdo »leži na zemlji«, se
-                            ne sme spati. Dokler je mrlič v hiši, lahko opravijo le najnujnejša
-                            dela, da ne bi motili pokojnikovega miru.</p>
+                            <hi style="letter-spacing: 2px;">Navade ob smrti</hi>. Posebne so tudi
+                            šege, ki jih ponekod v koroškem hribovju poznajo ob smrti. Ko se bolnik
+                            približuje slovesu, prihitijo sosedje, da bi mu pomagali in molili zanj.
+                            Prižgejo posvečeno voščeno svečo in z Marjetinim zvončkom<note
+                                place="end" xml:id="ftn.1.120" n="215"> V izv. nem.
+                                Margarethenglöcklein.</note> nenehno zvonijo pod posteljo, pod mizo
+                            in klopjo (zgornja Ziljska dolina); pravijo, da tako daleč kakor se
+                            sliši zven zvončka, hudič nima moči, in ko umirajoči odide, ga med
+                            zvončkljanjen trikrat obhodijo; potem ga umijejo z blagoslovljeno vodo,
+                            dajo na pare, <pb n="158" xml:id="pb.1.158"/>pokrijejo z mrliškim prtom
+                            (kos lanenega platna) in od glave do pete ovijejo s sukneno nitjo, ki jo
+                            pritrdijo s tremi križčki, ki so jih naredili iz tankih rdečih voščenih
+                            sveč. Posoda z blagoslovljeno vodo, ki je služila za umivanje mrliča, ne
+                            sme ostati v hiši, temveč jo je treba »zavreči«. Nazadnje preminulemu
+                            vtaknejo v žep še nekaj blagoslovljenih cvetnonedeljskih mačic in
+                            postavijo poleg njega posodo s kropilno vejico, lesen križ h glavi in
+                            lučko, ki je niso smeli čistiti. Zvečer se soba spet napolni z ljudmi,
+                            ki so prišli »vahtat« mrliča. Vso noč molijo ali pojejo. Proti polnoči
+                            »vahtarjem« ponudijo žganje in kavo, da ostanejo budni, kajti kjer nekdo
+                            »leži na zemlji«, se ne sme spati. Dokler je mrlič v hiši, lahko
+                            opravijo le najnujnejša dela, da ne bi motili pokojnikovega miru.</p>
                         <p>Na sam dan pogreba gredo k pokopu;<note place="end" xml:id="ftn.1.119"
                                 n="216"> V izv. „B'stattung“, pogreb, pokop.</note> tedaj pridejo
                             sosedje, sorodniki in znanci, pogosto iz odročnih far, da bi preminulemu
@@ -4660,13 +4681,13 @@
                         <p>Kakor je razvidno iz vsega povedanega, veje skozi šege in navade bavarska
                             posebnost in v njih se izraža pesniško bogat, pošten koroški narod, ki
                             ga dobro označuje naslednja štirivrstičnica:</p>
-                        <lg rend="centered">
-                            <l>Korošci so</l>
-                            <l>zvesti in pošteni,</l>
-                            <l>in koroška pesem</l>
-                            <l>odmeva v srcu!<note place="end" xml:id="ftn.1.116" n="219"> „Die
-                                    karntnerisch'n Leutlan / Seint treu und bidar, / Und a
-                                    karntnerisches Liadl / Hallt im Herz'n widar!“</note>
+                        <lg>
+                            <l rend="centered">Korošci so</l>
+                            <l rend="centered">zvesti in pošteni,</l>
+                            <l rend="centered">in koroška pesem</l>
+                            <l rend="centered">odmeva v srcu!<note place="end" xml:id="ftn.1.116"
+                                    n="219"> „Die karntnerisch'n Leutlan / Seint treu und bidar, /
+                                    Und a karntnerisches Liadl / Hallt im Herz'n widar!“</note>
                             </l>
                         </lg>
                         <pb n="(160)" xml:id="pb.1.160"/>
@@ -4680,18 +4701,17 @@
                                     österreichisch-ungarische Monarchie in Wort und Bild. [Bd. 8]
                                     Erstes Heft.</hi> Dunaj, 1891, 151–157.</note>
                         </head>
-                        <byline>Johann Scheinigg</byline>
-                        <p style="body-txt-prvi-odstavek">Pravljice koroških Slovencev se po vsebini
-                            v ničemer ne razlikujejo od pravljic njihovih plemenskih bratov onkraj
-                            Karavank. Pa vendar sta sosedstvo Nemcev, od katerih jih ne loči nobena
-                            naravna meja, in več stoletij trajajoči proces germanizacije tako
-                            vplivala na tradicionalno literaturo Slovencev, da je marsikaj, kar je
-                            na Kranjskem še zelo živo, tu že popolnoma zašlo v pozabo (<hi
-                                rend="italic">čatež</hi>, <hi rend="italic">volkodlak</hi>) ali pa
-                            je izročilo nejasno in fragmentarno (zgodovinska ljudska pesem);
-                            prevzeti pa so sorodni liki iz nemške zakladnice pravljic (<hi
-                                rend="italic">žalik žene</hi>, <hi rend="italic">pehtra</hi>), ki so
-                            zamenjali prvotno izročilo.</p>
+                        <docAuthor>Johann Scheinigg</docAuthor>
+                        <p>Pravljice koroških Slovencev se po vsebini v ničemer ne razlikujejo od
+                            pravljic njihovih plemenskih bratov onkraj Karavank. Pa vendar sta
+                            sosedstvo Nemcev, od katerih jih ne loči nobena naravna meja, in več
+                            stoletij trajajoči proces germanizacije tako vplivala na tradicionalno
+                            literaturo Slovencev, da je marsikaj, kar je na Kranjskem še zelo živo,
+                            tu že popolnoma zašlo v pozabo (<hi rend="italic">čatež</hi>, <hi
+                                rend="italic">volkodlak</hi>) ali pa je izročilo nejasno in
+                            fragmentarno (zgodovinska ljudska pesem); prevzeti pa so sorodni liki iz
+                            nemške zakladnice pravljic (<hi rend="italic">žalik žene</hi>, <hi
+                                rend="italic">pehtra</hi>), ki so zamenjali prvotno izročilo.</p>
                         <p>Miti o soncu govorijo o stekleni gori, o kraljevem sinu, ki gre iskat tri
                             zlata peresa steklenega moža; o sončevem princu, ki si pribori zlato
                             princeso iz zlatega gradu, potem ko je domov prinesel vodo življenja, ki
@@ -5005,18 +5025,18 @@
                                 Produktion und Rezepzion der „österreischisch-ungarische mMonarchie
                                 in Wort und Bild“.</hi> Wien, 2008, 217–241.</note>
                     </head>
-                    <byline>Helena Ložar - Podlogar</byline>
-                    <p style="body-txt-prvi-odstavek">Za Slovence, manjšo, vendar raznovrstno
-                        etnično skupino v nekdanji Avstro-ogrski monarhiji, bi, gledano z današnjega
-                        stališča, upravičeno lahko pričakovali, da bi bili v monumentalnem
-                        monografskem delu <hi rend="italic">Avstro-ogrska monarhija v besedi in
-                            podobi</hi> (<hi rend="italic">Die österreichisch-ungarische Monarchie
-                            in Wort und Bild</hi>), predstavljeni kot enoten narod, vsi skupaj v
-                        samostojnem zvezku. Pa ni tako. Med 24 obsežnimi knjigami, s 397 snopiči,
-                        skupaj 12.596 strani besedila in 4529 ilustracij, so raztreseni kar v štirih
-                        knjigah: <hi rend="italic">Štajerska, Koroška in Kranjska, Primorska</hi> in
-                        v eni od sedmih knjig o <hi rend="italic">Madžarski</hi>.<note place="end"
-                            xml:id="ftn.1.390" n="1">
+                    <docAuthor>Helena Ložar - Podlogar</docAuthor>
+                    <p>Za Slovence, manjšo, vendar raznovrstno etnično skupino v nekdanji
+                        Avstro-ogrski monarhiji, bi, gledano z današnjega stališča, upravičeno lahko
+                        pričakovali, da bi bili v monumentalnem monografskem delu <hi rend="italic"
+                            >Avstro-ogrska monarhija v besedi in podobi</hi> (<hi rend="italic">Die
+                            österreichisch-ungarische Monarchie in Wort und Bild</hi>),
+                        predstavljeni kot enoten narod, vsi skupaj v samostojnem zvezku. Pa ni tako.
+                        Med 24 obsežnimi knjigami, s 397 snopiči, skupaj 12.596 strani besedila in
+                        4529 ilustracij, so raztreseni kar v štirih knjigah: <hi rend="italic"
+                            >Štajerska, Koroška in Kranjska, Primorska</hi> in v eni od sedmih knjig
+                        o <hi rend="italic">Madžarski</hi>.<note place="end" xml:id="ftn.1.390"
+                            n="1">
                             <hi rend="italic">Band 7: Steiermark</hi>, 1890; <hi rend="italic">Band
                                 8: Kärnten und Krain</hi>, 1891; <hi rend="italic">Band 10: Das
                                 Küstenland (Görz, Gradiska, Triest und Istrien),</hi> 1891; <hi
@@ -6210,14 +6230,14 @@
                     </div>
                     <div type="ss5">
                         <head>Za sklep</head>
-                        <p style="body-txt-prvi-odstavek">V »prestolonaslednikovem delu«
-                            (Kronprinzenwerk), kakor tudi imenujejo enciklopedično zbirko <hi
-                                rend="italic">Avstro-ogrska monografija v besedi in podobi,</hi>
-                            imajo za preučevanje ljudskega življenja poseben pomen tudi zelo
-                            realistične ilustracije, tako predstavitve naselij in hiš, gospodarskih
-                            poslopij, orodja, noš, kakor tudi mnoge grafične ponazoritve šeg. Prav
-                            ilustracije bi lahko bile izziv za umetnostnega zgodovinarja in verjetno
-                            bi pri nas na tem področju zaoral ledino.</p>
+                        <p>V »prestolonaslednikovem delu« (Kronprinzenwerk), kakor tudi imenujejo
+                            enciklopedično zbirko <hi rend="italic">Avstro-ogrska monografija v
+                                besedi in podobi,</hi> imajo za preučevanje ljudskega življenja
+                            poseben pomen tudi zelo realistične ilustracije, tako predstavitve
+                            naselij in hiš, gospodarskih poslopij, orodja, noš, kakor tudi mnoge
+                            grafične ponazoritve šeg. Prav ilustracije bi lahko bile izziv za
+                            umetnostnega zgodovinarja in verjetno bi pri nas na tem področju zaoral
+                            ledino.</p>
                         <p>Zanimivo bi bilo vedeti, od kod ilustratorjem, posebno tistim, ki niso
                             slovenskega rodu, táko poznavanje gradiva. Enega od odgovorov najdemo
                             ponovno v že omenjenih <hi rend="italic">Obravnavah deželnega zbora
@@ -6283,22 +6303,22 @@
                             östereichisch-ungarische Monarchie in Wort und Bild, obj. v: <hi
                                 rend="italic">Traditiones</hi> 31 (1), 2002: 91–98. (Op. ur.)</note>
                     </head>
-                    <byline>Maja Godina Golja</byline>
+                    <docAuthor>Maja Godina Golja</docAuthor>
                     <div type="ss5">
                         <head>Uvod</head>
-                        <p style="body-txt-prvi-odstavek">Svet materialnega je področje bivanja, ki
-                            za razloček od drugih področij človeške eksistence obsega predmetno, to
-                            je svet artefaktov iz vsakdanjega, nedeljskega in prazničnega življenja,
-                            s krajšo ali daljšo življenjsko dobo, z večjim ali manjšim pomenom za
-                            pripadnike družbenih in etničnih skupin, pa tudi z večjo ali z manjšo
-                            pričevalnostjo o njihovi kulturi in življenju.<note place="end"
-                                xml:id="ftn.1.412" n="1"> Thomas K. Schippers, Od predmetov do
-                                simbolov. Spreminjajoče se perspektive pri proučevanju materialne
-                                kulture. <hi rend="italic">Etnolog</hi> 12, 2002: 134.</note> Zaradi
-                            lažje delitve in organizacije raziskovalnega ter muzejskega dela in
-                            sčasoma tudi že zaradi znanstveno zgodovinskih razlogov se je v
-                            etnologiji za to področje raziskovalnega zanimanja izoblikovalo <pb
-                                n="214" xml:id="pb.1.214"/>ime materialna kultura.<note place="end"
+                        <p>Svet materialnega je področje bivanja, ki za razloček od drugih področij
+                            človeške eksistence obsega predmetno, to je svet artefaktov iz
+                            vsakdanjega, nedeljskega in prazničnega življenja, s krajšo ali daljšo
+                            življenjsko dobo, z večjim ali manjšim pomenom za pripadnike družbenih
+                            in etničnih skupin, pa tudi z večjo ali z manjšo pričevalnostjo o
+                            njihovi kulturi in življenju.<note place="end" xml:id="ftn.1.412" n="1">
+                                Thomas K. Schippers, Od predmetov do simbolov. Spreminjajoče se
+                                perspektive pri proučevanju materialne kulture. <hi rend="italic"
+                                    >Etnolog</hi> 12, 2002: 134.</note> Zaradi lažje delitve in
+                            organizacije raziskovalnega ter muzejskega dela in sčasoma tudi že
+                            zaradi znanstveno zgodovinskih razlogov se je v etnologiji za to
+                            področje raziskovalnega zanimanja izoblikovalo <pb n="214"
+                                xml:id="pb.1.214"/>ime materialna kultura.<note place="end"
                                 xml:id="ftn.1.411" n="2"> Karl-Sigismund Kramer, „Materielle“ und
                                 „geistige“ Volkskultur. V: <hi rend="italic">Bayeriches Jahrbuch für
                                     Volkskunde</hi> (1969) 1970, 82.</note> Že od njenih začetkov je
@@ -6446,7 +6466,7 @@
                             krajevne in časovne razlike med kulturnimi pojavi, popolnoma prezrta je
                             bila v obravnavi socialna razsežnost gmotnega sveta. </p>
                         <div type="ss6">
-                            <head>O Ljudskem stavbarstvu</head>
+                            <head>O ljudskem stavbarstvu</head>
                             <p>Tako je Johannn Franke pri obravnavi kmečke hiše na Kranjskem podal
                                 le formalni opis hiše velikega kmeta - posestnika, ki je z
                                 družinskimi člani in posli živel v nadstropni, mogočni zidani hiši,
@@ -6593,47 +6613,46 @@
                         <div type="ss6">
                             <pb n="223" xml:id="pb.1.223"/>
                             <head>O oblačenju</head>
-                            <p style="body-txt-prvi-odstavek">Noša ali oblačilni videz sta v opisu
-                                ljudske kulture Slovencev predstavljena nekoliko obsežneje kot
-                                prehrana. To lahko pojasnimo s še vedno vplivnimi romantičnimi
-                                izhodišči piscev, ki so tudi v noši iskali oblike ljudske
-                                ustvarjalnosti, izvirnost in bogastvo tradicije ter estetski čut
-                                posameznih narodov. Tako je v uvodu <hi rend="italic"
-                                    >Kronprinzenwerk</hi> zapisano, da želijo bralcem v sliki in
-                                besedi predstaviti življenje narodov monarhije, z vsem bogastvom
-                                njihovih šeg in noš, pa tako tudi Slovence, za katere so značilne
-                                pisane in slikovite noše.<note place="end" xml:id="ftn.1.395" n="18"
-                                    > Nav. delo v op. 7, 14.</note> Vendar z obžalovanjem
-                                ugotavljajo, da so v času obravnave na slikovito in značilno podobo
-                                oblačilnega videza že vplivale industrializacija in boljše
-                                komunikacijske poti, ki so tudi prebivalcem slovenskih pokrajin
-                                prinesle nove vrste blaga, modne dodatke in kroje oblek. Kljub temu
-                                so pisci obravnavali samo staro, nespremenjeno podobo noše, za
-                                katero so bili na večini kranjskega ozemlja pri moških značilni
-                                visoki, ozki škornji, usnjene hlače do kolen, kratek suknjič -
-                                kamižola, pod katero so oblekli belo srajco in brezrokavnik s
-                                številnimi kovinskimi gumbi. Pozimi so se še vedno pokrivali s
-                                pokrivali iz ovčje kože in s polhovkami. Za ženske so bile značilno
-                                pokrivalo avbe, s širokim črnim ali bogato vezenim zlatim trakom, ki
-                                pa so vedno bolj izginjale, medtem ko so se še ohranile peče, velike
-                                bele naglavne rute. Priljubljene so bile tudi svilene rute, ki so
-                                pokrivale prsi in tilnik. Na delu vzhodnega in južnega slovenskega
-                                etničnega ozemlja se je ohranila še bela - lanena noša. To so pri
-                                moških sestavljale značilne široke hlače, čez katere so oblekli
-                                dolgo srajco, ki so jo prepasali s širokim rdečim pasom. Čeznjo so
-                                pozimi in ob praznikih oblekli rdeč brezrokavnik. V hladnejšem
-                                vremenu so moški čez lanena oblačila nosili še <pb n="224"
-                                    xml:id="pb.1.224"/>krajše plašče ali suknjiče v temnejših
-                                barvah. Ženske so bile na tem območju oblečene v modre suknene
-                                brezrokavne obleke, pod katerimi so nosile bele rokavce. Glavo so si
-                                pokrivale z ruto, ki je imela bogato izvezene robove. Razširjeni so
-                                bili tudi dolgi ženski suknjiči, ki so jih oblekle čez do kolen
-                                segajoča nagubana krila. Franz Hubad je za Štajersko omenil, da so
-                                bile v času nastanka opisa noše še zelo priljubljeno obuvalo
-                                Slovencev cokle, ki so jih izdelovali domači mojstri. Predvsem so
-                                bile razširjene na hribovitih vzhodnoslovenskih območjih. Tu so
-                                izdelovali tudi loden, ki so ga pogosto uporabljali za izdelavo
-                                vrhnjih oblačil. </p>
+                            <p>Noša ali oblačilni videz sta v opisu ljudske kulture Slovencev
+                                predstavljena nekoliko obsežneje kot prehrana. To lahko pojasnimo s
+                                še vedno vplivnimi romantičnimi izhodišči piscev, ki so tudi v noši
+                                iskali oblike ljudske ustvarjalnosti, izvirnost in bogastvo
+                                tradicije ter estetski čut posameznih narodov. Tako je v uvodu <hi
+                                    rend="italic">Kronprinzenwerk</hi> zapisano, da želijo bralcem v
+                                sliki in besedi predstaviti življenje narodov monarhije, z vsem
+                                bogastvom njihovih šeg in noš, pa tako tudi Slovence, za katere so
+                                značilne pisane in slikovite noše.<note place="end"
+                                    xml:id="ftn.1.395" n="18"> Nav. delo v op. 7, 14.</note> Vendar
+                                z obžalovanjem ugotavljajo, da so v času obravnave na slikovito in
+                                značilno podobo oblačilnega videza že vplivale industrializacija in
+                                boljše komunikacijske poti, ki so tudi prebivalcem slovenskih
+                                pokrajin prinesle nove vrste blaga, modne dodatke in kroje oblek.
+                                Kljub temu so pisci obravnavali samo staro, nespremenjeno podobo
+                                noše, za katero so bili na večini kranjskega ozemlja pri moških
+                                značilni visoki, ozki škornji, usnjene hlače do kolen, kratek
+                                suknjič - kamižola, pod katero so oblekli belo srajco in
+                                brezrokavnik s številnimi kovinskimi gumbi. Pozimi so se še vedno
+                                pokrivali s pokrivali iz ovčje kože in s polhovkami. Za ženske so
+                                bile značilno pokrivalo avbe, s širokim črnim ali bogato vezenim
+                                zlatim trakom, ki pa so vedno bolj izginjale, medtem ko so se še
+                                ohranile peče, velike bele naglavne rute. Priljubljene so bile tudi
+                                svilene rute, ki so pokrivale prsi in tilnik. Na delu vzhodnega in
+                                južnega slovenskega etničnega ozemlja se je ohranila še bela -
+                                lanena noša. To so pri moških sestavljale značilne široke hlače, čez
+                                katere so oblekli dolgo srajco, ki so jo prepasali s širokim rdečim
+                                pasom. Čeznjo so pozimi in ob praznikih oblekli rdeč brezrokavnik. V
+                                hladnejšem vremenu so moški čez lanena oblačila nosili še <pb
+                                    n="224" xml:id="pb.1.224"/>krajše plašče ali suknjiče v
+                                temnejših barvah. Ženske so bile na tem območju oblečene v modre
+                                suknene brezrokavne obleke, pod katerimi so nosile bele rokavce.
+                                Glavo so si pokrivale z ruto, ki je imela bogato izvezene robove.
+                                Razširjeni so bili tudi dolgi ženski suknjiči, ki so jih oblekle čez
+                                do kolen segajoča nagubana krila. Franz Hubad je za Štajersko
+                                omenil, da so bile v času nastanka opisa noše še zelo priljubljeno
+                                obuvalo Slovencev cokle, ki so jih izdelovali domači mojstri.
+                                Predvsem so bile razširjene na hribovitih vzhodnoslovenskih
+                                območjih. Tu so izdelovali tudi loden, ki so ga pogosto uporabljali
+                                za izdelavo vrhnjih oblačil. </p>
                             <p>Tudi v opisu kmečke noše na Koroškem sta Waizer in Franzisci
                                 zapisala, da počasi izginja in da je omejena zlasti na različne
                                 doline, ki se med seboj ločijo po posamičnih oblačilnih kosih.
@@ -6824,23 +6843,22 @@
                     <head>Pripovedno in pesemsko izročilo v delu <hi rend="italic">Avstro-ogrska
                             monarhija v besedi in podobi</hi>
                     </head>
-                    <byline>Monika Kropej Telban</byline>
+                    <docAuthor>Monika Kropej Telban</docAuthor>
                     <div type="ss5">
                         <head>Uvod</head>
-                        <p style="body-txt-prvi-odstavek">V času nastajanja monografske zbirke <hi
-                                rend="italic">Avstro-ogrska monarhija v besedi in podobi</hi> je
-                            imelo raziskovanje in zbiranje ljudskega slovstva že dolgoletno
-                            tradicijo. Na Slovenskem so začeli v času prebujenja narodov izobraženci
-                            spodbujati zbiranje narodopisnega – posebej pesemskega – izročila
-                            slovenskega naroda. Prve smernice strokovnemu zbiranju in raziskovanju
-                            slovenskega ljudskega slovstva je zastavil Jernej Kopitar, ki je
-                            usmerjal tudi razvoj slavistike na graškem vseučilišču. Po ustanovitvi
-                            slavistične stolice na Dunaju (1849) je k razvoju filološke vede veliko
-                            prispeval Fran Miklošič, ki je sledil Kopitarjevemu prepričanju o pomenu
-                            ljudskega jezika za jezikoslovje. Raziskave ljudskega pripovednega in
-                            pesemskega izročila so se v tem času razmahnile, bile pa so še vedno pod
-                            vplivom mitološke šole, kar je opazno tudi v poglavjih o slovstvenem
-                            izročilu v tej zbirki.</p>
+                        <p>V času nastajanja monografske zbirke <hi rend="italic">Avstro-ogrska
+                                monarhija v besedi in podobi</hi> je imelo raziskovanje in zbiranje
+                            ljudskega slovstva že dolgoletno tradicijo. Na Slovenskem so začeli v
+                            času prebujenja narodov izobraženci spodbujati zbiranje narodopisnega –
+                            posebej pesemskega – izročila slovenskega naroda. Prve smernice
+                            strokovnemu zbiranju in raziskovanju slovenskega ljudskega slovstva je
+                            zastavil Jernej Kopitar, ki je usmerjal tudi razvoj slavistike na
+                            graškem vseučilišču. Po ustanovitvi slavistične stolice na Dunaju (1849)
+                            je k razvoju filološke vede veliko prispeval Fran Miklošič, ki je sledil
+                            Kopitarjevemu prepričanju o pomenu ljudskega jezika za jezikoslovje.
+                            Raziskave ljudskega pripovednega in pesemskega izročila so se v tem času
+                            razmahnile, bile pa so še vedno pod vplivom mitološke šole, kar je
+                            opazno tudi v poglavjih o slovstvenem izročilu v tej zbirki.</p>
                         <p>Slovensko ljudsko pripovedništvo in pesništvo je v zbirki <hi
                                 rend="italic">Avstro-ogrska monarhija v besedi in podobi</hi>
                             predstavljeno precej neenakomerno. Medtem ko je Kranjski in Koroški
@@ -7370,22 +7388,21 @@
                             naslovom »Ljubca na zelenem vrtu stoji« (Š 2044).</p>
                         <p>
                             <hi rend="bold">Peter Tomasin</hi> je za okolico Trsta pisal le o
-                            italijanski pesmi; <hi rend="bold">Alois Spinči</hi>ć<hi rend="bold"
-                                >,</hi> ki je pial o Slovanih v Istri, pa sploh ni obravnaval
-                            pripovednega in pesemskega izročila tamkaj živečih ljudstev. </p>
+                            italijanski pesmi; <hi rend="bold">Alois Spinčić</hi>, ki je pisal o
+                            Slovanih v Istri, pa sploh ni obravnaval pripovednega in pesemskega
+                            izročila tamkaj živečih ljudstev. </p>
                     </div>
                     <div type="ss5">
                         <head>Za sklep</head>
-                        <p style="body-txt-prvi-odstavek">V obravnavanih poglavjih <hi rend="italic"
-                                >Avstro-ogrske monarhije v besedi in podobi</hi> so opisi
-                            pripovednega in pesemskega izročila različnih avtorjev tistega časa
-                            resda kratki, vendar je z današnjega gledišča gradivo s konca 19.
-                            stoletja zanimivo že zato, ker iz njih lahko spoznamo ljudsko slovstveno
-                            kulturo, ki je bila tedaj še živa, in seveda tudi zato, ker je na enem
-                            mestu zbrana <pb n="248" xml:id="pb.1.248"/>folklorna podoba slovenskih
-                            pokrajin tistega časa. Poleg tega je iz posamičnih prispevkov mogoče
-                            razbrati tedanje strokovne poglede na folkloristične vsebine in
-                            probleme.</p>
+                        <p>V obravnavanih poglavjih <hi rend="italic">Avstro-ogrske monarhije v
+                                besedi in podobi</hi> so opisi pripovednega in pesemskega izročila
+                            različnih avtorjev tistega časa resda kratki, vendar je z današnjega
+                            gledišča gradivo s konca 19. stoletja zanimivo že zato, ker iz njih
+                            lahko spoznamo ljudsko slovstveno kulturo, ki je bila tedaj še živa, in
+                            seveda tudi zato, ker je na enem mestu zbrana <pb n="248"
+                                xml:id="pb.1.248"/>folklorna podoba slovenskih pokrajin tistega
+                            časa. Poleg tega je iz posamičnih prispevkov mogoče razbrati tedanje
+                            strokovne poglede na folkloristične vsebine in probleme.</p>
                     </div>
 
                 </div>

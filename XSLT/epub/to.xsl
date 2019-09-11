@@ -1601,5 +1601,13 @@ height: </xsl:text>
     </xsl:for-each>
   </xsl:template>
   
+  <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+    <desc>Procesiranje mp3 datotek</desc>
+  </doc>
+  <xsl:template match="tei:media[@mimeType='audio/mpeg']">
+    <audio controls="">
+      <source src="{@url}" type="audio/mpeg"/>
+     </audio>
+  </xsl:template>
 
 </xsl:stylesheet>

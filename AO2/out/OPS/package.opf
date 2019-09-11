@@ -1,0 +1,412 @@
+
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="pub-id"
+         version="3.0"
+         prefix="rendition: http://www.idpf.org/vocab/rendition#">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:opf="http://www.idpf.org/2007/opf">
+      <meta property="rendition:layout">reflowable</meta>
+      <meta property="rendition:spread">auto</meta>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Avstro-ogrska monarhija v besedi in podobi – Slovenci 2.</dc:title>
+      <meta refines="#title1" property="title-type">main</meta>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title2">Kranjska, Primorje</dc:title>
+      <meta refines="#title2" property="title-type">subtitle</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator1">Monika Kropej Telban</dc:creator>
+      <meta refines="#creator1" property="file-as">Kropej Telban, Monika</meta>
+      <meta refines="#creator1" property="role" scheme="marc:relators">edt</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator2">Ingrid Slavec Gradišnik</dc:creator>
+      <meta refines="#creator2" property="file-as">Slavec Gradišnik, Ingrid</meta>
+      <meta refines="#creator2" property="role" scheme="marc:relators">edt</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">sl</dc:language>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">19. st.</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Avstro-Ogrska</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">domoznanstvo</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">etnografija</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">habsburška monarhija</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">narodopisje</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Slovenci</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">slovenska ljudska kultura</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">slovenski ljudski običaji</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">slovensko ljudsko izročilo</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">19th century</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">area studies</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Austria-Hungary</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">ethnography</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Habsburg monarchy</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Slovenes</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Slovenian folk culture</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Slovenian folk customs</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Slovenian folk tradition</dc:subject>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">???978-961-05-0105-3</dc:identifier>
+      <meta refines="#pub-id"
+            property="identifier-type"
+            scheme="onix:codelist5">15</meta>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Prvemu delu Avstro-ogrske monarhije v besedi in podobi: Slovenci 1, Štajerska, Porabje in Prekmurje, Koroška (2016) sledi še drugi del prevodov poglavij, v katerih sta predstavljaeni Kranjska in Primorje. Knjigi zaokrožata podobo o Slovencih iz monumentalne knjižne serije »Die österreichisch-ungarische Monarchie in Wort und Bild«, ki jo je zasnoval nadvojvoda Rudolf in je izhajala v letih 1884–1902 na Dunaju. Prevedena poglavja podajajo pregledno podobo življenja, kulture in gospodarstva Slovencev v tistem času. Prevladujejo različni etnološki opisi regij in prebivalstva, postavljeni v politični in kulturnozgodovinski kontekst tako Avstro-Ogrske v drugi polovici 19. stoletja. Pisci besedil so različnih provenienc, poklicev in zanimanj, besedila pa so pomemben vir o slovenski kulturi in gospodarstvu, ki je bil doslej večinoma spregledan.</dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ZRC SAZU</dc:publisher>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2019-07-08T13:06:36.269+02:00</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2018, 2019 ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC</dc:rights>
+      <meta name="cover" content="cover-image"/>
+      <meta property="dcterms:modified">2019-07-08T11:06:36Z</meta>
+   </metadata>
+   <manifest>
+      <item href="image/AO2_1.jpg"
+            id="cover-image"
+            properties="cover-image"
+            media-type="image/jpeg"/>
+      <item id="css" href="stylesheet.css" media-type="text/css"/>
+      <item id="print.css" href="print.css" media-type="text/css"/>
+      <item href="titlepage.xhtml"
+            id="titlepage"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage1.xhtml"
+            id="titlepage1"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepageback.xhtml"
+            id="titlepageback"
+            media-type="application/xhtml+xml"/>
+      <item id="toc"
+            properties="nav"
+            href="toc.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="start" href="index.xhtml" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section1"/>
+      <item href="index-front.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section2"/>
+      <item href="index-front.1_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section3"/>
+      <item href="index-front.1_div.4.xhtml"
+            media-type="application/xhtml+xml"
+            id="section5"/>
+      <item href="index-front.1_div.5.xhtml"
+            media-type="application/xhtml+xml"
+            id="section6"/>
+      <item href="index-body.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section7"/>
+      <item href="index-body.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section24"/>
+      <item href="index-body.1_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section26"/>
+      <item href="index-back.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section28"/>
+      <item href="image/logoZRCmoder.jpg" id="image-1" media-type="image/jpeg"/>
+      <item href="image/AO2_2.jpg" id="image-4" media-type="image/jpeg"/>
+      <item href="image/AO2_3.jpg" id="image-5" media-type="image/jpeg"/>
+      <item href="image/AO2_4.jpg" id="image-6" media-type="image/jpeg"/>
+      <item href="image/predlist2.jpg" id="image-8" media-type="image/jpeg"/>
+      <item href="image/vezni.jpg" id="image-9" media-type="image/jpeg"/>
+      <item href="image/Kr-Physische_087_GRAY.jpg"
+            id="image-10"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Physische_090_GRAY.jpg"
+            id="image-11"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Physische_091_GRAY.jpg"
+            id="image-12"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Physische_092_GRAY.jpg"
+            id="image-13"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Physische_093_GRAY.jpg"
+            id="image-14"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Physische_096_GRAY.jpg"
+            id="image-15"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_353_GRAY.jpg"
+            id="image-16"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_355_GRAY.jpg"
+            id="image-17"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_357_GRAY.jpg"
+            id="image-18"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_359_GRAY.jpg"
+            id="image-19"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_361_GRAY.jpg"
+            id="image-20"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_367_GRAY.jpg"
+            id="image-21"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_369_GRAY.jpg"
+            id="image-22"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Physische-a_096_GRAY.jpg"
+            id="image-23"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_371_GRAY.jpg"
+            id="image-24"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_372_GRAY.jpg"
+            id="image-25"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_375_GRAY.jpg"
+            id="image-26"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_373_GRAY.jpg"
+            id="image-27"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_377_GRAY.jpg"
+            id="image-28"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_381_GRAY.jpg"
+            id="image-29"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_385_GRAY.jpg"
+            id="image-30"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_417_GRAY.jpg"
+            id="image-31"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_418_GRAY.jpg"
+            id="image-32"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_419_GRAY.jpg"
+            id="image-33"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_422_GRAY.jpg"
+            id="image-34"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_423_GRAY.jpg"
+            id="image-35"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_421_GRAY.jpg"
+            id="image-36"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_427_GRAY.jpg"
+            id="image-37"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_428_GRAY.jpg"
+            id="image-38"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_429_GRAY.jpg"
+            id="image-39"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_431_GRAY.jpg"
+            id="image-40"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_433_GRAY.jpg"
+            id="image-41"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_439_GRAY.jpg"
+            id="image-42"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_441_GRAY.jpg"
+            id="image-43"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_443_GRAY.jpg"
+            id="image-44"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_445_GRAY.jpg"
+            id="image-45"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_448_GRAY.jpg"
+            id="image-46"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_475_GRAY_RAZSIRJENA.jpg"
+            id="image-47"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde_479_GRAY.jpg"
+            id="image-48"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde-a_483_GRAY.jpg"
+            id="image-49"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde-a_485_GRAY.jpg"
+            id="image-50"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde-a_487_GRAY.jpg"
+            id="image-51"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde-a_491_GRAY.jpg"
+            id="image-52"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde-a_495_GRAY.jpg"
+            id="image-53"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde-a_501_GRAY.jpg"
+            id="image-54"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde-a_503_GRAY.jpg"
+            id="image-55"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde-a_505_GRAY.jpg"
+            id="image-56"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde-a_507_GRAY.jpg"
+            id="image-57"
+            media-type="image/jpeg"/>
+      <item href="image/Kr-Volkskunde-a_508_GRAY.jpg"
+            id="image-58"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Physisch_153_GRAY.jpg"
+            id="image-59"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Physisch_154_GRAY.jpg"
+            id="image-60"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Physisch_155_GRAY.jpg"
+            id="image-61"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Physisch_156_GRAY.jpg"
+            id="image-62"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Physisch_157_GRAY.jpg"
+            id="image-63"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Physisch_160_GRAY.jpg"
+            id="image-64"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_161_GRAY.jpg"
+            id="image-65"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_163_GRAY.jpg"
+            id="image-66"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_175_GRAY.jpg"
+            id="image-67"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_179_GRAY.jpg"
+            id="image-68"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_181_GRAY.jpg"
+            id="image-69"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_183_GRAY.jpg"
+            id="image-70"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_185_GRAY.jpg"
+            id="image-71"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_186_GRAY.jpg"
+            id="image-72"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_188_GRAY.jpg"
+            id="image-73"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_193_GRAY.jpg"
+            id="image-74"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_195_GRAY.jpg"
+            id="image-75"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_209_GRAY.jpg"
+            id="image-76"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_211_GRAY.jpg"
+            id="image-77"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_213_GRAY.jpg"
+            id="image-78"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_215_GRAY.jpg"
+            id="image-79"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_217_GRAY.jpg"
+            id="image-80"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_219_GRAY.jpg"
+            id="image-81"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Volkskunde_230_GRAY.jpg"
+            id="image-82"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Literatur_231_GRAY.jpg"
+            id="image-83"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Literatur_235_GRAY.jpg"
+            id="image-84"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Literatur_241_GRAY.jpg"
+            id="image-85"
+            media-type="image/jpeg"/>
+      <item href="image/K_-Literatur_245_GRAY.jpg"
+            id="image-86"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_001_GRAY.jpg"
+            id="image-87"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_002_GRAY.jpg"
+            id="image-88"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_003_GRAY.jpg"
+            id="image-89"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_004_GRAY.jpg"
+            id="image-90"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_005_GRAY.jpg"
+            id="image-91"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_006_GRAY.jpg"
+            id="image-92"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_007_GRAY.jpg"
+            id="image-93"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_008_GRAY.jpg"
+            id="image-94"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_009_GRAY.jpg"
+            id="image-95"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_010_GRAY.jpg"
+            id="image-96"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_011_GRAY.jpg"
+            id="image-97"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_012_GRAY.jpg"
+            id="image-98"
+            media-type="image/jpeg"/>
+      <item href="image/_bersicht_013_GRAY.jpg"
+            id="image-99"
+            media-type="image/jpeg"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="titlepage1" linear="yes"/>
+      <itemref idref="start" linear="yes"/>
+      <itemref idref="section1" linear="yes"/>
+      <itemref idref="section2" linear="yes"/>
+      <itemref idref="section3" linear="yes"/>
+      <itemref idref="section5" linear="yes"/>
+      <itemref idref="section6" linear="yes"/>
+      <itemref idref="section7" linear="yes"/>
+      <itemref idref="section24" linear="yes"/>
+      <itemref idref="section26" linear="yes"/>
+      <itemref idref="section28" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
+   </spine>
+   <guide>
+      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" title="Start" href="index.xhtml"/>
+      <reference type="text" href="index-front.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.2.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.3.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.4.xhtml" title="Kazalo"/>
+      <reference type="text"
+                 href="index-front.1_div.5.xhtml"
+                 title="Uredniška opomba"/>
+      <reference type="text"
+                 href="index-body.1_div.1.xhtml"
+                 title="AVSTRO-OGRSKA MONARHIJA V BESEDI IN PODOBI"/>
+      <reference type="text" href="index-body.1_div.2.xhtml" title="Dodatek"/>
+      <reference type="text" href="index-body.1_div.3.xhtml" title="Komentar"/>
+      <reference type="text" href="index-back.1_div.1.xhtml" title=""/>
+      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
+   </guide>
+</package>

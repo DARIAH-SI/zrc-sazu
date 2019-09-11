@@ -9,6 +9,8 @@
                         <forename>Milko</forename>
                         <surname>Matičetov</surname>
                     </persName>
+                </editor>
+                <editor>
                     <persName type="edt">
                         <forename>Anja</forename>
                         <surname>Štefan</surname>
@@ -32,7 +34,7 @@
                 <funder><note>???Pretvorbo je omogočila Javna agencija za knjigo iz naslova razpisa
                         za leto 2019.</note></funder>
                 <sponsor><note>ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC<figure>
-                            <graphic url="image/logoZRCmoder.jpeg"/>
+                            <graphic url="image/logoZRCmoder.jpg"/>
                         </figure></note></sponsor>
             </editionStmt>
             <publicationStmt>
@@ -197,7 +199,7 @@
             <div type="halftitle" rend="align:center">
                 <pb n="[1]" xml:id="pb.1"/>
                 <figure>
-                    <graphic n="1002" url="media/imageSloPra.png"/>
+                    <graphic n="1002" url="media/imageSloPra.jpg"/>
                 </figure>
                 <p><hi rend="bold">ANTON DREMELJ - RESNIK</hi></p>
                 <figure>
@@ -259,14 +261,14 @@
             <titlePage>
                 <pb n="[3]" xml:id="pb.3"/>
                 <figure>
-                    <graphic n="1002" url="media/imageSloPra.png"/>
+                    <graphic n="1002" url="media/imageSloPra.jpg"/>
                 </figure>
                 <docTitle>
                     <titlePart type="main">ANTON DREMELJ - RESNIK</titlePart>
                 </docTitle>
                 <docAuthor>
                     <name><persName><forename>Milko</forename>
-                            <surname>Matičetov</surname></persName><hi rend="italic">in</hi>
+                            <surname>Matičetov</surname></persName><hi rend="italic"> in </hi>
                         <persName><forename>Anja</forename>
                             <surname>Štefan</surname></persName></name>
                 </docAuthor>
@@ -5201,11 +5203,12 @@
                 <div type="ss2">
                     <head><pb n="114" xml:id="pb.114"/>Čudežne pravljice</head>
                     <div type="ss3">
-                        <head xml:id="h.7"><ref target="/media/Ad Pusta.mp3"><figure>
-                                    <graphic n="1099" url="media/Resnik_CD.jpg"/>
-                                </figure></ref>7. Ad Pusta</head>
+                        <head xml:id="h.7">7. Ad Pusta</head>
                         <opener>različica št. 1 <objectType>posnetek,
                                 </objectType><dateline>1959</dateline></opener>
+                        <figure>
+                            <media url="media/Ad_Pusta.mp3" mimeType="audio/mpeg"/>
+                        </figure>
                         <p style="body-txt-prvi-odstavek">Pusta praznujema, kənè, že mnogo lejt,
                             kənè, jən tud on je biv sudat za časa rimskəga cesarstva. Kier pa
                             takràt, za časa rimskega cesarstva, je sudat vsaki šlužu do stárasti, in

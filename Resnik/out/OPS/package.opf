@@ -1,0 +1,245 @@
+
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="pub-id"
+         version="3.0"
+         prefix="rendition: http://www.idpf.org/vocab/rendition#">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:opf="http://www.idpf.org/2007/opf">
+      <meta property="rendition:layout">reflowable</meta>
+      <meta property="rendition:spread">auto</meta>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title1">Anton Dremelj - Resnik</dc:title>
+      <meta refines="#title1" property="title-type">main</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator1">Milko Matičetov</dc:creator>
+      <meta refines="#creator1" property="file-as">Matičetov, Milko</meta>
+      <meta refines="#creator1" property="role" scheme="marc:relators">edt</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator2">Anja Štefan</dc:creator>
+      <meta refines="#creator2" property="file-as">Štefan, Anja</meta>
+      <meta refines="#creator2" property="role" scheme="marc:relators">edt</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">sl</dc:language>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">biography</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Dolenjska</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Dremelj, Anton</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Sloveneian folk fairy tales</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">story-tellers</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">biografije</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Dolenjska</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Dremelj, Anton</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">pravljičarji</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">slovenske ljudske pravljice</dc:subject>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">???978-961-05-0105-3</dc:identifier>
+      <meta refines="#pub-id"
+            property="identifier-type"
+            scheme="onix:codelist5">15</meta>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="sl">Knjiga prinaša pripovedi pripovedovalca Antona Dremlja – Resnika iz Petrušnje vasi na Dolenjskem, ki ga je akad. Milko Matičetov označil kot najboljšega ljudskega pripovedovalca, kar jih je med terenskim delom po različnih slovenskih pokrajinah srečal pred svojim raziskovanjem Rezije. Je prva v nizu monografskih predstavitev slovenskih folklornih pripovedovalcev v knjižni zbirki »Slovenski pravljičarji«. Gradivo je žanrsko raznovrstno: zajema kratke šaljive povedke, legende in zgodovinske povedke ter anekdote, epsko bogato razvite živalske in čudežne pravljice. Gradivo uvaja obsežna spremna študija Anje Štefan (O pripovedovalcu, zbiranju in objavi njegovih pripovedi). Pripovedi so za objavo zapisane v dosledno poenostavljenem dialektološkem sistemu dolenjščine, kar omogoča večjo berljivost besedila.</dc:description>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">The first volume in the Slovenski pravljičarji (Slovene Storytellers) collection of monographs contains tales recounted by Anton Dremelj-Resnik from Petrušnja Vas in Dolenjska. The esteemed academician Milko Matičetov has pronounced Resnik the best storyteller he has encountered during his field trips in various Slovene regions prior to his research work in Resia. The material in this book encompasses a rich palette of genres from short humorous folk tales, legends, historic tales, and anecdotes to the epically evolved animal tales and tales of magic. The book is prefaced with an extensive study, written by Anja Štefan, titled O pripovedovalcu, zbiranju in objavi njegovih pripovedi (On the Storyteller and on Collecting and Publishing His Folktales). In order to be understandable for every reader, the narratives have been set on paper in a consistently simplified dialectological system of the language spoken in the region of Dolenjska.</dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">ZRC SAZU</dc:publisher>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Založba ZRC</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2019-07-09T22:22:00.642+02:00</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">© 2017, 2018, 2019 ZRC SAZU, Inštitut za slovensko narodopisje, Založba ZRC</dc:rights>
+      <meta name="cover" content="cover-image"/>
+      <meta property="dcterms:modified">2019-07-09T20:22:00Z</meta>
+   </metadata>
+   <manifest>
+      <item href="media/Resnik_FO.jpg"
+            id="cover-image"
+            properties="cover-image"
+            media-type="image/jpeg"/>
+      <item id="css" href="stylesheet.css" media-type="text/css"/>
+      <item id="print.css" href="print.css" media-type="text/css"/>
+      <item href="titlepage.xhtml"
+            id="titlepage"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage1.xhtml"
+            id="titlepage1"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage2.xhtml"
+            id="titlepage2"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepageback.xhtml"
+            id="titlepageback"
+            media-type="application/xhtml+xml"/>
+      <item id="toc"
+            properties="nav"
+            href="toc.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="start" href="index.xhtml" media-type="application/xhtml+xml"/>
+      <item href="index-front.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section1"/>
+      <item href="index-front.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section2"/>
+      <item href="index-front.1_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section5"/>
+      <item href="index-front.1_div.4.xhtml"
+            media-type="application/xhtml+xml"
+            id="section6"/>
+      <item href="index-front.1_div.5.xhtml"
+            media-type="application/xhtml+xml"
+            id="section12"/>
+      <item href="index-body.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section13"/>
+      <item href="index-body.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section20"/>
+      <item href="index-body.1_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section135"/>
+      <item href="index-back.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section172"/>
+      <item href="index-back.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section173"/>
+      <item href="index-back.1_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section174"/>
+      <item href="index-back.1_div.4.xhtml"
+            media-type="application/xhtml+xml"
+            id="section175"/>
+      <item href="index-back.1_div.5.xhtml"
+            media-type="application/xhtml+xml"
+            id="section176"/>
+      <item href="index-back.1_div.6.xhtml"
+            media-type="application/xhtml+xml"
+            id="section177"/>
+      <item href="index-back.1_div.7.xhtml"
+            media-type="application/xhtml+xml"
+            id="section178"/>
+      <item href="index-back.1_div.8.xhtml"
+            media-type="application/xhtml+xml"
+            id="section179"/>
+      <item href="index-back.1_div.9.xhtml"
+            media-type="application/xhtml+xml"
+            id="section180"/>
+      <item href="image/logoZRCmoder.jpg" id="image-1" media-type="image/jpeg"/>
+      <item href="media/Resnik_BO.jpg" id="image-4" media-type="image/jpeg"/>
+      <item href="media/Resnik_CD.jpg" id="image-5" media-type="image/jpeg"/>
+      <item href="media/imageSloPra.jpg" id="image-6" media-type="image/jpeg"/>
+      <item href="media/imageZRC.jpeg" id="image-7" media-type="image/jpeg"/>
+      <item href="media/Foto_01.jpg" id="image-9" media-type="image/jpeg"/>
+      <item href="media/Foto_02.jpg" id="image-10" media-type="image/jpeg"/>
+      <item href="media/Foto_03.jpg" id="image-11" media-type="image/jpeg"/>
+      <item href="media/Foto_04.jpg" id="image-12" media-type="image/jpeg"/>
+      <item href="media/Foto_05.jpg" id="image-13" media-type="image/jpeg"/>
+      <item href="media/Foto_06.jpg" id="image-14" media-type="image/jpeg"/>
+      <item href="media/Foto_07izrez.jpg" id="image-15" media-type="image/jpeg"/>
+      <item href="media/Foto_08manjsa.jpg"
+            id="image-16"
+            media-type="image/jpeg"/>
+      <item href="media/Foto_09manjsa.jpg"
+            id="image-17"
+            media-type="image/jpeg"/>
+      <item href="media/Foto_10manjsa.jpg"
+            id="image-18"
+            media-type="image/jpeg"/>
+      <item href="media/Foto_11.jpg" id="image-19" media-type="image/jpeg"/>
+      <item href="media/Foto_12.jpg" id="image-20" media-type="image/jpeg"/>
+      <item href="media/Foto_13.jpg" id="image-21" media-type="image/jpeg"/>
+      <item href="media/Foto_14.jpg" id="image-22" media-type="image/jpeg"/>
+      <item href="media/Foto_15manjsa.jpg"
+            id="image-23"
+            media-type="image/jpeg"/>
+      <item href="media/Foto_16vecja.png" id="image-24" media-type="image/png"/>
+      <item href="media/Foto_17manjsa.jpg"
+            id="image-25"
+            media-type="image/jpeg"/>
+      <item href="media/Foto_18.jpg" id="image-26" media-type="image/jpeg"/>
+      <item href="media/Foto_19izrez.jpg" id="image-27" media-type="image/jpeg"/>
+      <item href="media/Foto_20manjsa.jpg"
+            id="image-28"
+            media-type="image/jpeg"/>
+      <item href="media/Foto_21.jpg" id="image-29" media-type="image/jpeg"/>
+      <item href="media/Foto_22manjsa.jpg"
+            id="image-30"
+            media-type="image/jpeg"/>
+      <item href="media/Foto_23.jpg" id="image-31" media-type="image/jpeg"/>
+      <item href="media/Foto_24.jpg" id="image-32" media-type="image/jpeg"/>
+      <item href="media/Foto_25.jpg" id="image-33" media-type="image/jpeg"/>
+      <item href="media/Foto_26manjsa.jpg"
+            id="image-34"
+            media-type="image/jpeg"/>
+      <item href="media/Foto_27manjsa.jpg"
+            id="image-35"
+            media-type="image/jpeg"/>
+      <item href="media/Foto_28gray.jpg" id="image-36" media-type="image/jpeg"/>
+      <item href="media/Foto_29.jpg" id="image-37" media-type="image/jpeg"/>
+      <item href="media/Ad_Pusta.mp3" id="image-1" media-type="audio/mpeg"/>
+      <item href="media/O_Pustu_4manjsa.jpg"
+            id="image-38"
+            media-type="image/jpeg"/>
+      <item href="media/Tista_od_lintverna_manjsa.jpg"
+            id="image-39"
+            media-type="image/jpeg"/>
+      <item href="media/Od_jare_kace_manjsa.jpg"
+            id="image-40"
+            media-type="image/jpeg"/>
+      <item href="media/Oslova_jajca_1manjsa.jpg"
+            id="image-41"
+            media-type="image/jpeg"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="titlepage1" linear="yes"/>
+      <itemref idref="titlepage2" linear="yes"/>
+      <itemref idref="start" linear="yes"/>
+      <itemref idref="section1" linear="yes"/>
+      <itemref idref="section2" linear="yes"/>
+      <itemref idref="section5" linear="yes"/>
+      <itemref idref="section6" linear="yes"/>
+      <itemref idref="section12" linear="yes"/>
+      <itemref idref="section13" linear="yes"/>
+      <itemref idref="section20" linear="yes"/>
+      <itemref idref="section135" linear="yes"/>
+      <itemref idref="section172" linear="yes"/>
+      <itemref idref="section173" linear="yes"/>
+      <itemref idref="section174" linear="yes"/>
+      <itemref idref="section175" linear="yes"/>
+      <itemref idref="section176" linear="yes"/>
+      <itemref idref="section177" linear="yes"/>
+      <itemref idref="section178" linear="yes"/>
+      <itemref idref="section179" linear="yes"/>
+      <itemref idref="section180" linear="yes"/>
+      <itemref idref="titlepageback" linear="yes"/>
+   </spine>
+   <guide>
+      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" title="Start" href="index.xhtml"/>
+      <reference type="text" href="index-front.1_div.1.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.2.xhtml" title=""/>
+      <reference type="text" href="index-front.1_div.3.xhtml" title=""/>
+      <reference type="text"
+                 href="index-front.1_div.4.xhtml"
+                 title="Beseda ob splovitvi nove knjižne zbirke"/>
+      <reference type="text" href="index-front.1_div.5.xhtml" title="Predgovor"/>
+      <reference type="text"
+                 href="index-body.1_div.1.xhtml"
+                 title="O pripovedovalcu, zbiranju in objavi njegovih pripovedi"/>
+      <reference type="text" href="index-body.1_div.2.xhtml" title="II Besedila"/>
+      <reference type="text" href="index-body.1_div.3.xhtml" title="III Priloge"/>
+      <reference type="text" href="index-back.1_div.1.xhtml" title="Opombe"/>
+      <reference type="text"
+                 href="index-back.1_div.2.xhtml"
+                 title="Seznam pravljičnih tipov"/>
+      <reference type="text"
+                 href="index-back.1_div.3.xhtml"
+                 title="Seznam informatorjev"/>
+      <reference type="text"
+                 href="index-back.1_div.4.xhtml"
+                 title="Slovarček manj znanih besed"/>
+      <reference type="text" href="index-back.1_div.5.xhtml" title="Viri"/>
+      <reference type="text"
+                 href="index-back.1_div.6.xhtml"
+                 title="Izvor slikovnega gradiva"/>
+      <reference type="text" href="index-back.1_div.7.xhtml" title="Literatura"/>
+      <reference type="text" href="index-back.1_div.8.xhtml" title="Kratice"/>
+      <reference type="text"
+                 href="index-back.1_div.9.xhtml"
+                 title="Slovene Storytellers 1"/>
+      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
+   </guide>
+</package>
